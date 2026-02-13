@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms at IBM
+# Kafka Software Engineer Entry Level at USAA
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
+| Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=82397) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Plano-Legacy/Kafka-Software-Engineer-Entry-Level_R0114747) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-04.
+This software engineer position at USAA was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

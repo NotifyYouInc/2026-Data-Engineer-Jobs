@@ -5,12 +5,12 @@
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000106813181-principal-engineer-data-engineering-hpc-unix-license-management-cad) |
+| Posted | 2026-02-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000107030125-principal-engineer-data-engineering-hpc-unix-license-management-cad) |
 
 ## About This Role
 
-This software engineer position at SanDisk was posted on 2026-02-02.
+This software engineer position at SanDisk was posted on 2026-02-03.
 
 ## Get Real-Time Alerts
 

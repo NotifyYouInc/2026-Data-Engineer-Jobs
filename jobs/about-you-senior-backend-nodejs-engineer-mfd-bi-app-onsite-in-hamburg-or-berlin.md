@@ -1,16 +1,16 @@
-# Senior Software Engineer at NielsenIQ
+# Senior Backend Node.js Engineer (m/f/d) - BI App - onsite in Hamburg or Berlin at About You
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [About You](https://scoutify.ai/companies/aboutyou?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000107505626-senior-software-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000107576869-senior-backend-nodejs-engineer-mfd-bi-app-onsite-in-hamburg-or-berlin) |
 
 ## About This Role
 
-This software engineer position at NielsenIQ was posted on 2026-02-05.
+This software engineer position at About You was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

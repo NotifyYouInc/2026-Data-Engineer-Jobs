@@ -1,16 +1,16 @@
-# Senior Software Engineer at NielsenIQ
+# Data Engineer at General Motors
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000107505626-senior-software-engineer) |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Data-Engineer_JR-202601691) |
 
 ## About This Role
 
-This software engineer position at NielsenIQ was posted on 2026-02-05.
+This data engineer position at General Motors was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

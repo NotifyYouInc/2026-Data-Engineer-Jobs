@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms at IBM
+# Staff Software Engineer, Platform at Zus Health
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
+| Company | [Zus Health](https://scoutify.ai/companies/zushealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=82397) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.lever.co/zushealth/db21d338-f31f-4d41-a244-2f35d6cecc03) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-04.
+This software engineer position at Zus Health was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

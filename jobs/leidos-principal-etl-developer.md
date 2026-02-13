@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms at IBM
+# Principal ETL Developer at Leidos
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
+| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Bethesda, Maryland, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=82397) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Principal-ETL-Developer_R-00175314) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-04.
+This software engineer position at Leidos was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Software Engineer at NielsenIQ
+# [Job-27243] Data Architect, Brazil at Ciandt
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
+| Company | [Ciandt](https://scoutify.ai/companies/ciandt?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Brazil |
+| Category | Data Engineer |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000107505626-senior-software-engineer) |
+| Apply | [View on company site](https://jobs.lever.co/ciandt/53b2b332-0d9d-4974-b1d7-9b8a0aa38ec8) |
 
 ## About This Role
 
-This software engineer position at NielsenIQ was posted on 2026-02-05.
+This data engineer position at Ciandt was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

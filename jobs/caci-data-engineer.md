@@ -1,16 +1,16 @@
-# Senior Software Engineer at NielsenIQ
+# Data Engineer at CACI
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
+| Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Aberdeen, South Dakota, United States |
+| Category | Data Engineer |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000107505626-senior-software-engineer) |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Aberdeen-Proving-Ground/Data-Engineer_321892) |
 
 ## About This Role
 
-This software engineer position at NielsenIQ was posted on 2026-02-05.
+This data engineer position at CACI was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

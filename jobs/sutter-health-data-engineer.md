@@ -1,16 +1,16 @@
-# Senior Software Engineer at NielsenIQ
+# Data Engineer at Sutter Health
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
+| Company | [Sutter Health](https://scoutify.ai/companies/sutterhealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | 3 locations |
+| Category | Data Engineer |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000107505626-senior-software-engineer) |
+| Apply | [View on company site](https://sutterhealth.wd1.myworkdayjobs.com/sh/job/Walnut-Creek/Data-Engineer_R-121996) |
 
 ## About This Role
 
-This software engineer position at NielsenIQ was posted on 2026-02-05.
+This data engineer position at Sutter Health was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

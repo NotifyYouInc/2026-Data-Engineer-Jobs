@@ -1,16 +1,16 @@
-# Data Engineer-Data Warehouse at IBM
+# Senior Data Engineer at Stoke Space
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
+| Company | [Stoke Space](https://scoutify.ai/companies/stoke-space?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Not specified |
 | Category | Data Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=81351) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/stoke-space/jobs/jr52GWf-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-02-03.
+This data engineer position at Stoke Space was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

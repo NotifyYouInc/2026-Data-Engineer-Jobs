@@ -1,16 +1,16 @@
-# Senior Software Engineer at NielsenIQ
+# Software Engineer, Performance Marketing at WhatNot
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
+| Company | [WhatNot](https://scoutify.ai/companies/whatnot?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | 4 locations |
+| Category | Marketing |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000107505626-senior-software-engineer) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/whatnot/1a093b57-ff0a-4c5c-8ad6-e09f509adbbb) |
 
 ## About This Role
 
-This software engineer position at NielsenIQ was posted on 2026-02-05.
+This marketing position at WhatNot was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

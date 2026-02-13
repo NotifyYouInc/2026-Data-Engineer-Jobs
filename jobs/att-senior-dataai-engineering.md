@@ -1,16 +1,16 @@
-# Senior Software Engineer at NielsenIQ
+# Senior Data/AI Engineering at AT&T
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000107505626-senior-software-engineer) |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAGAAtlanta--1057-Lenox-Park-Blvd-Ne---Adm1057-Lenox-Park-Blvd-Ne/Senior-Data-AI-Engineering_R-99567) |
 
 ## About This Role
 
-This software engineer position at NielsenIQ was posted on 2026-02-05.
+This data engineer position at AT&T was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

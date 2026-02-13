@@ -1,16 +1,16 @@
-# Senior Software Engineer at NielsenIQ
+# System Engineer- Enterprise Data Engineer at Esri
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
+| Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | St. Louis, Missouri, United States |
+| Category | Data Engineer |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000107505626-senior-software-engineer) |
+| Apply | [View on company site](https://www.esri.com/careers/5042501007?gh_jid=5042501007) |
 
 ## About This Role
 
-This software engineer position at NielsenIQ was posted on 2026-02-05.
+This data engineer position at Esri was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Software Engineer at NielsenIQ
+# Senior Data Engineer at Appnovation Technologies
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Company | [Appnovation Technologies](https://scoutify.ai/companies/appnovation-technologies?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000107505626-senior-software-engineer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/appnovation/jobs/8406721002) |
 
 ## About This Role
 
-This software engineer position at NielsenIQ was posted on 2026-02-05.
+This software engineer position at Appnovation Technologies was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

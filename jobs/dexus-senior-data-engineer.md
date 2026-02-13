@@ -1,16 +1,16 @@
-# Data Engineer-Data Warehouse at IBM
+# Senior Data Engineer at Dexus
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
+| Company | [Dexus](https://scoutify.ai/companies/dexus?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Data Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=81351) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://dexus.wd3.myworkdayjobs.com/dexuscareers/job/Sydney-QQT/Senior-Data-Engineer_R0005651) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-02-03.
+This data engineer position at Dexus was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

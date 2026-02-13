@@ -1,16 +1,16 @@
-# Senior Software Engineer at NielsenIQ
+# AI Solutions Engineer Intern at ResMed
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Company | [ResMed](https://scoutify.ai/companies/resmed?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | San Diego, California, United States |
 | Category | Software Engineer |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000107505626-senior-software-engineer) |
+| Apply | [View on company site](https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/San-Diego-CA-United-States/AI-Solutions-Engineer-Intern_JR_047744) |
 
 ## About This Role
 
-This software engineer position at NielsenIQ was posted on 2026-02-05.
+This software engineer position at ResMed was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 
