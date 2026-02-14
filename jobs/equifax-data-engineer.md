@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Software Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CAN---Ontario---Toronto/Data-Engineer_J00174516) |
+| Location | 3 locations |
+| Category | Data Engineer |
+| Posted | 2026-02-04 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Georgia---Alpharetta---30005/Data-Engineer_J00174249) |
 
 ## About This Role
 
-This software engineer position at Equifax was posted on 2026-02-02.
+This data engineer position at Equifax was posted on 2026-02-04.
 
 ## Get Real-Time Alerts
 

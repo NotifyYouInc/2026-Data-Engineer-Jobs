@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Randburg, Gauteng, South Africa |
+| Location | Johannesburg, Gauteng, South Africa |
 | Category | Data Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Randburg/Data-Engineer_R31812) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Data-Engineer_R46003) |
 
 ## About This Role
 
-This data engineer position at FirstRand was posted on 2026-02-03.
+This data engineer position at FirstRand was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

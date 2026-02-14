@@ -5,12 +5,12 @@
 | Company | [National Vision](https://scoutify.ai/companies/nationalvision?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Duluth, Minnesota, United States |
 | Category | Data Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NationalVision1/744000106912175-lead-data-engineer) |
+| Posted | 2026-02-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NationalVision1/744000107074653-lead-data-engineer) |
 
 ## About This Role
 
-This data engineer position at National Vision was posted on 2026-02-02.
+This data engineer position at National Vision was posted on 2026-02-03.
 
 ## Get Real-Time Alerts
 
