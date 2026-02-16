@@ -1,16 +1,16 @@
-# Software Engineer III - Data Engineering - (Python AI/ML) at FactSet
+# HIH - Software Engineering associate advisor at Cigna
 
 | Field | Details |
 |-------|---------|
-| Company | [FactSet](https://scoutify.ai/companies/factset?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/India-Hyderabad-DVS-SEZ-1--Orion-B4-FL-78911-Hyderabad---Divyasree-3/Software-Engineer-3---Data-Engineering---FFR_R29439) |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Software-Engineering-associate-advisor_26000620) |
 
 ## About This Role
 
-This software engineer position at FactSet was posted on 2026-02-09.
+This software engineer position at Cigna was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

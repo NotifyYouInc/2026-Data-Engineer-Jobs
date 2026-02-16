@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms-Google at IBM
+# Senior Marketing Data Engineer at Ebury
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
+| Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | 3 locations |
 | Category | Data Engineer |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92624) |
+| Apply | [View on company site](https://careers.ebury.com/job?gh_jid=4775101101) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-02-09.
+This data engineer position at Ebury was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

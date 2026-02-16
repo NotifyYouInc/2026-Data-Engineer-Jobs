@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms-Google at IBM
+# Consultant.e Senior Data Engineer AWS H/F at Devoteam
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
+| Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Levallois-Perret, Île-de-France, France |
 | Category | Data Engineer |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92624) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000108206386-consultante-senior-data-engineer-aws-hf) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-02-09.
+This data engineer position at Devoteam was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

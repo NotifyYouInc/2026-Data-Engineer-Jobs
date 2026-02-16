@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms-Google at IBM
+# Lead Data Engineer Python and AWS at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
-| Category | Data Engineer |
+| Location | 4 locations |
+| Category | Software Engineer |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92624) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92665) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-02-09.
+This software engineer position at IBM was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

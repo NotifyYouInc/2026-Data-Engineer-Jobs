@@ -1,16 +1,16 @@
-# Data Engineer - Tieto Tech Consulting (m/f/d) at Tietoevry
+# INTEGRATION ARCHITECT-PROCESS INTELLIGENCE at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | India |
 | Category | Data Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000107280015-data-engineer-tieto-tech-consulting-mfd) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=70256) |
 
 ## About This Role
 
-This data engineer position at Tietoevry was posted on 2026-02-04.
+This data engineer position at IBM was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

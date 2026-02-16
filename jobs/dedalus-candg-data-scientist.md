@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms-Google at IBM
+# Data Scientist at Dedalus CandG
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
+| Company | [Dedalus CandG](https://scoutify.ai/companies/dedalus-candg?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Málaga, Andalusia, Spain |
 | Category | Data Engineer |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92624) |
+| Apply | [View on company site](https://dedalus.wd3.myworkdayjobs.com/external/job/ESP---Malaga/Data-Scientist_JR107945) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-02-09.
+This data engineer position at Dedalus CandG was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

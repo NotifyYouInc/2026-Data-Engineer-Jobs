@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms-Google at IBM
+# Databricks Developer (SQL/Python) at Veeam Software
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
-| Category | Data Engineer |
+| Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Poland |
+| Category | Software Engineer |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92624) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4777361101) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-02-09.
+This software engineer position at Veeam Software was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

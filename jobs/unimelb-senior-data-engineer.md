@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms-Google at IBM
+# Senior Data Engineer at Unimelb
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
+| Company | [Unimelb](https://scoutify.ai/companies/unimelb?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Victoria, AU |
 | Category | Data Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92624) |
+| Posted | 2026-02-08 |
+| Apply | [View on company site](https://unimelb.wd105.myworkdayjobs.com/uom_external_career/job/Parkville/Senior-Data-Engineer_JR-008545-1) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-02-09.
+This data engineer position at Unimelb was posted on 2026-02-08.
 
 ## Get Real-Time Alerts
 

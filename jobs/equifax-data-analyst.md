@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms-Google at IBM
+# Data Analyst at Equifax
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
+| Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Data Engineer |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92624) |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Mumbai/Data-Analyst_J00174274) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-02-09.
+This data engineer position at Equifax was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

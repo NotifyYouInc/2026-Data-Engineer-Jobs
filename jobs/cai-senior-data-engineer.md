@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms-Google at IBM
+# Senior Data Engineer at CAI
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
+| Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92624) |
+| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/India---Bengaluru/Senior-Data-Engineer_R7108) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-02-09.
+This data engineer position at CAI was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

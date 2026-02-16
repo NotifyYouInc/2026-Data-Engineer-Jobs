@@ -1,16 +1,16 @@
-# Data Engineer, Intern (Early Career) at S&P Global
+# Senior Software Engineer at S&P Global
 
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | New York City, New York, United States |
-| Category | Data Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Data-Engineer--Intern--Early-Career-_324219-1) |
+| Location | Gurugram, Haryana, India |
+| Category | Software Engineer |
+| Posted | 2026-02-08 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gurugram-Haryana/Senior-Software-Engineer_325397-1) |
 
 ## About This Role
 
-This data engineer position at S&P Global was posted on 2026-02-06.
+This software engineer position at S&P Global was posted on 2026-02-08.
 
 ## Get Real-Time Alerts
 

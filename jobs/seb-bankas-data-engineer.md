@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms-Google at IBM
+# Data Engineer at SEB bankas
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
+| Company | [SEB bankas](https://scoutify.ai/companies/seb-bankas?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Data Engineer |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92624) |
+| Apply | [View on company site](https://jobs.eu.lever.co/seb/ffb76c3f-a1a7-4826-8d57-c070c254ee74) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-02-09.
+This data engineer position at SEB bankas was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

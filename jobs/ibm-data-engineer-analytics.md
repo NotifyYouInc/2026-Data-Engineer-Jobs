@@ -1,12 +1,12 @@
-# Data Engineer-Data Platforms-Google at IBM
+# Data Engineer - Analytics at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
+| Location | Karnataka, IN |
 | Category | Data Engineer |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92624) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=60090) |
 
 ## About This Role
 

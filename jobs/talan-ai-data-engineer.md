@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms-Google at IBM
+# AI & DATA ENGINEER at Talan
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
+| Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Luxembourg, Luxembourg, Luxembourg |
 | Category | Data Engineer |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92624) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000108220925-ai-data-engineer) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-02-09.
+This data engineer position at Talan was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms-Google at IBM
+# Software Engineer, Backend at Profound
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
-| Category | Data Engineer |
+| Company | [Profound](https://scoutify.ai/companies/profound?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | 2 locations |
+| Category | Software Engineer |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92624) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/profound/8d8a734f-1942-4e75-aec3-a4793b86794c) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-02-09.
+This software engineer position at Profound was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

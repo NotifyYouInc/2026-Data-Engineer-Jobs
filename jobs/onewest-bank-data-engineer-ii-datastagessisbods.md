@@ -1,16 +1,16 @@
-# Data Engineer - Tieto Tech Consulting (m/f/d) at Tietoevry
+# Data Engineer II - Datastage/SSIS/BODS at OneWest Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [OneWest Bank](https://scoutify.ai/companies/onewest-bank?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | India |
 | Category | Data Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000107280015-data-engineer-tieto-tech-consulting-mfd) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://svb.wd5.myworkdayjobs.com/firstcitizensindia/job/Bangalore-India/Data-Engineer-II--Snowflake-_23327-1) |
 
 ## About This Role
 
-This data engineer position at Tietoevry was posted on 2026-02-04.
+This data engineer position at OneWest Bank was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 
