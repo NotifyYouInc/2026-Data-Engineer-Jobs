@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nearmap](https://scoutify.ai/companies/nearmap?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Data Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-04 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Nearmap/744000107333810-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Nearmap was posted on 2026-02-04.
+This devops engineer position at Nearmap was posted on 2026-02-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Doran Jones](https://scoutify.ai/companies/doran-jones?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | Data Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-04 |
 | Apply | [View on company site](https://jobs.lever.co/doranjones/c46c532e-6ba0-4880-ae08-117d4c20e7db) |
 
 ## About This Role
 
-This data engineer position at Doran Jones was posted on 2026-02-04.
+This technical & solutions architect position at Doran Jones was posted on 2026-02-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [R R Donnelley & Sons](https://scoutify.ai/companies/rrdonnelleysons?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Illinois, US |
-| Category | Data Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-04 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/RRDonnelley/744000107382285-data-architect-summer-intern) |
 
 ## About This Role
 
-This data engineer position at R R Donnelley & Sons was posted on 2026-02-04.
+This technical & solutions architect position at R R Donnelley & Sons was posted on 2026-02-04.
 
 ## Get Real-Time Alerts
 

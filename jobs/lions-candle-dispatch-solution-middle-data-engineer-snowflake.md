@@ -5,12 +5,12 @@
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Not specified |
 | Category | Data Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000106892645-middle-data-engineer-snowflake) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000108259632-middle-data-engineer-snowflake) |
 
 ## About This Role
 
-This data engineer position at Lions Candle-Dispatch Solution was posted on 2026-02-02.
+This data engineer position at Lions Candle-Dispatch Solution was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

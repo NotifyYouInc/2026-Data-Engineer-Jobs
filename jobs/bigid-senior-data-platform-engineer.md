@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BigID](https://scoutify.ai/companies/bigid?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Not specified |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://bigid.com/company/careers/job-details/8405349002?gh_jid=8405349002) |
 
 ## About This Role
 
-This software engineer position at BigID was posted on 2026-02-05.
+This devops engineer position at BigID was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 
