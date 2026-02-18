@@ -1,16 +1,16 @@
-# Data Engineer-Business Intelligence at IBM
+# Data Engineer - Business Intelligence at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Giza, Giza, Egypt |
 | Category | Data Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=90396) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=89096) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-02-03.
+This data engineer position at IBM was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

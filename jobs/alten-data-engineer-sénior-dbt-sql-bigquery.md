@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Rabat, Rabat-Salé-Kénitra, Morocco |
+| Location | Dakar, Dakar, Senegal |
 | Category | Data Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000107544505-data-engineer-senior-dbt-sql-bigquery) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000107705465-data-engineer-senior-dbt-sql-bigquery) |
 
 ## About This Role
 
-This data engineer position at ALTEN was posted on 2026-02-05.
+This data engineer position at ALTEN was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

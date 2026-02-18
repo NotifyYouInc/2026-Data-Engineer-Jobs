@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Kyiv, Kyiv City, Ukraine |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000107277910-senior-go-developer-adtech) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000108454977-senior-go-developer-adtech) |
 
 ## About This Role
 
-This software engineer position at Sigma Software was posted on 2026-02-04.
+This software engineer position at Sigma Software was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Software Engineer at Walmart
+# Senior, Software Engineer at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Bentonville, Arkansas, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/Senior-Software-Engineer_R-2398015-1) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior--Software-Engineer_R-2398346) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-02-05.
+This software engineer position at Walmart was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 
