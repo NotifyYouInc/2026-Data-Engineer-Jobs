@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bellevue, Washington, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000107807466-sr-data-engineer) |
+| Location | Foster City, California, United States |
+| Category | Data Engineer |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000108274730-sr-data-engineer) |
 
 ## About This Role
 
-This software engineer position at Visa International Service Association was posted on 2026-02-06.
+This data engineer position at Visa International Service Association was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

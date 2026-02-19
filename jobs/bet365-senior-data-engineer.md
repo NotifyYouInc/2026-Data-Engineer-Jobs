@@ -5,12 +5,12 @@
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Data Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000107627625-senior-data-engineer) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000108434695-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at bet365 was posted on 2026-02-06.
+This data engineer position at bet365 was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 
