@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Johannesburg, Gauteng, South Africa |
 | Category | Data Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Warszawa/Data-Engineer_704312WD) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Johannesburg/Data-Engineer_675470WD) |
 
 ## About This Role
 
-This data engineer position at PwC was posted on 2026-02-09.
+This data engineer position at PwC was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

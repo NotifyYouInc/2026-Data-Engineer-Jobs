@@ -5,12 +5,12 @@
 | Company | [OneWest Bank](https://scoutify.ai/companies/onewest-bank?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | India |
 | Category | Data Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://svb.wd5.myworkdayjobs.com/firstcitizensindia/job/Bangalore-India/Principal-Data-Engineer---ETL---Snowflake_24255-1) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://svb.wd5.myworkdayjobs.com/firstcitizensindia/job/Bangalore-India/Principal-Data-Engineer---ETL---Snowflake_24308-2) |
 
 ## About This Role
 
-This data engineer position at OneWest Bank was posted on 2026-02-09.
+This data engineer position at OneWest Bank was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 
