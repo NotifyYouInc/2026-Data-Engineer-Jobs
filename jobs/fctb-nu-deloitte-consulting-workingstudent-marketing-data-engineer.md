@@ -5,12 +5,12 @@
 | Company | [FCTB (nu: Deloitte Consulting)](https://scoutify.ai/companies/fctbnudeloitteconsulting?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Rotterdam, South Holland, The Netherlands |
 | Category | Data Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000108534476-workingstudent-marketing-data-engineer) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000109178015-workingstudent-marketing-data-engineer) |
 
 ## About This Role
 
-This data engineer position at FCTB (nu: Deloitte Consulting) was posted on 2026-02-10.
+This data engineer position at FCTB (nu: Deloitte Consulting) was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

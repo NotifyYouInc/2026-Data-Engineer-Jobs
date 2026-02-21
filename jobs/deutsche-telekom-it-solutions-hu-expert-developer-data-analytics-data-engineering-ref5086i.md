@@ -1,0 +1,22 @@
+# Expert Developer – Data Analytics & Data Engineering - REF5086I at Deutsche Telekom IT Solutions HU
+
+| Field | Details |
+|-------|---------|
+| Company | [Deutsche Telekom IT Solutions HU](https://scoutify.ai/companies/deutschetelekomitsolutionshu?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Budapest, Budapest, Hungary |
+| Category | Data Engineer |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000109221355-expert-developer-data-analytics-data-engineering-ref5086i) |
+
+## About This Role
+
+This data engineer position at Deutsche Telekom IT Solutions HU was posted on 2026-02-13.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

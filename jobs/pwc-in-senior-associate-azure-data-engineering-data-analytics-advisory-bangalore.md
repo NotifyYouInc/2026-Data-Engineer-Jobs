@@ -6,7 +6,7 @@
 | Location | 2 locations |
 | Category | Data Engineer |
 | Posted | 2026-02-10 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-Azure-Data-Engineering--Data---Analytics-Advisory-Bangalore_704187WD-1) |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-Azure-Data-Engineering--Data---Analytics-Advisory-Bangalore_704315WD-1) |
 
 ## About This Role
 

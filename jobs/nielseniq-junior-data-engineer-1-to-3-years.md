@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Data Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000108507530-junior-data-engineer-1-to-3-years) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000109239825-junior-data-engineer-1-to-3-years) |
 
 ## About This Role
 
-This data engineer position at NielsenIQ was posted on 2026-02-10.
+This data engineer position at NielsenIQ was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 
