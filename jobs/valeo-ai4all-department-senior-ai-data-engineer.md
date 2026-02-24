@@ -1,16 +1,16 @@
-# Data Analyst at Barclays
+# AI4ALL Department - Senior AI Data Engineer at Valeo
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Cairo, Cairo, Egypt |
 | Category | Data Engineer |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gurugram-TEC-DLF-Downtown/Data-Analyst_JR-0000090376-1) |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Cairo/AI4ALL-Department---Senior-AI-Data-Engineer_REQ2026069145) |
 
 ## About This Role
 
-This data engineer position at Barclays was posted on 2026-02-16.
+This data engineer position at Valeo was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

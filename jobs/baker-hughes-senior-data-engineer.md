@@ -1,16 +1,16 @@
-# Quality Engineer-Data at IBM
+# Senior Data Engineer at Baker Hughes
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Karnataka, IN |
 | Category | Data Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=84026) |
+| Posted | 2026-02-16 |
+| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-KA-BANGALORE-NEON-BUILDING-WEST-TOWER/Senior-Data-Engineer_R160404-1) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-02-11.
+This data engineer position at Baker Hughes was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

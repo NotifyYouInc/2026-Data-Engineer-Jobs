@@ -1,16 +1,16 @@
-# Data Engineer - H/F at SIA
+# Staff Operations Analyst at WISE
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | Data Engineer |
+| Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | London, England, United Kingdom |
+| Category | Operations |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000109581926-data-engineer-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000109579595-staff-operations-analyst) |
 
 ## About This Role
 
-This data engineer position at SIA was posted on 2026-02-16.
+This operations position at WISE was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

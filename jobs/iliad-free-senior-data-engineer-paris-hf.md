@@ -1,16 +1,16 @@
-# Data Engineer - H/F at SIA
+# Senior Data Engineer - Paris - H/F at Iliad-Free
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Iliad-Free](https://scoutify.ai/companies/iliadfree?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Data Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000109581926-data-engineer-hf) |
+| Category | Software Engineer |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Iliad-Free/744000109645840-senior-data-engineer-paris-hf) |
 
 ## About This Role
 
-This data engineer position at SIA was posted on 2026-02-16.
+This software engineer position at Iliad-Free was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

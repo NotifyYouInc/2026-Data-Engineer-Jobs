@@ -1,16 +1,16 @@
-# Data Analyst at Barclays
+# Staff Data Engineer at Analog Devices
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Limerick, Munster, Ireland |
 | Category | Data Engineer |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gurugram-TEC-DLF-Downtown/Data-Analyst_JR-0000090376-1) |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Ireland-Limerick/Staff-Data-Engineer_R260717-1) |
 
 ## About This Role
 
-This data engineer position at Barclays was posted on 2026-02-16.
+This data engineer position at Analog Devices was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

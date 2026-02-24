@@ -6,7 +6,7 @@
 | Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
 | Posted | 2026-02-11 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92585) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92532) |
 
 ## About This Role
 

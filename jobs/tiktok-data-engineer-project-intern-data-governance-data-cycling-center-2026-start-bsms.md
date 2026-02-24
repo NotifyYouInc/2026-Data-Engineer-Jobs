@@ -1,16 +1,16 @@
-# Data Analyst at Barclays
+# Data Engineer Project Intern (Data Governance Data Cycling Center) - 2026 Start (BS/MS) at TikTok
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | San Jose, California, United States |
 | Category | Data Engineer |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gurugram-TEC-DLF-Downtown/Data-Analyst_JR-0000090376-1) |
+| Apply | [View on company site](https://careers.tiktok.com/position/7607589832285899061/detail) |
 
 ## About This Role
 
-This data engineer position at Barclays was posted on 2026-02-16.
+This data engineer position at TikTok was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

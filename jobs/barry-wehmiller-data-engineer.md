@@ -1,16 +1,16 @@
-# Data Analyst at Barclays
+# Data Engineer at Barry-Wehmiller
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Barry-Wehmiller](https://scoutify.ai/companies/barrywehmiller?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | St. Louis, Missouri, United States |
 | Category | Data Engineer |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gurugram-TEC-DLF-Downtown/Data-Analyst_JR-0000090376-1) |
+| Apply | [View on company site](https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers/job/St-Louis-MO/Data-Engineer_R020827-1) |
 
 ## About This Role
 
-This data engineer position at Barclays was posted on 2026-02-16.
+This data engineer position at Barry-Wehmiller was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

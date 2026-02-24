@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms-AWS at IBM
+# Data Engineer 2 at Amadeus
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Kochi, Kerala, India |
+| Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | India |
 | Category | Data Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=72802) |
+| Posted | 2026-02-16 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Data-Engineer-2_R33342) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-02-11.
+This data engineer position at Amadeus was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

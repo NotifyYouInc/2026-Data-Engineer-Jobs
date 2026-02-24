@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms-Google at IBM
+# Data Specialist at Caterpillar
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Data Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92642) |
+| Category | Software Engineer |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Data-Specialist_R0000350799) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-02-11.
+This software engineer position at Caterpillar was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

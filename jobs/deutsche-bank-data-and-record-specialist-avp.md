@@ -1,16 +1,16 @@
-# Data Engineer-Data Integration at IBM
+# Data and Record Specialist, AVP at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=51761) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Margarpatta/Data-and-Record-Specialist--AVP_R0408769) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-02-11.
+This data engineer position at Deutsche Bank was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

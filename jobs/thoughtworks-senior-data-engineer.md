@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | Chicago, Illinois, United States |
 | Category | Data Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7599855?gh_jid=7599855) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7572423?gh_jid=7572423) |
 
 ## About This Role
 
-This data engineer position at Thoughtworks was posted on 2026-02-10.
+This data engineer position at Thoughtworks was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

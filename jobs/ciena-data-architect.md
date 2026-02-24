@@ -1,16 +1,16 @@
-# Data Engineer-Data Integration at IBM
+# Data Architect at Ciena
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Ciena](https://scoutify.ai/companies/ciena?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Data Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=51761) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-02-16 |
+| Apply | [View on company site](https://ciena.wd5.myworkdayjobs.com/Careers/job/Pune/Data-Architect_R030145) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-02-11.
+This technical & solutions architect position at Ciena was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 
