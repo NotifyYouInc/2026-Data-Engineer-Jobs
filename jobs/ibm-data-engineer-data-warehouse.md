@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93431) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=91511) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-02-12.
+This data engineer position at IBM was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

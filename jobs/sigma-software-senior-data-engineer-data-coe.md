@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | Lviv, Lviv, Ukraine |
 | Category | Software Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000106832854-senior-data-engineer-data-coe) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000109666925-senior-data-engineer-data-coe) |
 
 ## About This Role
 
-This software engineer position at Sigma Software was posted on 2026-02-02.
+This software engineer position at Sigma Software was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

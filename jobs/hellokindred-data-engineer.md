@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HelloKindred](https://scoutify.ai/companies/hellokindred?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Sheffield, England, United Kingdom |
-| Category | Data Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990011565296-data-engineer) |
+| Location | Telford, England, United Kingdom |
+| Category | Software Engineer |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990011709156-data-engineer) |
 
 ## About This Role
 
-This data engineer position at HelloKindred was posted on 2026-02-06.
+This software engineer position at HelloKindred was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

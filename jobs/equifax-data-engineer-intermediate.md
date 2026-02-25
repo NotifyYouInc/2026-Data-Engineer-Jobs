@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Chile |
-| Category | Data Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CHL-Titanium-Piso-27/Data-Engineer---Intermediate_J00173088) |
+| Location | Not specified |
+| Category | Software Engineer |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CRI-Sabana/Data-Engineer---Intermediate_J00174745) |
 
 ## About This Role
 
-This data engineer position at Equifax was posted on 2026-02-11.
+This software engineer position at Equifax was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 
