@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | California, US |
-| Category | Data Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000109200450-senior-data-engineer) |
+| Category | Software Engineer |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000109896368-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Lions Candle-Dispatch Solution was posted on 2026-02-13.
+This software engineer position at Lions Candle-Dispatch Solution was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

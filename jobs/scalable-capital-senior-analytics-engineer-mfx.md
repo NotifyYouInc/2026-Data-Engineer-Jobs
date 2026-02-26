@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Munich, Bavaria, Germany |
-| Category | Data Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000109258242-senior-analytics-engineer-mfx) |
+| Location | Berlin, State of Berlin, Germany |
+| Category | Software Engineer |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000109967448-senior-analytics-engineer-mfx) |
 
 ## About This Role
 
-This data engineer position at Scalable Capital was posted on 2026-02-13.
+This software engineer position at Scalable Capital was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Confluent](https://scoutify.ai/companies/confluent?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United Kingdom |
+| Location | California, US |
 | Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/confluent/617b361a-1bfd-4279-a821-2bb386c47fca) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/confluent/70cc517e-1b5f-45cc-b3fc-2d202c0c00f7) |
 
 ## About This Role
 
-This software engineer position at Confluent was posted on 2026-02-03.
+This software engineer position at Confluent was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000108412966-senior-staff-data-platform-software-engineer-java-kafka-kubernetes) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000109896256-senior-staff-data-platform-software-engineer-java-kafka-kubernetes) |
 
 ## About This Role
 
-This software engineer position at ServiceNow was posted on 2026-02-10.
+This software engineer position at ServiceNow was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

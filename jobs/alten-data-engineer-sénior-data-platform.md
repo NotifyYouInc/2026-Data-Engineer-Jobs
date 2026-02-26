@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Rabat, Rabat-Salé-Kénitra, Morocco |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000107544314-data-engineer-senior-data-platform) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000109972618-data-engineer-senior-data-platform) |
 
 ## About This Role
 
-This software engineer position at ALTEN was posted on 2026-02-05.
+This software engineer position at ALTEN was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

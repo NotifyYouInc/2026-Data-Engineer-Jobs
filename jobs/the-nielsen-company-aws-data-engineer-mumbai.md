@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Data Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990011670870-aws-data-engineer-mumbai) |
+| Category | Software Engineer |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990011725095-aws-data-engineer-mumbai) |
 
 ## About This Role
 
-This data engineer position at The Nielsen Company was posted on 2026-02-13.
+This software engineer position at The Nielsen Company was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 
