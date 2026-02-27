@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Madrid, Madrid, Spain |
 | Category | Software Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Data-Engineer-2_REQ463832-1) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Madrid-ESP/Data-Engineer-2_REQ485485) |
 
 ## About This Role
 
-This software engineer position at JLL was posted on 2026-02-02.
+This software engineer position at JLL was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

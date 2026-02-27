@@ -1,16 +1,16 @@
-# Junior data Engineer / IB at Inetum
+# Junior Data Engineer / IB at Inetum
 
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000109713965-junior-data-engineer-ib) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000109944341-junior-data-engineer-ib) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-02-17.
+This software engineer position at Inetum was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

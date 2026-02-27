@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Data Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000108550146-data-engineer-senior-expert-dataiku-cdi-hf) |
+| Category | Software Engineer |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000110141715-data-engineer-senior-expert-dataiku-cdi-hf) |
 
 ## About This Role
 
-This data engineer position at Talan was posted on 2026-02-10.
+This software engineer position at Talan was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

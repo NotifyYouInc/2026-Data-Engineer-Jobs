@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Kochi, Kerala, India |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93542) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92362) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-17.
+This software engineer position at IBM was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 3 locations |
-| Category | Data Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000108460386-senior-data-engineer-data-platform-specialist-tieto-tech-consulting) |
+| Category | Software Engineer |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000110183795-senior-data-engineer-data-platform-specialist-tieto-tech-consulting) |
 
 ## About This Role
 
-This data engineer position at Tietoevry was posted on 2026-02-10.
+This software engineer position at Tietoevry was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 
