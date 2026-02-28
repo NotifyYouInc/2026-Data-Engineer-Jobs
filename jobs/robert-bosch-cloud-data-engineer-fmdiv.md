@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
-| Category | Data Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000107280395-cloud-data-engineer-fmdiv) |
+| Category | Software Engineer |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000110396035-cloud-data-engineer-fmdiv) |
 
 ## About This Role
 
-This data engineer position at Robert Bosch was posted on 2026-02-04.
+This software engineer position at Robert Bosch was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

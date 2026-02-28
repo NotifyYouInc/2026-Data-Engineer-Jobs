@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | DevOps Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://careers.ebury.com/job?gh_jid=4779323101) |
+| Category | Software Engineer |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4786948101) |
 
 ## About This Role
 
-This devops engineer position at Ebury was posted on 2026-02-10.
+This software engineer position at Ebury was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

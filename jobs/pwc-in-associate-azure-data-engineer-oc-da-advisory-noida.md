@@ -5,12 +5,12 @@
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Noida/IN-Associate-Azure-Data-Engineer-OC-D-A-Advisory-Noida_706966WD-1) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Noida/IN-Associate-Azure-Data-Engineer-OC-D-A-Advisory-Noida_706970WD-1) |
 
 ## About This Role
 
-This software engineer position at PwC was posted on 2026-02-18.
+This software engineer position at PwC was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

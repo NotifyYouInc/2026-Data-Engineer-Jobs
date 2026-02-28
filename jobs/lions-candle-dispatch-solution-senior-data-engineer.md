@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | California, US |
+| Location | Brazil |
 | Category | Software Engineer |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000109896368-senior-data-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000110005765-senior-data-engineer) |
 
 ## About This Role
 

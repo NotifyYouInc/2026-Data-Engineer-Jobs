@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | San Jose, California, United States |
 | Category | Database Administration |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000109797235-aws-cloud-data-warehouse-administrator) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000109948000-aws-cloud-data-warehouse-administrator) |
 
 ## About This Role
 
-This database administration position at Western Digital was posted on 2026-02-17.
+This database administration position at Western Digital was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

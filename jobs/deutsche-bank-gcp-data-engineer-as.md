@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Data Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Margarpatta/GCP-Data-Engineer--AS_R0378279) |
+| Category | Software Engineer |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Margarpatta/GCP-Data-Engineer--AS_R0426054) |
 
 ## About This Role
 
-This data engineer position at Deutsche Bank was posted on 2026-02-04.
+This software engineer position at Deutsche Bank was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

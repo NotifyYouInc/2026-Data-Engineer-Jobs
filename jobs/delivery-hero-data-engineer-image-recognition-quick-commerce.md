@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Barcelona, Catalonia, Spain |
-| Category | Data Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000108794455-data-engineer-image-recognition-quick-commerce) |
+| Category | Software Engineer |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000110391304-data-engineer-image-recognition-quick-commerce) |
 
 ## About This Role
 
-This data engineer position at Delivery Hero was posted on 2026-02-11.
+This software engineer position at Delivery Hero was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 
