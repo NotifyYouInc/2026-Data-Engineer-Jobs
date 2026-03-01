@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000107679622-senior-software-engineer-solutions-engineer) |
+| Posted | 2026-02-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000110516325-senior-software-engineer-solutions-engineer) |
 
 ## About This Role
 
-This software engineer position at NielsenIQ was posted on 2026-02-06.
+This software engineer position at NielsenIQ was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 
