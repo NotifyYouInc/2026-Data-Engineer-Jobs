@@ -1,16 +1,16 @@
-# Senior Data Engineer at Barclays
+# MLOps Engineer at Version 1
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Engineering Manager |
+| Category | DevOps Engineer |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Senior-Data-Engineer_JR-0000088099-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000110679465-mlops-engineer) |
 
 ## About This Role
 
-This engineering manager position at Barclays was posted on 2026-02-23.
+This devops engineer position at Version 1 was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

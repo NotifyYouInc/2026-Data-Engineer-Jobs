@@ -1,16 +1,16 @@
-# Senior Data Engineer at Barclays
+# Lead Data Engineer at Kenvue
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Kenvue](https://scoutify.ai/companies/kenvue?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Karnataka, IN |
 | Category | Engineering Manager |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Senior-Data-Engineer_JR-0000088099-1) |
+| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Asia-Pacific-India-Karnataka-Bangalore/Lead-Data-Engineer_2607043366W) |
 
 ## About This Role
 
-This engineering manager position at Barclays was posted on 2026-02-23.
+This engineering manager position at Kenvue was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

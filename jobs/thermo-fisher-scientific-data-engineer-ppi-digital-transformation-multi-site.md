@@ -5,12 +5,12 @@
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Monza, Lombardy, Italy |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Monza-Italy/Data-Engineer---PPI-Digital-Transformation--Multi-site-_R-01341877) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Monza-Italy/Data-Engineer---PPI-Digital-Transformation--Multi-site-_R-01341876) |
 
 ## About This Role
 
-This software engineer position at Thermo Fisher Scientific was posted on 2026-02-18.
+This software engineer position at Thermo Fisher Scientific was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

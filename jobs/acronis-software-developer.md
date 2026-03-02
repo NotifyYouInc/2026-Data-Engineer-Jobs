@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms at IBM
+# Software Developer at Acronis
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
+| Company | [Acronis](https://scoutify.ai/companies/acronis?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | India |
 | Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92973) |
+| Posted | 2026-02-22 |
+| Apply | [View on company site](https://acronis.wd502.myworkdayjobs.com/acronis_careers/job/India---Remote/Software-Developer_R-100605) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-19.
+This software engineer position at Acronis was posted on 2026-02-22.
 
 ## Get Real-Time Alerts
 

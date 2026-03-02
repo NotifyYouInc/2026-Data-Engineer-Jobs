@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms at IBM
+# Data Engineer II, Amazon Pay at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92973) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3186706/data-engineer-ii-amazon-pay) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-19.
+This software engineer position at Amazon was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

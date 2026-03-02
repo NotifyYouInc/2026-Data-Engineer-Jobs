@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms at IBM
+# C# Engineer - Risk Engineering at Man Group
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
+| Company | [Man Group](https://scoutify.ai/companies/mangroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92973) |
+| Posted | 2026-02-22 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/mangroup/jobs/4784759101) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-19.
+This software engineer position at Man Group was posted on 2026-02-22.
 
 ## Get Real-Time Alerts
 
