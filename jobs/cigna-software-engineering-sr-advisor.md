@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Austin-TX/Software-Engineering-Sr-Advisor_26000872) |
+| Category | DevOps Engineer |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Austin-TX/Software-Engineering-Sr-Advisor_26001689) |
 
 ## About This Role
 
-This software engineer position at Cigna was posted on 2026-02-02.
+This devops engineer position at Cigna was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

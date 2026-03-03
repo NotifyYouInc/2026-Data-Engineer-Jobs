@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Manila, National Capital Region, Philippines |
-| Category | Data Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/MANILA-NET-PARK-OFFICE/Data-Engineer_R000144325) |
+| Location | Warsaw, Mazovia, Poland |
+| Category | Software Engineer |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/WARSAW-DOWNTOWN-OFFICE/Data-Engineer_R000145551) |
 
 ## About This Role
 
-This data engineer position at Procter & Gamble was posted on 2026-02-06.
+This software engineer position at Procter & Gamble was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

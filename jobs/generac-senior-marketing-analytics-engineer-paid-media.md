@@ -1,16 +1,16 @@
-# Senior Marketing Analytics Engineer -  Paid Media at Generac
+# Senior Marketing Analytics Engineer - Paid Media at Generac
 
 | Field | Details |
 |-------|---------|
 | Company | [Generac](https://scoutify.ai/companies/generac?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 6 locations |
-| Category | Data Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://generac.wd5.myworkdayjobs.com/external/job/Pewaukee-WI---USA/Senior-Paid-Media-Analyst_JR9294-1) |
+| Location | Wisconsin, US |
+| Category | Digital / Performance Marketing |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://generac.wd5.myworkdayjobs.com/external/job/Pewaukee-WI---USA/Senior-Marketing-Analytics-Engineer---Paid-Media_JR12630) |
 
 ## About This Role
 
-This data engineer position at Generac was posted on 2026-02-09.
+This digital / performance marketing position at Generac was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

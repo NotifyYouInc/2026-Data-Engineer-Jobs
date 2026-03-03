@@ -5,12 +5,12 @@
 | Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000109901591-senior-software-developer) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000110713381-senior-software-developer) |
 
 ## About This Role
 
-This software engineer position at Sportradar was posted on 2026-02-18.
+This software engineer position at Sportradar was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 
