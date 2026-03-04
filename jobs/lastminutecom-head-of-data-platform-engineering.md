@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [lastminute.com](https://scoutify.ai/companies/lastminutecom?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Switzerland |
-| Category | DevOps Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/lastminutecom/744000108800027-head-of-data-platform-engineering) |
+| Category | Engineering Manager |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/lastminutecom/744000111059566-head-of-data-platform-engineering) |
 
 ## About This Role
 
-This devops engineer position at lastminute.com was posted on 2026-02-11.
+This engineering manager position at lastminute.com was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

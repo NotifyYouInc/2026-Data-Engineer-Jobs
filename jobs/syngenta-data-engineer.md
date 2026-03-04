@@ -1,16 +1,16 @@
-# Data Engineer at Syngenta
+# Data Engineer  at Syngenta
 
 | Field | Details |
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000110241262-data-engineer) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000110680397-data-engineer) |
 
 ## About This Role
 
-This software engineer position at Syngenta was posted on 2026-02-19.
+This software engineer position at Syngenta was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

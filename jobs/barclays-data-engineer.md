@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Pune, Maharashtra, India |
 | Category | Engineering Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Bengaluru-Maruthi-Onyx---TESCO-TSA/Data-Engineer_JR-0000089045) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Data-Engineer_JR-0000089997-1) |
 
 ## About This Role
 
-This engineering manager position at Barclays was posted on 2026-02-17.
+This engineering manager position at Barclays was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

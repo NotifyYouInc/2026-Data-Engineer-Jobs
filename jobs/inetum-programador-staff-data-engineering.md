@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Colombia |
 | Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000110408656-programador-staff-data-engineering) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000111170885-programador-staff-data-engineering) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-02-20.
+This software engineer position at Inetum was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

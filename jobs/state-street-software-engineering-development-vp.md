@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 4 locations |
-| Category | Engineering Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Clifton-New-Jersey/Software-Engineering---Development--VP_R-784317) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Clifton-New-Jersey/Software-Engineering---Development--VP_R-784690) |
 
 ## About This Role
 
-This engineering manager position at State Street was posted on 2026-02-19.
+This software engineer position at State Street was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

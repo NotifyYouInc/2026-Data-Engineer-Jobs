@@ -5,12 +5,12 @@
 | Company | [Fifth Third Bank](https://scoutify.ai/companies/fifth-third-bank?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Cincinnati, Ohio, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Senior-Data-Engineer_R65008-1) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Senior-Data-Engineer_R64840-1) |
 
 ## About This Role
 
-This software engineer position at Fifth Third Bank was posted on 2026-02-17.
+This software engineer position at Fifth Third Bank was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Casablanca, Casablanca-Settat, Morocco |
+| Location | New York, US |
 | Category | Data Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92772) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=95896) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-02-11.
+This data engineer position at IBM was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

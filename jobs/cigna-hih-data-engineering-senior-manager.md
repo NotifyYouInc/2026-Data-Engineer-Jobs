@@ -5,12 +5,12 @@
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Engineering Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Data-Engineering-Senior-Manager_26000725) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Data-Engineering-Senior-Manager_26001751) |
 
 ## About This Role
 
-This engineering manager position at Cigna was posted on 2026-02-17.
+This engineering manager position at Cigna was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

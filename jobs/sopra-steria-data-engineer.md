@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Brussels, Brussels Capital, Belgium |
 | Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000110418169-data-engineer) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000110691795-data-engineer) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-02-20.
+This software engineer position at Sopra Steria was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 
