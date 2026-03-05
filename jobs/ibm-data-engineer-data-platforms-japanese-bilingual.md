@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Quezon City, National Capital Region, Philippines |
 | Category | Software Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=90033) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=96869) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-02.
+This software engineer position at IBM was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [UMB Financial](https://scoutify.ai/companies/umb-financial?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Kansas City, Missouri, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://umb.wd1.myworkdayjobs.com/umbexternal/job/Kansas-City-MO/AI-Cloud-Data-Engineer_R-7715-1) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://umb.wd1.myworkdayjobs.com/umbexternal/job/Kansas-City-MO/AI-Cloud-Data-Engineer_R-8268-1) |
 
 ## About This Role
 
-This software engineer position at UMB Financial was posted on 2026-02-02.
+This software engineer position at UMB Financial was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dun & Bradstreet](https://scoutify.ai/companies/dnb?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | New Jersey, US |
+| Location | Pennsylvania, US |
 | Category | Software Engineer |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.lever.co/dnb/2b0d0fb3-1b7c-4f5d-95c7-e584ac48434d) |
+| Apply | [View on company site](https://jobs.lever.co/dnb/cd0afdb7-9fb0-4c01-b439-808a5b7a9712) |
 
 ## About This Role
 

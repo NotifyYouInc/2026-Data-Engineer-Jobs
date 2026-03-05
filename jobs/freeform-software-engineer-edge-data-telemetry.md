@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freeform](https://scoutify.ai/companies/freeformfuturecorp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7617863003) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7645365003) |
 
 ## About This Role
 
-This software engineer position at Freeform was posted on 2026-02-03.
+This software engineer position at Freeform was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

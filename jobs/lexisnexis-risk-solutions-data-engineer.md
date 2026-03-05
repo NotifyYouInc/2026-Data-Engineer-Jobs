@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Cape Town, Western Cape, South Africa |
-| Category | Data Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Cape-Town/Data-Engineer_R104435-1) |
+| Location | Paris, Île-de-France, France |
+| Category | Software Engineer |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Paris/Data-Engineer_R108095) |
 
 ## About This Role
 
-This data engineer position at LexisNexis Risk Solutions was posted on 2026-02-10.
+This software engineer position at LexisNexis Risk Solutions was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

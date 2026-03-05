@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Operations |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Data-Engineer--VP_R-00272326) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Data-Engineer--VP_R-00273829) |
 
 ## About This Role
 
-This operations position at NatWest Group was posted on 2026-02-05.
+This software engineer position at NatWest Group was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

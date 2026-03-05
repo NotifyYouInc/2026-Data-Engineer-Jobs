@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Not specified |
-| Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=86316) |
+| Location | Pune, Maharashtra, India |
+| Category | Technology / IT Consulting |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=96868) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-06.
+This technology / it consulting position at IBM was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

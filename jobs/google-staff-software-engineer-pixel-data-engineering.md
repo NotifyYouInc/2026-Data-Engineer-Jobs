@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/79321957257880262-staff-software-engineer-pixel-data-engineering?sort_by=date&page=1) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/87432607859385030-staff-software-engineer-pixel-data-engineering?sort_by=date&page=1) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-02-23.
+This software engineer position at Google was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000110742515-senior-data-engineer-azure-databricks-python-sql-snowflake) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000111007067-senior-data-engineer-azure-databricks-python-sql-snowflake) |
 
 ## About This Role
 
-This software engineer position at NielsenIQ was posted on 2026-02-23.
+This software engineer position at NielsenIQ was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000110726221-senior-software-engineer-python) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000111018925-senior-software-engineer-python) |
 
 ## About This Role
 
-This software engineer position at H&M Group was posted on 2026-02-23.
+This software engineer position at H&M Group was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 
