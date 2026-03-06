@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Four Hands](https://scoutify.ai/companies/fourhands?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Not specified |
+| Location | Austin, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/fourhands/jobs/4136176009) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/fourhands/jobs/4146016009) |
 
 ## About This Role
 
-This software engineer position at Four Hands was posted on 2026-02-23.
+This software engineer position at Four Hands was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/India---Bengaluru/Data-Engineer_R7198) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/India---Bengaluru/Data-Engineer_R7243) |
 
 ## About This Role
 
-This software engineer position at CAI was posted on 2026-02-23.
+This software engineer position at CAI was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 
