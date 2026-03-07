@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
-| Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/89780696544879302-software-engineer-iii-data-and-ai-infrastructures-waze?sort_by=date&page=1) |
+| Category | DevOps Engineer |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/123877668813710022-software-engineer-iii-data-and-ai-infrastructures-waze?sort_by=date&page=1) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-02-25.
+This devops engineer position at Google was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

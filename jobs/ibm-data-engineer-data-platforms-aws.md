@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93375) |
+| Category | Data Engineer |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93388) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-24.
+This data engineer position at IBM was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

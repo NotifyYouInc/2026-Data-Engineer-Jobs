@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/AI-Lead-Data-Engineer_R202673731) |
+| Category | Data Engineer |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/AI-Lead-Data-Engineer_R202673804) |
 
 ## About This Role
 
-This devops engineer position at Cox was posted on 2026-02-24.
+This data engineer position at Cox was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

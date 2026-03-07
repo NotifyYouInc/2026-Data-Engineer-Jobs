@@ -5,12 +5,12 @@
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Data-Engineer_26WD95094-1) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Data-Engineer_26WD95832) |
 
 ## About This Role
 
-This software engineer position at Autodesk was posted on 2026-02-20.
+This software engineer position at Autodesk was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Richmond, Virginia, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Senior-Data-Engineer_R235704-1) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Data-Engineer_R236958-2) |
 
 ## About This Role
 
-This software engineer position at Capital One was posted on 2026-02-24.
+This software engineer position at Capital One was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Bangalore-Office-BLS2/Senior-Data-Engineer---GCP_JR-157850) |
+| Location | Karnataka, IN |
+| Category | DevOps Engineer |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Bangalore-Office-BLS2/Senior-Data-Engineer---GCP_JR-158669) |
 
 ## About This Role
 
-This software engineer position at Equinix was posted on 2026-02-24.
+This devops engineer position at Equinix was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

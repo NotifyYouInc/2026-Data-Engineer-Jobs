@@ -6,7 +6,7 @@
 | Location | New York City, New York, United States |
 | Category | Software Engineer |
 | Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/decagon/6134e5f5-9bc2-40a0-95a7-cb02f81fd58a) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/decagon/1183d5d5-56c6-4872-8597-725406bfa164) |
 
 ## About This Role
 

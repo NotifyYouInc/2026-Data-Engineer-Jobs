@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Vienna, Virginia, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://www.esri.com/careers/5045665007?gh_jid=5045665007) |
+| Location | 3 locations |
+| Category | Technology / IT Consulting |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://www.esri.com/careers/5064931007?gh_jid=5064931007) |
 
 ## About This Role
 
-This technical & solutions architect position at Esri was posted on 2026-02-06.
+This technology / it consulting position at Esri was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

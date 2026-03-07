@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | St. Louis, Missouri, United States |
-| Category | Data Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://www.esri.com/careers/5042501007?gh_jid=5042501007) |
+| Location | 3 locations |
+| Category | Database Administration |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://www.esri.com/careers/5064925007?gh_jid=5064925007) |
 
 ## About This Role
 
-This data engineer position at Esri was posted on 2026-02-05.
+This database administration position at Esri was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

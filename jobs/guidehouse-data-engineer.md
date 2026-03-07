@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | San Antonio, Texas, United States |
+| Location | Arlington, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Data-Engineer_35319-1) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Arlington/Data-Engineer_36709) |
 
 ## About This Role
 
-This software engineer position at Guidehouse was posted on 2026-02-24.
+This software engineer position at Guidehouse was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

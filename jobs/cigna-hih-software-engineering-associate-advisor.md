@@ -1,16 +1,16 @@
-# HIH - Software Engineering associate advisor at Cigna
+# HIH - Software Engineering Associate Advisor at Cigna
 
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Software-Engineering-associate-advisor_26000620) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Software-Engineering-Associate-Advisor_26002201) |
 
 ## About This Role
 
-This software engineer position at Cigna was posted on 2026-02-09.
+This software engineer position at Cigna was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 
