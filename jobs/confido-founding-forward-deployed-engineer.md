@@ -1,16 +1,16 @@
-# Senior Data Engineer at NielsenIQ
+# Founding Forward Deployed Engineer at Confido
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Confido](https://scoutify.ai/companies/confido?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
 | Posted | 2026-02-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000111987236-senior-data-engineer) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/confido/jobs/4vraitf-founding-forward-deployed-engineer) |
 
 ## About This Role
 
-This software engineer position at NielsenIQ was posted on 2026-02-28.
+This software engineer position at Confido was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Data Engineer at NielsenIQ
+# Sr IT Analyst Applications at Caterpillar
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Karnataka, IN |
 | Category | Software Engineer |
 | Posted | 2026-02-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000111987236-senior-data-engineer) |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Sr-IT-Analyst-Applications_R0000349638) |
 
 ## About This Role
 
-This software engineer position at NielsenIQ was posted on 2026-02-28.
+This software engineer position at Caterpillar was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 
