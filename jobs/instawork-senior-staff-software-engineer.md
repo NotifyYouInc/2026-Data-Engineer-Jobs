@@ -1,16 +1,16 @@
-# Data Engineer at Exinity
+# Senior / Staff Software Engineer at Instawork
 
 | Field | Details |
 |-------|---------|
-| Company | [Exinity](https://scoutify.ai/companies/exinity?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Philippines |
-| Category | Software Engineer |
+| Company | [Instawork](https://scoutify.ai/companies/instawork?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Bengaluru, Karnataka, India |
+| Category | DevOps Engineer |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Exinity/744000112083683-data-engineer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/instawork/jobs/4658858006) |
 
 ## About This Role
 
-This software engineer position at Exinity was posted on 2026-03-02.
+This devops engineer position at Instawork was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

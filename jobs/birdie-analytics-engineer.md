@@ -1,16 +1,16 @@
-# Sales Intelligence Data Specialist at Ebury
+# Analytics Engineer at Birdie
 
 | Field | Details |
 |-------|---------|
-| Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
+| Company | [Birdie](https://scoutify.ai/companies/birdie?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | London, England, United Kingdom |
+| Category | Data Engineer |
 | Posted | 2026-03-01 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4792846101) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/birdie/dac0fc14-3ff0-4f73-85c8-cc0c8160442d) |
 
 ## About This Role
 
-This software engineer position at Ebury was posted on 2026-03-01.
+This data engineer position at Birdie was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 

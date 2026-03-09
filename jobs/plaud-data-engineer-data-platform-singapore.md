@@ -1,16 +1,16 @@
-# Sales Intelligence Data Specialist at Ebury
+# Data Engineer (Data Platform) - Singapore at Plaud
 
 | Field | Details |
 |-------|---------|
-| Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Company | [Plaud](https://scoutify.ai/companies/plaud?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Singapore, Singapore |
 | Category | Software Engineer |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4792846101) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/plaud/7b4bc7db-f56d-4a19-8f85-4745a8716ae2) |
 
 ## About This Role
 
-This software engineer position at Ebury was posted on 2026-03-01.
+This software engineer position at Plaud was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

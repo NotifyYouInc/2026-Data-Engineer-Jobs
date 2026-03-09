@@ -1,16 +1,16 @@
-# Data Engineer at Exinity
+# Workday Reporting and Integration Analyst at Trellix
 
 | Field | Details |
 |-------|---------|
-| Company | [Exinity](https://scoutify.ai/companies/exinity?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Philippines |
+| Company | [Trellix](https://scoutify.ai/companies/trellix?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | India |
 | Category | Software Engineer |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Exinity/744000112083683-data-engineer) |
+| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Remote-India/Workday-Reporting-and-Integration-Analyst_JR0036914) |
 
 ## About This Role
 
-This software engineer position at Exinity was posted on 2026-03-02.
+This software engineer position at Trellix was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

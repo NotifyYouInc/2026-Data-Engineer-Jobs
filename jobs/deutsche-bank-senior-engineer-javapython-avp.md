@@ -1,16 +1,16 @@
-# Sales Intelligence Data Specialist at Ebury
+# Senior Engineer Java/Python, AVP at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
 | Posted | 2026-03-01 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4792846101) |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Margarpatta/Senior-Engineer-Java-Python--AVP_R0424438-1) |
 
 ## About This Role
 
-This software engineer position at Ebury was posted on 2026-03-01.
+This software engineer position at Deutsche Bank was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 

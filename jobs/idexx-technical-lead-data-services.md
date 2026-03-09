@@ -1,16 +1,16 @@
-# Data Engineer at Exinity
+# Technical Lead Data Services at IDEXX
 
 | Field | Details |
 |-------|---------|
-| Company | [Exinity](https://scoutify.ai/companies/exinity?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Philippines |
+| Company | [IDEXX](https://scoutify.ai/companies/idexx?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Auckland, Auckland, New Zealand |
 | Category | Software Engineer |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Exinity/744000112083683-data-engineer) |
+| Apply | [View on company site](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Auckland-New-Zealand/Technical-Lead-Data-Services_J-050021) |
 
 ## About This Role
 
-This software engineer position at Exinity was posted on 2026-03-02.
+This software engineer position at IDEXX was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

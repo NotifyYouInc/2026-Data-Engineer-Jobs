@@ -1,16 +1,16 @@
-# Sales Intelligence Data Specialist at Ebury
+# Data Engineer at GXBank
 
 | Field | Details |
 |-------|---------|
-| Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Company | [GXBank](https://scoutify.ai/companies/gxbank?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4792846101) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://gxs.wd3.myworkdayjobs.com/gx_bank/job/Petaling-Jaya-First-Avenue/Data-Engineer_R-2026-02-101762) |
 
 ## About This Role
 
-This software engineer position at Ebury was posted on 2026-03-01.
+This software engineer position at GXBank was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Engineer at Exinity
+#  Staff GenAI Engineer at SIA
 
 | Field | Details |
 |-------|---------|
-| Company | [Exinity](https://scoutify.ai/companies/exinity?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Philippines |
-| Category | Software Engineer |
+| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Mumbai, Maharashtra, India |
+| Category | AI / LLM Engineer |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Exinity/744000112083683-data-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000112080487-staff-genai-engineer) |
 
 ## About This Role
 
-This software engineer position at Exinity was posted on 2026-03-02.
+This ai / llm engineer position at SIA was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 
