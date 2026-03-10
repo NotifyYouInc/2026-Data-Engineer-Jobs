@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/105569610505298630-data-engineer?sort_by=date&page=1) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/90223430363685574-data-engineer?sort_by=date&page=1) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-02-18.
+This software engineer position at Google was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

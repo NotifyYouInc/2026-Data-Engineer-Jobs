@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Toulouse, Occitanie, France |
-| Category | Data Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000109177641-data-engineer-cloud-confirme-hf) |
+| Category | Software Engineer |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000112243817-data-engineer-cloud-confirme-hf) |
 
 ## About This Role
 
-This data engineer position at Talan was posted on 2026-02-13.
+This software engineer position at Talan was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

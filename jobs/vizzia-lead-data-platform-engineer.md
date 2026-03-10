@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vizzia](https://scoutify.ai/companies/vizzia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Operations |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/vizzia/f4e13e64-b863-42ba-8af0-342716c237e2) |
+| Category | Software Engineer |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/vizzia/0be42b90-ada8-4a71-9082-85ca1d97ce18) |
 
 ## About This Role
 
-This operations position at Vizzia was posted on 2026-02-02.
+This software engineer position at Vizzia was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

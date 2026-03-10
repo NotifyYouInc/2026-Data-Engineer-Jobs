@@ -1,16 +1,16 @@
-# Senior Data Engineer - Tieto Tech Consulting (m/f/d) at Tietoevry
+# Senior Data Engineer – Tieto Tech Consulting (m/f/d) at Tietoevry
 
 | Field | Details |
 |-------|---------|
 | Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000110091950-senior-data-engineer-tieto-tech-consulting-mfd) |
+| Location | Kyiv, Kyiv City, Ukraine |
+| Category | DevOps Engineer |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000112196489-senior-data-engineer-tieto-tech-consulting-mfd) |
 
 ## About This Role
 
-This software engineer position at Tietoevry was posted on 2026-02-19.
+This devops engineer position at Tietoevry was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

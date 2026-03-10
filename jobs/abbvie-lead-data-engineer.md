@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
-| Category | Data Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011544976-lead-data-engineer) |
+| Category | Software Engineer |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011926646-lead-data-engineer) |
 
 ## About This Role
 
-This data engineer position at AbbVie was posted on 2026-02-05.
+This software engineer position at AbbVie was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

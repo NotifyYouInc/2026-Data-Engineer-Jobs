@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000107086686-data-engineer-for-azure-cloud-platform) |
+| Category | Software Engineer |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000112177157-data-engineer-for-azure-cloud-platform) |
 
 ## About This Role
 
-This data engineer position at SanDisk was posted on 2026-02-03.
+This software engineer position at SanDisk was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

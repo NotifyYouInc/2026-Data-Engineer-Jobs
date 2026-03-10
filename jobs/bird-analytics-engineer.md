@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bird](https://scoutify.ai/companies/bird?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | Data Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://www.bird.co/careers?gh_jid=7617547003) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://www.bird.co/careers?gh_jid=7649998003) |
 
 ## About This Role
 
-This data engineer position at Bird was posted on 2026-02-03.
+This data engineer position at Bird was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

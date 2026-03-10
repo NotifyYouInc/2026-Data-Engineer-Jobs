@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000111638835-data-engineer-hf) |
+| Category | Software Engineer |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000112141562-data-engineer-hf) |
 
 ## About This Role
 
-This ai / llm engineer position at Everience was posted on 2026-02-26.
+This software engineer position at Everience was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

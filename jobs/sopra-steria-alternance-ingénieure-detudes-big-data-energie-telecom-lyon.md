@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | France |
 | Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000110107409-alternance-ingenieure-detudes-big-data-energie-telecom-lyon) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000112108356-alternance-ingenieure-detudes-big-data-energie-telecom-lyon) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-02-19.
+This software engineer position at Sopra Steria was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

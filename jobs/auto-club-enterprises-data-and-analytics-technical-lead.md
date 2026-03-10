@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Auto Club Enterprises](https://scoutify.ai/companies/ace?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Not specified |
+| Location | Coppell, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Independence-OH-Remote/Data-and-Analytics-Technical-Lead_JR202634960) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Coppell-TX-Remote/Data-and-Analytics-Technical-Lead_JR202635110) |
 
 ## About This Role
 
-This software engineer position at Auto Club Enterprises was posted on 2026-02-23.
+This software engineer position at Auto Club Enterprises was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 
