@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer_R-524000) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Software-Engineer_R-524304) |
 
 ## About This Role
 
-This devops engineer position at Wells Fargo was posted on 2026-02-26.
+This devops engineer position at Wells Fargo was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

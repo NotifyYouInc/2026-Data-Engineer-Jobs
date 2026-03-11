@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hackensack, New Jersey, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000109787405-stakeholder-intelligence-data-automation-intern) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000112466006-stakeholder-intelligence-data-automation-intern) |
 
 ## About This Role
 
-This software engineer position at Veolia was posted on 2026-02-17.
+This software engineer position at Veolia was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

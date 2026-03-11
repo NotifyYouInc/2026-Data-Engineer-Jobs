@@ -5,12 +5,12 @@
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Brazil |
 | Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000110710698-seniorprincipal-data-engineer) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000112379442-seniorprincipal-data-engineer) |
 
 ## About This Role
 
-This software engineer position at Sigma Software was posted on 2026-02-23.
+This software engineer position at Sigma Software was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

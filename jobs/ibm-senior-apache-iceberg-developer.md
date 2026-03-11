@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | San Jose, California, United States |
+| Location | Karnataka, IN |
 | Category | Software Engineer |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=87299) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94053) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-21.
+This software engineer position at IBM was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

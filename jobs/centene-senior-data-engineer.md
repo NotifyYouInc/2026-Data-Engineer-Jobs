@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Florida, US |
+| Location | Missouri, US |
 | Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-TN/Senior-Data-Engineer_1627688-1) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Senior-Data-Engineer_1632247) |
 
 ## About This Role
 
-This software engineer position at Centene was posted on 2026-02-27.
+This software engineer position at Centene was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Chile |
-| Category | Data Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CHL-Titanium-Piso-27/Data-Engineer---Career_J00174419) |
+| Location | Pune, Maharashtra, India |
+| Category | Software Engineer |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PTEC/Data-Engineer---Career_J00174683) |
 
 ## About This Role
 
-This data engineer position at Equifax was posted on 2026-02-13.
+This software engineer position at Equifax was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 
