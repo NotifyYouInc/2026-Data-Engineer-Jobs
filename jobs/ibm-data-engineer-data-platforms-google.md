@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | India |
 | Category | Software Engineer |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=97341) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=98925) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-01.
+This software engineer position at IBM was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | Navi Mumbai, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Arlington-Virginia/Senior-Data-Engineer_R-271025) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Navi-Mumbai-India-Finicity/Senior-Data-Engineer_R-270569) |
 
 ## About This Role
 
-This software engineer position at Mastercard was posted on 2026-02-23.
+This software engineer position at Mastercard was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

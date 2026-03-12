@@ -1,16 +1,16 @@
-# Sr Data Engineer at Adobe
+# Sr. Data Engineer at Adobe
 
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Lehi, Utah, United States |
+| Location | 7 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Sr-Data-Engineer_R164547-1) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Sr-Data-Engineer_R166280) |
 
 ## About This Role
 
-This software engineer position at Adobe was posted on 2026-02-17.
+This software engineer position at Adobe was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

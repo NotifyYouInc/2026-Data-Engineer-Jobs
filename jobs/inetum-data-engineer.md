@@ -1,16 +1,16 @@
-# Data engineer  at Inetum
+# DATA ENGINEER at Inetum
 
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Casablanca, Casablanca-Settat, Morocco |
+| Location | Madrid, Madrid, Spain |
 | Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000111810231-data-engineer) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000112833057-data-engineer) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-02-27.
+This software engineer position at Inetum was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

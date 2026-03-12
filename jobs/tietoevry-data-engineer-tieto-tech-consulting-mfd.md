@@ -1,16 +1,16 @@
-# Data Engineer – Tieto Tech Consulting (m/f/d) at Tietoevry
+# Data Engineer - Tieto Tech Consulting  (m/f/d) at Tietoevry
 
 | Field | Details |
 |-------|---------|
 | Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Kyiv, Kyiv City, Ukraine |
+| Location | Turku, Southwest Finland, Finland |
 | Category | Software Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000112150091-data-engineer-tieto-tech-consulting-mfd) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000112420789-data-engineer-tieto-tech-consulting-mfd) |
 
 ## About This Role
 
-This software engineer position at Tietoevry was posted on 2026-03-02.
+This software engineer position at Tietoevry was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

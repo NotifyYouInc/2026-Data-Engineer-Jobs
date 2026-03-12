@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Auto Club Enterprises](https://scoutify.ai/companies/ace?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Costa Mesa, California, United States |
-| Category | Data Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA--Remote/Data-Engineer_JR202634606-1) |
+| Location | Coppell, Texas, United States |
+| Category | Software Engineer |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Coppell-TX-Remote/Data-Engineer_JR202634973) |
 
 ## About This Role
 
-This data engineer position at Auto Club Enterprises was posted on 2026-02-11.
+This software engineer position at Auto Club Enterprises was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 
