@@ -5,12 +5,12 @@
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Sri Lanka |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-LABS-----Sri-Lanka/Associate-Tech-Lead---Data-Engineering_R233119-1) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-LABS-----Sri-Lanka/Associate-Technical-Lead---Data-Engineering_R235130) |
 
 ## About This Role
 
-This software engineer position at Sysco was posted on 2026-02-05.
+This software engineer position at Sysco was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Karnataka, IN |
-| Category | Data Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Senior-Data-Engineer_R0135124-1) |
+| Location | San Jose, California, United States |
+| Category | Engineering Manager |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Senior-Data-Engineer_R0135487) |
 
 ## About This Role
 
-This data engineer position at PayPal was posted on 2026-03-03.
+This engineering manager position at PayPal was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Switzerland |
+| Location | India |
 | Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Switzerland---Geneva/Software-Development-Engineer-II_R-96039) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Gurgaon/Software-Development-Engineer-III_R-102208) |
 
 ## About This Role
 
-This software engineer position at Expedia was posted on 2026-03-03.
+This software engineer position at Expedia was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

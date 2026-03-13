@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
+| Location | Madrid, Madrid, Spain |
 | Category | Software Engineer |
 | Posted | 2026-03-03 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Bangalore/Data-Engineer-II_R-102711) |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Spain---Madrid/Data-Engineer-II_R-103128) |
 
 ## About This Role
 

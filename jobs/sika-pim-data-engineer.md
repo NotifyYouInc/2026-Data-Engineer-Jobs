@@ -5,12 +5,12 @@
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Switzerland |
 | Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000112402997-pim-data-engineer) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000112606012-pim-data-engineer) |
 
 ## About This Role
 
-This software engineer position at Sika was posted on 2026-03-03.
+This software engineer position at Sika was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

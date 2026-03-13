@@ -6,7 +6,7 @@
 | Location | Lviv, Lviv, Ukraine |
 | Category | Software Engineer |
 | Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000112427277-data-engineer-corporate-dwh) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000112460897-data-engineer-corporate-dwh) |
 
 ## About This Role
 

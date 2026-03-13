@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
-| Category | Data Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000108428492-senior-data-engineer) |
+| Category | Software Engineer |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000113047022-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Grab was posted on 2026-02-10.
+This software engineer position at Grab was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

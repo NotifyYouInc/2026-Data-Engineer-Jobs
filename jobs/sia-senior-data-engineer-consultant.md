@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Maastricht, Limburg, The Netherlands |
+| Location | Luxembourg, Luxembourg, Luxembourg |
 | Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000111798305-senior-data-engineer-consultant) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000112870860-senior-data-engineer-consultant) |
 
 ## About This Role
 
-This software engineer position at SIA was posted on 2026-02-27.
+This software engineer position at SIA was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 
