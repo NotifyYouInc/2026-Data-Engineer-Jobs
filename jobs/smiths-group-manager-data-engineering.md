@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000108407535-manager-data-engineering) |
+| Category | Engineering Manager |
+| Posted | 2026-03-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000113318497-manager-data-engineering) |
 
 ## About This Role
 
-This data engineer position at Smiths Group was posted on 2026-02-10.
+This engineering manager position at Smiths Group was posted on 2026-03-07.
 
 ## Get Real-Time Alerts
 

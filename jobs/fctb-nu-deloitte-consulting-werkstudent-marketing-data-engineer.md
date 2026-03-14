@@ -6,7 +6,7 @@
 | Location | Rotterdam, South Holland, The Netherlands |
 | Category | Software Engineer |
 | Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000112661347-werkstudent-marketing-data-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000112684607-werkstudent-marketing-data-engineer) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000110395656-senior-data-engineer) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000113114657-senior-data-engineer) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-02-20.
+This software engineer position at Experian was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Nantes, Pays de la Loire, France |
-| Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000110419045-ingenieur-mlops-nantes-services-financiers) |
+| Category | DevOps Engineer |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000113246236-ingenieur-mlops-nantes-services-financiers) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-02-20.
+This devops engineer position at Sopra Steria was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

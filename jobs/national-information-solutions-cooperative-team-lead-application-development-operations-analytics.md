@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [National Information Solutions Cooperative](https://scoutify.ai/companies/testnisc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Engineering Manager |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/testnisc/jobs/7674251) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/testnisc/jobs/7678047) |
 
 ## About This Role
 
-This engineering manager position at National Information Solutions Cooperative was posted on 2026-03-03.
+This engineering manager position at National Information Solutions Cooperative was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4786950101) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4798530101) |
 
 ## About This Role
 
-This software engineer position at Ebury was posted on 2026-02-20.
+This software engineer position at Ebury was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 
