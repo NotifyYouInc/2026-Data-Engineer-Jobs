@@ -1,16 +1,16 @@
-# Data Engineer (H/F) at Everience
+# Software Development Engineer - 2 : Data Engineering at Quince
 
 | Field | Details |
 |-------|---------|
-| Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
+| Company | [Quince](https://scoutify.ai/companies/quince?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000112995337-data-engineer-hf) |
+| Posted | 2026-03-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/quince/jobs/4482782008) |
 
 ## About This Role
 
-This software engineer position at Everience was posted on 2026-03-05.
+This software engineer position at Quince was posted on 2026-03-07.
 
 ## Get Real-Time Alerts
 
