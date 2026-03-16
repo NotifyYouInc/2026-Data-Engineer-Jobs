@@ -1,16 +1,16 @@
-# Data Engineer - Data Integration Intern at IBM
+# Oracle Developer at KPN
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Giza, Giza, Egypt |
+| Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Rotterdam, South Holland, The Netherlands |
 | Category | Software Engineer |
 | Posted | 2026-03-08 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94831) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000113358953-oracle-developer) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-08.
+This software engineer position at KPN was posted on 2026-03-08.
 
 ## Get Real-Time Alerts
 

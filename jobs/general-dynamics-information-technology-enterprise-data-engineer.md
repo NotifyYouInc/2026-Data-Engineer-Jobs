@@ -1,12 +1,12 @@
-# Senior Data Engineer at General Dynamics Information Technology
+# Enterprise Data Engineer at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Virginia, US |
+| Location | Not specified |
 | Category | Software Engineer |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Crystal-City/Senior-Data-Engineer_RQ216242-2) |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/International/Enterprise-Data-Engineer_RQ216119-1) |
 
 ## About This Role
 

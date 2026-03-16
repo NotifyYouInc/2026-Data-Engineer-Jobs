@@ -1,16 +1,16 @@
-# Senior Data Engineer at Carrier Global
+# Tech Lead - Data Solutions & Data Products at Carrier Global
 
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Building-No-12D-Floor-5-Raheja-Mindspace-Cyberabad-Madhapur-Hyderabad---500081-Telangana-India/Senior-Data-Engineer_30200735) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Ecospace-Campus-3A-4th-Floor-Outer-Ring-Road-Bellandur-Bengaluru--560103/Tech-Lead---Data-Solutions---Data-Products_30200721) |
 
 ## About This Role
 
-This software engineer position at Carrier Global was posted on 2026-03-04.
+This software engineer position at Carrier Global was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

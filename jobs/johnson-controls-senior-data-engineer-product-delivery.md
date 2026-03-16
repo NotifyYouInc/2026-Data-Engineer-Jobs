@@ -1,16 +1,16 @@
-# Data Engineer - Data Integration Intern at IBM
+# Senior Data Engineer - Product Delivery at Johnson Controls
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Giza, Giza, Egypt |
+| Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | India |
 | Category | Software Engineer |
 | Posted | 2026-03-08 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94831) |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/IND-Bangalore-C-601/Senior-Data-Engineer---Product-Delivery_WD30262995) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-08.
+This software engineer position at Johnson Controls was posted on 2026-03-08.
 
 ## Get Real-Time Alerts
 

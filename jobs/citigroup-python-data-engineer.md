@@ -1,16 +1,16 @@
-# Data Engineer - Data Integration Intern at IBM
+# Python Data Engineer at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Giza, Giza, Egypt |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-03-08 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94831) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Python-Data-Engineer_26942480) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-08.
+This software engineer position at Citigroup was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

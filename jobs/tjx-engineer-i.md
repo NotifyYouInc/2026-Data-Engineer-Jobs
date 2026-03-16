@@ -1,16 +1,16 @@
-# Data Engineer - Data Integration Intern at IBM
+# Engineer I at TJX
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Giza, Giza, Egypt |
-| Category | Software Engineer |
+| Company | [TJX](https://scoutify.ai/companies/tjx?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Hyderabad, Telangana, India |
+| Category | DevOps Engineer |
 | Posted | 2026-03-08 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94831) |
+| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Hyderabad-TS-500081/Engineer-I_REQ94553) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-08.
+This devops engineer position at TJX was posted on 2026-03-08.
 
 ## Get Real-Time Alerts
 

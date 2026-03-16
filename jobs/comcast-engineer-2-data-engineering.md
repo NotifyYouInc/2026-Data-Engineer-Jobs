@@ -1,16 +1,16 @@
-# Software Engineer at Wells Fargo
+# Engineer 2, Data Engineering at Comcast
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Software-Engineer_R-518117) |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-2--Data-Engineering_R431938) |
 
 ## About This Role
 
-This software engineer position at Wells Fargo was posted on 2026-03-09.
+This software engineer position at Comcast was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

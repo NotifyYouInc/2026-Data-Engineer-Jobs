@@ -1,16 +1,16 @@
-# Software Engineer at Wells Fargo
+# Big Data Engineer Lead at S&P Global
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Software-Engineer_R-518117) |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Big-Data-Engineer-Lead_324302-1) |
 
 ## About This Role
 
-This software engineer position at Wells Fargo was posted on 2026-03-09.
+This software engineer position at S&P Global was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

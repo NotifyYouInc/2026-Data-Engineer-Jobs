@@ -1,16 +1,16 @@
-# Data Engineer - Data Integration Intern at IBM
+# Lead, Data Quality at ServiceTitan
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Giza, Giza, Egypt |
+| Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Alberta, CA |
 | Category | Software Engineer |
 | Posted | 2026-03-08 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94831) |
+| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/Toronto-ON/Lead--Data-Quality_JR114199) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-08.
+This software engineer position at ServiceTitan was posted on 2026-03-08.
 
 ## Get Real-Time Alerts
 

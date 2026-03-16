@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Data Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Kuala-Lumpur-AIA-Digital-Malaysia/Assistant-Manager--Data-Engineering-Support_JR-64129-1) |
+| Category | Software Engineer |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Kuala-Lumpur-AIA-Digital-Malaysia/Assistant-Manager--Data-Engineering-Support_JR-64814-1) |
 
 ## About This Role
 
-This data engineer position at AIA Group was posted on 2026-02-11.
+This software engineer position at AIA Group was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

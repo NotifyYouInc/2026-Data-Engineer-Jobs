@@ -1,16 +1,16 @@
-# Data Engineer - Data Integration Intern at IBM
+# Data Engineer at The Scion Group
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Giza, Giza, Egypt |
+| Company | [The Scion Group](https://scoutify.ai/companies/thesciongroupllc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Chicago, Illinois, United States |
 | Category | Software Engineer |
 | Posted | 2026-03-08 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94831) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thesciongroupllc/jobs/8454367002) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-08.
+This software engineer position at The Scion Group was posted on 2026-03-08.
 
 ## Get Real-Time Alerts
 

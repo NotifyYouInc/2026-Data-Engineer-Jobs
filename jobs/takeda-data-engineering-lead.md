@@ -1,16 +1,16 @@
-# Software Engineer at Wells Fargo
+# Data engineering lead at Takeda
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Takeda](https://scoutify.ai/companies/takeda?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Software-Engineer_R-518117) |
+| Category | Engineering Manager |
+| Posted | 2026-03-08 |
+| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/IND---Bengaluru/Data-engineering-lead_R0175525-1) |
 
 ## About This Role
 
-This software engineer position at Wells Fargo was posted on 2026-03-09.
+This engineering manager position at Takeda was posted on 2026-03-08.
 
 ## Get Real-Time Alerts
 
