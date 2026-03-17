@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Nevada, US |
+| Location | Albuquerque, New Mexico, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Nellis-AFB-NV/Cloud-Engineer_R0235010) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Albuquerque-NM/Cloud-Engineer_R0235106) |
 
 ## About This Role
 
-This devops engineer position at Booz Allen was posted on 2026-03-02.
+This devops engineer position at Booz Allen was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

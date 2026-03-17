@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | New York City, New York, United States |
+| Location | Los Angeles, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1602462987732533) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1909679979665791) |
 
 ## About This Role
 
-This software engineer position at Meta was posted on 2026-02-24.
+This software engineer position at Meta was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Software Development Engineer, Big Data at Zillow
+# Senior Software Development Engineer (Big Data) at Zillow
 
 | Field | Details |
 |-------|---------|
 | Company | [Zillow](https://scoutify.ai/companies/zillow?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United States |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--Big-Data_P749117) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Mexico-City/Senior-Software-Development-Engineer--Big-Data-_P749426-1) |
 
 ## About This Role
 
-This software engineer position at Zillow was posted on 2026-02-24.
+This software engineer position at Zillow was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

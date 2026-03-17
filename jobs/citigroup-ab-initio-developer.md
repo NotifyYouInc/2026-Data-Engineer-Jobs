@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
+| Location | Irving, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Ab-Initio-Developer_26936071) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Ab-Initio-Developer_26932430) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-02-19.
+This software engineer position at Citigroup was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United Kingdom |
-| Category | Engineering Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Data-Modeller_JR-0000084644-1) |
+| Location | Glasgow, Scotland, United Kingdom |
+| Category | Software Engineer |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Data-Modeller_JR-0000087927-1) |
 
 ## About This Role
 
-This engineering manager position at Barclays was posted on 2026-03-04.
+This software engineer position at Barclays was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

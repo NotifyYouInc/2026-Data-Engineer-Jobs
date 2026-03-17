@@ -1,16 +1,16 @@
-# Data Integration Developer – Officer at State Street
+# Data Integration Developer, Officer at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Data-Integration-Developer---Officer_R-784203-1) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Data-Integration-Developer--Officer_R-783145) |
 
 ## About This Role
 
-This software engineer position at State Street was posted on 2026-02-26.
+This software engineer position at State Street was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Psi Cro](https://scoutify.ai/companies/psicro?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Budapest, Budapest, Hungary |
 | Category | Software Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000112762857-sas-developer-sdtm) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000113261267-sas-developer-sdtm) |
 
 ## About This Role
 
-This software engineer position at Psi Cro was posted on 2026-03-04.
+This software engineer position at Psi Cro was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

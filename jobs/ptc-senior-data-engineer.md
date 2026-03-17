@@ -5,12 +5,12 @@
 | Company | [PTC](https://scoutify.ai/companies/ptc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Cambridge, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/Cambridge-United-Kingdom/Senior-Data-Engineer_JR111624-1) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/Cambridge-United-Kingdom/Senior-Data-Engineer_JR111625) |
 
 ## About This Role
 
-This software engineer position at PTC was posted on 2026-03-03.
+This software engineer position at PTC was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

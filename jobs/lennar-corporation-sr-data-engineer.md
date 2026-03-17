@@ -5,12 +5,12 @@
 | Company | [Lennar Corporation](https://scoutify.ai/companies/lennar?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Irving-TX-Job-Posting-Location/Sr-Data-Engineer_R26_0000000576) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Irving-TX-Job-Posting-Location/Sr-Data-Engineer_R26_0000000864) |
 
 ## About This Role
 
-This software engineer position at Lennar Corporation was posted on 2026-02-19.
+This software engineer position at Lennar Corporation was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

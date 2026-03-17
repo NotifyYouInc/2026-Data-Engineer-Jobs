@@ -1,16 +1,16 @@
-# Data Engineer - Associate -  Software Engineering at Morgan Stanley
+# Data Engineer - Associate - Software Engineering at Morgan Stanley
 
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/Data-Engineer---Associate----Software-Engineering_PT-JR029914) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/Data-Engineer---Associate---Software-Engineering_PT-JR031310) |
 
 ## About This Role
 
-This software engineer position at Morgan Stanley was posted on 2026-02-26.
+This software engineer position at Morgan Stanley was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 
