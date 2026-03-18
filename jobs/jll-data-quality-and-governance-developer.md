@@ -5,12 +5,12 @@
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Warsaw-POL/Data-Quality-and-Governance-Developer_REQ487691-1) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Warsaw-POL/Data-Quality-and-Governance-Developer_REQ488359) |
 
 ## About This Role
 
-This software engineer position at JLL was posted on 2026-02-19.
+This software engineer position at JLL was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sezzle](https://scoutify.ai/companies/sezzle?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United States |
-| Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sezzle/jobs/7640659003) |
+| Location | India |
+| Category | Database Administration |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sezzle/jobs/7659866003) |
 
 ## About This Role
 
-This software engineer position at Sezzle was posted on 2026-02-23.
+This database administration position at Sezzle was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

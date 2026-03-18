@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Košice, Košice Region, Slovakia |
+| Location | Heredia, Heredia Province, Costa Rica |
 | Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99479) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=100058) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-06.
+This software engineer position at IBM was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

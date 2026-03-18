@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [VOSKER](https://scoutify.ai/companies/vosker?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Data Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vosker/744000106929290-data-engineering-developer) |
+| Category | Software Engineer |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vosker/744000113766927-data-engineering-developer) |
 
 ## About This Role
 
-This data engineer position at VOSKER was posted on 2026-02-02.
+This software engineer position at VOSKER was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

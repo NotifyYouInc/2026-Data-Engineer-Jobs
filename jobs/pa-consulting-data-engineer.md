@@ -5,12 +5,12 @@
 | Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Manchester, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000112661757-data-engineer) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000113713087-data-engineer) |
 
 ## About This Role
 
-This software engineer position at PA Consulting was posted on 2026-03-04.
+This software engineer position at PA Consulting was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

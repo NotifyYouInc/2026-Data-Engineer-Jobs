@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Brazil |
 | Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000113255533-engenheiro-de-software-pleno) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000113511416-engenheiro-de-software-pleno) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-03-06.
+This software engineer position at Experian was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Fairview Heights, Illinois, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---IL-Fairview-Heights/Data-Engineer_37138) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---GA-Atlanta/Data-Engineer_37112) |
 
 ## About This Role
 
-This software engineer position at Guidehouse was posted on 2026-03-07.
+This software engineer position at Guidehouse was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

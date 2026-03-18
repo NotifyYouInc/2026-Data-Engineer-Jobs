@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | San Jose, California, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000113259109-lead-data-engineer-databricks-manufacturingmes-architect) |
+| Category | Software Engineer |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000113545444-lead-data-engineer-databricks-manufacturingmes-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at VTekis Consulting LLP was posted on 2026-03-06.
+This software engineer position at VTekis Consulting LLP was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

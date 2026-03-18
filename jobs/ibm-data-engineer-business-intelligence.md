@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Giza, Giza, Egypt |
-| Category | Data Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=89096) |
+| Location | Not specified |
+| Category | Software Engineer |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=82650) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-02-10.
+This software engineer position at IBM was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

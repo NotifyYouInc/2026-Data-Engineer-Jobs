@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | New Jersey, US |
+| Location | Chicago, Illinois, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Software-Engineering-Advisors--Hybrid_26002326) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Chicago-IL/Software-Engineering-Advisors--Hybrid_26002779) |
 
 ## About This Role
 
-This software engineer position at Cigna was posted on 2026-03-02.
+This software engineer position at Cigna was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

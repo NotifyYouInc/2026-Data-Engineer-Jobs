@@ -1,16 +1,16 @@
-# Senior Staff Engineer -- SAP BTP Developer at Nagarro
+# Senior Staff Engineer - SAP BTP Developer at Nagarro
 
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000111928955-senior-staff-engineer-sap-btp-developer) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000113715233-senior-staff-engineer-sap-btp-developer) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-02-27.
+This software engineer position at Nagarro was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

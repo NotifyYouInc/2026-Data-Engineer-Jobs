@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | San Diego, California, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Diego-CA/Data-Engineer_R0235323) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Data-Engineer_R0235328) |
 
 ## About This Role
 
-This software engineer position at Booz Allen was posted on 2026-03-06.
+This software engineer position at Booz Allen was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

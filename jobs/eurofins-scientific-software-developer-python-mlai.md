@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000113140343-software-developer-python-mlai) |
+| Posted | 2026-03-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000113328497-software-developer-python-mlai) |
 
 ## About This Role
 
-This software engineer position at Eurofins Scientific was posted on 2026-03-06.
+This software engineer position at Eurofins Scientific was posted on 2026-03-07.
 
 ## Get Real-Time Alerts
 
