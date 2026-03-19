@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Honolulu, Hawaii, United States |
 | Category | Software Engineer |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Data-Engineer_R0235328) |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Honolulu-HI/Data-Engineer_R0235478) |
 
 ## About This Role
 

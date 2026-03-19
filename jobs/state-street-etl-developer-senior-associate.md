@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Software-Engineer---Java--Senior-Associate_R-778385-1) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/ETL-Developer--Senior-Associate_R-785677) |
 
 ## About This Role
 
-This software engineer position at State Street was posted on 2026-02-26.
+This software engineer position at State Street was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Chennai/Staff-Software-Engineer---Forward-Deployed_4951483) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Chennai/Staff-Software-Engineer---Forward-Deployed_4952979) |
 
 ## About This Role
 
-This software engineer position at Pfizer was posted on 2026-02-27.
+This software engineer position at Pfizer was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

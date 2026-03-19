@@ -1,16 +1,16 @@
-# Sr. Analyst, Data Engineering at Cardinal Health
+# Sr Analyst, Data Engineering at Cardinal Health
 
 | Field | Details |
 |-------|---------|
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United States |
-| Category | Data Engineer |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Sr-Analyst--Data-Engineering_20176241) |
+| Location | India |
+| Category | Software Engineer |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Sr-Analyst--Data-Engineering_20176633) |
 
 ## About This Role
 
-This data engineer position at Cardinal Health was posted on 2026-03-01.
+This software engineer position at Cardinal Health was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

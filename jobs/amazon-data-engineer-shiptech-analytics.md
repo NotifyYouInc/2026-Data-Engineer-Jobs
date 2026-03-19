@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3192570/data-engineer-shiptech-analytics) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3201894/data-engineer-shiptech-analytics) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-03-02.
+This software engineer position at Amazon was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

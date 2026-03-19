@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Jersey City, New Jersey, United States |
+| Location | Plano, Texas, United States |
 | Category | Software Engineer |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Jersey-City/Software-Engineer-II_26007667) |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Plano/Software-Engineer-II_26008380-1) |
 
 ## About This Role
 

@@ -5,12 +5,12 @@
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Bangalore-Fortune-Summit/Analyst---Funds-Context-Enablement_JR-0021419) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Bangalore-Fortune-Summit/Analyst---Funds-Context-Enablement_JR-0021453) |
 
 ## About This Role
 
-This software engineer position at Apex Fund Services was posted on 2026-03-09.
+This software engineer position at Apex Fund Services was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 
