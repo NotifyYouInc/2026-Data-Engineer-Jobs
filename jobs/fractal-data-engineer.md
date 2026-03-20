@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fractal](https://scoutify.ai/companies/fractal?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 4 locations |
+| Location | Mumbai, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/Bengaluru/BigData-Engineer_SR-22609) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/Mumbai/Data-Engineer_SR-39784-1) |
 
 ## About This Role
 
-This software engineer position at Fractal was posted on 2026-03-03.
+This software engineer position at Fractal was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

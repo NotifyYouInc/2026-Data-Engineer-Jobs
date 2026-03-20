@@ -5,12 +5,12 @@
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Canada-Toronto-Ontario/Senior-Software-Engineer--AI_JREQ194874) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Canada-Toronto-Ontario/Senior-Software-Engineer--AI_JREQ199142) |
 
 ## About This Role
 
-This software engineer position at Thomson Reuters was posted on 2026-02-17.
+This software engineer position at Thomson Reuters was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

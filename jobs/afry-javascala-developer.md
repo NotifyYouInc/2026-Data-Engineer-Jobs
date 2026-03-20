@@ -5,12 +5,12 @@
 | Company | [AFRY](https://scoutify.ai/companies/afry?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Sweden |
 | Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000107280915-javascala-developer) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000114318389-javascala-developer) |
 
 ## About This Role
 
-This software engineer position at AFRY was posted on 2026-02-04.
+This software engineer position at AFRY was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

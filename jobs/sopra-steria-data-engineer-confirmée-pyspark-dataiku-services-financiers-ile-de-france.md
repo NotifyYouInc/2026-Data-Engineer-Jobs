@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Software Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000113719956-data-engineer-confirmee-pyspark-dataiku-services-financiers-ile-de-france) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000114032776-data-engineer-confirmee-pyspark-dataiku-services-financiers-ile-de-france) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-03-10.
+This software engineer position at Sopra Steria was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

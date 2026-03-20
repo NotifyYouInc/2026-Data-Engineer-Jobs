@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Singapore---Singapore/Principal-Data-and-AI-Architect_JR331282) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Netherlands---Amsterdam/Principal-Data-and-AI-Architect_JR331261) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-03-09.
+This technical & solutions architect position at Salesforce was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

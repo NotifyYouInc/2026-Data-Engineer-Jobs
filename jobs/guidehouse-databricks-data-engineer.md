@@ -5,12 +5,12 @@
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Arlington, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Arlington/Databricks-Data-Engineer_37125) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Arlington/Databricks-Data-Engineer_37349-1) |
 
 ## About This Role
 
-This software engineer position at Guidehouse was posted on 2026-03-06.
+This software engineer position at Guidehouse was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 
