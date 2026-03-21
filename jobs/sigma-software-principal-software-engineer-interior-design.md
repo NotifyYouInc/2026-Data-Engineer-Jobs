@@ -5,12 +5,12 @@
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Brazil |
 | Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000112439747-principal-software-engineer-interior-design) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000114660660-principal-software-engineer-interior-design) |
 
 ## About This Role
 
-This software engineer position at Sigma Software was posted on 2026-03-03.
+This software engineer position at Sigma Software was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

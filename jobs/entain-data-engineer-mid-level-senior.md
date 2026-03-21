@@ -5,12 +5,12 @@
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Malta |
 | Category | Software Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000113747853-data-engineer-mid-level-senior) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000114001508-data-engineer-mid-level-senior) |
 
 ## About This Role
 
-This software engineer position at Entain was posted on 2026-03-10.
+This software engineer position at Entain was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

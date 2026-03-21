@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/AWS-Developer_JR-0000077807) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/AWS-Developer_JR-0000095770) |
 
 ## About This Role
 
-This software engineer position at Barclays was posted on 2026-02-17.
+This software engineer position at Barclays was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 
