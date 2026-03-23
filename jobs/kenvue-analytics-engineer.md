@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms-Databricks at IBM
+# Analytics Engineer at Kenvue
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Kenvue](https://scoutify.ai/companies/kenvue?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Karnataka, IN |
 | Category | Software Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=101980) |
+| Posted | 2026-03-15 |
+| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Asia-Pacific-India-Karnataka-Bangalore/Analytics-Engineer_2607043179W) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-11.
+This software engineer position at Kenvue was posted on 2026-03-15.
 
 ## Get Real-Time Alerts
 

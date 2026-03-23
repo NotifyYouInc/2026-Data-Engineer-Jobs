@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms-Databricks at IBM
+# Senior Data Engineer at Informa
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Karnataka, IN |
+| Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=101980) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000114891157-senior-data-engineer) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-11.
+This software engineer position at Informa was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

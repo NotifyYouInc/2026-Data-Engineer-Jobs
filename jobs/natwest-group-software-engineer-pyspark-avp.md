@@ -1,16 +1,16 @@
-# Data Engineer at Bjak
+# Software Engineer, PySpark, AVP at NatWest Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Indonesia |
+| Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | 3 locations |
 | Category | Software Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/75efca36-cd80-41d0-9f5a-0e5f29c512a9) |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Software-Engineer--PySpark--AVP_R-00275030) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-03-16.
+This software engineer position at NatWest Group was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

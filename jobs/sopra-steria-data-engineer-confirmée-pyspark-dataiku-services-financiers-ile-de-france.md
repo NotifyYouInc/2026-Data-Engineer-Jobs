@@ -6,7 +6,7 @@
 | Location | Paris, Île-de-France, France |
 | Category | Software Engineer |
 | Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000114032776-data-engineer-confirmee-pyspark-dataiku-services-financiers-ile-de-france) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000114105063-data-engineer-confirmee-pyspark-dataiku-services-financiers-ile-de-france) |
 
 ## About This Role
 

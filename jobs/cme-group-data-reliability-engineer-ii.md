@@ -1,16 +1,16 @@
-# Cloud & AI Data Solution Engineer at Microsoft
+# Data Reliability Engineer II at CME Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Company | [CME Group](https://scoutify.ai/companies/cme-group?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Belfast, Northern Ireland, United Kingdom |
 | Category | DevOps Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556849268) |
+| Apply | [View on company site](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Belfast---Millennium-House/Data-Reliability-Engineer-II_34017-1) |
 
 ## About This Role
 
-This devops engineer position at Microsoft was posted on 2026-03-16.
+This devops engineer position at CME Group was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

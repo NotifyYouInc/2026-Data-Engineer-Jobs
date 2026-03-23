@@ -1,16 +1,16 @@
-# Data Engineer at Bjak
+# Senior Data Engineer & Architect at Adobe
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Indonesia |
+| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | San Jose, California, United States |
 | Category | Software Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/75efca36-cd80-41d0-9f5a-0e5f29c512a9) |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Data-Engineer---Architect_R166033-1) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-03-16.
+This software engineer position at Adobe was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

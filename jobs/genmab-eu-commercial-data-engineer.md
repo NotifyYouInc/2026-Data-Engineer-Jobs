@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms-Databricks at IBM
+# EU Commercial Data Engineer at Genmab
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Karnataka, IN |
+| Company | [Genmab](https://scoutify.ai/companies/genmab?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=101980) |
+| Posted | 2026-03-15 |
+| Apply | [View on company site](https://genmab.wd3.myworkdayjobs.com/Genmab_Careers_Site/job/Utrecht/EU-Commercial-Data-Engineer_R15813) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-11.
+This software engineer position at Genmab was posted on 2026-03-15.
 
 ## Get Real-Time Alerts
 

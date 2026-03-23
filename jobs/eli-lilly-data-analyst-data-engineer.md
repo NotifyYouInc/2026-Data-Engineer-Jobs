@@ -1,16 +1,16 @@
-# Data Engineer at Bjak
+# Data Analyst / Data Engineer at Eli Lilly
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Indonesia |
+| Company | [Eli Lilly](https://scoutify.ai/companies/eli-lilly?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/75efca36-cd80-41d0-9f5a-0e5f29c512a9) |
+| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/LLY/job/India-Hyderabad/Data-Analyst---Data-Engineer_R-102090-1) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-03-16.
+This software engineer position at Eli Lilly was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 
