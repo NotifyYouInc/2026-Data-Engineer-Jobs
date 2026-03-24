@@ -1,16 +1,16 @@
-# Data Engineer Cloud – Confirmé (H/F) at Talan
+# Senior Java Developer Fixed Income at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Toulouse, Occitanie, France |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Mississauga, Ontario, Canada |
 | Category | Software Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000115019455-data-engineer-cloud-confirme-hf) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Senior-Java-Developer-Fixed-Income_26946117) |
 
 ## About This Role
 
-This software engineer position at Talan was posted on 2026-03-16.
+This software engineer position at Citigroup was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

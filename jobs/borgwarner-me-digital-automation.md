@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms-Google at IBM
+# ME - Digital & Automation at BorgWarner
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Haryana, IN |
+| Company | [BorgWarner](https://scoutify.ai/companies/borgwarner?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Tianjin, Tianjin, China |
 | Category | Software Engineer |
 | Posted | 2026-03-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=98868) |
+| Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Tianjin---China/ME---Digital---Automation_R2026-0877) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-17.
+This software engineer position at BorgWarner was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms-Google at IBM
+# Data Cloud Engineer at Zoom
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Haryana, IN |
-| Category | Software Engineer |
+| Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Karnataka, IN |
+| Category | DevOps Engineer |
 | Posted | 2026-03-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=98868) |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Bangalore-IND/Data-Cloud-Engineer_R18798-1) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-17.
+This devops engineer position at Zoom was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

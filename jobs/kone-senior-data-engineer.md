@@ -1,16 +1,16 @@
-# Data Engineer at Barclays
+# Senior Data Engineer at Kone
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Engineering Manager |
+| Category | Software Engineer |
 | Posted | 2026-03-17 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Data-Engineer_JR-0000097055-4) |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Pune/Senior-Data-Engineer_R0658237-1) |
 
 ## About This Role
 
-This engineering manager position at Barclays was posted on 2026-03-17.
+This software engineer position at Kone was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

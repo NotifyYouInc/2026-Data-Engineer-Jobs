@@ -1,16 +1,16 @@
-# Data Engineer at Barclays
+# Product Software Engineer at Wolters Kluwer
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Engineering Manager |
+| Category | Frontend Engineer |
 | Posted | 2026-03-17 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Data-Engineer_JR-0000097055-4) |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-IndiQube-Orchid/Product-Software-Engineer_R0052350-1) |
 
 ## About This Role
 
-This engineering manager position at Barclays was posted on 2026-03-17.
+This frontend engineer position at Wolters Kluwer was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

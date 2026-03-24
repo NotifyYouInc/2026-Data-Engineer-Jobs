@@ -1,16 +1,16 @@
-# Data Engineer Cloud – Confirmé (H/F) at Talan
+# Data Engineer at CoinsPaid
 
 | Field | Details |
 |-------|---------|
-| Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Toulouse, Occitanie, France |
+| Company | [CoinsPaid](https://scoutify.ai/companies/coinspaid?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Not specified |
 | Category | Software Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000115019455-data-engineer-cloud-confirme-hf) |
+| Apply | [View on company site](https://jobs.eu.lever.co/coinspaid/5c6c717d-63c6-413c-8d18-6c7ccd6d51b0) |
 
 ## About This Role
 
-This software engineer position at Talan was posted on 2026-03-16.
+This software engineer position at CoinsPaid was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

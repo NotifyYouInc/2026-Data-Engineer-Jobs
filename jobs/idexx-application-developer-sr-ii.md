@@ -1,16 +1,16 @@
-# Lead Software Engineer at Wells Fargo
+# Application Developer Sr II at IDEXX
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Company | [IDEXX](https://scoutify.ai/companies/idexx?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Maine, US |
 | Category | DevOps Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/IRVING-TX/Lead-Software-Engineer_R-517143-1) |
+| Apply | [View on company site](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Virtual-United-States/Application-Developer-Sr-II_J-051925) |
 
 ## About This Role
 
-This devops engineer position at Wells Fargo was posted on 2026-03-16.
+This devops engineer position at IDEXX was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

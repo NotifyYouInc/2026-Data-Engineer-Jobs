@@ -1,16 +1,16 @@
-# Data Engineer Cloud – Confirmé (H/F) at Talan
+# Senior Software and Data Engineer at IDEXX
 
 | Field | Details |
 |-------|---------|
-| Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Toulouse, Occitanie, France |
+| Company | [IDEXX](https://scoutify.ai/companies/idexx?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | United States |
 | Category | Software Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000115019455-data-engineer-cloud-confirme-hf) |
+| Apply | [View on company site](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Virtual-United-States/Senior-Software-and-Data-Engineer_J-050244) |
 
 ## About This Role
 
-This software engineer position at Talan was posted on 2026-03-16.
+This software engineer position at IDEXX was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

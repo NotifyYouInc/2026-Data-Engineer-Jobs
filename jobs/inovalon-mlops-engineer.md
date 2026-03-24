@@ -1,16 +1,16 @@
-# Lead Software Engineer at Wells Fargo
+# MLOps Engineer at Inovalon
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Company | [Inovalon](https://scoutify.ai/companies/inovalon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Bowie, Maryland, United States |
 | Category | DevOps Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/IRVING-TX/Lead-Software-Engineer_R-517143-1) |
+| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7538309003) |
 
 ## About This Role
 
-This devops engineer position at Wells Fargo was posted on 2026-03-16.
+This devops engineer position at Inovalon was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

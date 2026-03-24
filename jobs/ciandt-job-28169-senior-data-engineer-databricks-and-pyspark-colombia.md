@@ -1,16 +1,16 @@
-# Data Engineer Cloud – Confirmé (H/F) at Talan
+# [Job-28169] Senior Data Engineer (Databricks and PySpark), Colombia at Ciandt
 
 | Field | Details |
 |-------|---------|
-| Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Toulouse, Occitanie, France |
+| Company | [Ciandt](https://scoutify.ai/companies/ciandt?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Colombia |
 | Category | Software Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000115019455-data-engineer-cloud-confirme-hf) |
+| Apply | [View on company site](https://jobs.lever.co/ciandt/3471e0db-fb20-45b4-8f60-356ea07bfd2e) |
 
 ## About This Role
 
-This software engineer position at Talan was posted on 2026-03-16.
+This software engineer position at Ciandt was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

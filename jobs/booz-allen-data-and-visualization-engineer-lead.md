@@ -1,16 +1,16 @@
-# Data Engineer, Senior at Booz Allen
+# Data and Visualization Engineer, Lead at Booz Allen
 
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Stuttgart, Baden-Wurttemberg, Germany |
-| Category | Software Engineer |
+| Location | Monterey, California, United States |
+| Category | Engineering Manager |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Stuttgart-Baden-Wurttemberg/Data-Engineer--Senior_R0235034) |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Monterey-CA/Data-and-Visualization-Engineer--Lead_R0235754) |
 
 ## About This Role
 
-This software engineer position at Booz Allen was posted on 2026-03-16.
+This engineering manager position at Booz Allen was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

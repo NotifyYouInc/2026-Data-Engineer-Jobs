@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms-Google at IBM
+# Sr. Data Operations Engineer at McKesson
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Haryana, IN |
+| Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Karnataka, IN |
 | Category | Software Engineer |
 | Posted | 2026-03-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=98868) |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Bangalore-KA-IND---8th-Floor-of-Onyx-Building-I009/Sr-Data-Operations-Engineer_JR0144437) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-17.
+This software engineer position at McKesson was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

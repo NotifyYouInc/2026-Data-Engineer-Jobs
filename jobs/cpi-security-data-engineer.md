@@ -1,16 +1,16 @@
-# Data Engineer Cloud – Confirmé (H/F) at Talan
+# Data Engineer at CPI Security
 
 | Field | Details |
 |-------|---------|
-| Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Toulouse, Occitanie, France |
+| Company | [CPI Security](https://scoutify.ai/companies/cpi-security?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Charlotte, North Carolina, United States |
 | Category | Software Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000115019455-data-engineer-cloud-confirme-hf) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/cpisecurity/jobs/4663898006) |
 
 ## About This Role
 
-This software engineer position at Talan was posted on 2026-03-16.
+This software engineer position at CPI Security was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

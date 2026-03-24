@@ -1,16 +1,16 @@
-# Lead Software Engineer at Wells Fargo
+# Director of Data Engineering at Gas South
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Gas South](https://scoutify.ai/companies/gassouth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
-| Category | DevOps Engineer |
+| Category | Engineering Manager |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/IRVING-TX/Lead-Software-Engineer_R-517143-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gassouth/jobs/7722136) |
 
 ## About This Role
 
-This devops engineer position at Wells Fargo was posted on 2026-03-16.
+This engineering manager position at Gas South was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

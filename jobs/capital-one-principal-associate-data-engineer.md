@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms-Google at IBM
+# Principal Associate - Data Engineer at Capital One
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Haryana, IN |
+| Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Karnataka, IN |
 | Category | Software Engineer |
 | Posted | 2026-03-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=98868) |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Principal-Associate---Data-Engineer_R234060-2) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-17.
+This software engineer position at Capital One was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

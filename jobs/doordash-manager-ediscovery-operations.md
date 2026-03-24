@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms-Google at IBM
+# Manager, eDiscovery Operations at DoorDash
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Haryana, IN |
-| Category | Software Engineer |
+| Company | [DoorDash](https://scoutify.ai/companies/doordashusa?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | 6 locations |
+| Category | Legal |
 | Posted | 2026-03-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=98868) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/doordashusa/jobs/7714315) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-17.
+This legal position at DoorDash was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

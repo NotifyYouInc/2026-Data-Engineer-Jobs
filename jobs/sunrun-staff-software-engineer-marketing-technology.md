@@ -1,16 +1,16 @@
-# Data Engineer Cloud – Confirmé (H/F) at Talan
+# Staff Software Engineer - Marketing Technology at Sunrun
 
 | Field | Details |
 |-------|---------|
-| Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Toulouse, Occitanie, France |
+| Company | [Sunrun](https://scoutify.ai/companies/sunrun?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Not specified |
 | Category | Software Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000115019455-data-engineer-cloud-confirme-hf) |
+| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/REMOTE/Staff-Software-Engineer---Marketing-Technology_R60006) |
 
 ## About This Role
 
-This software engineer position at Talan was posted on 2026-03-16.
+This software engineer position at Sunrun was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

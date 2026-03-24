@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms-Google at IBM
+# ETL Developer at Baxter International
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Haryana, IN |
+| Company | [Baxter International](https://scoutify.ai/companies/baxter-international?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Karnataka, IN |
 | Category | Software Engineer |
 | Posted | 2026-03-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=98868) |
+| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/Bangalore-Karnataka/ETL-Developer_JR-196554) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-17.
+This software engineer position at Baxter International was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

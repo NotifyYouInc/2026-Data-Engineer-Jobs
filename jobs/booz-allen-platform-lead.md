@@ -1,16 +1,16 @@
-# Data Engineer, Senior at Booz Allen
+# Platform Lead at Booz Allen
 
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Stuttgart, Baden-Wurttemberg, Germany |
-| Category | Software Engineer |
+| Location | Atlanta, Georgia, United States |
+| Category | DevOps Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Stuttgart-Baden-Wurttemberg/Data-Engineer--Senior_R0235034) |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Atlanta-GA/Platform-Lead_R0235895) |
 
 ## About This Role
 
-This software engineer position at Booz Allen was posted on 2026-03-16.
+This devops engineer position at Booz Allen was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 
