@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Ottawa, Ontario, Canada |
-| Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Ottawa/ML-Data-Engineer_R0009303) |
+| Category | Data Engineer |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Ottawa/ML-Data-Engineer_R0009308) |
 
 ## About This Role
 
-This software engineer position at Trend Micro was posted on 2026-03-12.
+This data engineer position at Trend Micro was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Vantage Data Centers](https://scoutify.ai/companies/vantage-data-centers?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://vantagedc.wd1.myworkdayjobs.com/vantage/job/Denver-Colorado/Senior-Data-Engineer--Global_R21822-1) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://vantagedc.wd1.myworkdayjobs.com/vantage/job/Denver-Colorado/Senior-Data-Engineer--Global_R22097) |
 
 ## About This Role
 
-This software engineer position at Vantage Data Centers was posted on 2026-03-12.
+This software engineer position at Vantage Data Centers was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

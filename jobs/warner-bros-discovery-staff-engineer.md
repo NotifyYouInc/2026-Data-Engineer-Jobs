@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Silver Spring, Maryland, United States |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/MD-Silver-Spring-8403-Colesville-Road/Staff-Engineer_R000103079) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Hyderabad-Office-Level-3--4-Block-A---East-Wing/Staff-Engineer_R000103188) |
 
 ## About This Role
 
-This software engineer position at Warner Bros Discovery was posted on 2026-02-20.
+This software engineer position at Warner Bros Discovery was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

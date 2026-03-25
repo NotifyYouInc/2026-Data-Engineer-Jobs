@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Quadient](https://scoutify.ai/companies/quadient?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Madrid, Madrid, Spain |
-| Category | Software Engineer |
+| Location | Barcelona, Catalonia, Spain |
+| Category | Data Engineer |
 | Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Quadient1/744000114543277-data-analytics-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Quadient1/744000114651488-data-analytics-engineer) |
 
 ## About This Role
 
-This software engineer position at Quadient was posted on 2026-03-13.
+This data engineer position at Quadient was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

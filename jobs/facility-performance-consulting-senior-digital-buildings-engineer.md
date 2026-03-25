@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Facility Performance Consulting](https://scoutify.ai/companies/facilityperformanceconsulting?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/FacilityPerformanceConsultingLimited/744000110157700-senior-digital-buildings-engineer) |
+| Category | DevOps Engineer |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/FacilityPerformanceConsultingLimited/744000115156937-senior-digital-buildings-engineer) |
 
 ## About This Role
 
-This software engineer position at Facility Performance Consulting was posted on 2026-02-19.
+This devops engineer position at Facility Performance Consulting was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

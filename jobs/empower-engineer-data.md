@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United States |
+| Location | Karnataka, IN |
 | Category | Software Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Engineer-Data_R0056500-1) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Engineer-Data_R0054628) |
 
 ## About This Role
 
-This software engineer position at Empower was posted on 2026-03-04.
+This software engineer position at Empower was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

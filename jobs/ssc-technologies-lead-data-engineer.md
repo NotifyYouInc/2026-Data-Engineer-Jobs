@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
-| Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Bangkok-Thailand/Lead-Data-Engineer_R41433) |
+| Category | DevOps Engineer |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Bangkok-Thailand/Lead-Data-Engineer---PA2025HTQ3124_R35697) |
 
 ## About This Role
 
-This software engineer position at SS&C Technologies was posted on 2026-02-18.
+This devops engineer position at SS&C Technologies was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

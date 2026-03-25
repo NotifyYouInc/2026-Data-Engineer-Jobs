@@ -5,12 +5,12 @@
 | Company | [Remote](https://scoutify.ai/companies/remote?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7646431003) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7646484003) |
 
 ## About This Role
 
-This software engineer position at Remote was posted on 2026-03-12.
+This software engineer position at Remote was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

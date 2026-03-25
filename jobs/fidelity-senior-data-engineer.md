@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Westlake, Ohio, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Senior-Data-Engineer_2120239-2) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/100-New-Millennium-Way-Bldg-2-Durham-NC/Senior-Data-Engineer_2123943-1) |
 
 ## About This Role
 
-This software engineer position at Fidelity was posted on 2026-02-26.
+This software engineer position at Fidelity was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

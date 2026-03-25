@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Puteaux, Île-de-France, France |
-| Category | Data Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000107142220-consultant-seniormanager-lead-data-engineering) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000115157513-consultant-seniormanager-lead-data-engineering) |
 
 ## About This Role
 
-This data engineer position at Wavestone was posted on 2026-02-03.
+This technology / it consulting position at Wavestone was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 
