@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TaskUs](https://scoutify.ai/companies/taskus?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | National Capital Region, PH |
+| Location | Colombia |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Pasig-NCR-Philippines/Associate-Data-Engineer_R_2602_2711) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Colombia---Remote/Associate-Data-Engineer_R_2603_4118) |
 
 ## About This Role
 
-This software engineer position at TaskUs was posted on 2026-02-18.
+This software engineer position at TaskUs was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

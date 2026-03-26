@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | New York City, New York, United States |
+| Location | 3 locations |
 | Category | Engineering Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Manager--Data-Engineering_R237280-1) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Manager--Data-Engineering_R238269-1) |
 
 ## About This Role
 
-This engineering manager position at Capital One was posted on 2026-03-04.
+This engineering manager position at Capital One was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

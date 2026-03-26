@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
-| Category | DevOps Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000111318404-conversational-agent-ai-platform-engineer) |
+| Category | Software Engineer |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000115412591-conversational-agent-ai-platform-engineer) |
 
 ## About This Role
 
-This devops engineer position at Inetum was posted on 2026-02-25.
+This software engineer position at Inetum was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

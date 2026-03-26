@@ -1,16 +1,16 @@
-# Senior Software Engineer,  Data Platform  at Coinbase
+# Senior Software Engineer - Data Platform at Coinbase
 
 | Field | Details |
 |-------|---------|
 | Company | [Coinbase](https://scoutify.ai/companies/coinbase?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://www.coinbase.com/careers/positions/7656859?gh_jid=7656859) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://www.coinbase.com/careers/positions/7728790?gh_jid=7728790) |
 
 ## About This Role
 
-This software engineer position at Coinbase was posted on 2026-03-02.
+This software engineer position at Coinbase was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

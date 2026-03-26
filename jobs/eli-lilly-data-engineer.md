@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eli Lilly](https://scoutify.ai/companies/eli-lilly?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Data Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/LLY/job/India-Hyderabad/Data-Engineer_R-90517) |
+| Location | Alzey, Rheinland-Pfalz, Germany |
+| Category | Software Engineer |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/LLY/job/Germany-Alzey/Data-Engineer_R-102766-2) |
 
 ## About This Role
 
-This data engineer position at Eli Lilly was posted on 2026-02-12.
+This software engineer position at Eli Lilly was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

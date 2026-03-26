@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [T-Systems International](https://scoutify.ai/companies/tsystemsinternational?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 3 locations |
-| Category | Data Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000107716681-data-engineer-expert-fm) |
+| Category | Software Engineer |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000115426808-data-engineer-expert-fm) |
 
 ## About This Role
 
-This data engineer position at T-Systems International was posted on 2026-02-06.
+This software engineer position at T-Systems International was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
+| Location | Karnataka, IN |
 | Category | Software Engineer |
-| Posted | 2026-03-08 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/IND-Bangalore-C-601/Senior-Data-Engineer---Product-Delivery_WD30262995) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Senior-Data-Engineer---Product-Delivery_WD30263845) |
 
 ## About This Role
 
-This software engineer position at Johnson Controls was posted on 2026-03-08.
+This software engineer position at Johnson Controls was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

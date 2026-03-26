@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fractal](https://scoutify.ai/companies/fractal?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Not specified |
-| Category | Data Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/Rhode-Island/AWS-Data-Engineer_SR-38533-1) |
+| Location | London, England, United Kingdom |
+| Category | Software Engineer |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/London/AWS-Data-Engineer_SR-40127-1) |
 
 ## About This Role
 
-This data engineer position at Fractal was posted on 2026-03-16.
+This software engineer position at Fractal was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 
