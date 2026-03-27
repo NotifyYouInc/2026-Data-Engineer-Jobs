@@ -5,12 +5,12 @@
 | Company | [ASI](https://scoutify.ai/companies/asi?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASIFR/744000115093837-consultant-data-engineer-experimentesenior-snowflake-fh) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASIFR/744000115716903-consultant-data-engineer-experimentesenior-snowflake-fh) |
 
 ## About This Role
 
-This technology / it consulting position at ASI was posted on 2026-03-17.
+This technology / it consulting position at ASI was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

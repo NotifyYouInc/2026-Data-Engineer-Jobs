@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Data Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7572423?gh_jid=7572423) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7735664?gh_jid=7735664) |
 
 ## About This Role
 
-This data engineer position at Thoughtworks was posted on 2026-02-11.
+This software engineer position at Thoughtworks was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

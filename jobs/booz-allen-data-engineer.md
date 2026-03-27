@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Data-Engineer_R0234557) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Atlanta-GA/Data-Engineer_R0236267) |
 
 ## About This Role
 
-This software engineer position at Booz Allen was posted on 2026-03-13.
+This software engineer position at Booz Allen was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

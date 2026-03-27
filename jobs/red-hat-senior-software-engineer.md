@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Bangalore---Carina/Senior-Software-Engineer_R-055207) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Pune/Senior-Software-Engineer_R-054691-2) |
 
 ## About This Role
 
-This software engineer position at Red Hat was posted on 2026-03-13.
+This software engineer position at Red Hat was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 
