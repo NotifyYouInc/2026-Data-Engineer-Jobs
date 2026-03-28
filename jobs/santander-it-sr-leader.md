@@ -5,12 +5,12 @@
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Engineering Manager |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/IT-Sr-Leader_Req1552140) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/IT-Sr-Leader_Req1552143) |
 
 ## About This Role
 
-This engineering manager position at Santander was posted on 2026-03-17.
+This engineering manager position at Santander was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Absa](https://scoutify.ai/companies/absa?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Kenya |
-| Category | DevOps Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Absa-Headquarters-KE/Specialist-Data-Engineer_R-15984242) |
+| Location | Johannesburg, Gauteng, South Africa |
+| Category | Software Engineer |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Johannesburg/Specialist-Data-Engineer_R-15985080-2) |
 
 ## About This Role
 
-This devops engineer position at Absa was posted on 2026-02-25.
+This software engineer position at Absa was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

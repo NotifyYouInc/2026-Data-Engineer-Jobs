@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Data Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000107384745-staff-data-engineer-information-security) |
+| Category | Security Engineer |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000115932522-staff-data-engineer-information-security) |
 
 ## About This Role
 
-This data engineer position at LinkedIn was posted on 2026-02-04.
+This security engineer position at LinkedIn was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

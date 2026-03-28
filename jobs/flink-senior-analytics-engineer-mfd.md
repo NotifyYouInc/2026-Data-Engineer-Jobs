@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Flink](https://scoutify.ai/companies/flink?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Data Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flink3/744000111373256-senior-analytics-engineer-mfd) |
+| Category | Software Engineer |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flink3/744000115922614-senior-analytics-engineer-mfd) |
 
 ## About This Role
 
-This data engineer position at Flink was posted on 2026-02-25.
+This software engineer position at Flink was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

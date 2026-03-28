@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ClickUp](https://scoutify.ai/companies/clickup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clickup/f8f6e886-9267-49d2-9c38-5fe3717fc441) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clickup/30044ca8-927b-462a-b5dd-d49c1134481d) |
 
 ## About This Role
 
-This software engineer position at ClickUp was posted on 2026-03-18.
+This data engineer position at ClickUp was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

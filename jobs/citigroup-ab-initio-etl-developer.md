@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Ab-Initio-ETL-Developer_26945548) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Ab-Initio-ETL-Developer_26944140) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-03-18.
+This software engineer position at Citigroup was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 
