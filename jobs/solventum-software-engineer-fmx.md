@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Wrocław, Lower Silesia, Poland |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/PL-WROCLAW/Software-Engineer--f-m-x--_R01128646) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/External-Name-DE-Duesseldorf/Software-Engineer--f-m-x--_R01128938) |
 
 ## About This Role
 
-This software engineer position at Solventum was posted on 2026-03-18.
+This software engineer position at Solventum was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 
