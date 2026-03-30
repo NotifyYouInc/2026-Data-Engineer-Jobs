@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms at IBM
+# Data Engineer, Amazon Logistics at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=103644) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10373241/data-engineer-amazon-logistics) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-18.
+This software engineer position at Amazon was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

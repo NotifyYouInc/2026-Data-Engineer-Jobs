@@ -1,16 +1,16 @@
-# AI ML Data Engineer for ADAS Sr Backend Developer at Robert Bosch
+# Data Engineer at CLO Virtual Fashion
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
+| Company | [CLO Virtual Fashion](https://scoutify.ai/companies/clovirtualfashion?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Seoul, Seoul, South Korea |
 | Category | Software Engineer |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000116115507-ai-ml-data-engineer-for-adas-sr-backend-developer) |
+| Apply | [View on company site](https://jobs.lever.co/clovirtualfashion/7bf549ba-e0c2-4006-801b-bb7f5e5ae250) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-03-23.
+This software engineer position at CLO Virtual Fashion was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

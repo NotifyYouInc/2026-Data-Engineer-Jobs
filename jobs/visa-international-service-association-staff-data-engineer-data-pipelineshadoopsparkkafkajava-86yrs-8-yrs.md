@@ -1,16 +1,16 @@
-# Sr Data Engineer at Visa International Service Association
+# Staff Data Engineer-Data Pipelines,Hadoop,Spark,Kafka,Java 8+(6+yrs- 8 yrs) at Visa International Service Association
 
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Engineering Manager |
+| Category | Software Engineer |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000116101967-sr-data-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000116104990-staff-data-engineer-data-pipelineshadoopsparkkafkajava-86yrs-8-yrs) |
 
 ## About This Role
 
-This engineering manager position at Visa International Service Association was posted on 2026-03-23.
+This software engineer position at Visa International Service Association was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

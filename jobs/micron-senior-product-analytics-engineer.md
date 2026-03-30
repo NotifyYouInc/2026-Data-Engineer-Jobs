@@ -1,16 +1,16 @@
-# Lead Data Engineer at Thoughtworks
+# Senior Product Analytics Engineer at Micron
 
 | Field | Details |
 |-------|---------|
-| Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Singapore, Singapore |
-| Category | Software Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7721676?gh_jid=7721676) |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Senior-Product-Analytics-Engineer_JR94346) |
 
 ## About This Role
 
-This software engineer position at Thoughtworks was posted on 2026-03-23.
+This ai / llm engineer position at Micron was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

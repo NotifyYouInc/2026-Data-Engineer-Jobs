@@ -1,16 +1,16 @@
-# AI ML Data Engineer for ADAS Sr Backend Developer at Robert Bosch
+# SAP Datasphere Data Modeler/ Engineer at Cochlear
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
+| Company | [Cochlear](https://scoutify.ai/companies/cochlear?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Not specified |
 | Category | Software Engineer |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000116115507-ai-ml-data-engineer-for-adas-sr-backend-developer) |
+| Apply | [View on company site](https://cochlear.wd3.myworkdayjobs.com/cochlear_careers/job/SAP-Datasphere-Data-Modeler--Engineer_R-623360) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-03-23.
+This software engineer position at Cochlear was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

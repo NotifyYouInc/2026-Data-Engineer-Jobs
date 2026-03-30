@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms at IBM
+# Deputy Manager-Data Engineering at WNS
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
+| Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=103644) |
+| Posted | 2026-03-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000116068252-deputy-manager-data-engineering) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-18.
+This software engineer position at WNS was posted on 2026-03-22.
 
 ## Get Real-Time Alerts
 

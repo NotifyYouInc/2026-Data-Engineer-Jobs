@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms at IBM
+# Data Engineer-Advanced Analytics at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=103644) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=102687) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-18.
+This software engineer position at IBM was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 
