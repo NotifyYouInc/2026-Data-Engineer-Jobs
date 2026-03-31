@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | India |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Bangalore-Equifax-Credit-Information-Services/Lead---Data-Engineer_J00174386) |
+| Category | DevOps Engineer |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Bangalore-Equifax-Analytics/Lead---Data-Engineer_J00175602) |
 
 ## About This Role
 
-This software engineer position at Equifax was posted on 2026-02-05.
+This devops engineer position at Equifax was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OUTsurance](https://scoutify.ai/companies/outsurance?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Centurion, Gauteng, South Africa |
-| Category | Data Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/OUTsurance/744000108724955-data-engineer) |
+| Category | Software Engineer |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/OUTsurance/744000116125916-data-engineer) |
 
 ## About This Role
 
-This data engineer position at OUTsurance was posted on 2026-02-11.
+This software engineer position at OUTsurance was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

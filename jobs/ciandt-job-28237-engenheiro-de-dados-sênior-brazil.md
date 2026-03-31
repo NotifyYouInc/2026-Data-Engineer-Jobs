@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ciandt](https://scoutify.ai/companies/ciandt?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Brazil |
-| Category | Frontend Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.lever.co/ciandt/d54adef5-93b3-45a0-816f-2e46246d366a) |
+| Location | Campinas, São Paulo, Brazil |
+| Category | Software Engineer |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.lever.co/ciandt/cb6fbfd3-e453-4dd1-92e1-a138be1f26df) |
 
 ## About This Role
 
-This frontend engineer position at Ciandt was posted on 2026-03-18.
+This software engineer position at Ciandt was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

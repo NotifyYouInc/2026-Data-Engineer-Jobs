@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Chicago-IL/Software-Engineering-Advisors--Hybrid_26002779) |
+| Location | Plano, Texas, United States |
+| Category | Frontend Engineer |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Plano-TX/Software-Engineering-Advisors--Hybrid_26003375) |
 
 ## About This Role
 
-This software engineer position at Cigna was posted on 2026-03-10.
+This frontend engineer position at Cigna was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

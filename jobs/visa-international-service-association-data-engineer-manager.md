@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Singapore |
+| Location | Bengaluru, Karnataka, India |
 | Category | Engineering Manager |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000113407407-data-engineer-manager) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000116167185-data-engineer-manager) |
 
 ## About This Role
 
-This engineering manager position at Visa International Service Association was posted on 2026-03-09.
+This engineering manager position at Visa International Service Association was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000107480476-data-engineer-databricks-confirme-hf-cdi) |
+| Category | Technical Writer |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000116232387-data-engineer-databricks-confirme-hf-cdi) |
 
 ## About This Role
 
-This software engineer position at Talan was posted on 2026-02-05.
+This technical writer position at Talan was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

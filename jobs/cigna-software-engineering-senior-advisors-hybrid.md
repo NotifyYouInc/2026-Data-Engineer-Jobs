@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bloomfield, New Jersey, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Software-Engineering-Senior-Advisors--Hybrid_26002781) |
+| Location | New Jersey, US |
+| Category | Frontend Engineer |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Software-Engineering-Senior-Advisors--Hybrid_26003377-1) |
 
 ## About This Role
 
-This devops engineer position at Cigna was posted on 2026-03-10.
+This frontend engineer position at Cigna was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Manchester, England, United Kingdom |
+| Location | Stoke-on-Trent, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000110201325-software-developer-data-platform) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000116232025-software-developer-data-platform) |
 
 ## About This Role
 
-This software engineer position at bet365 was posted on 2026-02-19.
+This software engineer position at bet365 was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

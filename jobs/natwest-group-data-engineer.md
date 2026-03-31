@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 3 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Data-Engineer_R-00273083-1) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Data-Engineer_R-00275386) |
 
 ## About This Role
 
-This devops engineer position at NatWest Group was posted on 2026-02-13.
+This software engineer position at NatWest Group was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 
