@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Travelers](https://scoutify.ai/companies/travelers?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hartford, Connecticut, United States |
+| Location | 4 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Lead-Data-Engineer--Imagery-Models_R-49083) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Lead-Data-Engineer--Imagery-Models_R-49870) |
 
 ## About This Role
 
-This software engineer position at Travelers was posted on 2026-02-17.
+This software engineer position at Travelers was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

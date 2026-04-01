@@ -1,16 +1,16 @@
-# Analytics Developer  at Northwestern Medicine
+# Analytics Developer at Northwestern Medicine
 
 | Field | Details |
 |-------|---------|
 | Company | [Northwestern Medicine](https://scoutify.ai/companies/northwesternmedicine?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000113542277-analytics-developer) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000116491748-analytics-developer) |
 
 ## About This Role
 
-This software engineer position at Northwestern Medicine was posted on 2026-03-09.
+This software engineer position at Northwestern Medicine was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

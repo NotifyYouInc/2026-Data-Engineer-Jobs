@@ -6,7 +6,7 @@
 | Location | Santa Clara, California, United States |
 | Category | Frontend Engineer |
 | Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000115907479-associate-software-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000115904878-associate-software-engineer) |
 
 ## About This Role
 

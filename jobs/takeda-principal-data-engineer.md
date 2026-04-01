@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Takeda](https://scoutify.ai/companies/takeda?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/Boston-MA/Principal-Data-Engineer_R0174687) |
+| Location | Mexico |
+| Category | Data Engineer |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/MEX---Santa-Fe/Principal-Data-Engineer_R0176128) |
 
 ## About This Role
 
-This software engineer position at Takeda was posted on 2026-02-20.
+This data engineer position at Takeda was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

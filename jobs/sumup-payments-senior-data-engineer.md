@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SumUp Payments](https://scoutify.ai/companies/sumup-payments?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://sumup.com/careers/positions/8364207002?gh_jid=8364207002) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://sumup.com/careers/positions/8374318002?gh_jid=8374318002) |
 
 ## About This Role
 
-This software engineer position at SumUp Payments was posted on 2026-02-26.
+This software engineer position at SumUp Payments was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

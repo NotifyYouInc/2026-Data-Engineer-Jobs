@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 3 locations |
-| Category | Database Administration |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://www.esri.com/careers/5064925007?gh_jid=5064925007) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://www.esri.com/careers/5088170007?gh_jid=5088170007) |
 
 ## About This Role
 
-This database administration position at Esri was posted on 2026-02-27.
+This technology / it consulting position at Esri was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

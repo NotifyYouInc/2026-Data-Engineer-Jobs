@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Colomiers, Occitanie, France |
 | Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000111664540-alternance-ingenieure-big-data-python-sql-aws-aeronautique-toulouse) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000116391917-alternance-ingenieure-big-data-python-sql-aws-aeronautique-toulouse) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-02-26.
+This software engineer position at Sopra Steria was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

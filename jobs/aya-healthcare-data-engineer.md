@@ -5,12 +5,12 @@
 | Company | [Aya Healthcare](https://scoutify.ai/companies/aya-healthcare?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://www.ayahealthcare.com/corporate-careers/jobs/7737095?gh_jid=7737095) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://www.ayahealthcare.com/corporate-careers/jobs/7744251?gh_jid=7744251) |
 
 ## About This Role
 
-This software engineer position at Aya Healthcare was posted on 2026-03-19.
+This software engineer position at Aya Healthcare was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

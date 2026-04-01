@@ -5,12 +5,12 @@
 | Company | [Neoris](https://scoutify.ai/companies/neoris?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4786569101) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4820445101) |
 
 ## About This Role
 
-This software engineer position at Neoris was posted on 2026-03-02.
+This software engineer position at Neoris was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

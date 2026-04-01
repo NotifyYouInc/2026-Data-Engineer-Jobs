@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Copenhagen, Capital Region, Denmark |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000115829627-data-engineer-principal-consultant) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000116429937-data-engineer-principal-consultant) |
 
 ## About This Role
 
-This strategy / management consulting position at Devoteam was posted on 2026-03-20.
+This strategy / management consulting position at Devoteam was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

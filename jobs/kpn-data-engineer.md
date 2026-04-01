@@ -5,12 +5,12 @@
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Rotterdam, South Holland, The Netherlands |
 | Category | Software Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000115016155-data-engineer) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000116493128-data-engineer) |
 
 ## About This Role
 
-This software engineer position at KPN was posted on 2026-03-16.
+This software engineer position at KPN was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

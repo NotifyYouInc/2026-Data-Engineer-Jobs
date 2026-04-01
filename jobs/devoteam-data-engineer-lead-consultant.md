@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Copenhagen, Capital Region, Denmark |
-| Category | Software Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000115829217-data-engineer-lead-consultant) |
+| Category | DevOps Engineer |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000116214945-data-engineer-lead-consultant) |
 
 ## About This Role
 
-This software engineer position at Devoteam was posted on 2026-03-20.
+This devops engineer position at Devoteam was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

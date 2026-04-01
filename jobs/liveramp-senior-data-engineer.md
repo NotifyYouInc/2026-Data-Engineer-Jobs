@@ -5,12 +5,12 @@
 | Company | [LiveRamp](https://scoutify.ai/companies/liveramp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/Hyderabad/Senior-Data-Engineer_JR011997) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/Hyderabad/Senior-Data-Engineer_JR011998) |
 
 ## About This Role
 
-This software engineer position at LiveRamp was posted on 2026-03-05.
+This software engineer position at LiveRamp was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

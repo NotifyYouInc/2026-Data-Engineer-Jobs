@@ -1,16 +1,16 @@
-# Data Engineer at Ocorian
+# Data Engineer  at Ocorian
 
 | Field | Details |
 |-------|---------|
 | Company | [Ocorian](https://scoutify.ai/companies/ocorian?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Belfast, Northern Ireland, United Kingdom |
+| Location | Mauritius |
 | Category | Software Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000114053138-data-engineer) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000116391812-data-engineer) |
 
 ## About This Role
 
-This software engineer position at Ocorian was posted on 2026-03-11.
+This software engineer position at Ocorian was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 
