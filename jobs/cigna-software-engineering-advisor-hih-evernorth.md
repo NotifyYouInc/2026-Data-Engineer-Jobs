@@ -1,16 +1,16 @@
-# Software Engineering Advisor - HIH - Evernorth at Cigna
+# Software Engineering Advisor- HIH – Evernorth at Cigna
 
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Software-Engineering-Advisor---HIH---Evernorth_25013048) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Software-Engineering-Advisor--HIH---Evernorth_26003077) |
 
 ## About This Role
 
-This software engineer position at Cigna was posted on 2026-02-23.
+This software engineer position at Cigna was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

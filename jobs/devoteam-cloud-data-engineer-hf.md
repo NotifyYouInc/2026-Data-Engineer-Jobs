@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Nantes, Pays de la Loire, France |
-| Category | Data Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000107469485-cloud-data-engineer-hf) |
+| Category | Software Engineer |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000116661507-cloud-data-engineer-hf) |
 
 ## About This Role
 
-This data engineer position at Devoteam was posted on 2026-02-05.
+This software engineer position at Devoteam was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

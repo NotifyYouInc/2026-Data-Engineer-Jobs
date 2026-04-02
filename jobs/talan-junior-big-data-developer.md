@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Spain |
+| Location | Zaragoza, Aragon, Spain |
 | Category | Software Engineer |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000116187597-junior-big-data-developer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000116205888-junior-big-data-developer) |
 
 ## About This Role
 

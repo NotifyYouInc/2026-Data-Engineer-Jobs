@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Software Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000113456609-data-engineer-hf) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000116679797-data-engineer-hf) |
 
 ## About This Role
 
-This software engineer position at SIA was posted on 2026-03-09.
+This software engineer position at SIA was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

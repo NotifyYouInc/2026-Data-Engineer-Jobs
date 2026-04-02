@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | India |
-| Category | Data Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Bangalore/IT-Data-Engineer---R-D-IT_R-10061567) |
+| Category | Software Engineer |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Bangalore/IT-Data-Engineer---R-D-IT_R-10062426) |
 
 ## About This Role
 
-This data engineer position at NXP Semiconductors was posted on 2026-02-02.
+This software engineer position at NXP Semiconductors was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

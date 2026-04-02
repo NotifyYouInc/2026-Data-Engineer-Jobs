@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SEPTEO](https://scoutify.ai/companies/septeo?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Montpellier, Occitanie, France |
-| Category | Data Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Septeo/744000109025702-data-engineer) |
+| Category | Software Engineer |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Septeo/744000116569392-data-engineer) |
 
 ## About This Role
 
-This data engineer position at SEPTEO was posted on 2026-02-12.
+This software engineer position at SEPTEO was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

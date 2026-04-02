@@ -6,7 +6,7 @@
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000116121462-developer-data) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000116216839-developer-data) |
 
 ## About This Role
 

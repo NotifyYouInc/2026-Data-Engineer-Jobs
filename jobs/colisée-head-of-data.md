@@ -5,12 +5,12 @@
 | Company | [Colisée](https://scoutify.ai/companies/colise?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Engineering Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ColiseeFrance/744000115917317-head-of-data) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ColiseeFrance/744000116425228-head-of-data) |
 
 ## About This Role
 
-This engineering manager position at Colisée was posted on 2026-03-20.
+This engineering manager position at Colisée was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

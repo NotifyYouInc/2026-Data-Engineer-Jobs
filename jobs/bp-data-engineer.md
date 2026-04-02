@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | DevOps Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Data-Engineer_RQ106872) |
+| Category | Software Engineer |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Data-Engineer_RQ108576) |
 
 ## About This Role
 
-This devops engineer position at BP was posted on 2026-02-24.
+This software engineer position at BP was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

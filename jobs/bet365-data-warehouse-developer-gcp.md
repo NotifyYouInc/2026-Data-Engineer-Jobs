@@ -5,12 +5,12 @@
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Manchester, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000111419445-data-warehouse-developer-gcp) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000116581518-data-warehouse-developer-gcp) |
 
 ## About This Role
 
-This software engineer position at bet365 was posted on 2026-02-25.
+This software engineer position at bet365 was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

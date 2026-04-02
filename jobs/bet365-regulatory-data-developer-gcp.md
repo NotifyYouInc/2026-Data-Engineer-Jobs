@@ -5,12 +5,12 @@
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Stoke-on-Trent, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000112450987-regulatory-data-developer-gcp) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000116628517-regulatory-data-developer-gcp) |
 
 ## About This Role
 
-This software engineer position at bet365 was posted on 2026-03-03.
+This software engineer position at bet365 was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 
