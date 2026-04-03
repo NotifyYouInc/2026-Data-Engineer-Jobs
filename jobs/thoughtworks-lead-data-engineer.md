@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Singapore, Singapore |
-| Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7721676?gh_jid=7721676) |
+| Location | Porto Alegre, Rio Grande do Sul, Brazil |
+| Category | DevOps Engineer |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7402679?gh_jid=7402679) |
 
 ## About This Role
 
-This software engineer position at Thoughtworks was posted on 2026-03-23.
+This devops engineer position at Thoughtworks was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

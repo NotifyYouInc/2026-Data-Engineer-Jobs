@@ -5,12 +5,12 @@
 | Company | [Northwestern Medicine](https://scoutify.ai/companies/northwesternmedicine?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Database Administration |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000114105637-epic-cogito-administrators) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000116964882-epic-cogito-administrators) |
 
 ## About This Role
 
-This database administration position at Northwestern Medicine was posted on 2026-03-11.
+This database administration position at Northwestern Medicine was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

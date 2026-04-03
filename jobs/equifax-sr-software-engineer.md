@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PTEC/Sr-Software-Engineer_J00173666) |
+| Category | Frontend Engineer |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PTEC/Sr-Software-Engineer_J00175481-1) |
 
 ## About This Role
 
-This software engineer position at Equifax was posted on 2026-03-04.
+This frontend engineer position at Equifax was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 
