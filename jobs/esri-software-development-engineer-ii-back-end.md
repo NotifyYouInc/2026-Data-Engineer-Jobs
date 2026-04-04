@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://www.esri.com/careers/5057729007?gh_jid=5057729007) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://www.esri.com/careers/5091614007?gh_jid=5091614007) |
 
 ## About This Role
 
-This software engineer position at Esri was posted on 2026-02-20.
+This software engineer position at Esri was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

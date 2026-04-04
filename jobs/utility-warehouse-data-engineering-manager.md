@@ -5,12 +5,12 @@
 | Company | [Utility Warehouse](https://scoutify.ai/companies/utilitywarehouse?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Engineering Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000111908772-data-engineering-manager) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000117358238-data-engineering-manager) |
 
 ## About This Role
 
-This engineering manager position at Utility Warehouse was posted on 2026-02-27.
+This engineering manager position at Utility Warehouse was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Engineering Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000116417907-senior-gis-team-lead) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000117070267-senior-gis-team-lead) |
 
 ## About This Role
 
-This engineering manager position at AECOM was posted on 2026-03-24.
+This engineering manager position at AECOM was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 
