@@ -1,16 +1,16 @@
-# Data Engineer (Jun/Mid, 24x7 Data & AI Factory) at Devoteam
+# Engineer Data at Rio Tinto
 
 | Field | Details |
 |-------|---------|
-| Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Poland |
+| Company | [Rio Tinto](https://scoutify.ai/companies/riotinto?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Salt Lake City, Utah, United States |
 | Category | Software Engineer |
 | Posted | 2026-03-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000117459517-data-engineer-junmid-24x7-data-ai-factory) |
+| Apply | [View on company site](https://riotinto.wd3.myworkdayjobs.com/riotinto_careers/job/Salt-Lake-City/Engineer-Data_R53560) |
 
 ## About This Role
 
-This software engineer position at Devoteam was posted on 2026-03-28.
+This software engineer position at Rio Tinto was posted on 2026-03-28.
 
 ## Get Real-Time Alerts
 
