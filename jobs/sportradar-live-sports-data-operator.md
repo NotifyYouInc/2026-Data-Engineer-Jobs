@@ -1,16 +1,16 @@
-# Data Operations Engineer at Robert Bosch
+# Live Sports Data Operator at Sportradar
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
+| Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Philippines |
 | Category | Software Engineer |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000117561427-data-operations-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000117548507-live-sports-data-operator) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-03-30.
+This software engineer position at Sportradar was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

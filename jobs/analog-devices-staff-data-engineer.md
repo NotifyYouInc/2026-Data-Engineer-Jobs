@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Limerick, Munster, Ireland |
-| Category | Data Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Ireland-Limerick/Staff-Data-Engineer_R260717-1) |
+| Location | Karnataka, IN |
+| Category | Software Engineer |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore-Nova/Staff-Data-Engineer_R261628) |
 
 ## About This Role
 
-This data engineer position at Analog Devices was posted on 2026-02-16.
+This software engineer position at Analog Devices was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

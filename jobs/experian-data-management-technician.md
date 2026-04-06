@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Granada, Andalusia, Spain |
 | Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000116589757-data-management-technician) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000117293614-data-management-technician) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-03-25.
+This software engineer position at Experian was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Operations Engineer at Robert Bosch
+# Data Engineer (f/m/d) at Awin
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
+| Company | [Awin](https://scoutify.ai/companies/awin?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Romania |
 | Category | Software Engineer |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000117561427-data-operations-engineer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/awin/jobs/7683350003) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-03-30.
+This software engineer position at Awin was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

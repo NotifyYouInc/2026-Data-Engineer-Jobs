@@ -1,16 +1,16 @@
-# Data Operations Engineer at Robert Bosch
+# Senior / Data Engineer at Temus
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
+| Company | [Temus](https://scoutify.ai/companies/temus?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Singapore, Singapore |
 | Category | Software Engineer |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000117561427-data-operations-engineer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/temus/jobs/5169439008) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-03-30.
+This software engineer position at Temus was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

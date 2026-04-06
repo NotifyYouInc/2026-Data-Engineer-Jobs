@@ -1,16 +1,16 @@
-# Data Engineer at Autodesk
+# Lead Engineer at Adobe
 
 | Field | Details |
 |-------|---------|
-| Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
+| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Noida, Uttar Pradesh, India |
+| Category | DevOps Engineer |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Data-Engineer_26WD96260-1) |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Lead-Engineer_R166868-1) |
 
 ## About This Role
 
-This software engineer position at Autodesk was posted on 2026-03-30.
+This devops engineer position at Adobe was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

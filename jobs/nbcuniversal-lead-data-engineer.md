@@ -6,7 +6,7 @@
 | Location | Universal City, California, United States |
 | Category | Software Engineer |
 | Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000116633838-lead-data-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000116682297-lead-data-engineer) |
 
 ## About This Role
 
