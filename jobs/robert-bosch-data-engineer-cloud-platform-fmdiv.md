@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Aveiro, Aveiro, Portugal |
 | Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000111417395-data-engineer-cloud-platform-fmdiv) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000117600858-data-engineer-cloud-platform-fmdiv) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-02-25.
+This software engineer position at Robert Bosch was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

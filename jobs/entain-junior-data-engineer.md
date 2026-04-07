@@ -5,12 +5,12 @@
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000116962462-junior-data-engineer) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000117273957-junior-data-engineer) |
 
 ## About This Role
 
-This software engineer position at Entain was posted on 2026-03-26.
+This software engineer position at Entain was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

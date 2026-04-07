@@ -1,16 +1,16 @@
-# Engineer III, Software at Thermo Fisher Scientific
+# Engineer- III, Software at Thermo Fisher Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | India |
-| Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/Engineer-III--Software_R-01344846) |
+| Category | Frontend Engineer |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/Engineer--III--Software_R-01347642) |
 
 ## About This Role
 
-This software engineer position at Thermo Fisher Scientific was posted on 2026-03-18.
+This frontend engineer position at Thermo Fisher Scientific was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

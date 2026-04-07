@@ -1,16 +1,16 @@
-# DATA ENGINEER H/F at Inetum
+# Data Engineer - H/F at Inetum
 
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | France |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000109687950-data-engineer-hf) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000117637913-data-engineer-hf) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-02-17.
+This software engineer position at Inetum was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

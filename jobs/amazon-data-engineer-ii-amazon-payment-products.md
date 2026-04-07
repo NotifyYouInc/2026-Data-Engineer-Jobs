@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Seattle, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3197986/data-engineer-ii-amazon-payment-products) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10378884/data-engineer-ii-amazon-payment-products) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-03-06.
+This software engineer position at Amazon was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

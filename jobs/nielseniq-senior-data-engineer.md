@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000115388843-senior-data-engineer) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000117577127-senior-data-engineer) |
 
 ## About This Role
 
-This software engineer position at NielsenIQ was posted on 2026-03-18.
+This software engineer position at NielsenIQ was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

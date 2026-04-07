@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abacus Insights](https://scoutify.ai/companies/abacus-insights-inc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Nepal |
 | Category | Software Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://boards.greenhouse.io/abacusinsights/jobs/8450307002?gh_jid=8450307002) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://boards.greenhouse.io/abacusinsights/jobs/8454308002?gh_jid=8454308002) |
 
 ## About This Role
 
-This software engineer position at Abacus Insights was posted on 2026-03-17.
+This software engineer position at Abacus Insights was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

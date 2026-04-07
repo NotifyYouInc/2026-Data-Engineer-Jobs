@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | East Palo Alto, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3203959/sr-software-dev-engineer-redshift-distributed-systems) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10378845/sr-software-dev-engineer-redshift-distributed-systems) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-03-13.
+This software engineer position at Amazon was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 
