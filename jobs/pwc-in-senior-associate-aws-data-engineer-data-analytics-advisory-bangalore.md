@@ -1,16 +1,16 @@
-# IN-Senior Associate_AWS Data Engineer _Data Analytics_ Advisory_ Bangalore at PwC
+# IN- Senior Associate_AWS Data Engineer _Data Analytics_ Advisory_ Bangalore at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-AWS-Data-Engineer--Data-Analytics--Advisory--Bangalore_676728WD-1) |
+| Category | Software Engineer |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN--Senior-Associate-AWS-Data-Engineer--Data-Analytics--Advisory--Bangalore_717699WD-1) |
 
 ## About This Role
 
-This data engineer position at PwC was posted on 2026-02-11.
+This software engineer position at PwC was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

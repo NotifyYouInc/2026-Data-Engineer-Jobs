@@ -5,12 +5,12 @@
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Wilton, Connecticut, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000116193444-data-engineer-data-analytics) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000117983812-data-engineer-data-analytics) |
 
 ## About This Role
 
-This software engineer position at Louis Dreyfus was posted on 2026-03-23.
+This software engineer position at Louis Dreyfus was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 
