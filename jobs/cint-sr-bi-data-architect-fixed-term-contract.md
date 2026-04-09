@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cint](https://scoutify.ai/companies/cint?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United Kingdom |
-| Category | Software Engineer |
+| Location | Not specified |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000117755547-sr-bi-data-architect-fixed-term-contract) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000117755522-sr-bi-data-architect-fixed-term-contract) |
 
 ## About This Role
 
-This software engineer position at Cint was posted on 2026-03-30.
+This technical & solutions architect position at Cint was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

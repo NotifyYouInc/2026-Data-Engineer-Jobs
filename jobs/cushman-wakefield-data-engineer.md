@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Location | Mumbai, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Budapest-Hungary/Data-Engineer_R299113) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Mumbai--India/Data-Engineer_R307509) |
 
 ## About This Role
 
-This software engineer position at Cushman & Wakefield was posted on 2026-03-06.
+This software engineer position at Cushman & Wakefield was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

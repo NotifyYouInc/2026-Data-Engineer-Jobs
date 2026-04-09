@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Not specified |
-| Category | Data Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Distinguished-Software-Data-Engineer_R238342-1) |
+| Location | 3 locations |
+| Category | Software Engineer |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Francisco--CA/Distinguished-Software-Data-Engineer_R239553) |
 
 ## About This Role
 
-This data engineer position at Capital One was posted on 2026-03-18.
+This software engineer position at Capital One was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

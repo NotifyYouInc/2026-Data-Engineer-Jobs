@@ -5,12 +5,12 @@
 | Company | [Motel One](https://scoutify.ai/companies/motelone?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MotelOne/744000110382791-manager-it-mwd-data-warehouse-analytics) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MotelOne/744000118164442-manager-it-mwd-data-warehouse-analytics) |
 
 ## About This Role
 
-This software engineer position at Motel One was posted on 2026-02-20.
+This software engineer position at Motel One was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

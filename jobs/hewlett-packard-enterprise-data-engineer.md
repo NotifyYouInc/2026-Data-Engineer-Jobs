@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Karnataka, IN |
 | Category | Software Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bucharest-Romania/Data-Engineer_1201017-1) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bangalore-Karnataka-India/Data-Engineer_1200474) |
 
 ## About This Role
 
-This software engineer position at Hewlett Packard Enterprise was posted on 2026-03-04.
+This software engineer position at Hewlett Packard Enterprise was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

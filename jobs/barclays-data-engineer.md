@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Software Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/DLF-IT-Park-Chennai/Data-Engineer_JR-0000099627) |
+| Location | Pune, Maharashtra, India |
+| Category | Engineering Manager |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Data-Engineer_JR-0000098904) |
 
 ## About This Role
 
-This software engineer position at Barclays was posted on 2026-03-27.
+This engineering manager position at Barclays was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

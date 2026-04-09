@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motive](https://scoutify.ai/companies/gomotive?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gomotive/jobs/8213262002) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gomotive/jobs/8482401002) |
 
 ## About This Role
 
-This software engineer position at Motive was posted on 2026-02-25.
+This software engineer position at Motive was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

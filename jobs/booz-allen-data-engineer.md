@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Nebraska, US |
+| Location | Virginia, US |
 | Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Offutt-AFB-NE/Data-Engineer_R0236615-1) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Belvoir-VA/Data-Engineer_R0236939) |
 
 ## About This Role
 
-This software engineer position at Booz Allen was posted on 2026-03-23.
+This software engineer position at Booz Allen was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Wrocław, Lower Silesia, Poland |
+| Location | Vienna, Vienna, Austria |
 | Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000116436047-senior-software-engineer) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000118140829-senior-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Sportradar was posted on 2026-03-24.
+This software engineer position at Sportradar was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

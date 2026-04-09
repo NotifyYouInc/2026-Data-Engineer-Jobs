@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Charlotte, North Carolina, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Vice-President--Software-Engineer_26011255) |
+| Category | DevOps Engineer |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Vice-President--Software-Engineer_26012061) |
 
 ## About This Role
 
-This software engineer position at Bank of America was posted on 2026-03-24.
+This devops engineer position at Bank of America was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

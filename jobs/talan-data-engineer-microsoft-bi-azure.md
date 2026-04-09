@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Luxembourg, Luxembourg, Luxembourg |
 | Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000115392825-data-engineer-microsoft-bi-azure) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000118180537-data-engineer-microsoft-bi-azure) |
 
 ## About This Role
 
-This software engineer position at Talan was posted on 2026-03-18.
+This software engineer position at Talan was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Data engineer at Experian
+# Senior Data Engineer at Experian
 
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Heredia, Heredia Province, Costa Rica |
+| Location | Santiago, Santiago Metropolitan, Chile |
 | Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000117671998-senior-data-engineer) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000117992828-senior-data-engineer) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-03-30.
+This software engineer position at Experian was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

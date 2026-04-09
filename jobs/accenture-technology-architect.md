@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Technology-Architect_ATCI-5177228-S1902186-1) |
+| Category | Frontend Engineer |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Technology-Architect_ATCI-5266464-S1933369) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-03-30.
+This frontend engineer position at Accenture was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 
