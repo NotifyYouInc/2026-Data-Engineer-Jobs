@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Database Administration |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Application-Developer_ATCI-5450928-S2007630-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Developer_ATCI-5395271-S2010256-1) |
 
 ## About This Role
 
-This database administration position at Accenture was posted on 2026-04-01.
+This software engineer position at Accenture was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

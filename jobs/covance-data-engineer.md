@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Covance](https://scoutify.ai/companies/fortrea?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | India |
-| Category | Data Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Bangalore/Data-Engineer_26228-1) |
+| Category | Software Engineer |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Bangalore/Data-Engineer_26747) |
 
 ## About This Role
 
-This data engineer position at Covance was posted on 2026-02-04.
+This software engineer position at Covance was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

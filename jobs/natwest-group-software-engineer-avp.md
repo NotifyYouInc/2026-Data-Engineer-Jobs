@@ -5,12 +5,12 @@
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Software-Engineer--AVP_R-00272177) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Software-Engineer--AVP_R-00275377) |
 
 ## About This Role
 
-This software engineer position at NatWest Group was posted on 2026-02-09.
+This software engineer position at NatWest Group was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

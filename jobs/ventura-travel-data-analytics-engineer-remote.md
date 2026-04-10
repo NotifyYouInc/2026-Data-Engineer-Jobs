@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ventura TRAVEL](https://scoutify.ai/companies/ventura-travel?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Not specified |
-| Category | Software Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://www.venturatravel.org/jobs/7634204?gh_jid=7634204) |
+| Category | Data Engineer |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://www.venturatravel.org/jobs/7776154?gh_jid=7776154) |
 
 ## About This Role
 
-This software engineer position at Ventura TRAVEL was posted on 2026-03-10.
+This data engineer position at Ventura TRAVEL was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

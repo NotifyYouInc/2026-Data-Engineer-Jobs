@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Thailand |
-| Category | Technical Writer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000113641161-new-grad-only-engineer-software-development-engineering) |
+| Category | Software Engineer |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000118348453-new-grad-only-engineer-software-development-engineering) |
 
 ## About This Role
 
-This technical writer position at Western Digital was posted on 2026-03-10.
+This software engineer position at Western Digital was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

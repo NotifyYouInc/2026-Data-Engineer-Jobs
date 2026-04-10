@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Data-Integration-Engineer_R-00176735) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Data-Integration-Engineer_R-00179910) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-02-24.
+This software engineer position at Leidos was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

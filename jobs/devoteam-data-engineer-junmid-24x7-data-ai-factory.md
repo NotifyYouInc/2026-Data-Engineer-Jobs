@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Poland |
 | Category | Software Engineer |
-| Posted | 2026-03-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000117459517-data-engineer-junmid-24x7-data-ai-factory) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000118365247-data-engineer-junmid-24x7-data-ai-factory) |
 
 ## About This Role
 
-This software engineer position at Devoteam was posted on 2026-03-28.
+This software engineer position at Devoteam was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

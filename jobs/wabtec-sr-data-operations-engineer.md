@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990011558436-sr-data-operations-engineer) |
+| Category | DevOps Engineer |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012427936-sr-data-operations-engineer) |
 
 ## About This Role
 
-This operations position at Wabtec was posted on 2026-02-06.
+This devops engineer position at Wabtec was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

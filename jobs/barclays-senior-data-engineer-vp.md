@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | New York, US |
 | Category | Engineering Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/745-7th-Avenue-New-York/Senior-Data-Engineer---VP_JR-0000097428) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Senior-Data-Engineer---VP_JR-0000092417) |
 
 ## About This Role
 
-This engineering manager position at Barclays was posted on 2026-02-17.
+This engineering manager position at Barclays was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [About You](https://scoutify.ai/companies/aboutyou?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hamburg, Hamburg, Germany |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000115208917-analytics-engineer-mfd-shop-analytics-onsite-in-hamburg-or-berlin) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000118357067-analytics-engineer-mfd-shop-analytics-onsite-in-hamburg-or-berlin) |
 
 ## About This Role
 
-This software engineer position at About You was posted on 2026-03-17.
+This software engineer position at About You was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 
