@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wex](https://scoutify.ai/companies/wexinc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 3 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/San-Francisco-CA/Principal-Software-Engineer---Data_R20768) |
+| Location | 4 locations |
+| Category | Software Engineer |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/Portland-ME/Principal-Software-Engineer---Data_R19441) |
 
 ## About This Role
 
-This technical & solutions architect position at Wex was posted on 2026-02-04.
+This software engineer position at Wex was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

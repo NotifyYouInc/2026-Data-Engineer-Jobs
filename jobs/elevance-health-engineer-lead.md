@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Engineer-Lead_JR183594) |
+| Category | Software Engineer |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Engineer-Lead_JR187586) |
 
 ## About This Role
 
-This devops engineer position at Elevance Health was posted on 2026-03-02.
+This software engineer position at Elevance Health was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

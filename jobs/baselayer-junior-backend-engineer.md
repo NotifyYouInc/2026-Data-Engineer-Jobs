@@ -5,12 +5,12 @@
 | Company | [Baselayer](https://scoutify.ai/companies/baselayer?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/baselayer/jobs/5148960008) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/baselayer/jobs/5175942008) |
 
 ## About This Role
 
-This software engineer position at Baselayer was posted on 2026-03-10.
+This software engineer position at Baselayer was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

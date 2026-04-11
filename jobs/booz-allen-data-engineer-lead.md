@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Engineering Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Chantilly-VA/Data-Engineer--Lead_R0235311) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Data-Engineer--Lead_R0237065) |
 
 ## About This Role
 
-This engineering manager position at Booz Allen was posted on 2026-03-06.
+This engineering manager position at Booz Allen was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

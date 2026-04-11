@@ -1,16 +1,16 @@
-# Resident Solutions Architect-Public Sector at Databricks
+# Resident Solutions Architect - Public Sector at Databricks
 
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | California, US |
+| Location | Maryland, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8423296002) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8494108002) |
 
 ## About This Role
 
-This technical & solutions architect position at Databricks was posted on 2026-03-02.
+This technical & solutions architect position at Databricks was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 
