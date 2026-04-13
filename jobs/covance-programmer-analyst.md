@@ -1,16 +1,16 @@
-# Senior Data Engineer - Data Integration at IBM
+# Programmer Analyst at Covance
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Giza, Giza, Egypt |
+| Company | [Covance](https://scoutify.ai/companies/fortrea?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | India |
 | Category | Software Engineer |
-| Posted | 2026-04-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=106213) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Bangalore/Programmer-Analyst_261695) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-04-05.
+This software engineer position at Covance was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

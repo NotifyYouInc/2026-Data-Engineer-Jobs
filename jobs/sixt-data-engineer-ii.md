@@ -1,16 +1,16 @@
-# Data Engineer at Accenture
+# Data Engineer II at Sixt
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Data-Engineer_ATCI-5500765-S2010580-1) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000118827437-data-engineer-ii) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-04-02.
+This data engineer position at Sixt was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

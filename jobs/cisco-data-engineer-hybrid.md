@@ -1,16 +1,16 @@
-# Senior Data Engineer - Data Integration at IBM
+# Data Engineer (Hybrid) at Cisco
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Giza, Giza, Egypt |
+| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | San Jose, California, United States |
 | Category | Software Engineer |
 | Posted | 2026-04-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=106213) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Data-Engineer--Hybrid-_2006514) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-04-05.
+This software engineer position at Cisco was posted on 2026-04-05.
 
 ## Get Real-Time Alerts
 

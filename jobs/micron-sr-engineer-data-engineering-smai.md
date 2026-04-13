@@ -1,16 +1,16 @@
-# Senior Azure Data Engineer at Parexel
+# SR ENGINEER, DATA ENGINEERING, SMAI at Micron
 
 | Field | Details |
 |-------|---------|
-| Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Singapore, Singapore |
 | Category | Data Engineer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/India-Hyderabad-Remote/Senior-Azure-Data-Engineer_R0000040159) |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/SR-ENGINEER--DATA-ENGINEERING--SMAI_JR90729) |
 
 ## About This Role
 
-This data engineer position at Parexel was posted on 2026-04-06.
+This data engineer position at Micron was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

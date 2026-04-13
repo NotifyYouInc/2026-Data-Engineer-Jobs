@@ -1,16 +1,16 @@
-# Senior Azure Data Engineer at Parexel
+# Data Engineer (Fixed-term) at GSK
 
 | Field | Details |
 |-------|---------|
-| Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Seoul, Seoul, South Korea |
 | Category | Data Engineer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/India-Hyderabad-Remote/Senior-Azure-Data-Engineer_R0000040159) |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Korea---Seoul/Data-Engineer--Fixed-term-_438963) |
 
 ## About This Role
 
-This data engineer position at Parexel was posted on 2026-04-06.
+This data engineer position at GSK was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

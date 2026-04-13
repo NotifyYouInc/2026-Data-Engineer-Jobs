@@ -1,16 +1,16 @@
-# Senior Azure Data Engineer at Parexel
+# Network Optimization Lead at Humana
 
 | Field | Details |
 |-------|---------|
-| Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | United States |
 | Category | Data Engineer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/India-Hyderabad-Remote/Senior-Azure-Data-Engineer_R0000040159) |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Network-Optimization-Lead_R-410371) |
 
 ## About This Role
 
-This data engineer position at Parexel was posted on 2026-04-06.
+This data engineer position at Humana was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 
