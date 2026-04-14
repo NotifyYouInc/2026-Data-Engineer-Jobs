@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012167041-aws-data-engineer) |
+| Category | Data Engineer |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012461686-aws-data-engineer) |
 
 ## About This Role
 
-This software engineer position at The Nielsen Company was posted on 2026-03-16.
+This data engineer position at The Nielsen Company was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

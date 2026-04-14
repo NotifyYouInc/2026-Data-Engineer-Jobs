@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Engineering Manager |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Data-Engineer-4_R433009) |
+| Category | Data Engineer |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Data-Engineer-4_R434604) |
 
 ## About This Role
 
-This engineering manager position at Comcast was posted on 2026-03-13.
+This data engineer position at Comcast was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

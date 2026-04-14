@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Takeda](https://scoutify.ai/companies/takeda?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/IND---Bengaluru/Data-Engineering-Professional-II_R0177476) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/IND---Bengaluru/Data-Engineering-Professional-II_R0177805) |
 
 ## About This Role
 
-This software engineer position at Takeda was posted on 2026-04-01.
+This technical & solutions architect position at Takeda was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 
