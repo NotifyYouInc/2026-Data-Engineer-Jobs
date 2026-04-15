@@ -1,16 +1,16 @@
-# Data Architect at Accenture
+# Data Engineer (Starlink) at SpaceX
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Redmond, Washington, United States |
 | Category | Data Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Data-Architect_ATCI-5500888-S2011088-1) |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8494787002?gh_jid=8494787002) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-04-07.
+This data engineer position at SpaceX was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

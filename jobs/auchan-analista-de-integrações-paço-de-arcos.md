@@ -1,16 +1,16 @@
-# Data Architect at Accenture
+# Analista de Integrações - Paço de Arcos at Auchan
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Company | [Auchan](https://scoutify.ai/companies/auchan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Portugal |
 | Category | Data Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Data-Architect_ATCI-5500888-S2011088-1) |
+| Apply | [View on company site](https://auchanportugal.wd3.myworkdayjobs.com/auchan-retail/job/Pao-de-Arcos/Analista-de-Integraes---Pao-de-Arcos_ID-25737) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-04-07.
+This data engineer position at Auchan was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

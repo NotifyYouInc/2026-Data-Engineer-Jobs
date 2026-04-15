@@ -1,16 +1,16 @@
-# Data Engineer-Enterprise Content Management at IBM
+# Data/Automation Engineer  at DV Trading
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Kolkata, West Bengal, India |
-| Category | Data Engineer |
+| Company | [DV Trading](https://scoutify.ai/companies/dvtrading?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | United States |
+| Category | Industrial Automation |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=107747) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dvtrading/jobs/4682362005) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-04-07.
+This industrial automation position at DV Trading was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

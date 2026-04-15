@@ -1,16 +1,16 @@
-# Data Architect at Accenture
+# Intelligence Solutions Integrator, Lead at Booz Allen
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Virginia, US |
 | Category | Data Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Data-Architect_ATCI-5500888-S2011088-1) |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Belvoir-VA/Intelligence-Solutions-Integrator--Lead_R0237290) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-04-07.
+This data engineer position at Booz Allen was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

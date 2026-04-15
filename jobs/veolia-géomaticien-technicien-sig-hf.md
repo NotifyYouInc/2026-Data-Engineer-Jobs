@@ -1,16 +1,16 @@
-# Data Architect at Accenture
+# Géomaticien/ Technicien SIG (H/F) at Veolia
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Vaulx-en-Velin, Rhône-Alpes, France |
 | Category | Data Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Data-Architect_ATCI-5500888-S2011088-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000119209197-geomaticien-technicien-sig-hf) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-04-07.
+This data engineer position at Veolia was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

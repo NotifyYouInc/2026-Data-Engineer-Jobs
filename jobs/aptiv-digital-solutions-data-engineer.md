@@ -1,16 +1,16 @@
-# Data Architect at Accenture
+# Digital Solutions & Data Engineer at Aptiv
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Braga, Braga, Portugal |
 | Category | Data Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Data-Architect_ATCI-5500888-S2011088-1) |
+| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Braga-Portugal/Digital-Solutions---Data-Engineer_J000689278) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-04-07.
+This data engineer position at Aptiv was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

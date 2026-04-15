@@ -1,16 +1,16 @@
-# Data Architect at Accenture
+# Développeur ou Développeuse en ingénierie de données  at CIMA+
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Company | [CIMA+](https://scoutify.ai/companies/cima?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Sherbrooke, Quebec, Canada |
 | Category | Data Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Data-Architect_ATCI-5500888-S2011088-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CIMA2/744000119230247-developpeur-ou-developpeuse-en-ingenierie-de-donnees) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-04-07.
+This data engineer position at CIMA+ was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

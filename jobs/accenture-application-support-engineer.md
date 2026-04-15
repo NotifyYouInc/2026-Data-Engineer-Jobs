@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Technical Support Engineer |
+| Location | Mumbai, Maharashtra, India |
+| Category | Engineering Manager |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5446914-S1993441-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Application-Support-Engineer_ATCI-5450625-S2010312-1) |
 
 ## About This Role
 
-This technical support engineer position at Accenture was posted on 2026-04-03.
+This engineering manager position at Accenture was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

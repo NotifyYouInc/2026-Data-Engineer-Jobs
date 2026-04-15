@@ -1,16 +1,16 @@
-# Data Architect at Accenture
+# IN-Associate_IICS Developer_OC D&A_Advisory_Kolkata at PwC
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Kolkata, West Bengal, India |
 | Category | Data Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Data-Architect_ATCI-5500888-S2011088-1) |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kolkata-Y-14/IN-Associate-IICS-Developer-OC-D-A-Advisory-Kolkata_719264WD-1) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-04-07.
+This data engineer position at PwC was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

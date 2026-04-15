@@ -1,16 +1,16 @@
-# Data Engineer-Enterprise Content Management at IBM
+#  Data Engineering Manager, Core Experience & Incentives at Instacart
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Kolkata, West Bengal, India |
-| Category | Data Engineer |
+| Company | [Instacart](https://scoutify.ai/companies/instacart?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | United States |
+| Category | Engineering Manager |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=107747) |
+| Apply | [View on company site](https://instacart.careers/job/?gh_jid=7786900) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-04-07.
+This engineering manager position at Instacart was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

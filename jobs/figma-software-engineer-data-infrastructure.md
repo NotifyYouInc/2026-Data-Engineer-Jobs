@@ -1,16 +1,16 @@
-# Senior Oracle Developer at Deutsche Bank
+# Software Engineer, Data Infrastructure at Figma
 
 | Field | Details |
 |-------|---------|
-| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bucharest, București, Romania |
+| Company | [Figma](https://scoutify.ai/companies/figma?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Software Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bucharest-6A-Dimitrie-Pompeiu-Blvd/Senior-Oracle-Developer_R0432145) |
+| Apply | [View on company site](https://boards.greenhouse.io/figma/jobs/5551686004?gh_jid=5551686004) |
 
 ## About This Role
 
-This software engineer position at Deutsche Bank was posted on 2026-04-07.
+This software engineer position at Figma was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

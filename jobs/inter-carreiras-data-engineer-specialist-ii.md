@@ -1,16 +1,16 @@
-# Data Architect at Accenture
+# DATA ENGINEER SPECIALIST II at Inter Carreiras
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Company | [Inter Carreiras](https://scoutify.ai/companies/inter-carreiras?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Belo Horizonte, Minas Gerais, Brazil |
 | Category | Data Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Data-Architect_ATCI-5500888-S2011088-1) |
+| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4674909005?gh_jid=4674909005) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-04-07.
+This data engineer position at Inter Carreiras was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

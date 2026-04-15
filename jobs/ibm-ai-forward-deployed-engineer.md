@@ -1,16 +1,16 @@
-# Data Engineer-Enterprise Content Management at IBM
+# AI Forward Deployed Engineer at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Kolkata, West Bengal, India |
-| Category | Data Engineer |
+| Location | United States |
+| Category | AI / ML Research |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=107747) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=108009) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-04-07.
+This ai / ml research position at IBM was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

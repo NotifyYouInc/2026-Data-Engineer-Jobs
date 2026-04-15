@@ -1,16 +1,16 @@
-# Data Architect at Accenture
+# Advisor - Scientific Data Engineer at Eli Lilly
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Company | [Eli Lilly](https://scoutify.ai/companies/eli-lilly?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Data Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Data-Architect_ATCI-5500888-S2011088-1) |
+| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/LLY/job/US-San-Francisco-CA/Advisor---Scientific-Data-Engineer_R-103720) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-04-07.
+This data engineer position at Eli Lilly was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

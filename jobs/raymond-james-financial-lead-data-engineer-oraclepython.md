@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | St. Petersburg, Florida, United States |
+| Location | Florida, US |
 | Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Sr-Data-Engineer_R-0009363) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Lead-Data-Engineer--Oracle-Python-_R-0010448) |
 
 ## About This Role
 
-This software engineer position at Raymond James Financial was posted on 2026-02-03.
+This software engineer position at Raymond James Financial was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

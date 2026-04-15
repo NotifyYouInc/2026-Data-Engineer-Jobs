@@ -1,16 +1,16 @@
-# Data Architect at Accenture
+# Analytics Engineer, Feature Engineering at Ibotta
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Company | [Ibotta](https://scoutify.ai/companies/ibotta?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Denver, Colorado, United States |
 | Category | Data Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Data-Architect_ATCI-5500888-S2011088-1) |
+| Apply | [View on company site](https://ibotta.wd1.myworkdayjobs.com/Ibotta/job/Denver-CO/Analytics-Engineer--Feature-Engineering_R-102426) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-04-07.
+This data engineer position at Ibotta was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 
