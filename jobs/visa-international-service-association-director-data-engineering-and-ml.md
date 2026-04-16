@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Engineering Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000111563786-director-data-engineering-and-ml) |
+| Category | Data Engineer |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000119333933-director-data-engineering-and-ml) |
 
 ## About This Role
 
-This engineering manager position at Visa International Service Association was posted on 2026-02-26.
+This data engineer position at Visa International Service Association was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

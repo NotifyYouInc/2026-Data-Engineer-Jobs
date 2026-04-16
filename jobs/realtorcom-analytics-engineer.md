@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Realtor.com](https://scoutify.ai/companies/rdccareers?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Software Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://boards.greenhouse.io/rdccareers/jobs/7687143003?gh_jid=7687143003) |
+| Category | Data Engineer |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://boards.greenhouse.io/rdccareers/jobs/7693940003?gh_jid=7693940003) |
 
 ## About This Role
 
-This software engineer position at Realtor.com was posted on 2026-04-01.
+This data engineer position at Realtor.com was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

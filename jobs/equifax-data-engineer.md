@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Alpharetta, Georgia, United States |
-| Category | Software Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Georgia---Alpharetta---30005/Data-Engineer_J00176094) |
+| Location | Madrid, Madrid, Spain |
+| Category | Data Engineer |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/ESP---Madrid---Castellana/Data-Engineer_J00175751) |
 
 ## About This Role
 
-This software engineer position at Equifax was posted on 2026-04-03.
+This data engineer position at Equifax was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

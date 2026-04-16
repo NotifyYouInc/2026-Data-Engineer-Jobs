@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Mumbai--India/Data-Engineer_R307509) |
+| Location | 7 locations |
+| Category | Data Engineer |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Chicago-Illinois-USA/Data-Engineer_R312518) |
 
 ## About This Role
 
-This software engineer position at Cushman & Wakefield was posted on 2026-04-01.
+This data engineer position at Cushman & Wakefield was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

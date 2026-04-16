@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Foster City, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000118639397-staff-data-engineer) |
+| Location | Brazil |
+| Category | Data Engineer |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000119461508-staff-data-engineer) |
 
 ## About This Role
 
-This software engineer position at Visa International Service Association was posted on 2026-04-03.
+This data engineer position at Visa International Service Association was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 
