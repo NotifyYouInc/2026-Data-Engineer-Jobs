@@ -1,16 +1,16 @@
-# IN_Senior Associate_Azure Data Engineer_OC D&A_Advisory_Bhubaneswar at PwC
+# IN_Senior Associate_Azure Data Engineer_OC - D&A_Advisory_Bhubaneswar at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bhubaneswar, Odisha, India |
 | Category | Data Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bhubaneswar---Ihub/IN-Senior-Associate-Azure-Data-Engineer-OC-D-A-Advisory-Bhubaneswar_719196WD-1) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bhubaneswar---Ihub/IN-Senior-Associate-Azure-Data-Engineer-OC---D-A-Advisory-Bhubaneswar_719908WD-2) |
 
 ## About This Role
 
-This data engineer position at PwC was posted on 2026-04-07.
+This data engineer position at PwC was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

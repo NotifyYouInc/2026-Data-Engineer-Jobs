@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Psi Cro](https://scoutify.ai/companies/psicro?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | Brazil |
 | Category | Software Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000119460408-database-developer) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000119689677-database-developer) |
 
 ## About This Role
 
-This software engineer position at Psi Cro was posted on 2026-04-08.
+This software engineer position at Psi Cro was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

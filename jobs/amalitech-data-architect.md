@@ -1,0 +1,22 @@
+# Data Architect at AmaliTech
+
+| Field | Details |
+|-------|---------|
+| Company | [AmaliTech](https://scoutify.ai/companies/amalitech?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | 3 locations |
+| Category | Data Engineer |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/amalitech/744000111401978-data-architect) |
+
+## About This Role
+
+This data engineer position at AmaliTech was posted on 2026-02-25.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*
