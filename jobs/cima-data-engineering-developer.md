@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CIMA+](https://scoutify.ai/companies/cima?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Sherbrooke, Quebec, Canada |
+| Location | Canada |
 | Category | Data Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CIMA2/744000119231407-data-engineering-developer) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CIMA2/744000120028407-data-engineering-developer) |
 
 ## About This Role
 
-This data engineer position at CIMA+ was posted on 2026-04-07.
+This data engineer position at CIMA+ was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

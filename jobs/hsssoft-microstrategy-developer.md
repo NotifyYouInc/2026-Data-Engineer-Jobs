@@ -1,16 +1,16 @@
-# Microstrategy developer at HSSSoft
+# Microstrategy Developer at HSSSoft
 
 | Field | Details |
 |-------|---------|
 | Company | [HSSSoft](https://scoutify.ai/companies/hsssoft?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 3 locations |
+| Location | Edison, New Jersey, United States |
 | Category | Data Engineer |
-| Posted | 2015-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/hsssoft/81783983-microstrategy-developer) |
+| Posted | 2015-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/hsssoft/83902141-microstrategy-developer) |
 
 ## About This Role
 
-This data engineer position at HSSSoft was posted on 2015-03-20.
+This data engineer position at HSSSoft was posted on 2015-07-03.
 
 ## Get Real-Time Alerts
 

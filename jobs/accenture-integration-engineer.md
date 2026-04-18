@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Integration-Engineer_ATCI-5508750-S2010212-1) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Integration-Engineer_ATCI-5519699-S2013150-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-04-02.
+This software engineer position at Accenture was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

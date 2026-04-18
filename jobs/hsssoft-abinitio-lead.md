@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HSSSoft](https://scoutify.ai/companies/hsssoft?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Florida, US |
+| Location | Edison, New Jersey, United States |
 | Category | Data Engineer |
-| Posted | 2016-09-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/hsssoft/99159773-abinitio-lead) |
+| Posted | 2016-11-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/hsssoft/102192582-abinitio-lead) |
 
 ## About This Role
 
-This data engineer position at HSSSoft was posted on 2016-09-28.
+This data engineer position at HSSSoft was posted on 2016-11-14.
 
 ## Get Real-Time Alerts
 

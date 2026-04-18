@@ -1,16 +1,16 @@
-# Staff Data Engineer, Marketing Technology at thumbtack
+# Staff Data Engineer, Marketing Technology at Thumbtack
 
 | Field | Details |
 |-------|---------|
-| Company | [thumbtack](https://scoutify.ai/companies/thumbtack-thumbtack?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Thumbtack](https://scoutify.ai/companies/thumbtack?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
 | Category | Data Engineer |
-| Posted | 2025-11-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/thumbtack/cf276869-5f65-44f0-8a8b-644eae9bd283) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thumbtack/jobs/7380261) |
 
 ## About This Role
 
-This data engineer position at thumbtack was posted on 2025-11-06.
+This data engineer position at Thumbtack was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Teya](https://scoutify.ai/companies/teya?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Software Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/teya/23004022-c812-4ea5-b1ca-a2c439322816) |
+| Location | Porto, Porto, Portugal |
+| Category | Data Engineer |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/teya/044ab343-088a-42c6-9423-89b1031e540e) |
 
 ## About This Role
 
-This software engineer position at Teya was posted on 2026-03-17.
+This data engineer position at Teya was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

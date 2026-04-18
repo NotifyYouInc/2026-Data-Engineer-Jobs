@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Brazil |
+| Location | Bellevue, Washington, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000119461508-staff-data-engineer) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000120031707-staff-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Visa International Service Association was posted on 2026-04-08.
+This data engineer position at Visa International Service Association was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

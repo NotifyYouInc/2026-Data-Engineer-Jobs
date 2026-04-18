@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
-| Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Data-Migration---Conversion-Specialist_322863) |
+| Category | Data Engineer |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Nationwide/Data-Migration---Conversion-Specialist_321397-1) |
 
 ## About This Role
 
-This software engineer position at CACI was posted on 2026-03-06.
+This data engineer position at CACI was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

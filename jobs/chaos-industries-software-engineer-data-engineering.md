@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [CHAOS Industries](https://scoutify.ai/companies/chaos-industries?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hawthorne, California, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
 | Posted | 2026-03-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/chaosindustries/jobs/5048695007) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/chaosindustries/jobs/5048714007) |
 
 ## About This Role
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Germany |
-| Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000112491978-data-engineer-mfd) |
+| Category | Data Engineer |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000120001979-data-engineer-mfd) |
 
 ## About This Role
 
-This software engineer position at Redcare Pharmacy was posted on 2026-03-03.
+This data engineer position at Redcare Pharmacy was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 
