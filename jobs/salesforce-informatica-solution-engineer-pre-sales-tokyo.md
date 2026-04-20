@@ -1,16 +1,16 @@
-# Informatica Solution Engineer (Pre-Sales) Tokyo at Salesforce
+# Informatica Solution Engineer (Pre-Sales), Tokyo at Salesforce
 
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
-| Category | Account Executive |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo/Informatica-Solution-Engineer--Pre-Sales--Tokyo_JR330439) |
+| Location | Tokyo, Tokyo, Japan |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo/Informatica-Solution-Engineer--Pre-Sales---Tokyo_JR334034) |
 
 ## About This Role
 
-This account executive position at Salesforce was posted on 2026-03-17.
+This technical & solutions architect position at Salesforce was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

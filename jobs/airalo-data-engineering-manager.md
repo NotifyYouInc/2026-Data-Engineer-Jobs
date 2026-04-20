@@ -1,16 +1,16 @@
-# Data Engineer-Enterprise Content Management at IBM
+# Data Engineering Manager at Airalo
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Data Engineer |
+| Company | [Airalo](https://scoutify.ai/companies/airalo?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Spain |
+| Category | Engineering Manager |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=108721) |
+| Apply | [View on company site](https://jobs.lever.co/airalo/0b5a11cf-debd-499f-a99c-41b2b6cbd92d) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-04-13.
+This engineering manager position at Airalo was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

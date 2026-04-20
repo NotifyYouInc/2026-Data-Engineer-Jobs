@@ -1,16 +1,16 @@
-# Data Engineer-Enterprise Content Management at IBM
+# Data Visualization Engineer at Takeda
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Takeda](https://scoutify.ai/companies/takeda?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=108721) |
+| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/IND---Bengaluru/Data-Visualization-Engineer_R0177512) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-04-13.
+This data engineer position at Takeda was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

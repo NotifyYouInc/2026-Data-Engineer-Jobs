@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pointclickcare](https://scoutify.ai/companies/pointclickcare?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United States |
+| Location | Mississauga, Ontario, Canada |
 | Category | Software Engineer |
 | Posted | 2026-01-08 |
-| Apply | [View on company site](https://jobs.lever.co/pointclickcare/27ea212e-092c-4567-bb56-fc17a71fcc4c) |
+| Apply | [View on company site](https://jobs.lever.co/pointclickcare/3e4fb2bc-cc9e-4dab-97af-51e8bdcf05fd) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# Staff Data Engineer, Marketing Technology at thumbtack
+# Sr. BIE, Amazon Global Selling -AIT at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [thumbtack](https://scoutify.ai/companies/thumbtack-thumbtack?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United States |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Data Engineer |
-| Posted | 2025-11-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/thumbtack/035532f5-7d6c-423d-bdba-4e01ba0a0f92) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10389280/sr-bie-amazon-global-selling-ait) |
 
 ## About This Role
 
-This data engineer position at thumbtack was posted on 2025-11-06.
+This data engineer position at Amazon was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

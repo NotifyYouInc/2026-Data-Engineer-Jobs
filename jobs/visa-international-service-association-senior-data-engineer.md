@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000116153329-senior-data-engineer) |
+| Location | Auckland, Auckland, New Zealand |
+| Category | Data Engineer |
+| Posted | 2026-04-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000120274298-senior-data-engineer) |
 
 ## About This Role
 
-This software engineer position at Visa International Service Association was posted on 2026-03-23.
+This data engineer position at Visa International Service Association was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Staff Data Engineer, Marketing Technology at thumbtack
+# ALTERNANCE - Data Engineer - F/H at Thales
 
 | Field | Details |
 |-------|---------|
-| Company | [thumbtack](https://scoutify.ai/companies/thumbtack-thumbtack?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United States |
+| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | France |
 | Category | Data Engineer |
-| Posted | 2025-11-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/thumbtack/035532f5-7d6c-423d-bdba-4e01ba0a0f92) |
+| Posted | 2026-04-12 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Vlizy-Villacoublay/ALTERNANCE---Data-Engineer---F-H_R0322300-1) |
 
 ## About This Role
 
-This data engineer position at thumbtack was posted on 2025-11-06.
+This data engineer position at Thales was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

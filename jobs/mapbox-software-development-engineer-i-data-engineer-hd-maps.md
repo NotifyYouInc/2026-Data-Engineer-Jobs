@@ -1,16 +1,16 @@
-# Staff Data Engineer, Marketing Technology at thumbtack
+# Software Development Engineer I (Data Engineer), HD Maps at Mapbox
 
 | Field | Details |
 |-------|---------|
-| Company | [thumbtack](https://scoutify.ai/companies/thumbtack-thumbtack?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United States |
+| Company | [Mapbox](https://scoutify.ai/companies/mapbox?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Minsk, Minsk City, Belarus |
 | Category | Data Engineer |
-| Posted | 2025-11-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/thumbtack/035532f5-7d6c-423d-bdba-4e01ba0a0f92) |
+| Posted | 2026-04-12 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/mapbox/cfe4732b-d176-43e3-acc1-6df476787d3f) |
 
 ## About This Role
 
-This data engineer position at thumbtack was posted on 2025-11-06.
+This data engineer position at Mapbox was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

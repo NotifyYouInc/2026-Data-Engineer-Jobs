@@ -1,16 +1,16 @@
-# Staff Data Engineer, Marketing Technology at thumbtack
+# Data Strategist/Data Acquisition Expert at IQVIA
 
 | Field | Details |
 |-------|---------|
-| Company | [thumbtack](https://scoutify.ai/companies/thumbtack-thumbtack?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United States |
+| Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | India |
 | Category | Data Engineer |
-| Posted | 2025-11-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/thumbtack/035532f5-7d6c-423d-bdba-4e01ba0a0f92) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Data-Strategist-Data-Acquisition-Expert_R1531432) |
 
 ## About This Role
 
-This data engineer position at thumbtack was posted on 2025-11-06.
+This data engineer position at IQVIA was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 
