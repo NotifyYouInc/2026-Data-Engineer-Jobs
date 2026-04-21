@@ -6,7 +6,7 @@
 | Location | Mexico |
 | Category | Software Engineer |
 | Posted | 2026-04-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/varicent/jobs/5183060008) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/varicent/jobs/5183058008) |
 
 ## About This Role
 

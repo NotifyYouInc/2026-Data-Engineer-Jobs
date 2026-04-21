@@ -1,16 +1,16 @@
-# Data Engineer at NielsenIQ
+# Data Engineer  at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Israel |
 | Category | Data Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000107664136-data-engineer) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000120355983-data-engineer) |
 
 ## About This Role
 
-This data engineer position at NielsenIQ was posted on 2026-02-06.
+This data engineer position at NielsenIQ was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

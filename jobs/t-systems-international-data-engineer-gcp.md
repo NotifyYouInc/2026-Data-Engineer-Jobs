@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [T-Systems International](https://scoutify.ai/companies/tsystemsinternational?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Granada, Andalusia, Spain |
-| Category | Software Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000114076647-data-engineer-gcp) |
+| Category | Data Engineer |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000120350147-data-engineer-gcp) |
 
 ## About This Role
 
-This software engineer position at T-Systems International was posted on 2026-03-11.
+This data engineer position at T-Systems International was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

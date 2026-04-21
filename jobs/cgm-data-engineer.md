@@ -1,16 +1,16 @@
-# Data Engineer at Cgm
+# Data engineer at Cgm
 
 | Field | Details |
 |-------|---------|
 | Company | [Cgm](https://scoutify.ai/companies/cgm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Italy |
+| Location | Madrid, Madrid, Spain |
 | Category | Data Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://cgm.wd3.myworkdayjobs.com/cgm/job/Venezia--Via-Farmagosta-n2/Data-Engineer_JR106321-1) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://cgm.wd3.myworkdayjobs.com/cgm/job/Madrid--CRaimundo-Fernandez-Villaverd/Data-engineer_JR109280) |
 
 ## About This Role
 
-This data engineer position at Cgm was posted on 2026-04-08.
+This data engineer position at Cgm was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

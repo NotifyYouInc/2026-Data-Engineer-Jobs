@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Chantilly, Virginia, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Data-Engineer--Mid_R0236780) |
+| Location | Fort Walton Beach, Florida, United States |
+| Category | Data Engineer |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Walton-Beach-FL/Data-Engineer--Mid_R0237656) |
 
 ## About This Role
 
-This software engineer position at Booz Allen was posted on 2026-03-25.
+This data engineer position at Booz Allen was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

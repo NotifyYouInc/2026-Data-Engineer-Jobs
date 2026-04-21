@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Noida, Uttar Pradesh, India |
-| Category | Software Engineer |
-| Posted | 2026-03-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000116068252-deputy-manager-data-engineering) |
+| Location | Haryana, IN |
+| Category | Data Engineer |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000120352915-deputy-manager-data-engineering) |
 
 ## About This Role
 
-This software engineer position at WNS was posted on 2026-03-22.
+This data engineer position at WNS was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

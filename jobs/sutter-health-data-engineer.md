@@ -5,12 +5,12 @@
 | Company | [Sutter Health](https://scoutify.ai/companies/sutterhealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 3 locations |
 | Category | Data Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://sutterhealth.wd1.myworkdayjobs.com/sh/job/Walnut-Creek/Data-Engineer_R-121996) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://sutterhealth.wd1.myworkdayjobs.com/sh/job/Walnut-Creek/Data-Engineer_R-126881-1) |
 
 ## About This Role
 
-This data engineer position at Sutter Health was posted on 2026-02-05.
+This data engineer position at Sutter Health was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bellevue, Washington, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000116382700-lead-data-engineer) |
+| Category | Data Engineer |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000120476857-lead-data-engineer) |
 
 ## About This Role
 
-This software engineer position at Visa International Service Association was posted on 2026-03-24.
+This data engineer position at Visa International Service Association was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

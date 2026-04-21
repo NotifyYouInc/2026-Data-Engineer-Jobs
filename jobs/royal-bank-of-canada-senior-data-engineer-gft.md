@@ -1,16 +1,16 @@
-# Senior Data Engineer- GFT at Royal Bank of Canada
+# Senior Data Engineer, GFT at Royal Bank of Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Data-Engineer--GFT_R-0000161012-1) |
+| Category | Data Engineer |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Data-Engineer--GFT_R-0000166862-1) |
 
 ## About This Role
 
-This software engineer position at Royal Bank of Canada was posted on 2026-02-25.
+This data engineer position at Royal Bank of Canada was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

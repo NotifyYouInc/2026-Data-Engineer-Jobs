@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | India |
-| Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Sr-Analyst--Data-Engineering_20176633) |
+| Category | Data Engineer |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Sr-Analyst--Data-Engineering_20178706) |
 
 ## About This Role
 
-This software engineer position at Cardinal Health was posted on 2026-03-12.
+This data engineer position at Cardinal Health was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

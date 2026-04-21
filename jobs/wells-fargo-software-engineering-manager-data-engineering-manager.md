@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Engineering Manager |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-Engineering-Manager---Data-Engineering-Manager_R-525351) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-Engineering-Manager_R-520817) |
 
 ## About This Role
 
-This engineering manager position at Wells Fargo was posted on 2026-03-03.
+This engineering manager position at Wells Fargo was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

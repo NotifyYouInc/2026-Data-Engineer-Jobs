@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | San Antonio, Texas, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Antonio-TX/Data-Engineer_R0237174) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Data-Engineer_R0237650) |
 
 ## About This Role
 
-This data engineer position at Booz Allen was posted on 2026-04-06.
+This data engineer position at Booz Allen was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

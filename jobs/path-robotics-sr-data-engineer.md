@@ -1,0 +1,22 @@
+# Sr. Data Engineer at Path Robotics
+
+| Field | Details |
+|-------|---------|
+| Company | [Path Robotics](https://scoutify.ai/companies/path-robotics?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Columbus, Ohio, United States |
+| Category | Data Engineer |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://boards.greenhouse.io/pathrobotics/jobs/8505118002?gh_jid=8505118002) |
+
+## About This Role
+
+This data engineer position at Path Robotics was posted on 2026-04-13.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

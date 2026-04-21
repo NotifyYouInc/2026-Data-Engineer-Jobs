@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Villeneuve-d'Ascq, Hauts-de-France, France |
-| Category | Software Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000114043428-data-engineer-dataiku-services-financiers-lille) |
+| Category | Data Engineer |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000120360376-data-engineer-dataiku-services-financiers-lille) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-03-11.
+This data engineer position at Sopra Steria was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

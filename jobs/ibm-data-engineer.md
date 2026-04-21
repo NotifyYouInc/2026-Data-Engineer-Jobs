@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Heredia, Heredia Province, Costa Rica |
-| Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=104598) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Data Engineer |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=108498) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-24.
+This data engineer position at IBM was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 
