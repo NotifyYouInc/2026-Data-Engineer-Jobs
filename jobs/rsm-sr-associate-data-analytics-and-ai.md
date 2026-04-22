@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 5 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/McLean/Sr-Associate---Data--Analytics--and-AI_JR118803-1) |
+| Location | 6 locations |
+| Category | Data Engineer |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/McLean/Sr-Associate---Data--Analytics--and-AI_JR118820) |
 
 ## About This Role
 
-This software engineer position at RSM was posted on 2026-03-26.
+This data engineer position at RSM was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

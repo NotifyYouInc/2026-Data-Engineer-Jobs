@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hyderabad-Telangana-India/Data-Architecture-Engineering-Senior-Professional_R01036291-1) |
+| Category | Data Engineer |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hyderabad-Telangana-India/Data-Architecture-Engineering-Senior-Professional_R0126807) |
 
 ## About This Role
 
-This software engineer position at Hitachi was posted on 2026-03-25.
+This data engineer position at Hitachi was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

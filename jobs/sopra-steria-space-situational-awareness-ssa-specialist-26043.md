@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Darmstadt, Hesse, Germany |
-| Category | Software Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000113440907-space-situational-awareness-ssa-specialist-26043) |
+| Category | Data Engineer |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000120675532-space-situational-awareness-ssa-specialist-26043) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-03-09.
+This data engineer position at Sopra Steria was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

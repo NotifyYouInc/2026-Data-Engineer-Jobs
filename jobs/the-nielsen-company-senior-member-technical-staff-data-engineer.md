@@ -1,16 +1,16 @@
-# Senior Member Technical Staff - Data Engineer at The Nielsen Company
+# Senior Member Technical Staff - Data engineer at The Nielsen Company
 
 | Field | Details |
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012240511-senior-member-technical-staff-data-engineer) |
+| Location | Karnataka, IN |
+| Category | Data Engineer |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012608886-senior-member-technical-staff-data-engineer) |
 
 ## About This Role
 
-This software engineer position at The Nielsen Company was posted on 2026-03-20.
+This data engineer position at The Nielsen Company was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

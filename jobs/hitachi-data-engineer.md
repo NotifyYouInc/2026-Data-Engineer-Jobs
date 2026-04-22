@@ -1,16 +1,16 @@
-# Data Engineer at Hitachi
+# Data engineer at Hitachi
 
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Ludvika, Dalarna, Sweden |
-| Category | Software Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ludvika-Dalarna-County-Sweden/Multiple-Information-Technology-Experienced-Professional_R0118228) |
+| Location | Xiamen, Fujian, China |
+| Category | Data Engineer |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Xiamen-Fujian-China/Data-engineer_R0104751) |
 
 ## About This Role
 
-This software engineer position at Hitachi was posted on 2026-04-02.
+This data engineer position at Hitachi was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

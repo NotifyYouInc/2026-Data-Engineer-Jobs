@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Yahoo](https://scoutify.ai/companies/yahoo?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United States |
+| Location | Not specified |
 | Category | Data Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://ouryahoo.wd5.myworkdayjobs.com/careers/job/United-States-of-America/Data-Engineer---Consumer-Data-AI---ML_JR0026544) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://ouryahoo.wd5.myworkdayjobs.com/careers/job/United-States-of-America/Data-Engineer---AI-Semantic-Analytics_JR0026990-1) |
 
 ## About This Role
 
-This data engineer position at Yahoo was posted on 2026-02-11.
+This data engineer position at Yahoo was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

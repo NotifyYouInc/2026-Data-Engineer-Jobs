@@ -5,12 +5,12 @@
 | Company | [Meilleurtaux](https://scoutify.ai/companies/meilleurtaux?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Data Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meilleurtaux/744000107688386-data-engineer-hf) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meilleurtaux/744000120694849-data-engineer-hf) |
 
 ## About This Role
 
-This data engineer position at Meilleurtaux was posted on 2026-02-06.
+This data engineer position at Meilleurtaux was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

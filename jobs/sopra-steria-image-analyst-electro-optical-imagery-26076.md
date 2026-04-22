@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Poland |
 | Category | Data Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000119994737-image-analyst-electro-optical-imagery-26076) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000120453510-image-analyst-electro-optical-imagery-26076) |
 
 ## About This Role
 
-This data engineer position at Sopra Steria was posted on 2026-04-10.
+This data engineer position at Sopra Steria was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

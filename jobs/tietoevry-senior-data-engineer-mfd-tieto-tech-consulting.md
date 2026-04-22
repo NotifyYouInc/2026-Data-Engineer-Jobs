@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000115816887-senior-data-engineer-mfd-tieto-tech-consulting) |
+| Location | Berlin, State of Berlin, Germany |
+| Category | Data Engineer |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000120615605-senior-data-engineer-mfd-tieto-tech-consulting) |
 
 ## About This Role
 
-This software engineer position at Tietoevry was posted on 2026-03-20.
+This data engineer position at Tietoevry was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | Engineering Manager |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000118567006-data-manager) |
+| Category | Data Engineer |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000120662717-data-manager) |
 
 ## About This Role
 
-This engineering manager position at Playtech was posted on 2026-04-03.
+This data engineer position at Playtech was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Just Eat Takeaway.com](https://scoutify.ai/companies/just-eat-takeaway-com?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Fleet-Place-Office/Analytics-Engineer_R_050295) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Fleet-Place-Office/Analytics-Engineer_R_051061) |
 
 ## About This Role
 
-This data engineer position at Just Eat Takeaway.com was posted on 2026-04-02.
+This data engineer position at Just Eat Takeaway.com was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

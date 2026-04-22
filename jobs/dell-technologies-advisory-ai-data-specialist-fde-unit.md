@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dell Technologies](https://scoutify.ai/companies/dell-technologies?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Illinois, US |
+| Location | 3 locations |
 | Category | Data Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Remote---Illinois-United-States/Advisory-AI-Data-Specialist--FDE-Unit-_R287599-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Helsinki-Finland/Advisory-AI-Data-Specialist--FDE-Unit-_R288105-1) |
 
 ## About This Role
 
-This data engineer position at Dell Technologies was posted on 2026-04-09.
+This data engineer position at Dell Technologies was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 
