@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Blumenau, Santa Catarina, Brazil |
-| Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000110166150-engenheiro-de-dados-senior) |
+| Location | Brazil |
+| Category | Data Engineer |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000120946651-engenheiro-de-dados-senior) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-02-19.
+This data engineer position at Experian was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

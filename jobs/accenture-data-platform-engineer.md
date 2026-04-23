@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Coimbatore, Tamil Nadu, India |
 | Category | Data Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Shanghai-Tsidi-Building/Data-Platform-Engineer_14203667) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Coimbatore/Data-Platform-Engineer_ATCI-5475753-S2013863-1) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-04-13.
+This data engineer position at Accenture was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

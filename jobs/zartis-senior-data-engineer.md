@@ -5,12 +5,12 @@
 | Company | [Zartis](https://scoutify.ai/companies/zartis?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Not specified |
 | Category | Data Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.lever.co/zartis/1f228aa0-b119-4a99-b41a-9bde88d09a10) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.lever.co/zartis/7f35e956-2b00-4a01-87e8-f7a0df90de5b) |
 
 ## About This Role
 
-This data engineer position at Zartis was posted on 2026-03-26.
+This data engineer position at Zartis was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

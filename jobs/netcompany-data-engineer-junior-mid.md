@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Athens, Attica, Greece |
-| Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000111599505-data-engineer-junior-mid) |
+| Category | Data Engineer |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000121105947-data-engineer-junior-mid) |
 
 ## About This Role
 
-This software engineer position at Netcompany was posted on 2026-02-26.
+This data engineer position at Netcompany was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

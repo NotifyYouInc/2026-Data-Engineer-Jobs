@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Brazil |
-| Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000114661454-senior-data-engineer-interior-design) |
+| Location | Warsaw, Mazovia, Poland |
+| Category | Data Engineer |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000120891673-senior-data-engineer-interior-design) |
 
 ## About This Role
 
-This software engineer position at Sigma Software was posted on 2026-03-13.
+This data engineer position at Sigma Software was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

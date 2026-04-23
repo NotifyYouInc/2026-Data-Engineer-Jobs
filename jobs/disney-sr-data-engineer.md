@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bristol, Connecticut, United States |
+| Location | Orlando, Florida, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Sr-Data-Engineer_10147749) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Sr-Data-Engineer_10147841-1) |
 
 ## About This Role
 
-This data engineer position at Disney was posted on 2026-04-13.
+This data engineer position at Disney was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

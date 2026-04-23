@@ -5,12 +5,12 @@
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Phoenix, Arizona, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Advanced-Packaging-Yield-Analysis-and-Defect-Engineer_JR0282662) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Advanced-Packaging-Yield-Analysis-and-Defect-Engineer_JR0282664) |
 
 ## About This Role
 
-This data engineer position at Intel was posted on 2026-04-13.
+This data engineer position at Intel was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

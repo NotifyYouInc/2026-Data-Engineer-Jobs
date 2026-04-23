@@ -1,12 +1,12 @@
-# Data Engineer-Data Platforms-Databricks at IBM
+# Data Engineer Data Platforms Databricks at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
+| Location | Giza, Giza, Egypt |
 | Category | Data Engineer |
 | Posted | 2026-04-14 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=109546) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=109606) |
 
 ## About This Role
 

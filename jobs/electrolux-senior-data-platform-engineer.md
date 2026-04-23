@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
-| Category | Software Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Stockholm/Senior-Data-Platform-Engineer_JR76434) |
+| Category | Data Engineer |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Stockholm/Senior-Data-Platform-Engineer_JR76437) |
 
 ## About This Role
 
-This software engineer position at Electrolux was posted on 2026-04-01.
+This data engineer position at Electrolux was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

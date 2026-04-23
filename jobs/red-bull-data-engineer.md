@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Santa Monica, California, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000120511502-data-engineer) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000120810737-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Red Bull was posted on 2026-04-13.
+This data engineer position at Red Bull was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000120401768-data-architect) |
+| Category | Data Engineer |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000120874182-data-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at METRO/MAKRO was posted on 2026-04-13.
+This data engineer position at METRO/MAKRO was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

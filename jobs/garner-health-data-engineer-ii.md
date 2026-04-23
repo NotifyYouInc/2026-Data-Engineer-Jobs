@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Garner Health](https://scoutify.ai/companies/garnerhealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/garnerhealth/jobs/5820417004) |
+| Category | Data Engineer |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/garnerhealth/jobs/5844340004) |
 
 ## About This Role
 
-This software engineer position at Garner Health was posted on 2026-03-06.
+This data engineer position at Garner Health was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

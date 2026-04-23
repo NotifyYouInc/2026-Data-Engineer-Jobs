@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deel](https://scoutify.ai/companies/deel?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Spain |
-| Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/deel/0b334d06-7e00-43e4-97d8-7fe89397d283) |
+| Location | Germany |
+| Category | Data Engineer |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/deel/c5821928-76aa-482a-abb9-a8cb2a487fca) |
 
 ## About This Role
 
-This software engineer position at Deel was posted on 2026-03-06.
+This data engineer position at Deel was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

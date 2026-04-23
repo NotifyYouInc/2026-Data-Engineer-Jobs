@@ -1,16 +1,16 @@
-# Sr Data Engineer at CVS Health
+# Sr. Data Engineer at CVS Health
 
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Maryland, US |
-| Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MD---Work-from-home/Sr-Data-Engineer_R0860959) |
+| Location | United States |
+| Category | Data Engineer |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/WA---Work-from-home/Sr-Data-Engineer_R0835268) |
 
 ## About This Role
 
-This software engineer position at CVS Health was posted on 2026-03-30.
+This data engineer position at CVS Health was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

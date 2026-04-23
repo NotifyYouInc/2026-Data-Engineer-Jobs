@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gunvor](https://scoutify.ai/companies/gunvor?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Houston, Texas, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers/job/Houston/Senior-Data-Engineer_JR102522-1) |
+| Category | Data Engineer |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers/job/Houston/Senior-Data-Engineer_JR102582-2) |
 
 ## About This Role
 
-This devops engineer position at Gunvor was posted on 2026-03-03.
+This data engineer position at Gunvor was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 
