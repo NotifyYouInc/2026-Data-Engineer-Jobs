@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Foster City, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000118223667-senior-data-engineer-data-and-ai-platform) |
+| Category | Data Engineer |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000121253967-senior-data-engineer-data-and-ai-platform) |
 
 ## About This Role
 
-This software engineer position at Visa International Service Association was posted on 2026-04-01.
+This data engineer position at Visa International Service Association was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

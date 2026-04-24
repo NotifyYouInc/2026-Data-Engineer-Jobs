@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Farnborough, England, United Kingdom |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Farnborough-Hampshire-UK/Data-Engineer_R-00175195) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Canberra-Australian-Capital-Territory-Australia/Data-Engineer_R-00181009-1) |
 
 ## About This Role
 
-This data engineer position at Leidos was posted on 2026-02-04.
+This data engineer position at Leidos was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

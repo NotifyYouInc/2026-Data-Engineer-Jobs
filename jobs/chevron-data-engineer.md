@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
-| Category | DevOps Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Buenos-Aires-Buenos-Aires-Argentina/Data-Engineer_R000070146) |
+| Category | Data Engineer |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Buenos-Aires-Buenos-Aires-Argentina/Data-Engineer_R000070750) |
 
 ## About This Role
 
-This devops engineer position at Chevron was posted on 2026-03-31.
+This data engineer position at Chevron was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Italy |
+| Location | Honolulu, Hawaii, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Napoli/Data-Engineer_R0237781) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Honolulu-HI/Data-Engineer_R0237843) |
 
 ## About This Role
 
-This data engineer position at Booz Allen was posted on 2026-04-14.
+This data engineer position at Booz Allen was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

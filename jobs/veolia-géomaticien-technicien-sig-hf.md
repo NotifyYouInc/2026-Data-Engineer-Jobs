@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Vaulx-en-Velin, Rhône-Alpes, France |
+| Location | Beaune, Bourgogne, France |
 | Category | Data Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000119209197-geomaticien-technicien-sig-hf) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000121216538-geomaticien-technicien-sig-hf) |
 
 ## About This Role
 
-This data engineer position at Veolia was posted on 2026-04-07.
+This data engineer position at Veolia was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

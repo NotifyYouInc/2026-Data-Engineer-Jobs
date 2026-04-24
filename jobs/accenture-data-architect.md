@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hangzhou, Zhejiang, China |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hangzhou/Data-Architect_14229959) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Engineer |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Data-Architect_ATCI-5453114-S1986989-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-04-15.
+This data engineer position at Accenture was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

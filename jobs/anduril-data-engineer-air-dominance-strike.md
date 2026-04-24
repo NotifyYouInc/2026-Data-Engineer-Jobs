@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Costa Mesa, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5081752007?gh_jid=5081752007) |
+| Category | Data Engineer |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5111264007?gh_jid=5111264007) |
 
 ## About This Role
 
-This software engineer position at Anduril was posted on 2026-03-17.
+This data engineer position at Anduril was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

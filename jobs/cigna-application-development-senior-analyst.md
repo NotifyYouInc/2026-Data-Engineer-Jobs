@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Application-Development-Senior-Analyst_25016430) |
+| Category | Data Engineer |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Application-Development-Senior-Analyst_26004317) |
 
 ## About This Role
 
-This software engineer position at Cigna was posted on 2026-03-05.
+This data engineer position at Cigna was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

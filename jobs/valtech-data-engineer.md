@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valtech](https://scoutify.ai/companies/valtech?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Brazil |
-| Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/valtech/jobs/4782748101) |
+| Location | Argentina |
+| Category | Data Engineer |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/valtech/jobs/4842358101) |
 
 ## About This Role
 
-This software engineer position at Valtech was posted on 2026-02-18.
+This data engineer position at Valtech was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 
