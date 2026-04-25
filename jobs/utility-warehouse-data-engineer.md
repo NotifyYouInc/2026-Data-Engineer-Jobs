@@ -5,12 +5,12 @@
 | Company | [Utility Warehouse](https://scoutify.ai/companies/utilitywarehouse?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000107716225-data-engineer) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000121414227-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Utility Warehouse was posted on 2026-02-06.
+This data engineer position at Utility Warehouse was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Karnataka, IN |
+| Location | Haryana, IN |
 | Category | Data Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000118857127-group-manager-data-engineering) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000121389522-group-manager-data-engineering) |
 
 ## About This Role
 
-This data engineer position at WNS was posted on 2026-04-06.
+This data engineer position at WNS was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

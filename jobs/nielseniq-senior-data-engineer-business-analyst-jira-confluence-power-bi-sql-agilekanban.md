@@ -1,0 +1,22 @@
+# Senior Data Engineer (Business Analyst - Jira Confluence Power BI SQL Agile/Kanban) at NielsenIQ
+
+| Field | Details |
+|-------|---------|
+| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Pune, Maharashtra, India |
+| Category | Data Engineer |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000121415907-senior-data-engineer-business-analyst-jira-confluence-power-bi-sql-agilekanban) |
+
+## About This Role
+
+This data engineer position at NielsenIQ was posted on 2026-04-17.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

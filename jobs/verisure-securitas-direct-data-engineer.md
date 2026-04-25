@@ -5,12 +5,12 @@
 | Company | [Verisure Securitas Direct](https://scoutify.ai/companies/verisure-securitas-direct?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Alicante, Valencia, Spain |
 | Category | Data Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://verisure.wd3.myworkdayjobs.com/equest/job/Alicante/Data-Engineer_r2026040309-1) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://verisure.wd3.myworkdayjobs.com/equest/job/Alicante/Data-Engineer_r2026040496-1) |
 
 ## About This Role
 
-This data engineer position at Verisure Securitas Direct was posted on 2026-04-13.
+This data engineer position at Verisure Securitas Direct was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Indonesia |
-| Category | Software Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000112115926-data-engineer) |
+| Location | Levallois-Perret, Île-de-France, France |
+| Category | Data Engineer |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000121432155-data-engineer) |
 
 ## About This Role
 
-This software engineer position at Devoteam was posted on 2026-03-02.
+This data engineer position at Devoteam was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

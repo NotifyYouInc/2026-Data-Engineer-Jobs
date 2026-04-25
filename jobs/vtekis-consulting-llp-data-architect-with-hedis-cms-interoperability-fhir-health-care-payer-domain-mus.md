@@ -5,12 +5,12 @@
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Philadelphia, Pennsylvania, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000120496483-data-architect-with-hedis-cms-interoperability-fhir-health-care-payer-domain-must-have) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000121469027-data-architect-with-hedis-cms-interoperability-fhir-health-care-payer-domain-must-have) |
 
 ## About This Role
 
-This data engineer position at VTekis Consulting LLP was posted on 2026-04-13.
+This data engineer position at VTekis Consulting LLP was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

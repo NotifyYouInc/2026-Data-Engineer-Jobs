@@ -1,16 +1,16 @@
-# ETL Engineer - Vice President at Citigroup
+# ETL Engineer – Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Mississauga, Ontario, Canada |
-| Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/ETL-Engineer---Vice-President_26939594) |
+| Category | Data Engineer |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/ETL-Engineer---Vice-President_26956134) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-02-24.
+This data engineer position at Citigroup was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

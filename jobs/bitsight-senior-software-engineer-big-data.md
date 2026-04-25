@@ -1,16 +1,16 @@
-# Senior Software Engineer (big data) at Bitsight
+# Senior Software Engineer (Big Data) at Bitsight
 
 | Field | Details |
 |-------|---------|
 | Company | [Bitsight](https://scoutify.ai/companies/bitsight?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Portugal |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://bitsight.wd1.myworkdayjobs.com/bitsight/job/Remote-Portugal/Senior-Software-Engineer--big-data-_JR101272-1) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://bitsight.wd1.myworkdayjobs.com/bitsight/job/Remote-USA/Senior-Software-Engineer--Big-Data-_JR101276) |
 
 ## About This Role
 
-This software engineer position at Bitsight was posted on 2026-04-08.
+This software engineer position at Bitsight was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Engineering Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Surveillance-Data-Engineering-Manager_R-537209) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Surveillance-Data-Engineering-Manager_R-538225) |
 
 ## About This Role
 
-This engineering manager position at Wells Fargo was posted on 2026-04-15.
+This engineering manager position at Wells Fargo was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Software-Engineer--Data-Platform_JREQ199237) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Software-Engineer--Data-Platform_JREQ199971) |
 
 ## About This Role
 
-This software engineer position at Thomson Reuters was posted on 2026-03-24.
+This software engineer position at Thomson Reuters was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

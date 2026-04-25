@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CRB](https://scoutify.ai/companies/crb?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Denver, Colorado, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CRB/744000117986928-senior-data-engineer) |
+| Category | Data Engineer |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CRB/744000121509197-senior-data-engineer) |
 
 ## About This Role
 
-This software engineer position at CRB was posted on 2026-03-31.
+This data engineer position at CRB was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

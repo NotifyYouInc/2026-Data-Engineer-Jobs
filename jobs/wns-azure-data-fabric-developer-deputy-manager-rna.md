@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000113146477-azure-data-fabric-developer-deputy-manager-rna) |
+| Category | Data Engineer |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000121391347-azure-data-fabric-developer-deputy-manager-rna) |
 
 ## About This Role
 
-This software engineer position at WNS was posted on 2026-03-06.
+This data engineer position at WNS was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

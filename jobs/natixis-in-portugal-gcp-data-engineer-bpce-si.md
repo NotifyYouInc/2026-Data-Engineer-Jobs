@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [natixis-in-portugal](https://scoutify.ai/companies/natixisinportugal?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NatixisInPortugal/744000116683247-gcp-data-engineer-bpce-si) |
+| Category | Data Engineer |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NatixisInPortugal/744000121400067-gcp-data-engineer-bpce-si) |
 
 ## About This Role
 
-This software engineer position at natixis-in-portugal was posted on 2026-03-25.
+This data engineer position at natixis-in-portugal was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 
