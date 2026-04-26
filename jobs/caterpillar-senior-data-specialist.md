@@ -1,16 +1,16 @@
-# Data Engineer at Bjak
+# Senior Data Specialist at Caterpillar
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Malaysia |
+| Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Data Engineer |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/168308fe-f043-4cee-b6a7-8cb7ff61bf89) |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Senior-Data-Specialist_R0000364563) |
 
 ## About This Role
 
-This data engineer position at Bjak was posted on 2026-04-18.
+This data engineer position at Caterpillar was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Engineer at Bjak
+# Data Engineer at Entain
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Malaysia |
+| Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/168308fe-f043-4cee-b6a7-8cb7ff61bf89) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000121580347-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Bjak was posted on 2026-04-18.
+This data engineer position at Entain was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 
