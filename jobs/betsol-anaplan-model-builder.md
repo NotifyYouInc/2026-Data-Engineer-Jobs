@@ -1,16 +1,16 @@
-# Data Engineer III at Walmart
+# Anaplan Model Builder at BETSOL
 
 | Field | Details |
 |-------|---------|
-| Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [BETSOL](https://scoutify.ai/companies/betsol?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-TN-CHENNAI-Home-Office-Capita-Land/Data-Engineer-III_R-2450659-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/betsol/744000121685467-anaplan-model-builder) |
 
 ## About This Role
 
-This data engineer position at Walmart was posted on 2026-04-20.
+This data engineer position at BETSOL was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

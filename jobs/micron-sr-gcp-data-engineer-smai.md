@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms-Azure at IBM
+# Sr GCP Data Engineer, SMAI at Micron
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Kochi, Kerala, India |
+| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
 | Posted | 2026-04-19 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99981) |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Sr-GCP-Data-Engineer--SMAI_JR98220) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-04-19.
+This data engineer position at Micron was posted on 2026-04-19.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Engineer II  at Expedia
+# IND - Senior Engineer, Data at Hartford Financial Services
 
 | Field | Details |
 |-------|---------|
-| Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Hartford Financial Services](https://scoutify.ai/companies/thehartford?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | India |
 | Category | Data Engineer |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Gurgaon/Data-Engineer-II-_R-104298) |
+| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND---Senior-Engineer--Data_R2624898) |
 
 ## About This Role
 
-This data engineer position at Expedia was posted on 2026-04-20.
+This data engineer position at Hartford Financial Services was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

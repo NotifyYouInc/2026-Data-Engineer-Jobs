@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/BI-Engineer_ATCI-5482336-S2006206) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Data-Governance-Practitioner_ATCI-5508795-S2014194-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-04-16.
+This software engineer position at Accenture was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

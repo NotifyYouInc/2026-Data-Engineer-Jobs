@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/AWS-Data-Engineer---Assistant-Vice-President_JR-0000085921) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/AWS-Data-Engineer---Assistant-Vice-President_JR-0000085929) |
 
 ## About This Role
 
-This data engineer position at Barclays was posted on 2026-02-05.
+This data engineer position at Barclays was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

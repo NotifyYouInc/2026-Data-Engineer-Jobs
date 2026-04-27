@@ -1,16 +1,16 @@
-# Data Engineer II  at Expedia
+# Technical Lead - DataWarehouse at Fil
 
 | Field | Details |
 |-------|---------|
-| Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
-| Category | Data Engineer |
+| Company | [Fil](https://scoutify.ai/companies/fil?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | 2 locations |
+| Category | Software Engineer |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Gurgaon/Data-Engineer-II-_R-104298) |
+| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/Dalian-Office/Technical-Lead---DataWarehouse_J66457) |
 
 ## About This Role
 
-This data engineer position at Expedia was posted on 2026-04-20.
+This software engineer position at Fil was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

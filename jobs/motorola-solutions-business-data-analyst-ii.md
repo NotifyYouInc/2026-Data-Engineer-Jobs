@@ -1,16 +1,16 @@
-# Data Engineer III at Walmart
+# Business Data Analyst II at Motorola Solutions
 
 | Field | Details |
 |-------|---------|
-| Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | India |
 | Category | Data Engineer |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-TN-CHENNAI-Home-Office-Capita-Land/Data-Engineer-III_R-2450659-1) |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/India-Offsite-ZIN99/Business-Data-Analyst-II_R63517) |
 
 ## About This Role
 
-This data engineer position at Walmart was posted on 2026-04-20.
+This data engineer position at Motorola Solutions was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 
