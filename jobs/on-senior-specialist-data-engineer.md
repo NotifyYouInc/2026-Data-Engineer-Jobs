@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [On](https://scoutify.ai/companies/on?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Software Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://boards.greenhouse.io/onrunning/jobs/7777071?gh_jid=7777071) |
+| Category | Data Engineer |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://boards.greenhouse.io/onrunning/jobs/7830494?gh_jid=7830494) |
 
 ## About This Role
 
-This software engineer position at On was posted on 2026-04-08.
+This data engineer position at On was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

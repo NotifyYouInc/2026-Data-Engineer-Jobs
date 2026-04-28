@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-Engineer---Data-Engineering-Generative-AI_R-529895) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-Engineer---Data-Engineering-Generative-AI_R-538966) |
 
 ## About This Role
 
-This software engineer position at Wells Fargo was posted on 2026-03-18.
+This software engineer position at Wells Fargo was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

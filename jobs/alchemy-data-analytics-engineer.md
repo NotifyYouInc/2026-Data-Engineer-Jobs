@@ -1,16 +1,16 @@
-# Data Analytics Engineer  at alchemy
+# Data Analytics Engineer at alchemy
 
 | Field | Details |
 |-------|---------|
 | Company | [alchemy](https://scoutify.ai/companies/alchemy-alchemy?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | New York, US |
+| Location | New York City, New York, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/alchemy/75e6dd36-4916-4e72-a596-037945fd741f) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/alchemy/cdb0fb07-d52a-42d8-b4e6-d037c2afeb10) |
 
 ## About This Role
 
-This data engineer position at alchemy was posted on 2026-04-01.
+This data engineer position at alchemy was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

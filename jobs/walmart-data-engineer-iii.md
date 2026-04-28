@@ -1,12 +1,12 @@
-# Data Engineer III at Walmart
+# DATA ENGINEER III at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Karnataka, IN |
 | Category | Data Engineer |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-TN-CHENNAI-Home-Office-Capita-Land/Data-Engineer-III_R-2450659-1) |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-11/DATA-ENGINEER-III_R-2420942) |
 
 ## About This Role
 

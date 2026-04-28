@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 4 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Data-Engineer_26946543) |
+| Location | Pune, Maharashtra, India |
+| Category | Data Engineer |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Data-Engineer_26945177) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-03-17.
+This data engineer position at Citigroup was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

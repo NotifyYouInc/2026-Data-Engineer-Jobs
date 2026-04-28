@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | San Jose, California, United States |
 | Category | Data Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Staff-Data-Engineer_R0135132-1) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Staff-Data-Engineer_R0136028-1) |
 
 ## About This Role
 
-This data engineer position at PayPal was posted on 2026-03-06.
+This data engineer position at PayPal was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

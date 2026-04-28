@@ -5,12 +5,12 @@
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Birmingham, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000113427707-artificial-intelligence-automation-data-engineer-12-month-fixed-term-contract) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000121741077-artificial-intelligence-automation-data-engineer-12-month-fixed-term-contract) |
 
 ## About This Role
 
-This data engineer position at Smiths Group was posted on 2026-03-09.
+This data engineer position at Smiths Group was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

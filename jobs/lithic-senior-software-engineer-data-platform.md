@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lithic](https://scoutify.ai/companies/lithic?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | New York, US |
+| Location | Canada |
 | Category | Software Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/lithic/jobs/5833301004) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lithic/jobs/5977140004) |
 
 ## About This Role
 
-This software engineer position at Lithic was posted on 2026-04-15.
+This software engineer position at Lithic was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

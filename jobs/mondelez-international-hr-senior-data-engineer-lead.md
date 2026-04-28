@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Manila, National Capital Region, Philippines |
-| Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Manila-Philippines/HR-Senior-Data-Engineer-Lead_R-161348) |
+| Location | 2 locations |
+| Category | Data Engineer |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Santa-F-Mexico/HR-Senior-Data-Engineer-Lead_R-165547) |
 
 ## About This Role
 
-This software engineer position at Mondelez International was posted on 2026-03-03.
+This data engineer position at Mondelez International was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

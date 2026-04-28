@@ -5,12 +5,12 @@
 | Company | [Chime](https://scoutify.ai/companies/chime?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://boards.greenhouse.io/chime/jobs/8457138002?gh_jid=8457138002) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://boards.greenhouse.io/chime/jobs/8457140002?gh_jid=8457140002) |
 
 ## About This Role
 
-This software engineer position at Chime was posted on 2026-03-19.
+This software engineer position at Chime was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

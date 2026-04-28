@@ -1,16 +1,16 @@
-# Lead Data Engineer at McKesson
+# Lead, Data Engineer at McKesson
 
 | Field | Details |
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-GA-Alpharetta/Lead-Data-Engineer_JR0144069) |
+| Location | Mississauga, Ontario, Canada |
+| Category | Data Engineer |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Lead--Data-Engineer_JR0145240) |
 
 ## About This Role
 
-This software engineer position at McKesson was posted on 2026-03-23.
+This data engineer position at McKesson was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

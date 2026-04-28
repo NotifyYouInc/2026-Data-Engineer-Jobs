@@ -5,12 +5,12 @@
 | Company | [natixis-in-portugal](https://scoutify.ai/companies/natixisinportugal?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Data Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NatixisInPortugal/744000121397485-python-data-engineer-french-speaker-bpce-si) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NatixisInPortugal/744000121817747-python-data-engineer-french-speaker-bpce-si) |
 
 ## About This Role
 
-This data engineer position at natixis-in-portugal was posted on 2026-04-17.
+This data engineer position at natixis-in-portugal was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 
