@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Kolkata, West Bengal, India |
 | Category | Data Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru-BDC9A/Data-Eng--Mgmt---Governance-Specialist_AIOC-S01608522-1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Data-Eng--Mgmt---Governance-Sr-Analyst_AIOC-S01639860-1) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-04-17.
+This data engineer position at Accenture was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

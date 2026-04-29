@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Rawalpindi, Punjab, Pakistan |
-| Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000116431797-data-transformation-specialist) |
+| Location | Lahore, Punjab, Pakistan |
+| Category | Data Engineer |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000122036812-data-transformation-specialist) |
 
 ## About This Role
 
-This software engineer position at NielsenIQ was posted on 2026-03-24.
+This data engineer position at NielsenIQ was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

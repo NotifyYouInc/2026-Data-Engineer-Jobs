@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Santiago, Santiago Metropolitan, Chile |
 | Category | Data Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/ESP---Madrid---Castellana/Data-Engineer_J00175751) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CHL-Titanium-Piso-27/Data-Engineer_J00176030) |
 
 ## About This Role
 
-This data engineer position at Equifax was posted on 2026-04-06.
+This data engineer position at Equifax was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

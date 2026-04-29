@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Canada |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre-en-ingnierie-des-donnes--Campagnes-Marketing_R2601679) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre-en-dveloppement-de-solution-en-intelligence-artificielle_R2605245) |
 
 ## About This Role
 
-This data engineer position at Desjardins was posted on 2026-02-04.
+This data engineer position at Desjardins was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

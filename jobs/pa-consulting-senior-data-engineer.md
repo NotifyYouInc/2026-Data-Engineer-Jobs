@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United Kingdom |
-| Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000117671984-senior-data-engineer) |
+| Location | Boston, Massachusetts, United States |
+| Category | Data Engineer |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000121983878-senior-data-engineer) |
 
 ## About This Role
 
-This software engineer position at PA Consulting was posted on 2026-03-30.
+This data engineer position at PA Consulting was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

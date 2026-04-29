@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Burlingame, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/4169676493344611) |
+| Location | Bellevue, Washington, United States |
+| Category | Data Engineer |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1829942517671935) |
 
 ## About This Role
 
-This software engineer position at Meta was posted on 2026-03-25.
+This data engineer position at Meta was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

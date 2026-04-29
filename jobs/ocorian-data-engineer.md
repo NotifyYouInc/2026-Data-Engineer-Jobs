@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ocorian](https://scoutify.ai/companies/ocorian?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Mauritius |
-| Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000116391812-data-engineer) |
+| Location | Moka, Moka, Mauritius |
+| Category | Data Engineer |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000122005048-data-engineer) |
 
 ## About This Role
 
-This software engineer position at Ocorian was posted on 2026-03-24.
+This data engineer position at Ocorian was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

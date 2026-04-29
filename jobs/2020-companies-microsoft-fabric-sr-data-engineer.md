@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [2020 Companies](https://scoutify.ai/companies/2020-companies?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 3 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Chicago-IL/Microsoft-Fabric-Sr-Data-Engineer_REQ_100764) |
+| Location | Southlake, Texas, United States |
+| Category | Data Engineer |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Southlake-TX/Microsoft-Fabric-Sr-Data-Engineer_REQ_103178) |
 
 ## About This Role
 
-This software engineer position at 2020 Companies was posted on 2026-03-20.
+This data engineer position at 2020 Companies was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

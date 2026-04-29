@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Data Engineer |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=96378) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=111066) |
 
 ## About This Role
 

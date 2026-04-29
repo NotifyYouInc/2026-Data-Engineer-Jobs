@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | McLean, Virginia, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Arlington/Palantir-Data-Engineer_38127) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/Palantir-Data-Engineer_38627) |
 
 ## About This Role
 
-This data engineer position at Guidehouse was posted on 2026-04-07.
+This data engineer position at Guidehouse was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

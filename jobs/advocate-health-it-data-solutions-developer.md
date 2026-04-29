@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Advocate Health](https://scoutify.ai/companies/advocate-health-llc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Arkansas, US |
-| Category | Software Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Remote/IT-Data-Solutions-Developer_R226425-1) |
+| Location | United States |
+| Category | Data Engineer |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Remote/IT-Data-Solutions-Developer_R230287) |
 
 ## About This Role
 
-This software engineer position at Advocate Health was posted on 2026-03-27.
+This data engineer position at Advocate Health was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

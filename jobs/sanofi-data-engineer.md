@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Data-Engineer_R2845346-1) |
+| Location | Barcelona, Catalonia, Spain |
+| Category | Data Engineer |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Barcelona/Data-Engineer_R2852281-1) |
 
 ## About This Role
 
-This software engineer position at Sanofi was posted on 2026-03-03.
+This data engineer position at Sanofi was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

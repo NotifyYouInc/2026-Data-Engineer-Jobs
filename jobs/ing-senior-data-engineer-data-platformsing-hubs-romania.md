@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bucharest, București, Romania |
-| Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bucharest---Dacia-One/Senior-Data-Engineer---Data-Platforms-ING-Hubs-Romania_REQ-10109937) |
+| Category | Data Engineer |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bucharest---Dacia-One/Senior-Data-Engineer---Data-Platforms-ING-Hubs-Romania_REQ-10113377) |
 
 ## About This Role
 
-This software engineer position at ING was posted on 2026-02-24.
+This data engineer position at ING was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

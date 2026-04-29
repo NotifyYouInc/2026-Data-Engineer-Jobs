@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elanco](https://scoutify.ai/companies/elanco?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hook, England, United Kingdom |
+| Location | Indianapolis, Indiana, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://elanco.wd5.myworkdayjobs.com/External_Career/job/UK---Hook/Lead-Data-Engineer_R0025516-1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Lead-Data-Engineer_R0025515-1) |
 
 ## About This Role
 
-This data engineer position at Elanco was posted on 2026-04-17.
+This data engineer position at Elanco was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

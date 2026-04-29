@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Clayton, North Carolina, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA-Missouri---St-Louis---Clayton/Senior-Data-Engineer_J00175348) |
+| Location | Alpharetta, Georgia, United States |
+| Category | Data Engineer |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Georgia---Alpharetta---30005/Senior-Data-Engineer_J00176095) |
 
 ## About This Role
 
-This software engineer position at Equifax was posted on 2026-03-10.
+This data engineer position at Equifax was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

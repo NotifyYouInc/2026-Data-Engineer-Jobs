@@ -1,16 +1,16 @@
-# Data Engineer at ALTEN
+# Data Engineer  at ALTEN
 
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Lille, Hauts-de-France, France |
-| Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000110731824-data-engineer) |
+| Category | Data Engineer |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000121994064-data-engineer) |
 
 ## About This Role
 
-This software engineer position at ALTEN was posted on 2026-02-23.
+This data engineer position at ALTEN was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

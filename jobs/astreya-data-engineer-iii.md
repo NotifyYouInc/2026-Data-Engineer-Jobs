@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Austin, Texas, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Austin-TX/Data-Engineer-III_R0014944) |
+| Location | India |
+| Category | Data Engineer |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-India/Data-Engineer-III_R0015276) |
 
 ## About This Role
 
-This devops engineer position at Astreya was posted on 2026-03-12.
+This data engineer position at Astreya was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 
