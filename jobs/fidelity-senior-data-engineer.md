@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Smithfield, Rhode Island, United States |
+| Location | Westlake, Ohio, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Smithfield-RI/Senior-Data-Engineer_2121834-2) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Senior-Data-Engineer_2125847-2) |
 
 ## About This Role
 
-This data engineer position at Fidelity was posted on 2026-04-20.
+This data engineer position at Fidelity was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

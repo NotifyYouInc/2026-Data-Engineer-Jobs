@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Quebec, CA |
-| Category | Software Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000118470857-data-developer-tg-quality-engineering-tgqf) |
+| Location | Canada |
+| Category | Data Engineer |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000122258928-data-developer-tg-quality-engineering-tgqf) |
 
 ## About This Role
 
-This software engineer position at Ubisoft was posted on 2026-04-02.
+This data engineer position at Ubisoft was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

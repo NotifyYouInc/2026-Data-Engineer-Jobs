@@ -1,16 +1,16 @@
-# Manager, Data Engineer at WPP Media
+# Manager-Data Engineer at WPP Media
 
 | Field | Details |
 |-------|---------|
 | Company | [WPP Media](https://scoutify.ai/companies/wpp-media?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Not specified |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5146916008) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5065098008) |
 
 ## About This Role
 
-This data engineer position at WPP Media was posted on 2026-04-13.
+This data engineer position at WPP Media was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

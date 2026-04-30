@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Fort Walton Beach, Florida, United States |
+| Location | Huntsville, Alabama, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Walton-Beach-FL/Data-Engineer--Mid_R0237656) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Huntsville-AL/Data-Engineer--Mid_R0238365-1) |
 
 ## About This Role
 
-This data engineer position at Booz Allen was posted on 2026-04-13.
+This data engineer position at Booz Allen was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bhubaneswar, Odisha, India |
+| Location | 3 locations |
 | Category | Data Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bhubaneswar/Data-Modeler_ATCI-5531546-S2016140-1) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Data-Modeler_ATCI-5349585-S1999991-1) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-04-20.
+This data engineer position at Accenture was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

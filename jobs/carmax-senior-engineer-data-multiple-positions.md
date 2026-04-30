@@ -5,12 +5,12 @@
 | Company | [CarMax](https://scoutify.ai/companies/carmax?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Plano, Texas, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://carmax.wd1.myworkdayjobs.com/External/job/TX---Dallas-Technology/Senior-Engineer--Data--multiple-positions-_JR-175961) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://carmax.wd1.myworkdayjobs.com/External/job/TX---Dallas-Technology/Senior-Engineer--Data--multiple-positions-_JR-176357) |
 
 ## About This Role
 
-This data engineer position at CarMax was posted on 2026-04-15.
+This data engineer position at CarMax was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

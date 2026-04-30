@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nearmap](https://scoutify.ai/companies/nearmap?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Software Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nearmap/744000112122267-senior-data-engineer) |
+| Category | Data Engineer |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nearmap/744000122342475-senior-data-engineer) |
 
 ## About This Role
 
-This software engineer position at Nearmap was posted on 2026-03-02.
+This data engineer position at Nearmap was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

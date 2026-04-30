@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Magna](https://scoutify.ai/companies/magna?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Slovakia |
-| Category | Software Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Kechnec-SK/Data-Engineer_R00234251) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Engineer |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Bangalore-IN/Data-Engineer_R00223914) |
 
 ## About This Role
 
-This software engineer position at Magna was posted on 2026-03-17.
+This data engineer position at Magna was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

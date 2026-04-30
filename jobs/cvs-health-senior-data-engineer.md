@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Wellesley, Massachusetts, United States |
+| Location | Irving, Texas, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MA---Wellesley/Senior-Data-Engineer_R0835947-1) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Senior-Data-Engineer_R0891167) |
 
 ## About This Role
 
-This data engineer position at CVS Health was posted on 2026-04-17.
+This data engineer position at CVS Health was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

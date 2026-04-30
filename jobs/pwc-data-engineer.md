@@ -5,12 +5,12 @@
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Johannesburg, Gauteng, South Africa |
 | Category | Data Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Johannesburg/Data-Engineer_711404WD) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Johannesburg/Data-Engineer_723669WD) |
 
 ## About This Role
 
-This data engineer position at PwC was posted on 2026-04-21.
+This data engineer position at PwC was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

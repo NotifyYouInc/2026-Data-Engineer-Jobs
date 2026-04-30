@@ -6,7 +6,7 @@
 | Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
 | Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000121941637-apac-standard-template) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000122102997-apac-standard-template) |
 
 ## About This Role
 

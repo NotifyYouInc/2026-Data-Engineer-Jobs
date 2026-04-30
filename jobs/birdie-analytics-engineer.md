@@ -5,12 +5,12 @@
 | Company | [Birdie](https://scoutify.ai/companies/birdie?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/birdie/dac0fc14-3ff0-4f73-85c8-cc0c8160442d) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/birdie/3736cd29-b03c-4f41-9fa4-fc1c989bbb42) |
 
 ## About This Role
 
-This data engineer position at Birdie was posted on 2026-03-01.
+This data engineer position at Birdie was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 
