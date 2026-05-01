@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KION Group](https://scoutify.ai/companies/kion-group?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Banbury-United-Kingdom/Data-Engineer_JR-0087670-1) |
+| Location | Barcelona, Catalonia, Spain |
+| Category | Data Engineer |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Barcelona-Spain/Data-Engineer_JR-0091154) |
 
 ## About This Role
 
-This software engineer position at KION Group was posted on 2026-03-20.
+This data engineer position at KION Group was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

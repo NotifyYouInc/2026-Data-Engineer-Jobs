@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000118648429-data-modeler) |
+| Category | Data Engineer |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000122464604-data-modeler) |
 
 ## About This Role
 
-This software engineer position at EVERSANA was posted on 2026-04-03.
+This data engineer position at EVERSANA was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

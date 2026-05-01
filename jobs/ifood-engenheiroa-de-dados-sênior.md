@@ -5,12 +5,12 @@
 | Company | [iFood](https://scoutify.ai/companies/ifood?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Brazil |
 | Category | Data Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ifoodcarreiras/jobs/8460624002) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ifoodcarreiras/jobs/8520601002) |
 
 ## About This Role
 
-This data engineer position at iFood was posted on 2026-04-08.
+This data engineer position at iFood was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

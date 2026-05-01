@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vibe](https://scoutify.ai/companies/vibe?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United States |
+| Location | Paris, Île-de-France, France |
 | Category | Engineering Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/vibe/fb36290f-263a-436e-926b-1422d2b0f444) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/vibe/f44a8330-3f93-489a-bbfb-1ea9c98c7fd0) |
 
 ## About This Role
 
-This engineering manager position at Vibe was posted on 2026-03-24.
+This engineering manager position at Vibe was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

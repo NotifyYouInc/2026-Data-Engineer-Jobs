@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | New York City, New York, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Distinguished-Data-Engineer_R240284-1) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Distinguished-Data-Engineer_R241127-1) |
 
 ## About This Role
 
-This data engineer position at Capital One was posted on 2026-04-17.
+This data engineer position at Capital One was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

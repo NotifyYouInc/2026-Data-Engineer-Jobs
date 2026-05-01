@@ -1,16 +1,16 @@
-# Senior Data Engineer  at Experian
+# Senior Data Engineer at Experian
 
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Heredia, Heredia Province, Costa Rica |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000121888757-senior-data-engineer) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000122598914-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Experian was posted on 2026-04-20.
+This data engineer position at Experian was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

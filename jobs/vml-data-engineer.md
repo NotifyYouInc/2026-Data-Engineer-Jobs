@@ -1,16 +1,16 @@
-# Data Engineer  at VML
+# Data Engineer at VML
 
 | Field | Details |
 |-------|---------|
 | Company | [VML](https://scoutify.ai/companies/vml?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Copenhagen, Capital Region, Denmark |
 | Category | Data Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://www.vml.com/careers/job/8496407002?gh_jid=8496407002) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://www.vml.com/careers/job/8296858002?gh_jid=8296858002) |
 
 ## About This Role
 
-This data engineer position at VML was posted on 2026-04-13.
+This data engineer position at VML was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

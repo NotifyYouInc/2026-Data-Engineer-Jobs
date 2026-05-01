@@ -1,16 +1,16 @@
-# Data Engineer II  at Expedia
+# Data Engineer II at Expedia
 
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
+| Location | Gurugram, Haryana, India |
 | Category | Data Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Gurgaon/Data-Engineer-II-_R-104298) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Gurgaon/Data-Engineer-II_R-105090) |
 
 ## About This Role
 
-This data engineer position at Expedia was posted on 2026-04-20.
+This data engineer position at Expedia was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

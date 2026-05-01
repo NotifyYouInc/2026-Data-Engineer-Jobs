@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Reston/Data-Engineer_R179791-1) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---Remote-Any-Location/Data-Engineer_R180058-1) |
 
 ## About This Role
 
-This data engineer position at Parsons was posted on 2026-04-17.
+This data engineer position at Parsons was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

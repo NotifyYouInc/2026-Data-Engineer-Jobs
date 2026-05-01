@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 4 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Waukegan-IL/Senior-Data-Engineer_R262332-1) |
+| Location | 5 locations |
+| Category | Data Engineer |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Waukegan-IL/Senior-Data-Engineer_R263361-2) |
 
 ## About This Role
 
-This software engineer position at Uline was posted on 2026-03-19.
+This data engineer position at Uline was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

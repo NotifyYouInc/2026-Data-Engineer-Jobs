@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 3 locations |
+| Location | Raleigh, North Carolina, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Cape-Town/Data-Engineer-III_R111721) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Data-Engineer-III_R112429) |
 
 ## About This Role
 
-This data engineer position at LexisNexis Risk Solutions was posted on 2026-04-16.
+This data engineer position at LexisNexis Risk Solutions was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 
