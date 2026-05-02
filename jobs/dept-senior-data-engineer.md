@@ -1,16 +1,16 @@
-# Senior, Data Engineer at DEPT®
+# Senior Data Engineer at DEPT®
 
 | Field | Details |
 |-------|---------|
 | Company | [DEPT®](https://scoutify.ai/companies/dept?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Argentina |
+| Location | 4 locations |
 | Category | Data Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/7843170) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/7757633) |
 
 ## About This Role
 
-This data engineer position at DEPT® was posted on 2026-04-22.
+This data engineer position at DEPT® was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

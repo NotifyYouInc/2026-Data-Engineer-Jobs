@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Engineering Manager |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru-BDC9A/Data-Eng--Mgmt---Governance-Assoc-Mgr_AIOC-S01635342-1) |
+| Location | Gurugram, Haryana, India |
+| Category | Data Engineer |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Data-Eng--Mgmt---Governance-Assoc-Mgr_AIOC-S01641500-1) |
 
 ## About This Role
 
-This engineering manager position at Accenture was posted on 2026-04-02.
+This data engineer position at Accenture was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

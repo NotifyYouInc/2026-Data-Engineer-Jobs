@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Indore, Madhya Pradesh, India |
+| Location | Gurugram, Haryana, India |
 | Category | Data Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Indore/AI---ML-Engineer_ATCI-5531947-S2016365-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/AI---ML-Engineer_ATCI-5284994-S1931506-1) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-04-20.
+This data engineer position at Accenture was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

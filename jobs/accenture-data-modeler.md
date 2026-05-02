@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Indore, Madhya Pradesh, India |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Indore/Data-Modeler_ATCI-5027021-S1867683-1) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Data-Modeler_ATCI-5400177-S1967878) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-04-22.
+This data engineer position at Accenture was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

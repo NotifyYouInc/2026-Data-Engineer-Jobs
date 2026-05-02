@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Nantes, Pays de la Loire, France |
-| Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000116662575-data-engineer-spark-databricks-hf) |
+| Category | Data Engineer |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000122719040-data-engineer-spark-databricks-hf) |
 
 ## About This Role
 
-This software engineer position at Devoteam was posted on 2026-03-25.
+This data engineer position at Devoteam was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

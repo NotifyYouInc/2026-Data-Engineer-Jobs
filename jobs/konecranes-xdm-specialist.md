@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Konecranes](https://scoutify.ai/companies/konecranes?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Finland |
-| Category | Software Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000118096194-xdm-specialist) |
+| Category | Data Engineer |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000122618969-xdm-specialist) |
 
 ## About This Role
 
-This software engineer position at Konecranes was posted on 2026-04-01.
+This data engineer position at Konecranes was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

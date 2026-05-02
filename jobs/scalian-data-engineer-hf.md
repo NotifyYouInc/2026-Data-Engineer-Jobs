@@ -1,16 +1,16 @@
-# Data Engineer  H/F at Scalian
+# Data Engineer H/F at Scalian
 
 | Field | Details |
 |-------|---------|
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Lille, Hauts-de-France, France |
-| Category | Software Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000112213189-data-engineer-hf) |
+| Location | Marseille, Provence-Alpes-Côte d'Azur, France |
+| Category | Data Engineer |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000122639689-data-engineer-hf) |
 
 ## About This Role
 
-This software engineer position at Scalian was posted on 2026-03-02.
+This data engineer position at Scalian was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

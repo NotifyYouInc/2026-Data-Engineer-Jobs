@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Lille, Hauts-de-France, France |
 | Category | Data Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000120340017-data-engineer-cloud-confirme-senior-fh) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000122636459-data-engineer-cloud-confirme-senior-fh) |
 
 ## About This Role
 
-This data engineer position at Talan was posted on 2026-04-13.
+This data engineer position at Talan was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

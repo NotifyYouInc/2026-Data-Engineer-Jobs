@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ippon](https://scoutify.ai/companies/ippon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Toulouse, Occitanie, France |
+| Location | Paris, Île-de-France, France |
 | Category | Data Engineer |
-| Posted | 2023-02-01 |
-| Apply | [View on company site](https://jobs.lever.co/ippon/08c21aca-df5f-4e5f-a7b6-5cbac45e03d0) |
+| Posted | 2025-03-21 |
+| Apply | [View on company site](https://jobs.lever.co/ippon/075f6b65-69f6-4389-80c8-00ef5ee35c2f) |
 
 ## About This Role
 
-This data engineer position at Ippon was posted on 2023-02-01.
+This data engineer position at Ippon was posted on 2025-03-21.
 
 ## Get Real-Time Alerts
 

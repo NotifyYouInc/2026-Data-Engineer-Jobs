@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Legora (formerly Leya)](https://scoutify.ai/companies/legora?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
+| Location | New York City, New York, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/legora/3f2559f4-5174-4b28-8a04-578829863c18) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/legora/8f345c52-092e-495f-80fe-7413cb408180) |
 
 ## About This Role
 
-This data engineer position at Legora (formerly Leya) was posted on 2026-04-22.
+This data engineer position at Legora (formerly Leya) was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

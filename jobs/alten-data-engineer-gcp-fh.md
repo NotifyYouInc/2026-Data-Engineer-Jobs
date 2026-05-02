@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Boulogne-Billancourt, Île-de-France, France |
+| Location | Paris, Île-de-France, France |
 | Category | Data Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000106792335-data-engineer-gcp-fh) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000122664801-data-engineer-gcp-fh) |
 
 ## About This Role
 
-This data engineer position at ALTEN was posted on 2026-02-02.
+This data engineer position at ALTEN was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 
