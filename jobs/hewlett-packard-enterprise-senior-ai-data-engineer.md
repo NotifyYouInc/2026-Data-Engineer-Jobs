@@ -1,16 +1,16 @@
-# Senior AI Data Engineer at Hewlett Packard Enterprise
+# Senior AI & Data Engineer at Hewlett Packard Enterprise
 
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-04-23 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Senior-AI-Data-Engineer_1205612) |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Senior-AI---Data-Engineer_1205609) |
 
 ## About This Role
 
-This data engineer position at Hewlett Packard Enterprise was posted on 2026-04-23.
+This ai / llm engineer position at Hewlett Packard Enterprise was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

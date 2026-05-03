@@ -1,16 +1,16 @@
-# Data Engineer at Bjak
+# Data Center Design Engineer at Tensorwave
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | China |
+| Company | [Tensorwave](https://scoutify.ai/companies/tensorwave?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/29fe2e64-e134-4cb1-a94e-34b36162b4be) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/tensorwave/567e6e9f-7039-4b7a-bef4-8ed2595a645b) |
 
 ## About This Role
 
-This data engineer position at Bjak was posted on 2026-04-25.
+This data engineer position at Tensorwave was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

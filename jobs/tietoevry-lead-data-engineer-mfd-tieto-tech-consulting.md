@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Graz, Styria, Austria |
+| Location | Regensburg, Bavaria, Germany |
 | Category | Data Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000120613969-lead-data-engineer-mfd-tieto-tech-consulting) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000122912799-lead-data-engineer-mfd-tieto-tech-consulting) |
 
 ## About This Role
 
-This data engineer position at Tietoevry was posted on 2026-04-14.
+This data engineer position at Tietoevry was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

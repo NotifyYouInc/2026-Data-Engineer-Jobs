@@ -1,16 +1,16 @@
-# Data Engineer at Bjak
+# BI Data Engineer at NiCE
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | China |
+| Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Israel |
 | Category | Data Engineer |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/29fe2e64-e134-4cb1-a94e-34b36162b4be) |
+| Posted | 2026-04-26 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4845305101?gh_jid=4845305101) |
 
 ## About This Role
 
-This data engineer position at Bjak was posted on 2026-04-25.
+This data engineer position at NiCE was posted on 2026-04-26.
 
 ## Get Real-Time Alerts
 

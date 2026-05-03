@@ -1,16 +1,16 @@
-# Data Architect at Accenture
+# Software Engineer, Data Infrastructure & Acquisition - Bangalore, India at Speechify
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Speechify](https://scoutify.ai/companies/speechify?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5310210-S1937301-1) |
+| Category | Software Engineer |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/speechify/jobs/5975146004) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-04-23.
+This software engineer position at Speechify was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

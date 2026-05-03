@@ -1,16 +1,16 @@
-# Data Engineer at Bjak
+# Senior Ab‑Initio Developer at Synechron
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | China |
+| Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | 2 locations |
 | Category | Data Engineer |
 | Posted | 2026-04-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/29fe2e64-e134-4cb1-a94e-34b36162b4be) |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---Thanissandra-BCIT/Senior-Ab-Initio-Developer_JR1038121) |
 
 ## About This Role
 
-This data engineer position at Bjak was posted on 2026-04-25.
+This data engineer position at Synechron was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

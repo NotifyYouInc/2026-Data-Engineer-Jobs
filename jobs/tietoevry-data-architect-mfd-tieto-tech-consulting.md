@@ -1,16 +1,16 @@
-# Data Engineer at Bjak
+# Data Architect (m/f/d) - Tieto Tech Consulting at Tietoevry
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | China |
+| Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Regensburg, Bavaria, Germany |
 | Category | Data Engineer |
 | Posted | 2026-04-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/29fe2e64-e134-4cb1-a94e-34b36162b4be) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000122912689-data-architect-mfd-tieto-tech-consulting) |
 
 ## About This Role
 
-This data engineer position at Bjak was posted on 2026-04-25.
+This data engineer position at Tietoevry was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

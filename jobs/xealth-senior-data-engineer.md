@@ -1,16 +1,16 @@
-# Data Engineer at Bjak
+# Senior Data Engineer at Xealth
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | China |
+| Company | [Xealth](https://scoutify.ai/companies/xealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Seattle, Washington, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/29fe2e64-e134-4cb1-a94e-34b36162b4be) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/xealth/jobs/7550718003) |
 
 ## About This Role
 
-This data engineer position at Bjak was posted on 2026-04-25.
+This data engineer position at Xealth was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Engineer at Bjak
+# Data Engineer at City of New York
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | China |
+| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | New York City, New York, United States |
 | Category | Data Engineer |
 | Posted | 2026-04-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/29fe2e64-e134-4cb1-a94e-34b36162b4be) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990012822421-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Bjak was posted on 2026-04-25.
+This data engineer position at City of New York was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 
