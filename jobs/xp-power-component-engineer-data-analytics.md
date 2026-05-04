@@ -1,16 +1,16 @@
-# Data Engineer at NCS
+# Component Engineer – Data Analytics at XP Power
 
 | Field | Details |
 |-------|---------|
-| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [XP Power](https://scoutify.ai/companies/xp-power?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Engineer |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001025821-data-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/xppower2/744000123110229-component-engineer-data-analytics) |
 
 ## About This Role
 
-This data engineer position at NCS was posted on 2026-04-27.
+This data engineer position at XP Power was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

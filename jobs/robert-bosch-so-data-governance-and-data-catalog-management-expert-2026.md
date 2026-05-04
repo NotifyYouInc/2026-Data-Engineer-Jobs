@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000116176418-so-data-governance-and-data-catalog-management-expert-2026) |
+| Category | Data Engineer |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123123049-so-data-governance-and-data-catalog-management-expert-2026) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-03-23.
+This data engineer position at Robert Bosch was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

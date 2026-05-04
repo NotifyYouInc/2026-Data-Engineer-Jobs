@@ -5,12 +5,12 @@
 | Company | [Athena Health](https://scoutify.ai/companies/athenahealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Data Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Chennai-India/Senior-Product-Analytics-Associate_R13812-1) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Chennai-India/Senior-Product-Analytics-Associate_R14899-1) |
 
 ## About This Role
 
-This data engineer position at Athena Health was posted on 2026-04-22.
+This data engineer position at Athena Health was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

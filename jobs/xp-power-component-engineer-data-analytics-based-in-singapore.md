@@ -5,12 +5,12 @@
 | Company | [XP Power](https://scoutify.ai/companies/xp-power?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/xppower2/744000118992222-component-engineer-data-analytics-based-in-singapore) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/xppower2/744000123116984-component-engineer-data-analytics-based-in-singapore) |
 
 ## About This Role
 
-This data engineer position at XP Power was posted on 2026-04-07.
+This data engineer position at XP Power was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Custom Software Engineer at Accenture
+# DataBricks Engineer at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
+| Location | Singapore, Singapore |
+| Category | Data Engineer |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5542059-S2019001-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Singapore/DataBricks-Engineer_14260862) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-04-27.
+This data engineer position at Accenture was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

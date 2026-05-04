@@ -1,16 +1,16 @@
-# Data Engineer at NCS
+# Sanofi Manufacturing Innovators Program_MSAT Data Engineer Trainee at Sanofi
 
 | Field | Details |
 |-------|---------|
-| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Engineer |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001025821-data-engineer) |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/City-of-Singapore/Sanofi-Manufacturing-Innovators-Program-MSAT-Data-Engineer-Trainee_R2855158) |
 
 ## About This Role
 
-This data engineer position at NCS was posted on 2026-04-27.
+This data engineer position at Sanofi was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 
