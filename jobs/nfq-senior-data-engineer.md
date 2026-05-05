@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nfq](https://scoutify.ai/companies/nfq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2025-12-31 |
-| Apply | [View on company site](https://jobs.lever.co/nfq/72f6984a-d7bc-478d-b258-5fdf5bf9819e) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.lever.co/nfq/32b2477f-4627-412e-9a1d-38015a280db0) |
 
 ## About This Role
 
-This data engineer position at Nfq was posted on 2025-12-31.
+This data engineer position at Nfq was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

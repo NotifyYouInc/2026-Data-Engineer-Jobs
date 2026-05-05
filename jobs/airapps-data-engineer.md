@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airapps](https://scoutify.ai/companies/airapps?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Data Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/airapps/4a3bc552-af0f-4802-a3cf-d2be0ad2c6c0) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airapps/a7fbd9ce-065f-43d2-9176-1b5fe3d9e80a) |
 
 ## About This Role
 
-This data engineer position at Airapps was posted on 2026-04-16.
+This data engineer position at Airapps was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

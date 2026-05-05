@@ -5,12 +5,12 @@
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bengaluru/Sr-Analytics-Engineer_R5038007-2) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bengaluru/Sr-Analytics-Engineer_R5038484-2) |
 
 ## About This Role
 
-This data engineer position at GE Vernova was posted on 2026-04-14.
+This data engineer position at GE Vernova was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

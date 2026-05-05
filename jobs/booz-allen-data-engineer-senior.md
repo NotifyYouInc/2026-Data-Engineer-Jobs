@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Huntsville-AL/Data-Engineer--Senior_R0238400) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Charlottesville-VA/Data-Engineer--Senior_R0238758-1) |
 
 ## About This Role
 
-This data engineer position at Booz Allen was posted on 2026-04-22.
+This data engineer position at Booz Allen was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

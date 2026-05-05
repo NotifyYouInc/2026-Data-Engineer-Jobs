@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=110843) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=110715) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-04-23.
+This data engineer position at IBM was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

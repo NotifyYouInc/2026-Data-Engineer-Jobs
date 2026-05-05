@@ -5,12 +5,12 @@
 | Company | [Nexthink](https://scoutify.ai/companies/nexthink?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Data Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000121215713-senior-data-engineering-tech-lead) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000123197469-senior-data-engineering-tech-lead) |
 
 ## About This Role
 
-This data engineer position at Nexthink was posted on 2026-04-16.
+This data engineer position at Nexthink was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

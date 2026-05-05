@@ -5,12 +5,12 @@
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Springdale, Arkansas, United States |
 | Category | Accounting |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Springdale-AR-Terminal-Office---Springdale-Arkansas/Logistics-Data-Engineer--Springdale--AR-Terminal-Office-_R0456979-1) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Springdale-AR-Terminal-Office---Springdale-Arkansas/Logistics-Data-Engineer--Springdale--AR-Terminal-Office-_R0458099-2) |
 
 ## About This Role
 
-This accounting position at Tyson Foods was posted on 2026-04-21.
+This accounting position at Tyson Foods was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

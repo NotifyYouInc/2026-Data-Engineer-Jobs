@@ -1,16 +1,16 @@
-# Data Engineer H/F at ALTEN
+# Data engineer (H/F) at ALTEN
 
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
+| Location | Grenoble, Rhône-Alpes, France |
 | Category | Data Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000121789187-data-engineer-hf) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000123231602-data-engineer-hf) |
 
 ## About This Role
 
-This data engineer position at ALTEN was posted on 2026-04-20.
+This data engineer position at ALTEN was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

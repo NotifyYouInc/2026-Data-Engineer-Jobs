@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Burlington, North Carolina, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Burlington-Vermont/Data-Engineer_JREQ199313) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Engineer |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Data-Engineer_JREQ199677) |
 
 ## About This Role
 
-This software engineer position at Thomson Reuters was posted on 2026-03-19.
+This data engineer position at Thomson Reuters was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Axos Bank](https://scoutify.ai/companies/axos?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Data Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/Manila-Philippines/Sr-Data-Engineer_JR4430) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/Manila-Philippines/Sr-Data-Engineer_JR4593) |
 
 ## About This Role
 
-This data engineer position at Axos Bank was posted on 2026-04-14.
+This data engineer position at Axos Bank was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 
