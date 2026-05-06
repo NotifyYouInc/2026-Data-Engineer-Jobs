@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Taiwan |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/Taiwan-Remote/Senior-Data-Engineer_R0000040852) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/India-Hyderabad-Remote/Senior-Data-Engineer_R0000040848-1) |
 
 ## About This Role
 
-This data engineer position at Parexel was posted on 2026-04-22.
+This data engineer position at Parexel was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

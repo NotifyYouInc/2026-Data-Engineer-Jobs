@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xylem](https://scoutify.ai/companies/xylem?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | 4 locations |
 | Category | Data Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Toronto/Hydroinformatics-Engineer_R47924) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Tewksbury-Massachusetts/Hydroinformatics-Engineer_R48293) |
 
 ## About This Role
 
-This data engineer position at Xylem was posted on 2026-04-17.
+This data engineer position at Xylem was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

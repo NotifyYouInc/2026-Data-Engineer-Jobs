@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kenvue](https://scoutify.ai/companies/kenvue?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Karnataka, IN |
-| Category | Engineering Manager |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Asia-Pacific-India-Karnataka-Bangalore/Lead-Data-Engineer_2607043366W) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Engineer |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Asia-Pacific-India-Karnataka-Bangalore/Lead-Data-Engineer_2607045397W) |
 
 ## About This Role
 
-This engineering manager position at Kenvue was posted on 2026-02-23.
+This data engineer position at Kenvue was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

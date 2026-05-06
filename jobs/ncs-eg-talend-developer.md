@@ -5,12 +5,12 @@
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001000132-eg-talend-developer) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001031598-eg-talend-developer) |
 
 ## About This Role
 
-This data engineer position at NCS was posted on 2026-04-15.
+This data engineer position at NCS was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

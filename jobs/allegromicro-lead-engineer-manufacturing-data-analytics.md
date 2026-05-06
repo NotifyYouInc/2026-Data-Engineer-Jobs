@@ -5,12 +5,12 @@
 | Company | [Allegromicro](https://scoutify.ai/companies/allegromicro?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Paranaque City, National Capital Region, Philippines |
 | Category | Data Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://allegromicro.wd5.myworkdayjobs.com/allegrocareers/job/Paranaque-City-National-Capital-Region-Manila-Philippines/Lead-Engineer---Manufacturing-Data-Analytics_R6445) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://allegromicro.wd5.myworkdayjobs.com/allegrocareers/job/Paranaque-City-National-Capital-Region-Manila-Philippines/Lead-Engineer---Manufacturing-Data-Analytics_R6460) |
 
 ## About This Role
 
-This data engineer position at Allegromicro was posted on 2026-04-17.
+This data engineer position at Allegromicro was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

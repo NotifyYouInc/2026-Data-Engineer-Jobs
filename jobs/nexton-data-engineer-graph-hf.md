@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bordeaux, Nouvelle-Aquitaine, France |
-| Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000116653877-data-engineer-graph-hf) |
+| Category | Data Engineer |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000123364429-data-engineer-graph-hf) |
 
 ## About This Role
 
-This software engineer position at Nexton was posted on 2026-03-25.
+This data engineer position at Nexton was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

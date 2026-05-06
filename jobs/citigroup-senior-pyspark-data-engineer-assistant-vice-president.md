@@ -1,16 +1,16 @@
-# Senior PySpark Data Engineer - Assistant Vice President at Citigroup
+# Senior Pyspark Data Engineer - Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Senior-PySpark-Data-Engineer---Assistant-Vice-President_26947240) |
+| Location | Mississauga, Ontario, Canada |
+| Category | Data Engineer |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Senior-Pyspark-Data-Engineer---Assistant-Vice-President_26953422) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-04-02.
+This data engineer position at Citigroup was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

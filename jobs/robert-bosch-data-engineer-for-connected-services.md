@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Cluj-Napoca, Cluj County, Romania |
 | Category | Data Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000108960815-data-engineer-for-connected-services) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123443566-data-engineer-for-connected-services) |
 
 ## About This Role
 
-This data engineer position at Robert Bosch was posted on 2026-02-12.
+This data engineer position at Robert Bosch was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

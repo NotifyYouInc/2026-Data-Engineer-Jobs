@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000115599347-consultant-data-engineer-databricks-confirme-hf) |
+| Category | Data Engineer |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000123438236-consultant-data-engineer-databricks-confirme-hf) |
 
 ## About This Role
 
-This technology / it consulting position at Talan was posted on 2026-03-19.
+This data engineer position at Talan was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dedalus CandG](https://scoutify.ai/companies/dedalus-candg?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Graz, Styria, Austria |
-| Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://dedalus.wd3.myworkdayjobs.com/external/job/AUT---Graz/Trainee-Database-Engineering-BI--m-w-d-_JR108248) |
+| Category | Data Engineer |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://dedalus.wd3.myworkdayjobs.com/external/job/AUT---Graz/Trainee-Database-Engineering-BI--m-w-d-_JR108397) |
 
 ## About This Role
 
-This software engineer position at Dedalus CandG was posted on 2026-03-25.
+This data engineer position at Dedalus CandG was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

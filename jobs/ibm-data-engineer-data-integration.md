@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Kolkata, West Bengal, India |
 | Category | Data Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=110251) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=107706) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-04-20.
+This data engineer position at IBM was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

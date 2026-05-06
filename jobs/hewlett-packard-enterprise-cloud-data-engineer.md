@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Karnataka, IN |
+| Location | San Jose, California, United States |
 | Category | Data Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bangalore-Karnataka-India/Cloud-Data-Engineer_1202514-1) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/San-Jose-California-United-States-of-America/Cloud-Data-Engineer_1204339) |
 
 ## About This Role
 
-This data engineer position at Hewlett Packard Enterprise was posted on 2026-02-05.
+This data engineer position at Hewlett Packard Enterprise was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

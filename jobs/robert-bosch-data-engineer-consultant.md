@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Romania |
-| Category | Software Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000115243576-data-engineer-consultant) |
+| Location | Timişoara, Timiș County, Romania |
+| Category | Data Engineer |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123457846-data-engineer-consultant) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-03-17.
+This data engineer position at Robert Bosch was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Engineer - Data Platforms-Databricks at IBM
+# Data Engineer-Data Platforms-Databricks at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Brazil |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=110885) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=106106) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-04-23.
+This data engineer position at IBM was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

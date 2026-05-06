@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Three UK](https://scoutify.ai/companies/threeuk?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Newbury, England, United Kingdom |
-| Category | Data Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Three-UK/744000122643879-data-architect) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Three-UK/744000123179239-data-architect) |
 
 ## About This Role
 
-This data engineer position at Three UK was posted on 2026-04-24.
+This technical & solutions architect position at Three UK was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000121415907-senior-data-engineer-business-analyst-jira-confluence-power-bi-sql-agilekanban) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000123453839-senior-data-engineer-business-analyst-jira-confluence-power-bi-sql-agilekanban) |
 
 ## About This Role
 
-This data engineer position at NielsenIQ was posted on 2026-04-17.
+This data engineer position at NielsenIQ was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 
