@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hartford Financial Services](https://scoutify.ai/companies/thehartford?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 5 locations |
-| Category | Software Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Sr-Staff-Data-Engineer_R2624645) |
+| Location | 2 locations |
+| Category | Data Engineer |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Sr-Staff-Data-Engineer_R2625181) |
 
 ## About This Role
 
-This software engineer position at Hartford Financial Services was posted on 2026-04-01.
+This data engineer position at Hartford Financial Services was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

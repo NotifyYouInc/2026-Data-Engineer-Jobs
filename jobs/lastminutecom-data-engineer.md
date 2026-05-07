@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [lastminute.com](https://scoutify.ai/companies/lastminutecom?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Switzerland |
-| Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/lastminutecom/744000116466158-data-engineer) |
+| Location | Lisbon, Lisbon, Portugal |
+| Category | Data Engineer |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/lastminutecom/744000123742366-data-engineer) |
 
 ## About This Role
 
-This software engineer position at lastminute.com was posted on 2026-03-24.
+This data engineer position at lastminute.com was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

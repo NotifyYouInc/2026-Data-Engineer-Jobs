@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Prague, Prague, Czechia |
-| Category | Software Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7406487) |
+| Category | Data Engineer |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7723137) |
 
 ## About This Role
 
-This software engineer position at Pure Storage was posted on 2026-03-27.
+This data engineer position at Pure Storage was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

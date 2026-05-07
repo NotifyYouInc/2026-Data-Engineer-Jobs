@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Virginia, US |
+| Location | Fort Belvoir, Virginia, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00180867) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00182075) |
 
 ## About This Role
 
-This data engineer position at Leidos was posted on 2026-04-15.
+This data engineer position at Leidos was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

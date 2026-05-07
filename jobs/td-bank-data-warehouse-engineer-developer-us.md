@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Data-Warehouse-Engineer---Developer--US-_R_1473896) |
+| Category | Data Engineer |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Data-Warehouse-Engineer---Developer--US-_R_1487246) |
 
 ## About This Role
 
-This software engineer position at TD Bank was posted on 2026-02-18.
+This data engineer position at TD Bank was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

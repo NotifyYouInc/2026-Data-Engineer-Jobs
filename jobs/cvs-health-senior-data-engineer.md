@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Irving, Texas, United States |
+| Location | Alabama, US |
 | Category | Data Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Senior-Data-Engineer_R0891167) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AL---Work-from-home/Senior-Data-Engineer_R0890259) |
 
 ## About This Role
 
-This data engineer position at CVS Health was posted on 2026-04-22.
+This data engineer position at CVS Health was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

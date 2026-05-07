@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airapps](https://scoutify.ai/companies/airapps?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Data Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/airapps/a7fbd9ce-065f-43d2-9176-1b5fe3d9e80a) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airapps/c78d9514-6688-44c4-9ed0-c9e7529700f4) |
 
 ## About This Role
 
-This data engineer position at Airapps was posted on 2026-04-27.
+This data engineer position at Airapps was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

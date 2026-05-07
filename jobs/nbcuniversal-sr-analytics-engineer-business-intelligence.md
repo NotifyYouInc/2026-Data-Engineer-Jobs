@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000116218657-sr-analytics-engineer-business-intelligence) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000123729833-sr-analytics-engineer-business-intelligence) |
 
 ## About This Role
 
-This data engineer position at NBCUniversal was posted on 2026-03-23.
+This data engineer position at NBCUniversal was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

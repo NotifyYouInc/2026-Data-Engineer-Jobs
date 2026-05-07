@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Stoke-on-Trent, England, United Kingdom |
-| Category | Customer Success |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000108243991-junior-regulatory-data-sql-support-engineer) |
+| Location | Manchester, England, United Kingdom |
+| Category | Technical Support Engineer |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000123681205-junior-regulatory-data-sql-support-engineer) |
 
 ## About This Role
 
-This customer success position at bet365 was posted on 2026-02-09.
+This technical support engineer position at bet365 was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

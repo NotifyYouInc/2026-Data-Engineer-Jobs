@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Armanino](https://scoutify.ai/companies/armaninollp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 17 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/Chicago-Illinois/Data---AI-Platform-Engineer_JR103634) |
+| Location | San Ramon, California, United States |
+| Category | Data Engineer |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/San-Ramon-California/Data---AI-Platform-Engineer_JR103850) |
 
 ## About This Role
 
-This devops engineer position at Armanino was posted on 2026-02-26.
+This data engineer position at Armanino was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 
