@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | Stuttgart, Baden-Wurttemberg, Germany |
 | Category | Data Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7840694?gh_jid=7840694) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7871210?gh_jid=7871210) |
 
 ## About This Role
 
-This data engineer position at Thoughtworks was posted on 2026-04-22.
+This data engineer position at Thoughtworks was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

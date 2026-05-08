@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Kimberly-Clark](https://scoutify.ai/companies/kimberly-clark?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://kimberlyclark.wd1.myworkdayjobs.com/global/job/IT-Centre-Bengaluru-GDTC/Senior-Data-Engineer_884043-1) |
+| Category | Data Engineer |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://kimberlyclark.wd1.myworkdayjobs.com/global/job/IT-Centre-Bengaluru-GDTC/Senior-Data-Engineer_885227-2) |
 
 ## About This Role
 
-This software engineer position at Kimberly-Clark was posted on 2026-03-06.
+This data engineer position at Kimberly-Clark was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Brazil |
-| Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000112379442-seniorprincipal-data-engineer) |
+| Location | Warsaw, Mazovia, Poland |
+| Category | Data Engineer |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000123929032-seniorprincipal-data-engineer) |
 
 ## About This Role
 
-This software engineer position at Sigma Software was posted on 2026-03-03.
+This data engineer position at Sigma Software was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Principal Data Architect II - Biotherapeutics and Genetic Medicine  at AbbVie
+# Principal Data Architect II - Biotherapeutics and Genetic Medicine at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Worcester, Massachusetts, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012779578-principal-data-architect-ii-biotherapeutics-and-genetic-medicine) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012912536-principal-data-architect-ii-biotherapeutics-and-genetic-medicine) |
 
 ## About This Role
 
-This data engineer position at AbbVie was posted on 2026-04-22.
+This data engineer position at AbbVie was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

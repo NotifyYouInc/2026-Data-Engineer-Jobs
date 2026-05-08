@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morningstar](https://scoutify.ai/companies/morningstar?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Mumbai/Sr-Data-Engineer--Analytics-Engineering_REQ-052795) |
+| Category | Data Engineer |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Mumbai/Sr-Data-Engineer--Analytics-Engineering_REQ-055994-1) |
 
 ## About This Role
 
-This software engineer position at Morningstar was posted on 2026-03-06.
+This data engineer position at Morningstar was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Noida---Sector-135/Senior-Principal-Engineer---Data-Engineering_R_347563) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Pune---Panchshil/Senior-Principal-Engineer---Data-Engineering_R_345953-1) |
 
 ## About This Role
 
-This data engineer position at Marsh & McLennan Companies was posted on 2026-04-21.
+This data engineer position at Marsh & McLennan Companies was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

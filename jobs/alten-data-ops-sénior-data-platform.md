@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Rabat, Rabat-Salé-Kénitra, Morocco |
-| Category | DevOps Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000109770991-data-ops-senior-data-platform) |
+| Category | Data Engineer |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000123904707-data-ops-senior-data-platform) |
 
 ## About This Role
 
-This devops engineer position at ALTEN was posted on 2026-02-17.
+This data engineer position at ALTEN was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

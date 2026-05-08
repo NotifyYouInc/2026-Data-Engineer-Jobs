@@ -1,16 +1,16 @@
-# Data Engineer  at NielsenIQ
+# Data Engineer at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Israel |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Data Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000120355983-data-engineer) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000123997372-data-engineer) |
 
 ## About This Role
 
-This data engineer position at NielsenIQ was posted on 2026-04-13.
+This data engineer position at NielsenIQ was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

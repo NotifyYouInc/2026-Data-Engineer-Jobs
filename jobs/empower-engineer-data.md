@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
 | Posted | 2026-04-29 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Engineer-Data_R0058333) |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Engineer-Data_R0058460) |
 
 ## About This Role
 

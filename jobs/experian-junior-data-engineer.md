@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000117669400-junior-data-engineer) |
+| Category | Data Engineer |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000123858371-junior-data-engineer) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-03-30.
+This data engineer position at Experian was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

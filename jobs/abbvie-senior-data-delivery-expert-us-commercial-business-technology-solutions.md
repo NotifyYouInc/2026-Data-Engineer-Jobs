@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Illinois, US |
 | Category | Data Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012513775-senior-data-delivery-expert-us-commercial-business-technology-solutions) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012913983-senior-data-delivery-expert-us-commercial-business-technology-solutions) |
 
 ## About This Role
 
-This data engineer position at AbbVie was posted on 2026-04-08.
+This data engineer position at AbbVie was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 
