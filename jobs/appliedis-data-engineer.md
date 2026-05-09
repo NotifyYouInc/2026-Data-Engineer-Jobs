@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Appliedis](https://scoutify.ai/companies/appliedis?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Virginia, US |
 | Category | Data Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site-Confidential---Austin-TX/Data-Engineer_JR2026001164-1) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Remote---VA/Data-Engineer_JR2026001184-1) |
 
 ## About This Role
 
-This data engineer position at Appliedis was posted on 2026-04-20.
+This data engineer position at Appliedis was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

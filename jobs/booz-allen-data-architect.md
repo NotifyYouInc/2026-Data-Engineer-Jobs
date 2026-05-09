@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Albuquerque, New Mexico, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Albuquerque-NM/Data-Architect_R0236266) |
+| Location | Lorton, Virginia, United States |
+| Category | Data Engineer |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lorton-VA/Data-Architect_R0239222) |
 
 ## About This Role
 
-This technical & solutions architect position at Booz Allen was posted on 2026-03-19.
+This data engineer position at Booz Allen was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

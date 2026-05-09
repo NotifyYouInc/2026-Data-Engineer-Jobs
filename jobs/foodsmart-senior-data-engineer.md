@@ -5,12 +5,12 @@
 | Company | [Foodsmart](https://scoutify.ai/companies/foodsmart?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.lever.co/foodsmart/24ff9250-2abf-46a4-aae5-59bcc0667645) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.lever.co/foodsmart/0a16a151-83f2-426f-8a9c-d06e3f7b1e36) |
 
 ## About This Role
 
-This data engineer position at Foodsmart was posted on 2026-04-17.
+This data engineer position at Foodsmart was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | 5 locations |
 | Category | Data Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/TX---Farmers-Branch/Data-Architect_R216697-1) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Data-Architect_R219480-1) |
 
 ## About This Role
 
-This data engineer position at PNC Financial was posted on 2026-04-10.
+This data engineer position at PNC Financial was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

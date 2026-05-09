@@ -1,12 +1,12 @@
-# Data engineer at Accenture
+# Data Engineer at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Riga, Riga, Latvia |
+| Location | Gurugram, Haryana, India |
 | Category | Data Engineer |
 | Posted | 2026-04-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riga/Data-engineer_R00328095) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Data-Engineer_ATCI-5472591-S2019370) |
 
 ## About This Role
 

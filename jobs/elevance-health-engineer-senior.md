@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Richmond, Virginia, United States |
-| Category | Software Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/VA-RICHMOND-2015-STAPLES-MILL-RD/Engineer-Senior_JR188382) |
+| Location | Nashville, Tennessee, United States |
+| Category | Data Engineer |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/TN-NASHVILLE-22-CENTURY-BLVD-STE-310/Engineer-Senior_JR190741) |
 
 ## About This Role
 
-This software engineer position at Elevance Health was posted on 2026-04-03.
+This data engineer position at Elevance Health was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

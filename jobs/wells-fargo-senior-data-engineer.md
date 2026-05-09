@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | San Francisco, California, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Data-Engineer_R-538948) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/SAN-FRANCISCO-CA/Senior-Data-Engineer_R-542329) |
 
 ## About This Role
 
-This data engineer position at Wells Fargo was posted on 2026-04-29.
+This data engineer position at Wells Fargo was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 
