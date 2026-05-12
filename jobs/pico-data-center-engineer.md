@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pico](https://scoutify.ai/companies/pico?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/picoquantitativetrading/jobs/4676061006) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/picoquantitativetrading/jobs/4676056006) |
 
 ## About This Role
 
-This devops engineer position at Pico was posted on 2026-04-27.
+This devops engineer position at Pico was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 
