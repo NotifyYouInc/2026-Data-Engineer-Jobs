@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
+| Location | Alpharetta, Georgia, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CHL-Titanium-Piso-27/Data-Engineer_J00176030) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA-GA-Alpharetta-JVW3/Data-Engineer_J00177008) |
 
 ## About This Role
 
-This data engineer position at Equifax was posted on 2026-04-22.
+This data engineer position at Equifax was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

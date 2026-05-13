@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Data-Engineer_JR0144688) |
+| Location | London, England, United Kingdom |
+| Category | Data Engineer |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/London/Data-Engineer_JR0146516-1) |
 
 ## About This Role
 
-This software engineer position at McKesson was posted on 2026-03-23.
+This data engineer position at McKesson was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

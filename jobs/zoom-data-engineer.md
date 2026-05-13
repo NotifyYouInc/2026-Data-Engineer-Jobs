@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | San Jose, California, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Data-Engineer---Digital-Marketing_R18533-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Bangalore-IND/Data-Developer_R18361-1) |
 
 ## About This Role
 
-This data engineer position at Zoom was posted on 2026-04-23.
+This data engineer position at Zoom was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

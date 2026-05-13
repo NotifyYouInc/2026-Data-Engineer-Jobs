@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 6 locations |
+| Location | 5 locations |
 | Category | Data Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/FL-LAKE-MARY-3200-LAKE-EMMA-RD-STE-1000/Data-Warehouse-Consultant_JR187051) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/FL-LAKE-MARY-3200-LAKE-EMMA-RD-STE-1000/Data-Warehouse-Consultant_JR190551) |
 
 ## About This Role
 
-This data engineer position at Elevance Health was posted on 2026-04-15.
+This data engineer position at Elevance Health was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

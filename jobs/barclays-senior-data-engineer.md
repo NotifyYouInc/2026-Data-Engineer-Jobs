@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Senior-Data-Engineer_JR-0000087922) |
+| Category | Data Engineer |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Senior-Data-Engineer_JR-0000111167-1) |
 
 ## About This Role
 
-This software engineer position at Barclays was posted on 2026-03-12.
+This data engineer position at Barclays was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

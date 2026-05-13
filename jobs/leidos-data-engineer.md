@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Sterling, Virginia, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Canberra-Australian-Capital-Territory-Australia/Data-Engineer_R-00181009-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Sterling-VA/Data-Engineer_R-00182598) |
 
 ## About This Role
 
-This data engineer position at Leidos was posted on 2026-04-16.
+This data engineer position at Leidos was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

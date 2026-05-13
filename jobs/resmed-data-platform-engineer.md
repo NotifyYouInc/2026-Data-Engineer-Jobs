@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ResMed](https://scoutify.ai/companies/resmed?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Dublin, Leinster, Ireland |
 | Category | Data Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/Sydney-NSW-Australia/Data-Platform-Engineer_JR_050549-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/Dublin-Ireland/Data-Platform-Engineer_JR_048401) |
 
 ## About This Role
 
-This data engineer position at ResMed was posted on 2026-04-22.
+This data engineer position at ResMed was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

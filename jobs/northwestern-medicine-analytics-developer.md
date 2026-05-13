@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northwestern Medicine](https://scoutify.ai/companies/northwesternmedicine?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000116491748-analytics-developer) |
+| Category | Data Engineer |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000124696838-analytics-developer) |
 
 ## About This Role
 
-This software engineer position at Northwestern Medicine was posted on 2026-03-24.
+This data engineer position at Northwestern Medicine was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

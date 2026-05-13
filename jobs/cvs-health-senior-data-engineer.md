@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Alabama, US |
-| Category | Data Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AL---Work-from-home/Senior-Data-Engineer_R0890259) |
+| Location | Amherst, New York, United States |
+| Category | Software Engineer |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Amherst/Senior-Data-Engineer_R0890911) |
 
 ## About This Role
 
-This data engineer position at CVS Health was posted on 2026-04-29.
+This software engineer position at CVS Health was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

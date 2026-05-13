@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Moniepoint](https://scoutify.ai/companies/moniepoint?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Spain |
 | Category | Data Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4809248101) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4858265101) |
 
 ## About This Role
 
-This data engineer position at Moniepoint was posted on 2026-04-24.
+This data engineer position at Moniepoint was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [BETSOL](https://scoutify.ai/companies/betsol?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/betsol/744000122665083-contact-center-engineer-aceyus-reporting) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/betsol/744000124716927-contact-center-engineer-aceyus-reporting) |
 
 ## About This Role
 
-This data engineer position at BETSOL was posted on 2026-04-24.
+This data engineer position at BETSOL was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

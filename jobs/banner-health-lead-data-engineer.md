@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banner Health](https://scoutify.ai/companies/bannerhealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | North Carolina, US |
-| Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/Lead-Data-Engineer_R4437166) |
+| Location | Phoenix, Arizona, United States |
+| Category | Data Engineer |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Health-Corp-Phoenix-2901-N-Central-Ave/Lead-Data-Engineer_R4437854) |
 
 ## About This Role
 
-This software engineer position at Banner Health was posted on 2026-03-25.
+This data engineer position at Banner Health was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Boulogne-Billancourt, Île-de-France, France |
+| Location | Vitrolles, Provence-Alpes-Côte d'Azur, France |
 | Category | Data Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000120458444-data-engineer-plateforme-data-engineering) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000124817394-data-engineer-plateforme-data-engineering) |
 
 ## About This Role
 
-This data engineer position at ALTEN was posted on 2026-04-13.
+This data engineer position at ALTEN was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 
