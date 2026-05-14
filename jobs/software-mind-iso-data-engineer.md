@@ -5,12 +5,12 @@
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Data Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000123485176-iso-data-engineer) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000124872649-iso-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Software Mind was posted on 2026-04-28.
+This data engineer position at Software Mind was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

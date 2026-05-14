@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | San Jose, California, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7469918654824958216/detail) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7468451497388247304/detail) |
 
 ## About This Role
 
-This data engineer position at TikTok was posted on 2026-04-22.
+This data engineer position at TikTok was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

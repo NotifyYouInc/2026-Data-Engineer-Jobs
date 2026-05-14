@@ -5,12 +5,12 @@
 | Company | [North Point Technology](https://scoutify.ai/companies/north-point-technology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Herndon, Virginia, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/northpointtechnology/jobs/8509443002) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/northpointtechnology/jobs/8537936002) |
 
 ## About This Role
 
-This data engineer position at North Point Technology was posted on 2026-04-15.
+This data engineer position at North Point Technology was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

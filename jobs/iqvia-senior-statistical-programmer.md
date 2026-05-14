@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Durham, North Carolina, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bloemfontein-South-Africa/Senior-Statistical-Programmer_R1542704) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Durham-North-Carolina-United-States-of-America/Senior-Statistical-Programmer_R1540343) |
 
 ## About This Role
 
-This software engineer position at IQVIA was posted on 2026-05-05.
+This software engineer position at IQVIA was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

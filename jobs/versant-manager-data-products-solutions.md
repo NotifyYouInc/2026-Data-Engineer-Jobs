@@ -5,12 +5,12 @@
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000123492369-manager-data-products-solutions) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000125002849-manager-data-products-solutions) |
 
 ## About This Role
 
-This data engineer position at Versant was posted on 2026-04-28.
+This data engineer position at Versant was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

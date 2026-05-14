@@ -5,12 +5,12 @@
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | New York City, New York, United States |
 | Category | Privacy & Data Protection |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000123492782-dir-data-governance-observability) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000125002127-dir-data-governance-observability) |
 
 ## About This Role
 
-This privacy & data protection position at Versant was posted on 2026-04-28.
+This privacy & data protection position at Versant was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Bigdata Developer at Citigroup
+# BigData Developer at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Bigdata-Developer_26956371) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/BigData-Developer_26958386) |
 
 ## About This Role
 
-This data engineer position at Citigroup was posted on 2026-04-24.
+This data engineer position at Citigroup was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

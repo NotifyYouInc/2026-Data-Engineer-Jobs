@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Orlando, Florida, United States |
+| Location | 3 locations |
 | Category | Data Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Sr-Data-Engineer_10147841-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Santa-Monica-CA-USA/Sr-Data-Engineer_10147075) |
 
 ## About This Role
 
-This data engineer position at Disney was posted on 2026-04-15.
+This data engineer position at Disney was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

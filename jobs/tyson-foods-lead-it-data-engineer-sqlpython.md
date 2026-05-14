@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Not specified |
+| Location | Springdale, Arkansas, United States |
 | Category | Data Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Tyson-Emma---Springdale-Arkansas/Lead-IT-Data-Engineer--SQL-Python-_R0450025) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Tyson-Emma---Springdale-Arkansas/Lead-IT-Data-Engineer--SQL-Python-_R0460005-1) |
 
 ## About This Role
 
-This data engineer position at Tyson Foods was posted on 2026-03-19.
+This data engineer position at Tyson Foods was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

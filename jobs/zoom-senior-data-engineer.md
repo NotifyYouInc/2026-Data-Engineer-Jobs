@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | San Jose, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Senior-Data-Engineer_R18390-1) |
+| Location | 2 locations |
+| Category | Data Engineer |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Senior-Data-Engineer_R19150-1) |
 
 ## About This Role
 
-This software engineer position at Zoom was posted on 2026-02-03.
+This data engineer position at Zoom was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

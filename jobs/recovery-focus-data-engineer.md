@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Recovery Focus](https://scoutify.ai/companies/recovery-focus?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Not specified |
-| Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://recoveryfocus.wd3.myworkdayjobs.com/recovery_focus_careers/job/Home-Based/Data-Engineer_JR012056) |
+| Location | United Kingdom |
+| Category | Data Engineer |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://recoveryfocus.wd3.myworkdayjobs.com/recovery_focus_careers/job/Home-Based/Data-Engineer_JR012421) |
 
 ## About This Role
 
-This software engineer position at Recovery Focus was posted on 2026-03-13.
+This data engineer position at Recovery Focus was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

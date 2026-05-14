@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WillowTree](https://scoutify.ai/companies/willowtree?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | British Columbia, CA |
+| Location | Canada |
 | Category | Data Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/telus-digital/bd5c4f21-f897-40c7-9874-3d8965982fe6) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/telus-digital/090dad1f-90dc-4702-bb93-89e6ee9a5ef3) |
 
 ## About This Role
 
-This data engineer position at WillowTree was posted on 2026-04-16.
+This data engineer position at WillowTree was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 
