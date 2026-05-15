@@ -1,16 +1,16 @@
-# Data Developer - Online Services at Ubisoft
+# Data Developer [Online Services] at Ubisoft
 
 | Field | Details |
 |-------|---------|
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Montréal, Quebec, Canada |
-| Category | Software Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000117397175-data-developer-online-services) |
+| Location | Bucharest, București, Romania |
+| Category | Data Engineer |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000125048134-data-developer-online-services) |
 
 ## About This Role
 
-This software engineer position at Ubisoft was posted on 2026-03-27.
+This data engineer position at Ubisoft was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

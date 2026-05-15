@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Synchrony Financial](https://scoutify.ai/companies/synchrony-financial?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 5 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Remote-Central-Region-IN/AVP--Model-Ops-Engineer--L10-_2600547) |
+| Location | Hyderabad, Telangana, India |
+| Category | Data Engineer |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/AVP--Model-Ops-Engineer--L10-_2601316-1) |
 
 ## About This Role
 
-This software engineer position at Synchrony Financial was posted on 2026-02-26.
+This data engineer position at Synchrony Financial was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

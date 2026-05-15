@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Senior-Data-Engineer_R0115477-1) |
+| Location | Bucharest, București, Romania |
+| Category | Data Engineer |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Data-Engineer_R0119386-1) |
 
 ## About This Role
 
-This software engineer position at LSEG was posted on 2026-02-24.
+This data engineer position at LSEG was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

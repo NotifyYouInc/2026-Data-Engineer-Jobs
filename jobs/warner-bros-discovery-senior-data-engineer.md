@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Senior-Data-Engineer_R000097208) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Hyderabad-Office-Level-3--4-Block-A---East-Wing/Senior-Data-Engineer_R000102595) |
 
 ## About This Role
 
-This data engineer position at Warner Bros Discovery was posted on 2026-04-13.
+This data engineer position at Warner Bros Discovery was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

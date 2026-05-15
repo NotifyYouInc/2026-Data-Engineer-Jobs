@@ -1,16 +1,16 @@
-# Senior Data Engineer (ADB + Python) at Exadel Inc (Website)
+# Senior Data Engineer (ADB, Python) at Exadel Inc (Website)
 
 | Field | Details |
 |-------|---------|
 | Company | [Exadel Inc (Website)](https://scoutify.ai/companies/exadel-inc-website?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Bulgaria |
 | Category | Data Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/exadelinc/jobs/5970719004) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/exadelinc/jobs/5822941004) |
 
 ## About This Role
 
-This data engineer position at Exadel Inc (Website) was posted on 2026-04-22.
+This data engineer position at Exadel Inc (Website) was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

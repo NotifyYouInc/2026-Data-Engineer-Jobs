@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Senior-Data-Engineer---Manager_R-787253) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Senior-Data-Engineer---Manager_R-789365-1) |
 
 ## About This Role
 
-This data engineer position at State Street was posted on 2026-04-24.
+This data engineer position at State Street was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

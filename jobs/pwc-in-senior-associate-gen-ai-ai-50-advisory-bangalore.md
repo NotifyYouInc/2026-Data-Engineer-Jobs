@@ -5,12 +5,12 @@
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-GEN-AI-GCC-Advisory-Bangalore_699344WD-1) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-GEN-AI-GCC-Advisory-Bangalore_699634WD-2) |
 
 ## About This Role
 
-This data engineer position at PwC was posted on 2026-04-28.
+This data engineer position at PwC was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

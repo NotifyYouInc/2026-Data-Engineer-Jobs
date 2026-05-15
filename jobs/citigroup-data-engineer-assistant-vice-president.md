@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Tampa, Florida, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Data-Engineer---Assistant-Vice-President_26940845) |
+| Location | Pune, Maharashtra, India |
+| Category | Data Engineer |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Data-Engineer---Assistant-Vice-President_26954047) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-03-07.
+This data engineer position at Citigroup was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

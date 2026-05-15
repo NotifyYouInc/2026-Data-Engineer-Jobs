@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Information-Engineer--ETL-LEAD-w--Pipeline-Management--Data-Analysis-_R0111521) |
+| Category | Data Engineer |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Information-Engineer--ETL-LEAD-w--Pipeline-Management--Data-Analysis-_R0114155) |
 
 ## About This Role
 
-This software engineer position at Truist was posted on 2026-02-24.
+This data engineer position at Truist was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

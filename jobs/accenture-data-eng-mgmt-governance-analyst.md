@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Oslo, Oslo, Norway |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | ESG / Sustainability |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Oslo/Data-Eng--Mgmt---Governance-Analyst_R00326899) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Data-Eng--Mgmt---Governance-Analyst_R00308279-1) |
 
 ## About This Role
 
-This esg / sustainability position at Accenture was posted on 2026-04-23.
+This esg / sustainability position at Accenture was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

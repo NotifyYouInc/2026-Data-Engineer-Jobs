@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Arkansas, US |
-| Category | Software Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-WI/Senior-Data-Engineer_1632602) |
+| Location | Iowa, US |
+| Category | Data Engineer |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-IA/Senior-Data-Engineer_1638908) |
 
 ## About This Role
 
-This software engineer position at Centene was posted on 2026-03-11.
+This data engineer position at Centene was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 
