@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Data Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Data-Engineer_R000068613-1) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Buenos-Aires-Buenos-Aires-Argentina/Data-Engineer_R000071267) |
 
 ## About This Role
 
-This data engineer position at Chevron was posted on 2026-04-22.
+This data engineer position at Chevron was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Spektrum](https://scoutify.ai/companies/spektrum?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | The Hague, South Holland, The Netherlands |
+| Location | Brussels, Brussels Capital, Belgium |
 | Category | Data Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4845650101) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4862744101) |
 
 ## About This Role
 
-This data engineer position at Spektrum was posted on 2026-04-20.
+This data engineer position at Spektrum was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

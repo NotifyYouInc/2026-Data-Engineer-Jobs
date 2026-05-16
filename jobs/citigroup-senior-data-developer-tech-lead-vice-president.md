@@ -6,7 +6,7 @@
 | Location | Irving, Texas, United States |
 | Category | Software Engineer |
 | Posted | 2026-05-07 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Senior-Data-Developer-Tech-Lead---Vice-President_26957678) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Senior-Data-Developer-Tech-Lead---Vice-President_26957687-1) |
 
 ## About This Role
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Brussels, Brussels Capital, Belgium |
-| Category | Software Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000117233718-spontaneous-application-senior-data-engineer-mwd) |
+| Category | Data Engineer |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000125271920-spontaneous-application-senior-data-engineer-mwd) |
 
 ## About This Role
 
-This software engineer position at Everience was posted on 2026-03-27.
+This data engineer position at Everience was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

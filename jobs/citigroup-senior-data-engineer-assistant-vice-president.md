@@ -1,16 +1,16 @@
-# Senior Data Engineer – Assistant Vice President at Citigroup
+# Senior Data Engineer - Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Senior-Data-Engineer---Assistant-Vice-President_26959072) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Senior-Data-Engineer---Assistant-Vice-President_26930949) |
 
 ## About This Role
 
-This data engineer position at Citigroup was posted on 2026-05-05.
+This data engineer position at Citigroup was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

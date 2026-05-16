@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Dublin, Leinster, Ireland |
 | Category | Data Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Director--Data-Engineering_R-276260-1) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Director--Data-Engineering_R-277461) |
 
 ## About This Role
 
-This data engineer position at Mastercard was posted on 2026-05-05.
+This data engineer position at Mastercard was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

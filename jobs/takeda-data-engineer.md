@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Takeda](https://scoutify.ai/companies/takeda?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bratislava, Bratislava Region, Slovakia |
-| Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/SVK---Bratislava--Svatoplukova/Data-Engineer_R0176102-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Engineer |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/IND---Bengaluru/Data-Engineer_R0179529-1) |
 
 ## About This Role
 
-This software engineer position at Takeda was posted on 2026-03-13.
+This data engineer position at Takeda was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

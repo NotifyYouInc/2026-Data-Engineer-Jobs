@@ -5,12 +5,12 @@
 | Company | [Kunai](https://scoutify.ai/companies/kunai?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/kunai/jobs/5108309007) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/kunai/jobs/5095034007) |
 
 ## About This Role
 
-This data engineer position at Kunai was posted on 2026-04-16.
+This data engineer position at Kunai was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

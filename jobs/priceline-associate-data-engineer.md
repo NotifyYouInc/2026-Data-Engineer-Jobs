@@ -5,12 +5,12 @@
 | Company | [Priceline](https://scoutify.ai/companies/priceline?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Data-Engineer_R5564) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Data-Engineer_R5635) |
 
 ## About This Role
 
-This data engineer position at Priceline was posted on 2026-03-31.
+This data engineer position at Priceline was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

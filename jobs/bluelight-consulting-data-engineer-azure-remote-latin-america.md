@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bluelight Consulting](https://scoutify.ai/companies/bluelight-consulting?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Córdoba, Cordoba, Argentina |
+| Location | Montevideo, Montevideo Department, Uruguay |
 | Category | Data Engineer |
 | Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.lever.co/bluelightconsulting/0387bdac-4a12-469e-8cbe-6fdc94b9d017) |
+| Apply | [View on company site](https://jobs.lever.co/bluelightconsulting/a8eb7b63-8623-4b70-bbc9-750bd40aff2a) |
 
 ## About This Role
 

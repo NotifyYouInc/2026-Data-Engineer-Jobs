@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
-| Category | Software Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000114010314-senior-data-engineer-mfd) |
+| Category | Data Engineer |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000125341209-senior-data-engineer-mfd) |
 
 ## About This Role
 
-This software engineer position at Sixt was posted on 2026-03-11.
+This data engineer position at Sixt was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 
