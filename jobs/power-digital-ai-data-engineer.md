@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Power Digital](https://scoutify.ai/companies/power-digital?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Mexico |
+| Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/5108954007) |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/5133634007) |
 
 ## About This Role
 
-This data engineer position at Power Digital was posted on 2026-04-16.
+This data engineer position at Power Digital was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 
