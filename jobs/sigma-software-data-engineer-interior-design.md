@@ -1,16 +1,16 @@
-#  Data Engineer (Interior Design) at Sigma Software
+# Data Engineer (Interior Design) at Sigma Software
 
 | Field | Details |
 |-------|---------|
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Kyiv, Kyiv City, Ukraine |
-| Category | Software Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000114014678-data-engineer-interior-design) |
+| Location | Warsaw, Mazovia, Poland |
+| Category | Data Engineer |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000125861988-data-engineer-interior-design) |
 
 ## About This Role
 
-This software engineer position at Sigma Software was posted on 2026-03-11.
+This data engineer position at Sigma Software was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

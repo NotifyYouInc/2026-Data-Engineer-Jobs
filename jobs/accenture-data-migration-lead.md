@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 4 locations |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Software-Development-Engineer_ATCI-5200898-S1911290-1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Data-Migration-Lead_ATCI-5551167-S2020847-1) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-05-07.
+This data engineer position at Accenture was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

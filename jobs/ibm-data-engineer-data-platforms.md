@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Navi Mumbai, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=112810) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=110522) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-05-06.
+This data engineer position at IBM was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

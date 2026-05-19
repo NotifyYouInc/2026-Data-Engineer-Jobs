@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Cambridge, Massachusetts, United States |
+| Location | New York City, New York, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Cambridge-MA/Senior-Lead-Data-Engineer_R240827) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Lead-Data-Engineer_R242391) |
 
 ## About This Role
 
-This data engineer position at Capital One was posted on 2026-04-17.
+This data engineer position at Capital One was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

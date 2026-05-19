@@ -5,12 +5,12 @@
 | Company | [Playonsports](https://scoutify.ai/companies/playonsports?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.lever.co/playonsports/ec671476-f905-4e95-9d41-7f4cce5e2f6d) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.lever.co/playonsports/386dfbbb-7a3e-41e6-86c9-69248143f0fa) |
 
 ## About This Role
 
-This software engineer position at Playonsports was posted on 2026-03-16.
+This software engineer position at Playonsports was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

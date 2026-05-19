@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | France |
-| Category | Software Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000112633721-data-engineer-fhnb) |
+| Location | Saint-Mandé, Île-de-France, France |
+| Category | Data Engineer |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000125788019-data-engineer-fhnb) |
 
 ## About This Role
 
-This software engineer position at Ubisoft was posted on 2026-03-04.
+This data engineer position at Ubisoft was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

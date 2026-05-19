@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Auto Club Enterprises](https://scoutify.ai/companies/ace?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Coppell, Texas, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Coppell-TX-Remote/Data-and-Analytics-Technical-Lead_JR202635110) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Coppell---0760/Data-and-Analytics-Technical-Lead_JR202636508) |
 
 ## About This Role
 
-This software engineer position at Auto Club Enterprises was posted on 2026-03-03.
+This technical & solutions architect position at Auto Club Enterprises was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

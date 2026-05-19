@@ -1,16 +1,16 @@
-# IN-Senior Associate_ Full Stack Developer__ Data Analytics _ Advisory _Pune at PwC
+# IN_Senior Associate_ Full Stack Developer__ Data Analytics _ Advisory _Pune at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Pune/IN-Senior-Associate-Big-Data-Engineer-Data-Analytics-Advisory-Bangalore_725980WD-1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Pune/IN-Senior-Associate-Big-Data-Engineer-Data-Analytics-Advisory-Bangalore_726012WD-1) |
 
 ## About This Role
 
-This software engineer position at PwC was posted on 2026-05-07.
+This software engineer position at PwC was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

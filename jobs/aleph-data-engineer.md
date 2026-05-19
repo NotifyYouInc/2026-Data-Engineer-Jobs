@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aleph](https://scoutify.ai/companies/aleph?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Ljubljana, Ljubljana, Slovenia |
+| Location | Belgrade, Central Serbia, Serbia |
 | Category | Data Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.lever.co/aleph/6298d915-a28b-4adf-89fb-6a37d03f3ed1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.lever.co/aleph/483eebc1-df8c-4e52-9abf-e1f0da473036) |
 
 ## About This Role
 
-This data engineer position at Aleph was posted on 2026-04-29.
+This data engineer position at Aleph was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

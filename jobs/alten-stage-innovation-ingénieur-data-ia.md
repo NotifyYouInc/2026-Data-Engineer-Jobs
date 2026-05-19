@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Sèvres, Île-de-France, France |
 | Category | Data Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000124604296-stage-innovation-ingenieur-data-ia) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000125841461-stage-innovation-ingenieur-data-ia) |
 
 ## About This Role
 
-This data engineer position at ALTEN was posted on 2026-05-05.
+This data engineer position at ALTEN was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

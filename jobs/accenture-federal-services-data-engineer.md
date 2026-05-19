@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture Federal Services](https://scoutify.ai/companies/accenture-federal-services?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Suitland, Maryland, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4609467006?gh_jid=4609467006) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4680730006?gh_jid=4680730006) |
 
 ## About This Role
 
-This data engineer position at Accenture Federal Services was posted on 2026-04-24.
+This data engineer position at Accenture Federal Services was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 
