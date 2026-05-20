@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [University Health Network](https://scoutify.ai/companies/universityhealthnetwork?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Software Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000113828198-data-engineer) |
+| Category | Data Engineer |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000126120879-data-engineer) |
 
 ## About This Role
 
-This software engineer position at University Health Network was posted on 2026-03-11.
+This data engineer position at University Health Network was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

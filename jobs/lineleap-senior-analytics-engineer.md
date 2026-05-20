@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LineLeap](https://scoutify.ai/companies/lineleap?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-25 |
+| Category | Data Engineer |
+| Posted | 2026-05-13 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/lineleap/jobs/wi1bXHU-senior-analytics-engineer) |
 
 ## About This Role
 
-This software engineer position at LineLeap was posted on 2026-03-25.
+This data engineer position at LineLeap was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Canada |
 | Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=6865161) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7913700) |
 
 ## About This Role
 
-This software engineer position at Stripe was posted on 2026-04-22.
+This software engineer position at Stripe was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

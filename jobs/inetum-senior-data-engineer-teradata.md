@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
-| Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000110361300-senior-data-engineer-teradata) |
+| Category | Data Engineer |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000126055974-senior-data-engineer-teradata) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-02-20.
+This data engineer position at Inetum was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

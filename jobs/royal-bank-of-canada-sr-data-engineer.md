@@ -1,16 +1,16 @@
-# Sr. Data Engineer at Royal Bank of Canada
+# Sr Data Engineer at Royal Bank of Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Mississauga, Ontario, Canada |
-| Category | Software Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MISSISSAUGA-Ontario-Canada/Sr-Data-Engineer_R-0000160384) |
+| Category | Data Engineer |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MISSISSAUGA-Ontario-Canada/Sr-Data-Engineer_R-0000170555-2) |
 
 ## About This Role
 
-This software engineer position at Royal Bank of Canada was posted on 2026-03-02.
+This data engineer position at Royal Bank of Canada was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

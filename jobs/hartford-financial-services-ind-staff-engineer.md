@@ -1,16 +1,16 @@
-# IND - Staff Engineer at Hartford Financial Services
+# IND Staff Engineer at Hartford Financial Services
 
 | Field | Details |
 |-------|---------|
 | Company | [Hartford Financial Services](https://scoutify.ai/companies/thehartford?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | India |
-| Category | DevOps Engineer |
-| Posted | 2026-04-19 |
-| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND---Staff-Engineer_R2624904) |
+| Category | Software Engineer |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Staff-Engineer_R2624896) |
 
 ## About This Role
 
-This devops engineer position at Hartford Financial Services was posted on 2026-04-19.
+This software engineer position at Hartford Financial Services was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

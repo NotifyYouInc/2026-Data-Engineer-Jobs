@@ -5,12 +5,12 @@
 | Company | [About You](https://scoutify.ai/companies/aboutyou?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hamburg, Hamburg, Germany |
 | Category | Data Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000124616624-staffsenior-data-engineer-finance-tech-all-genders) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000126040910-staffsenior-data-engineer-finance-tech-all-genders) |
 
 ## About This Role
 
-This data engineer position at About You was posted on 2026-05-05.
+This data engineer position at About You was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

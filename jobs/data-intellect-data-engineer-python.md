@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Data Intellect](https://scoutify.ai/companies/data-intellect?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | New York City, New York, United States |
+| Location | Belfast, Northern Ireland, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/dataintellect/744000124941961-data-engineer-python) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/dataintellect/744000126117897-data-engineer-python) |
 
 ## About This Role
 
-This data engineer position at Data Intellect was posted on 2026-05-06.
+This data engineer position at Data Intellect was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

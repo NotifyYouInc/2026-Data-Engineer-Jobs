@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Lille, Hauts-de-France, France |
-| Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000111337190-senior-data-engineer-hf) |
+| Category | Data Engineer |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000126010714-senior-data-engineer-hf) |
 
 ## About This Role
 
-This software engineer position at Devoteam was posted on 2026-02-25.
+This data engineer position at Devoteam was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

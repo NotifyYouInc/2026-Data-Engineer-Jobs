@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Takeda](https://scoutify.ai/companies/takeda?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/Boston-MA/Senior-Data-Engineer_R0177944) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/IND---Bengaluru/Senior-Data-Engineer_R0180058) |
 
 ## About This Role
 
-This data engineer position at Takeda was posted on 2026-04-16.
+This data engineer position at Takeda was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

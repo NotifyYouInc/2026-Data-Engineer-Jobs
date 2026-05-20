@@ -5,12 +5,12 @@
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Chandler, Arizona, United States |
 | Category | Data Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/AZ---Chandler/Senior-Engineer_R1221-26) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/AZ---Chandler/Senior-Engineer_R1970-26) |
 
 ## About This Role
 
-This data engineer position at Microchip Technology was posted on 2026-05-01.
+This data engineer position at Microchip Technology was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# IN_Senior Associate_Azure Data Engineer_Data and Analytics_Advisory_Hyderabad at PwC
+# IN_Senior Associate_Azure Data Engineer- Data and Analytics_Advisory_Hyderabad at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad/IN-Senior-Associate-Azure-Data-Engineer-Data-and-Analytics-Advisory-Hyderabad_723388WD-1) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Associate--AWS-Devops--Data-and-Analytics-Advisory-Pan-India_685514WD-1) |
 
 ## About This Role
 
-This data engineer position at PwC was posted on 2026-04-21.
+This data engineer position at PwC was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Nantes, Pays de la Loire, France |
-| Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000114371307-data-engineer-transport-nantes) |
+| Category | Data Engineer |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000126095828-data-engineer-transport-nantes) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-03-12.
+This data engineer position at Sopra Steria was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 
