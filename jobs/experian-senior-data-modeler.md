@@ -6,7 +6,7 @@
 | Location | Mumbai, Maharashtra, India |
 | Category | Data Engineer |
 | Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000125996580-senior-data-modeler) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000126012369-senior-data-modeler) |
 
 ## About This Role
 

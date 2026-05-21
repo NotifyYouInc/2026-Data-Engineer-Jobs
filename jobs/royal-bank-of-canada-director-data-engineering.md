@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Engineering Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Director--Data-Engineering_R-0000162452-1) |
+| Location | Putrajaya, Putrajaya, Malaysia |
+| Category | Data Engineer |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/PERSIARAN-IRC-2-IOI-RESORT-CITY-IOI-CITY-TOWER-ONEPUTRAJAYA/Director--Data-Engineering_R-0000170576) |
 
 ## About This Role
 
-This engineering manager position at Royal Bank of Canada was posted on 2026-03-19.
+This data engineer position at Royal Bank of Canada was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

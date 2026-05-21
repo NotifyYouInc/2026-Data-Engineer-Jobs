@@ -5,12 +5,12 @@
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Lead-Data-Engineer_R242391) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Lead-Data-Engineer_R242392-1) |
 
 ## About This Role
 
-This data engineer position at Capital One was posted on 2026-05-11.
+This data engineer position at Capital One was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

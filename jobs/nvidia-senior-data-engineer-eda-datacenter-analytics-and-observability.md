@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 4 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Data-Engineer---EDA-Datacenter-Analytics-and-Observability_JR2013973) |
+| Category | Data Engineer |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Data-Engineer---EDA-Datacenter-Analytics-and-Observability_JR2018090) |
 
 ## About This Role
 
-This software engineer position at Nvidia was posted on 2026-03-17.
+This data engineer position at Nvidia was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

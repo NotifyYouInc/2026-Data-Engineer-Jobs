@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mercedes-Benz R&D](https://scoutify.ai/companies/MBRDNA?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | San Jose, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.lever.co/MBRDNA/dde4936a-6df5-45d3-8b1a-625181268ee5) |
+| Category | Data Engineer |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.lever.co/MBRDNA/e801fdb7-7c75-4378-bff6-b3f197489262) |
 
 ## About This Role
 
-This software engineer position at Mercedes-Benz R&D was posted on 2026-03-31.
+This data engineer position at Mercedes-Benz R&D was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

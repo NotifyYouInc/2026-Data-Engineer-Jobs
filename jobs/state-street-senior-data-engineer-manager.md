@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Senior-Data-Engineer---Manager_R-789365-1) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Senior-Data-Engineer---Manager_R-789940) |
 
 ## About This Role
 
-This data engineer position at State Street was posted on 2026-05-07.
+This data engineer position at State Street was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

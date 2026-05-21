@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SOCOTEC](https://scoutify.ai/companies/socotec?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Dallas, Texas, United States |
 | Category | Data Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000125923909-it-ais-senior-data-engineer) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000126134648-it-ais-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at SOCOTEC was posted on 2026-05-11.
+This data engineer position at SOCOTEC was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

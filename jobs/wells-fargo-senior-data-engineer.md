@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 3 locations |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/ISELIN-NJ/Senior-Data-Engineer_R-537876) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Data-Engineer_R-543592) |
 
 ## About This Role
 
-This data engineer position at Wells Fargo was posted on 2026-05-11.
+This data engineer position at Wells Fargo was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

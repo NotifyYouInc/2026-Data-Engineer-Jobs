@@ -5,12 +5,12 @@
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Kolkata, West Bengal, India |
 | Category | Data Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kolkata-DN-57/IN-Manager-Data-Scientist-Gen-AI-Data---Analytics-Advisory-PAN-India_715813WD-1) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kolkata-DN-57/IN-Manager-Data-Scientist-Gen-AI-Data---Analytics-Advisory-PAN-India_715817WD-1) |
 
 ## About This Role
 
-This data engineer position at PwC was posted on 2026-05-07.
+This data engineer position at PwC was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

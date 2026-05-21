@@ -5,12 +5,12 @@
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Pune---Panchshil/Senior-Principal-Engineer---Data-Engineering_R_345953-1) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Noida---Sector-135/Senior-Principal-Engineer---Data-Engineering_R_348327-1) |
 
 ## About This Role
 
-This data engineer position at Marsh & McLennan Companies was posted on 2026-05-01.
+This data engineer position at Marsh & McLennan Companies was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

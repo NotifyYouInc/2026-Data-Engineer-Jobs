@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Data-Engineer--Spark--Abinitio--Python--SQL--Data-warehouse_R-540476) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Data-Engineer--Spark--Abinitio--Python--SQL--Data-warehouse_R-539730) |
 
 ## About This Role
 
-This data engineer position at Wells Fargo was posted on 2026-04-30.
+This data engineer position at Wells Fargo was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

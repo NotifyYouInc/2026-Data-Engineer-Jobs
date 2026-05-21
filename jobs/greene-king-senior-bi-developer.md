@@ -5,12 +5,12 @@
 | Company | [Greene King](https://scoutify.ai/companies/greeneking?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bury St Edmunds, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GreeneKing/744000125853250-senior-bi-developer) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GreeneKing/744000126090504-senior-bi-developer) |
 
 ## About This Role
 
-This data engineer position at Greene King was posted on 2026-05-11.
+This data engineer position at Greene King was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

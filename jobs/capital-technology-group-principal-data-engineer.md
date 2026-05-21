@@ -5,12 +5,12 @@
 | Company | [Capital Technology Group](https://scoutify.ai/companies/capitaltg?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://boards.greenhouse.io/capitaltg/jobs/5111454007?gh_jid=5111454007) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://boards.greenhouse.io/capitaltg/jobs/4956466007?gh_jid=4956466007) |
 
 ## About This Role
 
-This data engineer position at Capital Technology Group was posted on 2026-04-16.
+This data engineer position at Capital Technology Group was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

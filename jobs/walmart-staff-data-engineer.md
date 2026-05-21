@@ -1,16 +1,16 @@
-# Staff, Data Engineer at Walmart
+# STAFF, DATA ENGINEER at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Cedar Park, Texas, United States |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Data Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-TX-CEDAR-PARK-02991-WM-SUPERCENTER/Staff--Data-Engineer_R-2474549) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-TN-CHENNAI-Home-Office-Capita-Land/STAFF--DATA-ENGINEER_R-2419938) |
 
 ## About This Role
 
-This data engineer position at Walmart was posted on 2026-04-21.
+This data engineer position at Walmart was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

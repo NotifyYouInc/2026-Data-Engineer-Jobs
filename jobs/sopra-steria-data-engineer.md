@@ -1,16 +1,16 @@
-# Data Engineer  at Sopra Steria
+# Data Engineer at Sopra Steria
 
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Trondheim, Trøndelag, Norway |
-| Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000115430443-data-engineer) |
+| Location | Madrid, Madrid, Spain |
+| Category | Data Engineer |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000126259919-data-engineer) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-03-18.
+This data engineer position at Sopra Steria was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [phData](https://scoutify.ai/companies/phdata?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | India |
-| Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://www.phdata.io/jobs?gh_jid=7734047) |
+| Category | Data Engineer |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://www.phdata.io/jobs?gh_jid=7794049) |
 
 ## About This Role
 
-This software engineer position at phData was posted on 2026-03-25.
+This data engineer position at phData was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

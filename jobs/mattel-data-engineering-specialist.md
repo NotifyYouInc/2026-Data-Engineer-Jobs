@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000121115957-data-engineering-specialist) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000126282999-data-engineering-specialist) |
 
 ## About This Role
 
-This data engineer position at Mattel was posted on 2026-04-16.
+This data engineer position at Mattel was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

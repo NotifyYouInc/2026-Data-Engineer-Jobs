@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | San Jose, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000124714076-staff-engineer-recording-test) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000126379320-staff-engineer-recording-test) |
 
 ## About This Role
 
-This software engineer position at Western Digital was posted on 2026-05-05.
+This software engineer position at Western Digital was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

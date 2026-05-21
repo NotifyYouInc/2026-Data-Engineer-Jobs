@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VML MAP](https://scoutify.ai/companies/vml-map?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Málaga, Andalusia, Spain |
+| Location | Copenhagen, Capital Region, Denmark |
 | Category | Data Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/map/jobs/8543417002) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/map/jobs/8543398002) |
 
 ## About This Role
 
-This data engineer position at VML MAP was posted on 2026-05-11.
+This data engineer position at VML MAP was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

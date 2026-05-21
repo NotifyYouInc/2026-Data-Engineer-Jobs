@@ -1,16 +1,16 @@
-# Expert Talend (H/F)  at Scalian
+# Expert Talend - H/F at Scalian
 
 | Field | Details |
 |-------|---------|
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | France |
-| Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000114396813-expert-talend-hf) |
+| Location | Neuilly-sur-Seine, Île-de-France, France |
+| Category | Data Engineer |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000126297359-expert-talend-hf) |
 
 ## About This Role
 
-This software engineer position at Scalian was posted on 2026-03-12.
+This data engineer position at Scalian was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

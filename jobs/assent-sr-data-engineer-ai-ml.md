@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Assent](https://scoutify.ai/companies/assent?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Assent/744000110249265-sr-data-engineer-ai-ml) |
+| Category | Data Engineer |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Assent/744000126295554-sr-data-engineer-ai-ml) |
 
 ## About This Role
 
-This software engineer position at Assent was posted on 2026-02-19.
+This data engineer position at Assent was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Amherst, New York, United States |
-| Category | Software Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Amherst/Senior-Data-Engineer_R0890911) |
+| Location | New York City, New York, United States |
+| Category | Data Engineer |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Work-from-hom/Senior-Data-Engineer_R0907559) |
 
 ## About This Role
 
-This software engineer position at CVS Health was posted on 2026-05-05.
+This data engineer position at CVS Health was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

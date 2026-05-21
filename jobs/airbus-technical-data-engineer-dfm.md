@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hamburg, Hamburg, Germany |
-| Category | Technical Writer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Technical-Data-Engineer--d-f-m-_JR10382119-1) |
+| Category | Data Engineer |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Technical-Data-Engineer--d-f-m-_JR10402914-1) |
 
 ## About This Role
 
-This technical writer position at Airbus was posted on 2026-02-26.
+This data engineer position at Airbus was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 
