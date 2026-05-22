@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ciandt](https://scoutify.ai/companies/ciandt?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Campinas, São Paulo, Brazil |
-| Category | Data Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.lever.co/ciandt/28412935-6d26-45b3-989e-74bddce624a1) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.lever.co/ciandt/b01ca05d-a6dc-4135-8561-872b99ffc73f) |
 
 ## About This Role
 
-This data engineer position at Ciandt was posted on 2026-05-08.
+This technical & solutions architect position at Ciandt was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

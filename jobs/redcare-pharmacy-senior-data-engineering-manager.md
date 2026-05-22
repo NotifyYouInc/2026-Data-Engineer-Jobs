@@ -5,12 +5,12 @@
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Germany |
 | Category | Engineering Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000116594317-senior-data-engineering-manager) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000126481280-senior-data-engineering-manager) |
 
 ## About This Role
 
-This engineering manager position at Redcare Pharmacy was posted on 2026-03-25.
+This engineering manager position at Redcare Pharmacy was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

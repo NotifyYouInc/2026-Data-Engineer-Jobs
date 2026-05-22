@@ -5,12 +5,12 @@
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | China |
 | Category | Data Engineer |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/93c3020d-a17b-45a1-98c2-d5eb7509ba8e) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/75cf3d45-8c07-41fd-af08-ef15c0c34737) |
 
 ## About This Role
 
-This data engineer position at Bjak was posted on 2026-05-09.
+This data engineer position at Bjak was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | O'Fallon, Missouri, United States |
+| Location | Dublin, Leinster, Ireland |
 | Category | Data Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Lead-Data-Engineer_R-276860) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Lead-Data-Engineer_R-278109) |
 
 ## About This Role
 
-This data engineer position at Mastercard was posted on 2026-04-29.
+This data engineer position at Mastercard was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

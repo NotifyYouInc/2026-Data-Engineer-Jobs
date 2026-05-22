@@ -1,16 +1,16 @@
-# Director, Data Pipeline Engineering at Blackrock
+# Director - Data Pipeline Engineering at Blackrock
 
 | Field | Details |
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Atlanta, Georgia, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Director--Data-Pipeline-Engineering_R260905) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Atlanta-GA/Director---Data-Pipeline-Engineering_R264305) |
 
 ## About This Role
 
-This data engineer position at Blackrock was posted on 2026-04-29.
+This data engineer position at Blackrock was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

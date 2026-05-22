@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fil](https://scoutify.ai/companies/fil?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Gurugram, Haryana, India |
 | Category | Data Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/FIL-Bengaluru-Office/Senior-Data-Engineer-I_J65979) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/Gurgaon-Office/Senior-Data-Engineer-I_J66907-1) |
 
 ## About This Role
 
-This data engineer position at Fil was posted on 2026-04-21.
+This data engineer position at Fil was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

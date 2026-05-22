@@ -5,12 +5,12 @@
 | Company | [Speechify](https://scoutify.ai/companies/speechify?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/speechify/jobs/5976298004) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/speechify/jobs/5975120004) |
 
 ## About This Role
 
-This software engineer position at Speechify was posted on 2026-04-30.
+This software engineer position at Speechify was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

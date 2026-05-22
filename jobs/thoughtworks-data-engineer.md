@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Singapore, Singapore |
-| Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7681956?gh_jid=7681956) |
+| Category | Data Engineer |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7902966?gh_jid=7902966) |
 
 ## About This Role
 
-This software engineer position at Thoughtworks was posted on 2026-03-12.
+This data engineer position at Thoughtworks was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

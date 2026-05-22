@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Bergen, Vestland, Norway |
 | Category | Data Engineer |
 | Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000126259919-data-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000126287014-data-engineer) |
 
 ## About This Role
 

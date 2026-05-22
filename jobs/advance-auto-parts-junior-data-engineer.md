@@ -5,12 +5,12 @@
 | Company | [Advance Auto Parts](https://scoutify.ai/companies/advanceauto?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Hyderabad-India/Junior-Data-Engineer_R-0583143) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Hyderabad-India/Junior-Data-Engineer_R-0587541) |
 
 ## About This Role
 
-This data engineer position at Advance Auto Parts was posted on 2026-04-21.
+This data engineer position at Advance Auto Parts was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 
