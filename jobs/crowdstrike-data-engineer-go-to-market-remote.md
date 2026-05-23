@@ -1,16 +1,16 @@
-# Data Engineer, Go to Market (Remote) at CrowdStrike
+# Data Engineer, Go To Market (Remote) at CrowdStrike
 
 | Field | Details |
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | California, US |
+| Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Data-Engineer--Go-to-Market--Remote-_R28625) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Data-Engineer--Go-To-Market--Remote-_R28755) |
 
 ## About This Role
 
-This data engineer position at CrowdStrike was posted on 2026-05-01.
+This data engineer position at CrowdStrike was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

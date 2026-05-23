@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [American Red Cross](https://scoutify.ai/companies/americanredcross?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 8 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Raleigh-NC/Lead-Data-Engineer_RC87015) |
+| Location | Raleigh, North Carolina, United States |
+| Category | Data Engineer |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Raleigh-NC/Lead-Data-Engineer_RC88452) |
 
 ## About This Role
 
-This software engineer position at American Red Cross was posted on 2026-03-13.
+This data engineer position at American Red Cross was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

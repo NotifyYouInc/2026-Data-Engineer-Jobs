@@ -5,12 +5,12 @@
 | Company | [AmaliTech](https://scoutify.ai/companies/amalitech?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Rwanda |
 | Category | Software Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/amalitech/744000118135128-amalitech-apprenticeship-programme-july-2026-intake) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/amalitech/744000123234391-amalitech-apprenticeship-programme-july-2026-intake) |
 
 ## About This Role
 
-This software engineer position at AmaliTech was posted on 2026-04-01.
+This software engineer position at AmaliTech was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

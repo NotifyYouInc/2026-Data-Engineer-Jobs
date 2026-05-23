@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Colombia |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Software Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000109595415-database-developer-gbs-americas) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000126709099-database-developer-gbs-americas) |
 
 ## About This Role
 
-This software engineer position at SGS was posted on 2026-02-16.
+This software engineer position at SGS was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

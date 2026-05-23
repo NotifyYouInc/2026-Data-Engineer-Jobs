@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Software Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000118073432-senior-dataops-engineer-for-netcompany-banking-services-fm) |
+| Category | Data Engineer |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000126703354-senior-dataops-engineer-for-netcompany-banking-services-fm) |
 
 ## About This Role
 
-This software engineer position at Netcompany was posted on 2026-04-01.
+This data engineer position at Netcompany was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

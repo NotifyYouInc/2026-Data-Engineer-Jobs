@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Moderna](https://scoutify.ai/companies/modernatx?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Norwood, Massachusetts, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Engineer-II--Data-Systems_R18799-1) |
+| Category | Data Engineer |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Engineer-II--Data-Systems_R18796) |
 
 ## About This Role
 
-This software engineer position at Moderna was posted on 2026-02-26.
+This data engineer position at Moderna was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

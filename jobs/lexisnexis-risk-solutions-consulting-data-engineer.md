@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Raleigh, North Carolina, United States |
 | Category | Data Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Bengaluru/Consulting-Data-Engineer_R112506) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Consulting-Data-Engineer_R111800) |
 
 ## About This Role
 
-This data engineer position at LexisNexis Risk Solutions was posted on 2026-05-13.
+This data engineer position at LexisNexis Risk Solutions was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

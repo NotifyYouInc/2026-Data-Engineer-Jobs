@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture Federal Services](https://scoutify.ai/companies/accenture-federal-services?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Data Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4674792006?gh_jid=4674792006) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4608156006?gh_jid=4608156006) |
 
 ## About This Role
 
-This data engineer position at Accenture Federal Services was posted on 2026-05-08.
+This data engineer position at Accenture Federal Services was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

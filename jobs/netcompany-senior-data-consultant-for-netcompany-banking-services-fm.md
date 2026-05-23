@@ -5,12 +5,12 @@
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000116386341-senior-data-consultant-for-netcompany-banking-services-fm) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000126703490-senior-data-consultant-for-netcompany-banking-services-fm) |
 
 ## About This Role
 
-This technology / it consulting position at Netcompany was posted on 2026-03-24.
+This technology / it consulting position at Netcompany was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

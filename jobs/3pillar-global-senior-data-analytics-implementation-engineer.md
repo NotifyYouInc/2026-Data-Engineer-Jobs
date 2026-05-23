@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [3Pillar Global](https://scoutify.ai/companies/3pillar-global?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Romania |
+| Location | Moldova |
 | Category | Data Engineer |
 | Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.lever.co/3pillarglobal/a80e10e0-9a40-4201-8115-ed55dc6ae7ed) |
+| Apply | [View on company site](https://jobs.lever.co/3pillarglobal/d9131c72-c6c7-401a-8d30-5249c7aa8a71) |
 
 ## About This Role
 

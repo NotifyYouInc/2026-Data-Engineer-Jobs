@@ -5,12 +5,12 @@
 | Company | [9th Way Solutions](https://scoutify.ai/companies/9th-way-solutions?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | Data Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/9thwayinsignia/jobs/5032201008) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/9thwayinsignia/jobs/5222552008) |
 
 ## About This Role
 
-This data engineer position at 9th Way Solutions was posted on 2026-03-31.
+This data engineer position at 9th Way Solutions was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

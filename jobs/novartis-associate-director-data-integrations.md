@@ -1,16 +1,16 @@
-# Associate Director, Data Integrations at Novartis
+# Associate Director: Data Integrations at Novartis
 
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Engineering Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Associate-Director--Data-Integrations_REQ-10072159-1) |
+| Category | Data Engineer |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Associate-Director--Data-Integrations_REQ-10076593) |
 
 ## About This Role
 
-This engineering manager position at Novartis was posted on 2026-02-18.
+This data engineer position at Novartis was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000116951473-lead-analytics-engineer) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000126724529-lead-analytics-engineer) |
 
 ## About This Role
 
-This data engineer position at WISE was posted on 2026-03-26.
+This data engineer position at WISE was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

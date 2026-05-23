@@ -5,12 +5,12 @@
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Data Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000126355779-oracle-fusion-data-conversion) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000126532950-oracle-fusion-data-conversion) |
 
 ## About This Role
 
-This data engineer position at VTekis Consulting LLP was posted on 2026-05-13.
+This data engineer position at VTekis Consulting LLP was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

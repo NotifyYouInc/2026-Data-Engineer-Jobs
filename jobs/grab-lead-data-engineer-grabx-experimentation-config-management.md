@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Data Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000125809840-lead-data-engineer-grabx-experimentation-config-management) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000126641544-lead-data-engineer-grabx-experimentation-config-management) |
 
 ## About This Role
 
-This data engineer position at Grab was posted on 2026-05-11.
+This data engineer position at Grab was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

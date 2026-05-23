@@ -5,12 +5,12 @@
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Poland |
 | Category | Data Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000126297434-ai-data-engineer) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000126493318-ai-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Sigma Software was posted on 2026-05-13.
+This data engineer position at Sigma Software was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 
