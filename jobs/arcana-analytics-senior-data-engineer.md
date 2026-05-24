@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms at IBM
+# Senior Data Engineer at Arcana Analytics
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Arcana Analytics](https://scoutify.ai/companies/arcana-analytics?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-05-16 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=112808) |
+| Posted | 2025-10-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/arcanaanalytics/jobs/4005210009) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-05-16.
+This data engineer position at Arcana Analytics was posted on 2025-10-18.
 
 ## Get Real-Time Alerts
 

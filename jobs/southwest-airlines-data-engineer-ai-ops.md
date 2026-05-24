@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms at IBM
+# Data Engineer – AI Ops at Southwest Airlines
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Southwest Airlines](https://scoutify.ai/companies/swa?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | India |
 | Category | Data Engineer |
 | Posted | 2026-05-16 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=112808) |
+| Apply | [View on company site](https://swa.wd1.myworkdayjobs.com/external/job/India-Office/Data-Engineer---AI-Ops_R-2026-68055) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-05-16.
+This data engineer position at Southwest Airlines was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 
