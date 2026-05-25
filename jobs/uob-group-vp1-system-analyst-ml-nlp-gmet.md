@@ -1,16 +1,16 @@
-# #EG Talend Developer at NCS
+# VP1 System Analyst (ML & NLP ), GMET at UOB Group
 
 | Field | Details |
 |-------|---------|
-| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Singapore |
 | Category | Data Engineer |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001080411-eg-talend-developer) |
+| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Central-Region-City-Area/VP1-System-Analyst--ML---NLP----GMET_JR86622) |
 
 ## About This Role
 
-This data engineer position at NCS was posted on 2026-05-18.
+This data engineer position at UOB Group was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

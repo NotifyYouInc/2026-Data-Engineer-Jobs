@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jade Global](https://scoutify.ai/companies/jadeglobal?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/Pune-Maharashtra/Snowflake-Data-Engineer_R-105132) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/Pune-Maharashtra/Snowflake-Data-Engineer_R-104793) |
 
 ## About This Role
 
-This data engineer position at Jade Global was posted on 2026-05-14.
+This data engineer position at Jade Global was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

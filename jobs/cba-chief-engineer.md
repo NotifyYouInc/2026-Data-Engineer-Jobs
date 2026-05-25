@@ -1,16 +1,16 @@
-# #EG Talend Developer at NCS
+# Chief Engineer at Cba
 
 | Field | Details |
 |-------|---------|
-| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Singapore, Singapore |
-| Category | Data Engineer |
+| Company | [Cba](https://scoutify.ai/companies/cba?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | 2 locations |
+| Category | Engineering Manager |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001080411-eg-talend-developer) |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/private_ad/job/Sydney-CBD-Area/Chief-Engineer_REQ256928-1) |
 
 ## About This Role
 
-This data engineer position at NCS was posted on 2026-05-18.
+This engineering manager position at Cba was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

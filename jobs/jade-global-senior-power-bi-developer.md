@@ -1,16 +1,16 @@
-# #EG Talend Developer at NCS
+# Senior Power Bi Developer at Jade Global
 
 | Field | Details |
 |-------|---------|
-| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Jade Global](https://scoutify.ai/companies/jadeglobal?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001080411-eg-talend-developer) |
+| Apply | [View on company site](https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/Pune-Maharashtra/Senior-Power-Bi-Developer_R-105385) |
 
 ## About This Role
 
-This data engineer position at NCS was posted on 2026-05-18.
+This data engineer position at Jade Global was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

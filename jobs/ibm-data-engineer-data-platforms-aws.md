@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
 | Posted | 2026-05-14 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=112848) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=112834) |
 
 ## About This Role
 

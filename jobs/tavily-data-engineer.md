@@ -1,16 +1,16 @@
-# #EG Talend Developer at NCS
+# Data Engineer at Tavily
 
 | Field | Details |
 |-------|---------|
-| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Tavily](https://scoutify.ai/companies/tavily?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Israel |
 | Category | Data Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001080411-eg-talend-developer) |
+| Posted | 2026-01-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/tavily/70bcbe09-fc44-4512-922b-92031be7df8a) |
 
 ## About This Role
 
-This data engineer position at NCS was posted on 2026-05-18.
+This data engineer position at Tavily was posted on 2026-01-04.
 
 ## Get Real-Time Alerts
 

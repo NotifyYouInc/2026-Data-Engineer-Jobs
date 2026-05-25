@@ -1,16 +1,16 @@
-# Technology Platform Engineer at Accenture
+# ERDS-MJ - Gen AI Engineer at Capco
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Technology-Platform-Engineer_ATCI-5405381-S1976534-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/7813741) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-05-18.
+This ai / llm engineer position at Capco was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

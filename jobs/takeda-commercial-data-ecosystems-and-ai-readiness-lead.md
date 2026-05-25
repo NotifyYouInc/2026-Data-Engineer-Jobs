@@ -1,16 +1,16 @@
-# BIM Associate - Tamkeen Program (Saudi National) at Parsons
+# Commercial Data Ecosystems and AI readiness Lead at Takeda
 
 | Field | Details |
 |-------|---------|
-| Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Saudi Arabia |
+| Company | [Takeda](https://scoutify.ai/companies/takeda?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
 | Posted | 2026-05-17 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/SA---Al-Khobar/BIM-Associate---Tamkeen-Program--Saudi-National-_R181027) |
+| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/IND---Bengaluru/Commercial-Data-Ecosystems-and-AI-readiness-Lead_R0180066) |
 
 ## About This Role
 
-This data engineer position at Parsons was posted on 2026-05-17.
+This data engineer position at Takeda was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

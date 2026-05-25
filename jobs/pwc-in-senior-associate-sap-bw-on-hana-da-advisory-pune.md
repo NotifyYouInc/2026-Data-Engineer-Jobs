@@ -1,16 +1,16 @@
-# Senior Data Engineer at Equifax
+# IN-Senior Associate_ SAP BW on HANA_D&A_ Advisory _Pune at PwC
 
 | Field | Details |
 |-------|---------|
-| Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PEC/Senior-Data-Engineer_J00177175) |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Pune/IN-Senior-Associate--Agentic-Developer--Agentic-Automation--Advisory--Gurugram_686815WD-1) |
 
 ## About This Role
 
-This data engineer position at Equifax was posted on 2026-05-18.
+This data engineer position at PwC was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

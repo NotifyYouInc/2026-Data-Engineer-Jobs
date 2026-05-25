@@ -1,16 +1,16 @@
-# #EG Talend Developer at NCS
+# FinOps Data Engineer at Anaplan
 
 | Field | Details |
 |-------|---------|
-| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Anaplan](https://scoutify.ai/companies/anaplan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Data Engineer |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001080411-eg-talend-developer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8378177002) |
 
 ## About This Role
 
-This data engineer position at NCS was posted on 2026-05-18.
+This data engineer position at Anaplan was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

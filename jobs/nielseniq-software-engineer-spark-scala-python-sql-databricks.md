@@ -1,16 +1,16 @@
-# Application Developer at Accenture
+# Software Engineer - Spark, scala, Python, SQL, Databricks at NielsenIQ
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Application-Developer_ATCI-5399806-S1980593) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000126914474-software-engineer-spark-scala-python-sql-databricks) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-05-18.
+This software engineer position at NielsenIQ was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

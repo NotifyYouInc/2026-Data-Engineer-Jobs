@@ -1,16 +1,16 @@
-# Technology Platform Engineer at Accenture
+# Intern - Component Test Engineering at Micron
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Singapore, Singapore |
 | Category | Software Engineer |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Technology-Platform-Engineer_ATCI-5405381-S1976534-1) |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Component-Test-Engineering_JR101620) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-05-18.
+This software engineer position at Micron was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

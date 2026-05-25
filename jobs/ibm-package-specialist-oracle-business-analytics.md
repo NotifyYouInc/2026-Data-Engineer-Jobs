@@ -1,16 +1,16 @@
-# #EG Talend Developer at NCS
+# Package Specialist-Oracle Business Analytics at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Singapore, Singapore |
-| Category | Data Engineer |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Pune, Maharashtra, India |
+| Category | Customer Success |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001080411-eg-talend-developer) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=112340) |
 
 ## About This Role
 
-This data engineer position at NCS was posted on 2026-05-18.
+This customer success position at IBM was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

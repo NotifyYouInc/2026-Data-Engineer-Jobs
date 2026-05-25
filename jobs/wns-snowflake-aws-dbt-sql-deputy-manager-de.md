@@ -1,16 +1,16 @@
-# BIM Associate - Tamkeen Program (Saudi National) at Parsons
+# Snowflake  + Aws + dbt + sql  Deputy Manager- DE at WNS
 
 | Field | Details |
 |-------|---------|
-| Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Saudi Arabia |
+| Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
 | Posted | 2026-05-17 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/SA---Al-Khobar/BIM-Associate---Tamkeen-Program--Saudi-National-_R181027) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000126861779-snowflake-aws-dbt-sql-deputy-manager-de) |
 
 ## About This Role
 
-This data engineer position at Parsons was posted on 2026-05-17.
+This data engineer position at WNS was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

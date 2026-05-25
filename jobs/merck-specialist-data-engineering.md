@@ -1,16 +1,16 @@
-# BIM Associate - Tamkeen Program (Saudi National) at Parsons
+# Specialist, Data Engineering at Merck
 
 | Field | Details |
 |-------|---------|
-| Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Saudi Arabia |
+| Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
 | Posted | 2026-05-17 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/SA---Al-Khobar/BIM-Associate---Tamkeen-Program--Saudi-National-_R181027) |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad/Specialist--Data-Engineering_R395096-1) |
 
 ## About This Role
 
-This data engineer position at Parsons was posted on 2026-05-17.
+This data engineer position at Merck was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr Engineer Data at Empower
+# Senior Analyst- Data Science Customer Programs at RTX
 
 | Field | Details |
 |-------|---------|
-| Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
 | Posted | 2026-05-17 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Sr-Engineer-Data_R0058210-1) |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Senior-Analyst--Data-Science-Customer-Programs_01845660) |
 
 ## About This Role
 
-This data engineer position at Empower was posted on 2026-05-17.
+This data engineer position at RTX was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

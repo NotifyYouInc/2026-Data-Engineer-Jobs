@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Alpharetta, Georgia, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA-GA-Alpharetta-JVW3/Data-Engineer_J00177008) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PEC/Data-Engineer_J00177176) |
 
 ## About This Role
 
-This data engineer position at Equifax was posted on 2026-05-05.
+This data engineer position at Equifax was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Engineer at Cisco
+# Principal Member Technical Staff (Data engineer) at The Nielsen Company
 
 | Field | Details |
 |-------|---------|
-| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Data-Engineer_2014509-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013174306-principal-member-technical-staff-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Cisco was posted on 2026-05-18.
+This data engineer position at The Nielsen Company was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

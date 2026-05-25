@@ -1,16 +1,16 @@
-# Technology Platform Engineer at Accenture
+# EHSS Platform Engineer at Takeda
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Takeda](https://scoutify.ai/companies/takeda?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Santa Fe, Jalisco, Mexico |
 | Category | Software Engineer |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Technology-Platform-Engineer_ATCI-5405381-S1976534-1) |
+| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/MEX---Santa-Fe/EHSS-Platform-Engineer_R0179580) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-05-18.
+This software engineer position at Takeda was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

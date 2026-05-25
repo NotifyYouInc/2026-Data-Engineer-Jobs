@@ -1,16 +1,16 @@
-# #EG Talend Developer at NCS
+# Data Analytics Developer at Jade Global
 
 | Field | Details |
 |-------|---------|
-| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Jade Global](https://scoutify.ai/companies/jadeglobal?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | 2 locations |
 | Category | Data Engineer |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001080411-eg-talend-developer) |
+| Apply | [View on company site](https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/Pune-Maharashtra/Data-Analytics-Developer_R-104977) |
 
 ## About This Role
 
-This data engineer position at NCS was posted on 2026-05-18.
+This data engineer position at Jade Global was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

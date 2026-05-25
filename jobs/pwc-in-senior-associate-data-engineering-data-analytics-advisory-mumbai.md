@@ -1,16 +1,16 @@
-# IN-Senior Associate_Big Data Engineer_Data Analytics_Advisory_Bangalore at PwC
+# IN-Senior Associate_ Data Engineering__ Data & Analytics _ Advisory _Mumbai  at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-05-17 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-Big-Data-Engineer-Data-Analytics-Advisory-Bangalore_729231WD-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Goregaon/IN-Senior-Associate--Data-Governance-Officer--Data-Analytics--Advisory--Bangalore_702470WD-2) |
 
 ## About This Role
 
-This data engineer position at PwC was posted on 2026-05-17.
+This data engineer position at PwC was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 
