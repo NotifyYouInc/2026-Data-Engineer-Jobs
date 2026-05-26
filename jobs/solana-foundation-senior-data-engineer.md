@@ -5,12 +5,12 @@
 | Company | [Solana Foundation](https://scoutify.ai/companies/solana-foundation?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Not specified |
 | Category | Data Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/solana%20foundation/df755294-5339-4bd0-a446-a2a6c0edc5f2) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/solana%20foundation/173cd3e1-7284-41b7-b270-6ac92f652f98) |
 
 ## About This Role
 
-This data engineer position at Solana Foundation was posted on 2026-05-12.
+This data engineer position at Solana Foundation was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

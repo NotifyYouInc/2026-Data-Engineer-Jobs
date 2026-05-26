@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Victoria, AU |
 | Category | Data Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000126632160-lcms-specialist) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000127087330-lcms-specialist) |
 
 ## About This Role
 
-This data engineer position at Eurofins Scientific was posted on 2026-05-15.
+This data engineer position at Eurofins Scientific was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 4 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Santa-Monica-CA-USA/Data-Engineer-II_10145232) |
+| Location | New York City, New York, United States |
+| Category | Data Engineer |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Data-Engineer-II_10150383-1) |
 
 ## About This Role
 
-This software engineer position at Disney was posted on 2026-03-26.
+This data engineer position at Disney was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

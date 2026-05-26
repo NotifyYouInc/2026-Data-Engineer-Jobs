@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CTBC Financial Holding](https://scoutify.ai/companies/ctbc-financial-holding?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
-| Category | Software Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://ctbcholding.wd3.myworkdayjobs.com/external/job/Taipei/---_JR6827) |
+| Category | Data Engineer |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://ctbcholding.wd3.myworkdayjobs.com/external/job/Taipei/---_JR7789) |
 
 ## About This Role
 
-This software engineer position at CTBC Financial Holding was posted on 2026-03-10.
+This data engineer position at CTBC Financial Holding was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

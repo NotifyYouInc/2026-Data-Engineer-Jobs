@@ -5,12 +5,12 @@
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Cremorne, New South Wales, Australia |
 | Category | Data Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000122178232-staff-data-engineer) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000127126989-staff-data-engineer) |
 
 ## About This Role
 
-This data engineer position at SEEK was posted on 2026-04-22.
+This data engineer position at SEEK was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

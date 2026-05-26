@@ -5,12 +5,12 @@
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Portugal |
 | Category | Data Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000121463740-data-platform-engineer-data-integration) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000126938874-data-platform-engineer-data-integration) |
 
 ## About This Role
 
-This data engineer position at Continental was posted on 2026-04-17.
+This data engineer position at Continental was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Engineer - Machine Learning at IBM
+# Data Engineer Machine learning at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Giza, Giza, Egypt |
+| Location | Cairo, Cairo, Egypt |
 | Category | Data Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=86410) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=114420) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-02-02.
+This data engineer position at IBM was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

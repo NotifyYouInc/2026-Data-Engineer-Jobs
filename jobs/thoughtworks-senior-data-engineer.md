@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Location | Melbourne, Victoria, Australia |
 | Category | Data Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7911657?gh_jid=7911657) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7920278?gh_jid=7920278) |
 
 ## About This Role
 
-This data engineer position at Thoughtworks was posted on 2026-05-14.
+This data engineer position at Thoughtworks was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

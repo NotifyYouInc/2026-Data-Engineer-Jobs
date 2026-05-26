@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [EDF UK](https://scoutify.ai/companies/edf-uk?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Data Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/edf-uk/744000123644554-data-architect) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/edf-uk/744000126999437-data-architect) |
 
 ## About This Role
 
-This data engineer position at EDF UK was posted on 2026-04-29.
+This technical & solutions architect position at EDF UK was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

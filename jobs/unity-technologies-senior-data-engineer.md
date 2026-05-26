@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unity Technologies](https://scoutify.ai/companies/unity-technologies?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Copenhagen, Capital Region, Denmark |
 | Category | Data Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://unity.com/careers/positions/7579006?gh_jid=7579006) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://unity.com/careers/positions/7846828?gh_jid=7846828) |
 
 ## About This Role
 
-This data engineer position at Unity Technologies was posted on 2026-05-13.
+This data engineer position at Unity Technologies was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000124883449-senior-data-engineer) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000127124579-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Version 1 was posted on 2026-05-06.
+This data engineer position at Version 1 was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Universal City, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000116682297-lead-data-engineer) |
+| Category | Data Engineer |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000127022230-lead-data-engineer) |
 
 ## About This Role
 
-This software engineer position at NBCUniversal was posted on 2026-03-25.
+This data engineer position at NBCUniversal was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 
