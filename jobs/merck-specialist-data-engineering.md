@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Data Engineer |
-| Posted | 2026-05-17 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad/Specialist--Data-Engineering_R395096-1) |
+| Category | Software Engineer |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City/Specialist--Data-Engineering_R396436-1) |
 
 ## About This Role
 
-This data engineer position at Merck was posted on 2026-05-17.
+This software engineer position at Merck was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

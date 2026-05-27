@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Takeda](https://scoutify.ai/companies/takeda?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Mexico |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/MEX---Santa-Fe/Principal-Data-Engineer_R0176128) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/IND---Bengaluru/Principal-Data-Engineer_R0180603) |
 
 ## About This Role
 
-This data engineer position at Takeda was posted on 2026-03-24.
+This data engineer position at Takeda was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

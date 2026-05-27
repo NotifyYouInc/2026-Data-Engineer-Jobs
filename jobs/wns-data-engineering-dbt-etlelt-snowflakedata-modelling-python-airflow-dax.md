@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000113333997-data-engineering-dbt-etlelt-snowflakedata-modelling-python-airflow-dax) |
+| Category | Data Engineer |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000127140637-data-engineering-dbt-etlelt-snowflakedata-modelling-python-airflow-dax) |
 
 ## About This Role
 
-This software engineer position at WNS was posted on 2026-03-07.
+This data engineer position at WNS was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

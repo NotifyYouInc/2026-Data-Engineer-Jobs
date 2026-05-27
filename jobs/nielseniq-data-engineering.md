@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000125731193-data-engineering) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000127161388-data-engineering) |
 
 ## About This Role
 
-This data engineer position at NielsenIQ was posted on 2026-05-11.
+This data engineer position at NielsenIQ was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

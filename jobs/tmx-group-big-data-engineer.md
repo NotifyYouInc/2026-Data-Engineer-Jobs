@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TMX Group](https://scoutify.ai/companies/tmx-group?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Software Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Big-Data-Engineer_R-5816) |
+| Category | Data Engineer |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Big-Data-Engineer_R-6048) |
 
 ## About This Role
 
-This software engineer position at TMX Group was posted on 2026-03-04.
+This data engineer position at TMX Group was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Engineer - Intermediate at Equifax
+# Data Engineer Intermediate at Equifax
 
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
+| Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CHL-Titanium-Piso-27/Data-Engineer---Intermediate_J00175137) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PEC/Data-Engineer-Intermediate_J00177017) |
 
 ## About This Role
 
-This data engineer position at Equifax was posted on 2026-04-27.
+This data engineer position at Equifax was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

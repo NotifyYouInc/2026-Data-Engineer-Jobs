@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brainlab](https://scoutify.ai/companies/brainlab?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/brainlab/744000125128094-working-student-healthcare-data-engineering-computer-science-data-science) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/brainlab/744000127201864-working-student-healthcare-data-engineering-computer-science-data-science) |
 
 ## About This Role
 
-This data engineer position at Brainlab was posted on 2026-05-07.
+This data engineer position at Brainlab was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Staff, Data Engineer at Warner Bros Discovery
+# Staff Data Engineer at Warner Bros Discovery
 
 | Field | Details |
 |-------|---------|
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Hyderabad-Office-Level-3--4-Block-A---East-Wing/Staff--Data-Engineer_R000102611) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Engineer |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Bangalore-Global-Tech-Park-Tower-C-5th-F/Staff-Data-Engineer_R000105592) |
 
 ## About This Role
 
-This software engineer position at Warner Bros Discovery was posted on 2026-02-26.
+This data engineer position at Warner Bros Discovery was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

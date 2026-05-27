@@ -1,16 +1,16 @@
-# Sr. Data Engineer - Cloud Security (Hybrid, ISR) at CrowdStrike
+# Sr. Data Engineer, Cloud Security (Hybrid, ISR) at CrowdStrike
 
 | Field | Details |
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Data Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Israel---Tel-Aviv/Sr-Data-Engineer---Cloud-Security--Hybrid--ISR-_R27228) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Israel---Tel-Aviv/Sr-Data-Engineer--Cloud-Security--Hybrid--ISR-_R27233) |
 
 ## About This Role
 
-This data engineer position at CrowdStrike was posted on 2026-04-15.
+This data engineer position at CrowdStrike was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 
