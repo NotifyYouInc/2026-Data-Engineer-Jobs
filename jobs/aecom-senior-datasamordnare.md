@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
 | Category | Data Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000121210758-senior-datasamordnare) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000127496322-senior-datasamordnare) |
 
 ## About This Role
 
-This data engineer position at AECOM was posted on 2026-04-16.
+This data engineer position at AECOM was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Not specified |
 | Category | Data Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/SAS---SQL-Developer---Assistant-Vice-President_26961829) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/SAS---SQL-Developer---Assistant-Vice-President_26961839) |
 
 ## About This Role
 
-This data engineer position at Citigroup was posted on 2026-05-13.
+This data engineer position at Citigroup was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

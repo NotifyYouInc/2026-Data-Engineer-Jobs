@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Mississauga, Ontario, Canada |
+| Location | Dublin, Leinster, Ireland |
 | Category | Data Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Senior-Data-Engineer_26953420) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Dublin--Ireland/Senior-Data-Engineer_26963809) |
 
 ## About This Role
 
-This data engineer position at Citigroup was posted on 2026-04-16.
+This data engineer position at Citigroup was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

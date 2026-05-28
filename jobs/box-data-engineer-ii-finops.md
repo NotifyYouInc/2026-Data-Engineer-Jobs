@@ -5,12 +5,12 @@
 | Company | [Box](https://scoutify.ai/companies/box?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Data Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/boxinc/jobs/7513893) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/boxinc/jobs/7918212) |
 
 ## About This Role
 
-This data engineer position at Box was posted on 2026-04-14.
+This data engineer position at Box was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

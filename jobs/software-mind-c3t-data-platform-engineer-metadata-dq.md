@@ -5,12 +5,12 @@
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Data Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000126299920-c3t-data-platform-engineer-metadata-dq) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000127391630-c3t-data-platform-engineer-metadata-dq) |
 
 ## About This Role
 
-This data engineer position at Software Mind was posted on 2026-05-13.
+This data engineer position at Software Mind was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

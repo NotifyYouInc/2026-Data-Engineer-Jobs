@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [University of Rochester](https://scoutify.ai/companies/university-of-rochester?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Rochester, New York, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://rochester.wd5.myworkdayjobs.com/ur_staff/job/Saunders-Research-Building/Research-Data-Engineer-I_R269432) |
+| Category | Data Engineer |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://rochester.wd5.myworkdayjobs.com/ur_staff/job/Laboratory-for-Laser-Energetics/Research-Data-Engineer-I_R271557) |
 
 ## About This Role
 
-This software engineer position at University of Rochester was posted on 2026-03-12.
+This data engineer position at University of Rochester was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Big Data Developer at Talan
+# Big Data Developer  at Talan
 
 | Field | Details |
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Spain |
+| Location | Málaga, Andalusia, Spain |
 | Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000116130193-big-data-developer) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000127365961-big-data-developer) |
 
 ## About This Role
 
-This software engineer position at Talan was posted on 2026-03-23.
+This software engineer position at Talan was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

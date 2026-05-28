@@ -1,16 +1,16 @@
-# R/SAS Statistical Programmer (hiring in Armenia, Hungary, Estonia, CR, Romania, Argentina, Brazil, or Columbia only) at Syneoshealth
+# R/SAS Statistical Programmer (hiring in Armenia, Hungary, Estonia, CR, Romania, Argentina, Brazil, UK, Germany, South Africa or Columbia only) at Syneoshealth
 
 | Field | Details |
 |-------|---------|
 | Company | [Syneoshealth](https://scoutify.ai/companies/syneoshealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Armenia |
 | Category | Software Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/ARM-Remote/R-SAS-Statistical-Programmer--hiring-in-Armenia--Hungary--Estonia--CR--Romania--Argentina--Brazil--or-Columbia-only-_25108592) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/ARM-Remote/R-SAS-Statistical-Programmer--hiring-in-Armenia--Hungary--Estonia--CR--Romania--Argentina--Brazil--UK--Germany--South-Africa-or-Columbia-only-_25108913) |
 
 ## About This Role
 
-This software engineer position at Syneoshealth was posted on 2026-05-18.
+This software engineer position at Syneoshealth was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

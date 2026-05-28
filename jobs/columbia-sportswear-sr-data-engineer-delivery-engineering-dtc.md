@@ -5,12 +5,12 @@
 | Company | [Columbia Sportswear](https://scoutify.ai/companies/columbia-sportswear?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://columbiasportswearcompany.wd5.myworkdayjobs.com/columbia_career_site/job/Bangalore-Karnataka-India/Sr-Data-Engineer--Delivery-Engineering---DTC-_R-018566-1) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://columbiasportswearcompany.wd5.myworkdayjobs.com/columbia_career_site/job/Bangalore-Karnataka-India/Sr-Data-Engineer--Delivery-Engineering---DTC-_R-018567) |
 
 ## About This Role
 
-This data engineer position at Columbia Sportswear was posted on 2026-05-15.
+This data engineer position at Columbia Sportswear was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

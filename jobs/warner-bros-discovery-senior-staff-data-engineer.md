@@ -1,16 +1,16 @@
-# Senior Staff Data Engineer at Warner Bros Discovery
+# Senior Staff, Data Engineer at Warner Bros Discovery
 
 | Field | Details |
 |-------|---------|
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Not specified |
-| Category | Software Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Staff-Software-Engineer_R000096144) |
+| Location | Warsaw, Mazovia, Poland |
+| Category | Data Engineer |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Warsaw-166-Wiertnicza-TVN/Senior-Staff--Data-Engineer_R000105551) |
 
 ## About This Role
 
-This software engineer position at Warner Bros Discovery was posted on 2026-03-11.
+This data engineer position at Warner Bros Discovery was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000126938189-senior-backend-engineer) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000127263244-senior-backend-engineer) |
 
 ## About This Role
 
-This software engineer position at Sigma Software was posted on 2026-05-18.
+This software engineer position at Sigma Software was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 
