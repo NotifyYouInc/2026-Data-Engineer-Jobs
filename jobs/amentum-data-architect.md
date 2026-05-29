@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/UK-Bristol/Data-Architect_R0158931) |
+| Location | Bristol, England, United Kingdom |
+| Category | Data Engineer |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/UK-Bristol/Data-Architect_R0161762-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Amentum was posted on 2026-04-10.
+This data engineer position at Amentum was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

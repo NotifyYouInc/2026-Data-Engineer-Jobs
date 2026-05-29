@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dialpad](https://scoutify.ai/companies/dialpad?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Vancouver, British Columbia, Canada |
-| Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dialpad/jobs/8407071002) |
+| Location | Kitchener, Ontario, Canada |
+| Category | Data Engineer |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dialpad/jobs/8558973002) |
 
 ## About This Role
 
-This software engineer position at Dialpad was posted on 2026-02-06.
+This data engineer position at Dialpad was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

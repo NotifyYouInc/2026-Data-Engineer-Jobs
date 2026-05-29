@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Coahuila, MX |
-| Category | Software Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/TRC-IT-HUB---Torreon-El-Fresno-Coahuila-Mexico/Senior-IT-Data-Engineer-MXT_R0451373) |
+| Location | Torreón, Coahuila, Mexico |
+| Category | Data Engineer |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/TRC-IT-HUB---Torreon-El-Fresno-Coahuila-Mexico/Senior-IT-Data-Engineer-MXT_R0462810-1) |
 
 ## About This Role
 
-This software engineer position at Tyson Foods was posted on 2026-03-20.
+This data engineer position at Tyson Foods was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

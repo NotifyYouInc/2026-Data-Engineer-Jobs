@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | London, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000121580347-data-engineer) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000127673375-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Entain was posted on 2026-04-18.
+This data engineer position at Entain was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

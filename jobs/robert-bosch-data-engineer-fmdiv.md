@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Renningen, Baden-Wurttemberg, Germany |
+| Location | Not specified |
 | Category | Data Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000124588375-data-engineer-fmdiv) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000127636349-data-engineer-fmdiv) |
 
 ## About This Role
 
-This data engineer position at Robert Bosch was posted on 2026-05-05.
+This data engineer position at Robert Bosch was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

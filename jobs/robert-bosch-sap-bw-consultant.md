@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Telangana, IN |
-| Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000115362616-sap-bw-consultant) |
+| Location | India |
+| Category | Data Engineer |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000127659779-sap-bw-consultant) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-03-18.
+This data engineer position at Robert Bosch was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

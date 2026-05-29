@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Nantes, Pays de la Loire, France |
 | Category | Data Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000123885332-concepteur-developpeur-etl-services-financiers-nantes) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000127672543-concepteur-developpeur-etl-services-financiers-nantes) |
 
 ## About This Role
 
-This data engineer position at Sopra Steria was posted on 2026-04-30.
+This data engineer position at Sopra Steria was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

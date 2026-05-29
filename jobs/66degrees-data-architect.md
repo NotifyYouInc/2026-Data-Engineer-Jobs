@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [66degrees](https://scoutify.ai/companies/66degrees?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United States |
-| Category | Data Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/66degrees/jobs/5746782004) |
+| Location | 2 locations |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/66degrees/jobs/6003301004) |
 
 ## About This Role
 
-This data engineer position at 66degrees was posted on 2026-05-14.
+This technical & solutions architect position at 66degrees was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

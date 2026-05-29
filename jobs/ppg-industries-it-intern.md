@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PPG Industries](https://scoutify.ai/companies/ppg-industries?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Shah Alam, Selangor, Malaysia |
-| Category | Technical Writer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/MYS---Shah-Alam-Office/IT-Intern_JR263783) |
+| Category | Data Engineer |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/MYS---Shah-Alam-Office/IT-Intern_JR266645) |
 
 ## About This Role
 
-This technical writer position at PPG Industries was posted on 2026-03-27.
+This data engineer position at PPG Industries was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

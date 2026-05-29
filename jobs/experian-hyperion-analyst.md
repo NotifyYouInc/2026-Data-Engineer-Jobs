@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000109912415-hyperion-analyst) |
+| Category | Data Engineer |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000127624130-hyperion-analyst) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-02-18.
+This data engineer position at Experian was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

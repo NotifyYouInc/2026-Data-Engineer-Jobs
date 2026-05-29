@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Heredia, Heredia Province, Costa Rica |
 | Category | Data Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000123746909-senior-data-engineer) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000127758109-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Experian was posted on 2026-04-29.
+This data engineer position at Experian was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 
