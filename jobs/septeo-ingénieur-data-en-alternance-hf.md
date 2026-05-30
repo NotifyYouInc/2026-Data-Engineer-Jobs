@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SEPTEO](https://scoutify.ai/companies/septeo?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Dijon, Bourgogne, France |
-| Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Septeo/744000113128669-ingenieur-data-en-alternance-hf) |
+| Category | Data Engineer |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Septeo/744000127887920-ingenieur-data-en-alternance-hf) |
 
 ## About This Role
 
-This software engineer position at SEPTEO was posted on 2026-03-06.
+This data engineer position at SEPTEO was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
-| Category | Data Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Data-Architect_ATCI-5556594-S2024936-1) |
+| Location | Hyderabad, Telangana, India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Data-Architect_ATCI-5556187-S2025419-1) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-05-20.
+This technical & solutions architect position at Accenture was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

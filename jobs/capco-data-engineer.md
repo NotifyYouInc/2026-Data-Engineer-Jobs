@@ -1,16 +1,16 @@
-# Data Engineer  at Capco
+# Data Engineer at Capco
 
 | Field | Details |
 |-------|---------|
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Data Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/7902475) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/7952913) |
 
 ## About This Role
 
-This data engineer position at Capco was posted on 2026-05-07.
+This data engineer position at Capco was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

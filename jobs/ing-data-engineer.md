@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Katowice, Silesia, Poland |
-| Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Warszawa-Paska-97/Data-Engineer_REQ-10111704-1) |
+| Location | Istanbul, Istanbul, Turkey |
+| Category | Data Engineer |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Istanbul-VADI-ISTANBUL-PARK/Data-Engineer_REQ-10115271) |
 
 ## About This Role
 
-This software engineer position at ING was posted on 2026-03-18.
+This data engineer position at ING was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Ab Initio Developer at Citigroup
+# AB-Initio Developer at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Irving, Texas, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Ab-Initio-Developer_26932430) |
+| Location | Pune, Maharashtra, India |
+| Category | Data Engineer |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/AB-Initio-Developer_26958672) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-03-09.
+This data engineer position at Citigroup was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

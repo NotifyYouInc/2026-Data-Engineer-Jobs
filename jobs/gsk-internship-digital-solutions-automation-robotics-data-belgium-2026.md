@@ -5,12 +5,12 @@
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Rixensart, Wallonia, Belgium |
 | Category | Software Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Belgium-Rixensart/Internship--Digital-Solutions---Automation--Robotics---Data--Belgium---2026_439036) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Belgium-Rixensart/Internship--Digital-Solutions---Automation--Robotics---Data--Belgium---2026_441925) |
 
 ## About This Role
 
-This software engineer position at GSK was posted on 2026-04-15.
+This software engineer position at GSK was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

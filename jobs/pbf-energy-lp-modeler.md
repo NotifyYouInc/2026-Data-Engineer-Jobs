@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PBF Energy](https://scoutify.ai/companies/pbf-energy?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | 7 locations |
 | Category | Data Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://pbfenergy.wd1.myworkdayjobs.com/PBF/job/Martinez-CA/LP-Modeler_R03091) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://pbfenergy.wd1.myworkdayjobs.com/PBF/job/Parsippany-NJ/LP-Modeler_R03099) |
 
 ## About This Role
 
-This data engineer position at PBF Energy was posted on 2026-05-05.
+This data engineer position at PBF Energy was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

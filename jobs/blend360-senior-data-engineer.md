@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Data Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000127482169-senior-data-engineer) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000127731394-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Blend360 was posted on 2026-05-20.
+This data engineer position at Blend360 was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

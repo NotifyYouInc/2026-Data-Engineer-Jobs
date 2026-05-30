@@ -5,12 +5,12 @@
 | Company | [Ibotta](https://scoutify.ai/companies/ibotta?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://ibotta.wd1.myworkdayjobs.com/Ibotta/job/Denver-CO/Analytics-Engineer--Feature-Engineering_R-102426) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://ibotta.wd1.myworkdayjobs.com/Ibotta/job/Denver-CO/Analytics-Engineer--Feature-Engineering_R-102430) |
 
 ## About This Role
 
-This data engineer position at Ibotta was posted on 2026-04-07.
+This data engineer position at Ibotta was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 
