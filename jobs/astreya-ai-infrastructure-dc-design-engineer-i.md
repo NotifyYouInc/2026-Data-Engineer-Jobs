@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Singapore, Singapore |
 | Category | Data Engineer |
 | Posted | 2026-05-21 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Sydney-Australia/AI-Infrastructure-DC-Design-Engineer-I_R0015679) |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Singapore-Singapore/AI-Infrastructure-DC-Design-Engineer-I_R0015682) |
 
 ## About This Role
 
