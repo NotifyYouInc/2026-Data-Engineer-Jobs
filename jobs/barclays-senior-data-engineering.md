@@ -1,16 +1,16 @@
-# D&A and Master Data Specialist at Johnson & Johnson
+# Senior Data Engineering at Barclays
 
 | Field | Details |
 |-------|---------|
-| Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 3 locations |
+| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
 | Posted | 2026-05-24 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Leeds-West-Yorkshire-United-Kingdom/D-A-and-Master-Data-Specialist_R-074585-2) |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Senior-Data-Engineering_JR-0000104345) |
 
 ## About This Role
 
-This data engineer position at Johnson & Johnson was posted on 2026-05-24.
+This data engineer position at Barclays was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 

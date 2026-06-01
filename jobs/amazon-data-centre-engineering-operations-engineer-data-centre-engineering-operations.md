@@ -1,16 +1,16 @@
-# Data Center Engineering Operations , DCEO at Amazon
+# Data Centre Engineering Operations Engineer, Data Centre Engineering Operations at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10426361/data-center-engineering-operations-dceo) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10429128/data-centre-engineering-operations-engineer-data-centre-engineering-operations) |
 
 ## About This Role
 
-This data engineer position at Amazon was posted on 2026-05-21.
+This data engineer position at Amazon was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

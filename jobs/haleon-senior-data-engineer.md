@@ -1,16 +1,16 @@
-# Senior Data Engineer at Referrals Only
+# Senior Data Engineer at Haleon
 
 | Field | Details |
 |-------|---------|
-| Company | [Referrals Only](https://scoutify.ai/companies/referrals-only?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Data Engineer |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7937027) |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/SHANGHAI-QIANTAN-PLAZA/Senior-Data-Engineer_543687-3) |
 
 ## About This Role
 
-This data engineer position at Referrals Only was posted on 2026-05-25.
+This data engineer position at Haleon was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

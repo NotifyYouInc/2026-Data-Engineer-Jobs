@@ -1,16 +1,16 @@
-# Staff Data Engineer at SEEK
+# Staff Designated Support Engineer at Databricks
 
 | Field | Details |
 |-------|---------|
-| Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Cremorne, New South Wales, Australia |
-| Category | Data Engineer |
+| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | India |
+| Category | Customer Success |
 | Posted | 2026-05-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000128042439-staff-data-engineer) |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8554463002) |
 
 ## About This Role
 
-This data engineer position at SEEK was posted on 2026-05-24.
+This customer success position at Databricks was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 

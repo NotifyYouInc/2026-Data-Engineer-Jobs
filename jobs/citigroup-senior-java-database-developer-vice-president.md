@@ -1,16 +1,16 @@
-# Vice President - Data Architect at Barclays
+# Senior Java Database Developer - Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Vice-President---Data-Architect_JR-0000114658) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Senior-Java-Database-Developer---Vice-President_26956894) |
 
 ## About This Role
 
-This data engineer position at Barclays was posted on 2026-05-25.
+This software engineer position at Citigroup was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

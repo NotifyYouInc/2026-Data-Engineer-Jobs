@@ -1,16 +1,16 @@
-# Senior Data Engineer at Referrals Only
+# Principal Product AI Data Engineer at Clarivate
 
 | Field | Details |
 |-------|---------|
-| Company | [Referrals Only](https://scoutify.ai/companies/referrals-only?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7937027) |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/IND---Bangalore-DRG/Principal-Product-AI-Data-Engineer_JREQ135703) |
 
 ## About This Role
 
-This data engineer position at Referrals Only was posted on 2026-05-25.
+This data engineer position at Clarivate was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

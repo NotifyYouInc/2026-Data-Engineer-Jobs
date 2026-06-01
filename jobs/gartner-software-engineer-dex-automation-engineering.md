@@ -1,16 +1,16 @@
-# Big Data Development Engineer Intern at Tencent
+# Software Engineer - DEX Automation & Engineering at Gartner
 
 | Field | Details |
 |-------|---------|
-| Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Software Engineer |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Big-Data-Development-Engineer-Intern_R107416) |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Software-Engineer---DEX-Automation---Engineering_110127-1) |
 
 ## About This Role
 
-This software engineer position at Tencent was posted on 2026-05-25.
+This software engineer position at Gartner was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

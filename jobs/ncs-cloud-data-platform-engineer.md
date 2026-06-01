@@ -1,16 +1,16 @@
-# Big Data Development Engineer Intern at Tencent
+# Cloud Data Platform Engineer at NCS
 
 | Field | Details |
 |-------|---------|
-| Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Singapore, Singapore |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Big-Data-Development-Engineer-Intern_R107416) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001100748-cloud-data-platform-engineer) |
 
 ## About This Role
 
-This software engineer position at Tencent was posted on 2026-05-25.
+This devops engineer position at NCS was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

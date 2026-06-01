@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | DevOps Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---AP---HYDERABAD/Azure-Data-Engineer_51570396) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Data Engineer |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---TN---CHENNAI/Azure-Data-Engineer_51576382-1) |
 
 ## About This Role
 
-This devops engineer position at DXC Technology was posted on 2026-02-17.
+This data engineer position at DXC Technology was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

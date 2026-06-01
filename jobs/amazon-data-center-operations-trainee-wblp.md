@@ -1,16 +1,16 @@
-# Senior Data Engineer at Referrals Only
+# Data Center Operations Trainee - WBLP at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Referrals Only](https://scoutify.ai/companies/referrals-only?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Data Engineer |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7937027) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10429103/data-center-operations-trainee-wblp) |
 
 ## About This Role
 
-This data engineer position at Referrals Only was posted on 2026-05-25.
+This data engineer position at Amazon was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

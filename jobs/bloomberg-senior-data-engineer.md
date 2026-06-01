@@ -1,16 +1,16 @@
-# Senior Data Engineer at Referrals Only
+# Senior Data Engineer at Bloomberg
 
 | Field | Details |
 |-------|---------|
-| Company | [Referrals Only](https://scoutify.ai/companies/referrals-only?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Company | [Bloomberg](https://scoutify.ai/companies/bloomberg?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7937027) |
+| Posted | 2026-05-24 |
+| Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/Senior-Data-Engineer/19675) |
 
 ## About This Role
 
-This data engineer position at Referrals Only was posted on 2026-05-25.
+This data engineer position at Bloomberg was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 

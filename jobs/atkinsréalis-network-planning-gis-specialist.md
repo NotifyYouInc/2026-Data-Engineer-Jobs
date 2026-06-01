@@ -1,16 +1,16 @@
-# Senior Data Engineer at Referrals Only
+# Network Planning GIS Specialist at AtkinsRéalis
 
 | Field | Details |
 |-------|---------|
-| Company | [Referrals Only](https://scoutify.ai/companies/referrals-only?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Company | [AtkinsRéalis](https://scoutify.ai/companies/slihrms?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Data Engineer |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7937027) |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/SARiyadh/Network-Planning-GIS-Specialist_R-156091) |
 
 ## About This Role
 
-This data engineer position at Referrals Only was posted on 2026-05-25.
+This data engineer position at AtkinsRéalis was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 
