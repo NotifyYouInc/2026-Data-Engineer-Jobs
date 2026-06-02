@@ -5,12 +5,12 @@
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Data-Modeler_R0058474) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Data-Modeler_R0058476) |
 
 ## About This Role
 
-This data engineer position at Empower was posted on 2026-05-18.
+This data engineer position at Empower was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

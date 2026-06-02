@@ -5,12 +5,12 @@
 | Company | [JobTeaser](https://scoutify.ai/companies/jobteaser?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Data Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JobTeaser/744000115606411-analytics-engineer-mfd) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/JobTeaser/744000128407179-analytics-engineer-mfd) |
 
 ## About This Role
 
-This data engineer position at JobTeaser was posted on 2026-03-19.
+This data engineer position at JobTeaser was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

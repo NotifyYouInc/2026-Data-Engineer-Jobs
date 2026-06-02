@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Data Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000124898555-c3t-corporate-data-architect) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000128213500-c3t-corporate-data-architect) |
 
 ## About This Role
 
-This data engineer position at Software Mind was posted on 2026-05-06.
+This technical & solutions architect position at Software Mind was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

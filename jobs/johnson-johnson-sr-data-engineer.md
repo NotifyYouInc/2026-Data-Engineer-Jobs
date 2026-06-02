@@ -5,12 +5,12 @@
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Alajuela, Alajuela Province, Costa Rica |
 | Category | Data Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Alajuela-Costa-Rica/Sr-Data-Engineer_R-068931) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Alajuela-Costa-Rica/Sr-Data-Engineer_R-078062) |
 
 ## About This Role
 
-This data engineer position at Johnson & Johnson was posted on 2026-04-09.
+This data engineer position at Johnson & Johnson was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

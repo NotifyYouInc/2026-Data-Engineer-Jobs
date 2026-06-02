@@ -1,16 +1,16 @@
-# Google Cloud Data Engineer - Sector cosmética at Devoteam
+# Google Cloud Data Engineer (sector cosmética)  at Devoteam
 
 | Field | Details |
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000114648818-google-cloud-data-engineer-sector-cosmetica) |
+| Category | Data Engineer |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000128202489-google-cloud-data-engineer-sector-cosmetica) |
 
 ## About This Role
 
-This software engineer position at Devoteam was posted on 2026-03-13.
+This data engineer position at Devoteam was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

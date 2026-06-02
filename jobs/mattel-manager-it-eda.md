@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Engineering Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000127354719-manager-it-eda) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000128185069-manager-it-eda) |
 
 ## About This Role
 
-This engineering manager position at Mattel was posted on 2026-05-20.
+This engineering manager position at Mattel was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

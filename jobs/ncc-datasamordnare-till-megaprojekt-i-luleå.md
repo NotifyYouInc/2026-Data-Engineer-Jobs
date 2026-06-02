@@ -5,12 +5,12 @@
 | Company | [NCC](https://scoutify.ai/companies/ncc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Luleå, Norrbotten, Sweden |
 | Category | Data Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCC/744000124562549-datasamordnare-till-megaprojekt-i-lulea) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCC/744000128220140-datasamordnare-till-megaprojekt-i-lulea) |
 
 ## About This Role
 
-This data engineer position at NCC was posted on 2026-05-05.
+This data engineer position at NCC was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

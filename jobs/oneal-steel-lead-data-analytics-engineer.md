@@ -1,0 +1,22 @@
+# Lead Data & Analytics Engineer at O'Neal Steel
+
+| Field | Details |
+|-------|---------|
+| Company | [O'Neal Steel](https://scoutify.ai/companies/o-neal-steel?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | United States |
+| Category | Data Engineer |
+| Posted | 2022-12-20 |
+| Apply | [View on company site](https://recruiting.ultipro.com/one1006oneal/JobBoard/7ffaba33-6238-4f0d-90b3-8215b183667d/OpportunityDetail?opportunityId=217a7082-50b7-47d0-99c0-feaf95d5a520) |
+
+## About This Role
+
+This data engineer position at O'Neal Steel was posted on 2022-12-20.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

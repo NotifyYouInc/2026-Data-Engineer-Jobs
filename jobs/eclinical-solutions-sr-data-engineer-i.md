@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [eClinical Solutions](https://scoutify.ai/companies/eclinical-solutions?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/eclinicalsolutions/jobs/5075921007) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/eclinicalsolutions/jobs/5145975007) |
 
 ## About This Role
 
-This data engineer position at eClinical Solutions was posted on 2026-03-11.
+This data engineer position at eClinical Solutions was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

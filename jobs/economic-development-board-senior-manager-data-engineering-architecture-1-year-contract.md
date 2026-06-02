@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Not specified |
+| Location | Singapore, Singapore |
 | Category | Data Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/Health-Promotion-Board/Senior-Manager--Data-Engineering---Architecture--1-year-contract-_JR-10000049754-1) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/Health-Promotion-Board/Senior-Manager--Data-Engineering---Architecture--1-year-contract-_JR-10000051199-1) |
 
 ## About This Role
 
-This data engineer position at Economic Development Board was posted on 2026-04-17.
+This data engineer position at Economic Development Board was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

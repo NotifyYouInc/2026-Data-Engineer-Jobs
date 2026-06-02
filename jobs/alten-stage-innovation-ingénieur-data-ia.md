@@ -6,7 +6,7 @@
 | Location | Sèvres, Île-de-France, France |
 | Category | AI / ML Research |
 | Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000127826695-stage-innovation-ingenieur-data-ia) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000127880918-stage-innovation-ingenieur-data-ia) |
 
 ## About This Role
 

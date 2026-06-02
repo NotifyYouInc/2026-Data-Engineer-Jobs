@@ -5,12 +5,12 @@
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Data-Engineer_R-274482-1) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Software-Engineer_R-265963) |
 
 ## About This Role
 
-This data engineer position at Mastercard was posted on 2026-05-13.
+This data engineer position at Mastercard was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

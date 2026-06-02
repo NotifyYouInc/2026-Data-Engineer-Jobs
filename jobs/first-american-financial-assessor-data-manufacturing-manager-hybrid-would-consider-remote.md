@@ -1,0 +1,22 @@
+# Assessor Data Manufacturing Manager (Hybrid-Would Consider Remote) at First American Financial
+
+| Field | Details |
+|-------|---------|
+| Company | [First American Financial](https://scoutify.ai/companies/first-american-financial?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Santa Ana, California, United States |
+| Category | Data Engineer |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Santa-Ana/Assessor-Data-Manufacturing-Manager--Hybrid-Would-Consider-Remote-_R056325) |
+
+## About This Role
+
+This data engineer position at First American Financial was posted on 2026-05-20.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
-| Category | Data Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Data-Engineering-Developer---Assistant-Manager_R-790192) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Data-Engineering-Developer---Assistant-Manager_R-790195) |
 
 ## About This Role
 
-This data engineer position at State Street was posted on 2026-05-14.
+This software engineer position at State Street was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

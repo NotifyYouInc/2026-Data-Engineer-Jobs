@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Vietnam |
 | Category | Implementation / Professional Services |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000127371054-sxeit-mm-sap-data-migration-consultant) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000128286310-sxeit-mm-sap-data-migration-consultant) |
 
 ## About This Role
 
-This implementation / professional services position at Robert Bosch was posted on 2026-05-20.
+This implementation / professional services position at Robert Bosch was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

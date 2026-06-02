@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/SR-ENGINEER--DATA-ENGINEERING--SMAI_JR90729) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/SR-ENGINEER--DATA-ENGINEERING--SMAI_JR90732) |
 
 ## About This Role
 
-This data engineer position at Micron was posted on 2026-04-06.
+This data engineer position at Micron was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

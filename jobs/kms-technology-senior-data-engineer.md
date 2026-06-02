@@ -5,12 +5,12 @@
 | Company | [KMS Technology](https://scoutify.ai/companies/kms-technology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Data Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/kmstechnology1/744000122491960-senior-data-engineer) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/kmstechnology1/744000128264350-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at KMS Technology was posted on 2026-04-23.
+This data engineer position at KMS Technology was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 
