@@ -5,12 +5,12 @@
 | Company | [Lyft](https://scoutify.ai/companies/lyft?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Data Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8503982002?gh_jid=8503982002) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8565400002?gh_jid=8565400002) |
 
 ## About This Role
 
-This data engineer position at Lyft was posted on 2026-04-13.
+This data engineer position at Lyft was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bilue](https://scoutify.ai/companies/bilue?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Philippines |
+| Location | Sydney, New South Wales, Australia |
 | Category | Data Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/bilue/744000124809519-ai-information-scientist) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/bilue/744000128409304-ai-information-scientist) |
 
 ## About This Role
 
-This data engineer position at Bilue was posted on 2026-05-06.
+This data engineer position at Bilue was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

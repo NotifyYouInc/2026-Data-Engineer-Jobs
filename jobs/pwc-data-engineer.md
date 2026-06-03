@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Location | Lviv, Lviv, Ukraine |
 | Category | Data Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Johannesburg/Data-Engineer_723669WD) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Lviv/Data-Engineer_731927WD-1) |
 
 ## About This Role
 
-This data engineer position at PwC was posted on 2026-04-22.
+This data engineer position at PwC was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

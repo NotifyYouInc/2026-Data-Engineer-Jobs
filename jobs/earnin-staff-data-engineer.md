@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EarnIn](https://scoutify.ai/companies/earnin?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/earnin/jobs/7624379) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Engineer |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/earnin/jobs/7958317) |
 
 ## About This Role
 
-This software engineer position at EarnIn was posted on 2026-02-17.
+This data engineer position at EarnIn was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 
