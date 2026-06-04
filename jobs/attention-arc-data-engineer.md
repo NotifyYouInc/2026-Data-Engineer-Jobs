@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Attention Arc](https://scoutify.ai/companies/attentionarc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 3 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/attentionarc/jobs/7625397) |
+| Location | Irvington, New Jersey, United States |
+| Category | Data Engineer |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/attentionarc/jobs/7961639) |
 
 ## About This Role
 
-This software engineer position at Attention Arc was posted on 2026-02-20.
+This data engineer position at Attention Arc was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Montevideo, Montevideo Department, Uruguay |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Software Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000125328072-python-engineer) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000128760159-python-engineer) |
 
 ## About This Role
 
-This software engineer position at Blend360 was posted on 2026-05-08.
+This software engineer position at Blend360 was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

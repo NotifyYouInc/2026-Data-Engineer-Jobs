@@ -1,16 +1,16 @@
-# Software Engineer - Data engineer at HARMAN International
+# Software Engineer - Data Engineer at HARMAN International
 
 | Field | Details |
 |-------|---------|
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Bangalore---Karnataka-India---Kalyani-Platina/Software-Engineer---Data-engineer_R-53284-2026) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Bangalore---Karnataka-India---Kalyani-Platina/Software-Engineer---Data-Engineer_R-53476-2026) |
 
 ## About This Role
 
-This software engineer position at HARMAN International was posted on 2026-05-19.
+This software engineer position at HARMAN International was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

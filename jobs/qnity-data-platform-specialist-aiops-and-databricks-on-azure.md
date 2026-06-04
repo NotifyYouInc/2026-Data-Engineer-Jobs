@@ -1,0 +1,22 @@
+# Data Platform Specialist-AIOps and Databricks on Azure at Qnity
+
+| Field | Details |
+|-------|---------|
+| Company | [Qnity](https://scoutify.ai/companies/qnity?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Hyderabad, Telangana, India |
+| Category | Data Engineer |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://qnity.wd503.myworkdayjobs.com/jobs/job/Hyderabad-Telangana/Data-Platform-Specialist-AIOps-and-Databricks-on-Azure_251548W) |
+
+## About This Role
+
+This data engineer position at Qnity was posted on 2026-05-27.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

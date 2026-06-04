@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Alexandria, Virginia, United States |
 | Category | Data Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Data-Engineer--Mid_R0229813) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Alexandria-VA/Data-Engineer--Mid_R0240987) |
 
 ## About This Role
 
-This data engineer position at Booz Allen was posted on 2026-05-05.
+This data engineer position at Booz Allen was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

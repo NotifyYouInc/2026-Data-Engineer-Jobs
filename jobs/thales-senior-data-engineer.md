@@ -5,12 +5,12 @@
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Data Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Bucharest/Senior-Data-Engineer_R0318744) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Bucharest/Senior-Data-Engineer_R0329615) |
 
 ## About This Role
 
-This data engineer position at Thales was posted on 2026-04-30.
+This data engineer position at Thales was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 
