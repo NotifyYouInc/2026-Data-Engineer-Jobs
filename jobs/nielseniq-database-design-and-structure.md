@@ -1,16 +1,16 @@
-# Database design and structure.  at NielsenIQ
+# Database design and structure at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Data Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000119185507-database-design-and-structure) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000129038659-database-design-and-structure) |
 
 ## About This Role
 
-This data engineer position at NielsenIQ was posted on 2026-04-07.
+This data engineer position at NielsenIQ was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

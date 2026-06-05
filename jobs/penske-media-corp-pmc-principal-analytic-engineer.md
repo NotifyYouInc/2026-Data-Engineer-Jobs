@@ -5,12 +5,12 @@
 | Company | [Penske Media Corp.](https://scoutify.ai/companies/penske-media-corp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Los Angeles, California, United States |
 | Category | Data Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://www.pmc.com/join-our-team/?gh_jid=4693811005#/jobs/4693811005) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://www.pmc.com/join-our-team/?gh_jid=4700333005#/jobs/4700333005) |
 
 ## About This Role
 
-This data engineer position at Penske Media Corp. was posted on 2026-05-08.
+This data engineer position at Penske Media Corp. was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

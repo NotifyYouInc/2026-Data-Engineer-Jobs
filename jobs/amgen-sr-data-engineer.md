@@ -1,16 +1,16 @@
-# Sr Data Engineer at Amgen
+# Sr. Data Engineer at Amgen
 
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Thousand Oaks, California, United States |
 | Category | Data Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Sr-Data-Engineer_R-244059) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/Sr-Data-Engineer_R-243900) |
 
 ## About This Role
 
-This data engineer position at Amgen was posted on 2026-05-14.
+This data engineer position at Amgen was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

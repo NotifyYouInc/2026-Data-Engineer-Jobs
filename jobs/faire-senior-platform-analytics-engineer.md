@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Faire](https://scoutify.ai/companies/faire?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://boards.greenhouse.io/faire/jobs/8475879002?gh_jid=8475879002) |
+| Location | Toronto, Ontario, Canada |
+| Category | Data Engineer |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://boards.greenhouse.io/faire/jobs/8569249002?gh_jid=8569249002) |
 
 ## About This Role
 
-This software engineer position at Faire was posted on 2026-03-23.
+This data engineer position at Faire was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

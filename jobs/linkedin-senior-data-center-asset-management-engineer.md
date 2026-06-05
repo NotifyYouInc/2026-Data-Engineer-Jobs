@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Manassas, Virginia, United States |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000122348914-senior-data-center-asset-management-engineer) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000129039429-senior-data-center-asset-management-engineer) |
 
 ## About This Role
 
-This asset management / portfolio management position at LinkedIn was posted on 2026-04-22.
+This asset management / portfolio management position at LinkedIn was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

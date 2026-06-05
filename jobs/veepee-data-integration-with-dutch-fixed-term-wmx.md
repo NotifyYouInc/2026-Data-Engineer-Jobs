@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veepee](https://scoutify.ai/companies/veepee?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Brussels, Brussels Capital, Belgium |
 | Category | Data Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.lever.co/veepee/398a63e2-d92f-469d-a989-62b7d6a65b97) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.lever.co/veepee/cdc76196-07e6-4664-9bb0-1d1fc72af095) |
 
 ## About This Role
 
-This data engineer position at Veepee was posted on 2026-04-15.
+This data engineer position at Veepee was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

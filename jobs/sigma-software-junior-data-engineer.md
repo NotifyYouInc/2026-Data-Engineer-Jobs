@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Kyiv, Kyiv City, Ukraine |
 | Category | Data Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000127654429-junior-data-engineer) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000128885391-junior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Sigma Software was posted on 2026-05-21.
+This data engineer position at Sigma Software was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

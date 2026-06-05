@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Data Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Toronto-ON/Senior-Data-Engineer_REQ507394) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/TEL-AVIV-ISR/Senior-Data-Engineer_REQ510471) |
 
 ## About This Role
 
-This data engineer position at JLL was posted on 2026-05-20.
+This data engineer position at JLL was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 
