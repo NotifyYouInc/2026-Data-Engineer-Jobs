@@ -1,16 +1,16 @@
-# Analytics Engineer  at VML
+# Analytics Engineer at VML
 
 | Field | Details |
 |-------|---------|
 | Company | [VML](https://scoutify.ai/companies/vml?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Data Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://www.vml.com/careers/job/8545272002?gh_jid=8545272002) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://www.vml.com/careers/job/8363040002?gh_jid=8363040002) |
 
 ## About This Role
 
-This data engineer position at VML was posted on 2026-05-12.
+This data engineer position at VML was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

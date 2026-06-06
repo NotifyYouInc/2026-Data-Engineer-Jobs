@@ -1,16 +1,16 @@
-# Manager Data Engineering at CVS Health
+# Manager, Data Engineering at CVS Health
 
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | New Jersey, US |
+| Location | Arkansas, US |
 | Category | Engineering Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NJ---Work-from-home/Manager-Data-Engineering_R0860687) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Work-from-hom/Manager--Data-Engineering_R0889352-1) |
 
 ## About This Role
 
-This engineering manager position at CVS Health was posted on 2026-03-30.
+This engineering manager position at CVS Health was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

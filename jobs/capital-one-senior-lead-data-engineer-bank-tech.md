@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 3 locations |
-| Category | Engineering Manager |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Lead-Data-Engineer--Bank-Tech-_R239457-1) |
+| Location | 2 locations |
+| Category | Data Engineer |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Wilmington-DE/Senior-Lead-Data-Engineer--Bank-Tech-_R243479-2) |
 
 ## About This Role
 
-This engineering manager position at Capital One was posted on 2026-03-31.
+This data engineer position at Capital One was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

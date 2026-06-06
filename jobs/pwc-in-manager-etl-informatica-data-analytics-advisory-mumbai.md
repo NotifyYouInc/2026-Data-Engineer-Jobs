@@ -5,12 +5,12 @@
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Shivaji-Park/IN-Manager-ETL-Informatica-Data---Analytics-Advisory-Mumbai_716776WD-1) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Shivaji-Park/IN-Manager-ETL-Informatica-Data---Analytics-Advisory-Mumbai_716963WD-2) |
 
 ## About This Role
 
-This data engineer position at PwC was posted on 2026-05-27.
+This data engineer position at PwC was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

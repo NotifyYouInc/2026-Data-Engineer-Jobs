@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Košice, Košice Region, Slovakia |
 | Category | Data Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Senior-Data-Engineer_R0000367334) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Kosice-Slovakia/Senior-Data-Engineer_R0000373189) |
 
 ## About This Role
 
-This data engineer position at Caterpillar was posted on 2026-05-07.
+This data engineer position at Caterpillar was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

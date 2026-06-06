@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Brussels, Brussels Capital, Belgium |
 | Category | Data Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000125280019-data-engineer-mwd-with-focus-on-data-migration) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000129121219-data-engineer-mwd-with-focus-on-data-migration) |
 
 ## About This Role
 
-This data engineer position at Everience was posted on 2026-05-08.
+This data engineer position at Everience was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

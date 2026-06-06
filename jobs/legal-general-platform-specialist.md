@@ -5,12 +5,12 @@
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000123863014-platform-specialist) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000129206433-platform-specialist) |
 
 ## About This Role
 
-This data engineer position at Legal & General was posted on 2026-04-30.
+This data engineer position at Legal & General was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

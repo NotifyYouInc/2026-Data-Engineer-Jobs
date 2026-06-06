@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SteerBridge](https://scoutify.ai/companies/steerbridge?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Miramar, Florida, United States |
+| Location | Yuma, Arizona, United States |
 | Category | Data Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.lever.co/steerbridge/084800cd-1bae-4b31-b653-da05c521b2d6) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.lever.co/steerbridge/bf75e29a-6d74-47ff-98b4-051c598a0ee9) |
 
 ## About This Role
 
-This data engineer position at SteerBridge was posted on 2026-05-08.
+This data engineer position at SteerBridge was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

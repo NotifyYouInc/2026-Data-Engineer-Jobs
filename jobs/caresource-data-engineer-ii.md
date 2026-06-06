@@ -5,12 +5,12 @@
 | Company | [CareSource](https://scoutify.ai/companies/caresource?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Data-Engineer-II_R12493-1) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Data-Engineer-II_R12853) |
 
 ## About This Role
 
-This data engineer position at CareSource was posted on 2026-04-10.
+This data engineer position at CareSource was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 
