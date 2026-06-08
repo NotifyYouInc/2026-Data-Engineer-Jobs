@@ -5,12 +5,12 @@
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---Thanissandra-BCIT/Quantexa-Data-Engineer_JR1039004) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---Thanissandra-BCIT/Quantexa-Data-Engineer_JR1040191) |
 
 ## About This Role
 
-This data engineer position at Synechron was posted on 2026-04-22.
+This data engineer position at Synechron was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

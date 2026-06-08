@@ -1,16 +1,16 @@
-# Technical Data Product Owner for Finance at Vantive
+# Senior ETRM System Specialist at Vattenfall
 
 | Field | Details |
 |-------|---------|
-| Company | [Vantive](https://scoutify.ai/companies/vantive?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Costa Rica |
+| Company | [Vattenfall](https://scoutify.ai/companies/vattenfall?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Hamburg, Hamburg, Germany |
 | Category | Data Engineer |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://vantive.wd108.myworkdayjobs.com/vantive/job/La-Aurora-Heredia/Technical-Data-Product-Owner-for-Finance_JR-194975) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000129388430-senior-etrm-system-specialist) |
 
 ## About This Role
 
-This data engineer position at Vantive was posted on 2026-06-01.
+This data engineer position at Vattenfall was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

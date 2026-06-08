@@ -1,16 +1,16 @@
-# Operations Engineer at Accenture
+# Senior Staff Data Architect at GE HealthCare
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | DevOps Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Operations-Engineer_ATCI-5587947-S2026521-1) |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Senior-Staff-Data-Architect_R4041682-1) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-06-01.
+This technical & solutions architect position at GE HealthCare was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

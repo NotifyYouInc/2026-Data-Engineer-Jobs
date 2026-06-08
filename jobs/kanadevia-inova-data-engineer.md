@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kanadevia Inova](https://scoutify.ai/companies/kanadeviainova?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bratislava, Bratislava Region, Slovakia |
+| Location | Levice, Nitra Region, Slovakia |
 | Category | Data Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KanadeviaInova/744000128446363-data-engineer) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KanadeviaInova/744000129410609-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Kanadevia Inova was posted on 2026-05-26.
+This data engineer position at Kanadevia Inova was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

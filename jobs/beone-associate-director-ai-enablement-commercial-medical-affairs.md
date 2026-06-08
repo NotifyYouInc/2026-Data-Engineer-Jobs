@@ -1,16 +1,16 @@
-# Associate Director, Enterprise Information Architecture at BeOne
+# Associate Director, AI Enablement (Commercial & Medical Affairs) at BeOne
 
 | Field | Details |
 |-------|---------|
 | Company | [BeOne](https://scoutify.ai/companies/beigene?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
-| Category | Technical & Solutions Architect |
+| Category | Data Engineer |
 | Posted | 2026-05-31 |
-| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Associate-Director--Enterprise-Information-Architecture_R34883) |
+| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Associate-Director--AI-Enablement--Commercial---Medical-Affairs-_R34714) |
 
 ## About This Role
 
-This technical & solutions architect position at BeOne was posted on 2026-05-31.
+This data engineer position at BeOne was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

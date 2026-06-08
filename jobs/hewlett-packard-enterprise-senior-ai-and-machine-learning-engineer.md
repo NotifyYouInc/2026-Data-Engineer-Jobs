@@ -1,16 +1,16 @@
-# Senior Data Engineer at Lowe's
+# Senior AI and Machine Learning Engineer at Hewlett Packard Enterprise
 
 | Field | Details |
 |-------|---------|
-| Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/IND-D3-STPI/Senior-Data-Engineer_JR-02539460) |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Senior-AI-and-Machine-Learning-Engineer_1207389) |
 
 ## About This Role
 
-This data engineer position at Lowe's was posted on 2026-06-01.
+This data engineer position at Hewlett Packard Enterprise was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

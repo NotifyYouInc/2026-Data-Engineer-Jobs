@@ -1,16 +1,16 @@
-# Data Engineer at Accenture
+# Intern - Operation Improvement at Micron
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Muar, Johor, Malaysia |
 | Category | Data Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Data-Engineer_ATCI-5052584-S1936323-1) |
+| Posted | 2026-05-31 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Muar-Malaysia/Intern---Operation-Improvement_JR97674) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-05-28.
+This data engineer position at Micron was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 
