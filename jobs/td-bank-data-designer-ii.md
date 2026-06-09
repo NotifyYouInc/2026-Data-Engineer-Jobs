@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Designer-II_R_1471579) |
+| Category | Data Engineer |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Designer-II_R_1491237) |
 
 ## About This Role
 
-This software engineer position at TD Bank was posted on 2026-02-26.
+This data engineer position at TD Bank was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

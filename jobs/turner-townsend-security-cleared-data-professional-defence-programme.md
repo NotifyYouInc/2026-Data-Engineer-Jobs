@@ -1,16 +1,16 @@
-# Security Cleared Data Professional - Defence Programme  at Turner & Townsend
+# Security Cleared Data Professional- Defence Programme at Turner & Townsend
 
 | Field | Details |
 |-------|---------|
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bristol, England, United Kingdom |
-| Category | Software Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000117319149-security-cleared-data-professional-defence-programme) |
+| Location | London, England, United Kingdom |
+| Category | Data Engineer |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000129441469-security-cleared-data-professional-defence-programme) |
 
 ## About This Role
 
-This software engineer position at Turner & Townsend was posted on 2026-03-27.
+This data engineer position at Turner & Townsend was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Bangkok-Thailand/Data-Analyst_R41217) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Hyderabad-India/Data-Engineer_R44077) |
 
 ## About This Role
 
-This data engineer position at SS&C Technologies was posted on 2026-05-14.
+This data engineer position at SS&C Technologies was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

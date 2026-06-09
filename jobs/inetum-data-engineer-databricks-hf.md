@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | France |
 | Category | Data Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000126017235-data-engineer-databricks-hf) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000129434689-data-engineer-databricks-hf) |
 
 ## About This Role
 
-This data engineer position at Inetum was posted on 2026-05-12.
+This data engineer position at Inetum was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

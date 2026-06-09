@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Miamisburg, Ohio, United States |
 | Category | Data Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-OH-MIAMISBURG-THE-PIKE-CUST--9595-N-Springboro-Pike--OH-MIAMISBURG-THE-PIKE-BLDG-6-External-Site/F135-LSC-Data-Engineer--Onsite-_01843641) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-OH-MIAMISBURG-THE-PIKE-CUST--9595-N-Springboro-Pike--OH-MIAMISBURG-THE-PIKE-BLDG-6-External-Site/F135-LSC-Data-Engineer--Onsite-_01849002) |
 
 ## About This Role
 
-This data engineer position at RTX was posted on 2026-05-13.
+This data engineer position at RTX was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Analytics Engineer at Scopely
+# Senior Analytics Engineer  at Scopely
 
 | Field | Details |
 |-------|---------|
 | Company | [Scopely](https://scoutify.ai/companies/scopely?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Data Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5211603008) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/4596685008?gh_jid=4596685008) |
 
 ## About This Role
 
-This data engineer position at Scopely was posted on 2026-05-07.
+This data engineer position at Scopely was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Data-Engineer_3160233-1) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karntaka-India/Data-Engineer_3160982-1) |
 
 ## About This Role
 
-This data engineer position at Hewlett Packard (HP) was posted on 2026-05-20.
+This data engineer position at Hewlett Packard (HP) was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

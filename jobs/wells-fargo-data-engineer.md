@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Data-Engineer_R-538324) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Data-Engineer_R-548367) |
 
 ## About This Role
 
-This data engineer position at Wells Fargo was posted on 2026-04-24.
+This data engineer position at Wells Fargo was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

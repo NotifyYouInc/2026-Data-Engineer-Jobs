@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Just Eat Takeaway.com](https://scoutify.ai/companies/just-eat-takeaway-com?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Alberta, CA |
-| Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Canada-ON-Remote/Junior-Data-Engineer_R_050492) |
+| Location | Amsterdam, North Holland, The Netherlands |
+| Category | Data Engineer |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Amsterdam-Office/Junior-Data-Engineer_R_051365) |
 
 ## About This Role
 
-This software engineer position at Just Eat Takeaway.com was posted on 2026-03-12.
+This data engineer position at Just Eat Takeaway.com was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

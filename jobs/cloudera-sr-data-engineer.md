@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Costa Rica |
-| Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Costa-Rica-Remote/Sr-Data-Engineer_260284-1) |
+| Category | Data Engineer |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Costa-Rica-Remote/Sr-Data-Engineer_260715-1) |
 
 ## About This Role
 
-This software engineer position at Cloudera was posted on 2026-03-23.
+This data engineer position at Cloudera was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

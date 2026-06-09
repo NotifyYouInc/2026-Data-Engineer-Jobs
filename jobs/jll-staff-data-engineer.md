@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Westmont-IL/Staff-Data-Engineer_REQ508348) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Engineer |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Staff-Data-Engineer_REQ507864) |
 
 ## About This Role
 
-This ai / llm engineer position at JLL was posted on 2026-05-27.
+This data engineer position at JLL was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

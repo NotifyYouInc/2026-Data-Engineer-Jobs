@@ -5,12 +5,12 @@
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Stoke-on-Trent, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000125818859-data-engineer-gcp-remote) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000129467719-data-engineer-gcp-remote) |
 
 ## About This Role
 
-This data engineer position at bet365 was posted on 2026-05-11.
+This data engineer position at bet365 was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

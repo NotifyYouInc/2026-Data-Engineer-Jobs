@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
-| Category | Database Administration |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Data-Platform-Architect_ATCI-5445087-S1995723-1) |
+| Location | 10 locations |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Data-Platform-Architect_ATCI-5553526-S2024161-1) |
 
 ## About This Role
 
-This database administration position at Accenture was posted on 2026-05-22.
+This technical & solutions architect position at Accenture was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

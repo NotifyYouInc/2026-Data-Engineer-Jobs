@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Brazil |
 | Category | Data Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=117567) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=117566) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-05-28.
+This data engineer position at IBM was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

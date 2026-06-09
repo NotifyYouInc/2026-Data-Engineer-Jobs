@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Colomiers, Occitanie, France |
-| Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000116153737-technical-leader-3dexperience-migration-colomiers) |
+| Category | Data Engineer |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000129468394-technical-leader-3dexperience-migration-colomiers) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-03-23.
+This data engineer position at Sopra Steria was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

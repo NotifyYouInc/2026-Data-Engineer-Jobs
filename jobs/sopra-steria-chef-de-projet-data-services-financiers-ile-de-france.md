@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Courbevoie, Île-de-France, France |
 | Category | Data Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000127146219-chef-de-projet-data-services-financiers-ile-de-france) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000129466028-chef-de-projet-data-services-financiers-ile-de-france) |
 
 ## About This Role
 
-This data engineer position at Sopra Steria was posted on 2026-05-19.
+This data engineer position at Sopra Steria was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

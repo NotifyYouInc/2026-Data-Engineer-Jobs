@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bergen, Vestland, Norway |
+| Location | Brussels, Brussels Capital, Belgium |
 | Category | Data Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000126287014-data-engineer) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000129485310-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Sopra Steria was posted on 2026-05-13.
+This data engineer position at Sopra Steria was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

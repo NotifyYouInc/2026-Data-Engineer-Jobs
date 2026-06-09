@@ -1,16 +1,16 @@
-# Enterprise Data Engineering Manager - FVP at Axos Bank
+# Enterprise Data Engineering Manager, FVP at Axos Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Axos Bank](https://scoutify.ai/companies/axos?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 8 locations |
 | Category | Engineering Manager |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Enterprise-Data-Engineering-Manager---FVP_JR4267) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/FVP--Enterprise-Data-Management_JR3565) |
 
 ## About This Role
 
-This engineering manager position at Axos Bank was posted on 2026-02-23.
+This engineering manager position at Axos Bank was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

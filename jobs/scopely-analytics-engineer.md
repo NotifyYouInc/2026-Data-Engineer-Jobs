@@ -5,12 +5,12 @@
 | Company | [Scopely](https://scoutify.ai/companies/scopely?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Data Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5222025008) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/4626426008?gh_jid=4626426008) |
 
 ## About This Role
 
-This data engineer position at Scopely was posted on 2026-05-19.
+This data engineer position at Scopely was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

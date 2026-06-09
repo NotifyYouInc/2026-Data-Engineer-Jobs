@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Not specified |
 | Category | Data Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000128970935-data-engineering-analytics-for-demand-forecasting-internship) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000129129189-data-engineering-analytics-for-demand-forecasting-internship) |
 
 ## About This Role
 
-This data engineer position at Robert Bosch was posted on 2026-05-28.
+This data engineer position at Robert Bosch was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 
