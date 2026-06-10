@@ -1,16 +1,16 @@
-# Staff Software Engineer - (Data Platform Workflow) at Canva
+# Staff Software Engineer - Data Platform Workflow at Canva
 
 | Field | Details |
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Software Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001120317-staff-software-engineer-data-platform-workflow) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001126141-staff-software-engineer-data-platform-workflow) |
 
 ## About This Role
 
-This software engineer position at Canva was posted on 2026-06-01.
+This software engineer position at Canva was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

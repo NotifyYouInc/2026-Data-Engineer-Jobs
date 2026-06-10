@@ -1,16 +1,16 @@
-# Senior-Data Engineer at WPP Media
+# Senior Data Engineer at WPP Media
 
 | Field | Details |
 |-------|---------|
 | Company | [WPP Media](https://scoutify.ai/companies/wpp-media?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
+| Location | 3 locations |
 | Category | Data Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5139049008) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5230501008) |
 
 ## About This Role
 
-This data engineer position at WPP Media was posted on 2026-03-24.
+This data engineer position at WPP Media was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

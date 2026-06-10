@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Yazio](https://scoutify.ai/companies/yazio?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Data Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/yazio/0a380969-62b3-4444-b6ea-dfb8ad3c8aec) |
+| Category | Engineering Manager |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/yazio/811c6d12-6dc8-4085-93e6-ebb1d47b8fed) |
 
 ## About This Role
 
-This data engineer position at Yazio was posted on 2026-03-03.
+This engineering manager position at Yazio was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hagerty](https://scoutify.ai/companies/hagerty?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://hagerty.wd5.myworkdayjobs.com/hagerty/job/United-States/Data-Architect-II_R5019-1) |
+| Category | Data Engineer |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://hagerty.wd5.myworkdayjobs.com/hagerty/job/United-States/Data-Architect-II_R5239) |
 
 ## About This Role
 
-This technical & solutions architect position at Hagerty was posted on 2026-02-09.
+This data engineer position at Hagerty was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

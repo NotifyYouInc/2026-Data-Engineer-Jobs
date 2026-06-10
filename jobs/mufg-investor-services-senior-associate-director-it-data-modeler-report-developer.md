@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MUFG Investor Services](https://scoutify.ai/companies/mufginvestorservices?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000116700609-senior-associate-director-it-data-modeler-report-developer) |
+| Category | Data Engineer |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000129736264-senior-associate-director-it-data-modeler-report-developer) |
 
 ## About This Role
 
-This software engineer position at MUFG Investor Services was posted on 2026-03-25.
+This data engineer position at MUFG Investor Services was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

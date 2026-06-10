@@ -5,12 +5,12 @@
 | Company | [Samsung](https://scoutify.ai/companies/samsung?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Taylor, Michigan, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Virtual-Metrology-Engineer_R116107) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Virtual-Metrology-Engineer_R117588) |
 
 ## About This Role
 
-This data engineer position at Samsung was posted on 2026-04-06.
+This data engineer position at Samsung was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

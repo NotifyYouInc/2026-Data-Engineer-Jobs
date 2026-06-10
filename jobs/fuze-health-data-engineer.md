@@ -5,12 +5,12 @@
 | Company | [Fuze Health](https://scoutify.ai/companies/fuze-health?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/fuzehealth/jobs/4865280101) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/fuzehealth/jobs/4881017101) |
 
 ## About This Role
 
-This data engineer position at Fuze Health was posted on 2026-05-12.
+This data engineer position at Fuze Health was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NimbleRx](https://scoutify.ai/companies/nimblerx?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Redwood City, California, United States |
 | Category | Data Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.lever.co/nimblerx/6150764d-3a63-4f07-8f7b-1fbab71fe7eb) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.lever.co/nimblerx/7f88839d-44cb-4d6e-97a4-87be94e1a86c) |
 
 ## About This Role
 
-This data engineer position at NimbleRx was posted on 2026-05-28.
+This data engineer position at NimbleRx was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

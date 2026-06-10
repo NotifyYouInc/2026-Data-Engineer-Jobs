@@ -1,16 +1,16 @@
-# GIS Specialist II  at AECOM
+# GIS Specialist II at AECOM
 
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Bucharest, București, Romania |
 | Category | Data Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000120971673-gis-specialist-ii) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000129873409-gis-specialist-ii) |
 
 ## About This Role
 
-This data engineer position at AECOM was posted on 2026-04-15.
+This data engineer position at AECOM was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

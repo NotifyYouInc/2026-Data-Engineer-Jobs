@@ -1,16 +1,16 @@
-# Data Eng, Mgmt & Governance Sr Analyst at Accenture
+# Data Eng, Mgmt & Governance SR Analyst at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
-| Category | Data Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Buenos-Aires/Data-Eng--Mgmt---Governance-Sr-Analyst_14274905) |
+| Location | Navi Mumbai, Maharashtra, India |
+| Category | DevOps Engineer |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Navi-Mumbai/Data-Eng--Mgmt---Governance-Specialist_AIOC-S01625965-1) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-05-27.
+This devops engineer position at Accenture was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

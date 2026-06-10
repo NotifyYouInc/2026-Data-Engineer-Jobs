@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Axiom](https://scoutify.ai/companies/axiom?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 4 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://www.axiomlaw.com/careers/headquarters/available-positions?job=8526737002&gh_jid=8526737002) |
+| Location | Belfast, Northern Ireland, United Kingdom |
+| Category | Data Engineer |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://www.axiomlaw.com/careers/headquarters/available-positions?job=8575684002&gh_jid=8575684002) |
 
 ## About This Role
 
-This technical & solutions architect position at Axiom was posted on 2026-05-21.
+This data engineer position at Axiom was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

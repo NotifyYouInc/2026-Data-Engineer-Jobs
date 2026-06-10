@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Technology / IT Consulting |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116719) |
+| Location | Coimbatore, Tamil Nadu, India |
+| Category | Data Engineer |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=114142) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-05-25.
+This data engineer position at IBM was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

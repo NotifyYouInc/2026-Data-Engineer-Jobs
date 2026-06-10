@@ -5,12 +5,12 @@
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Columbia, South Carolina, United States |
 | Category | Data Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000127920722-lead-data-engineer) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000129806739-lead-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Blend360 was posted on 2026-05-22.
+This data engineer position at Blend360 was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

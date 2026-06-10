@@ -1,16 +1,16 @@
-# Data Engineer, Azure - Remote, Latin America at Bluelight Consulting
+# Data Engineer (Azure) - Remote, Latin America at Bluelight Consulting
 
 | Field | Details |
 |-------|---------|
 | Company | [Bluelight Consulting](https://scoutify.ai/companies/bluelight-consulting?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Concepción, Biobío, Chile |
+| Location | Cochabamba, Cochabamba, Bolivia |
 | Category | Data Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.lever.co/bluelightconsulting/bf8d5f20-ae8c-4ffd-8c8b-a6d19bc5d389) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.lever.co/bluelightconsulting/056a817b-5406-4be7-ae3d-b7423784d9bb) |
 
 ## About This Role
 
-This data engineer position at Bluelight Consulting was posted on 2026-05-07.
+This data engineer position at Bluelight Consulting was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [QuEra Computing](https://scoutify.ai/companies/queracomputinginc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/queracomputinginc/jobs/5191391008) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/queracomputinginc/jobs/5239489008) |
 
 ## About This Role
 
-This data engineer position at QuEra Computing was posted on 2026-04-16.
+This data engineer position at QuEra Computing was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

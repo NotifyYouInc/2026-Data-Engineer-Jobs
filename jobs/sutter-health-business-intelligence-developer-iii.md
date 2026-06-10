@@ -5,12 +5,12 @@
 | Company | [Sutter Health](https://scoutify.ai/companies/sutterhealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Sacramento, California, United States |
 | Category | Data Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://sutterhealth.wd1.myworkdayjobs.com/sh/job/Sacramento/Business-Intelligence-Developer-III_R-131640) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://sutterhealth.wd1.myworkdayjobs.com/sh/job/Sacramento/Business-Intelligence-Developer-III_R-131786) |
 
 ## About This Role
 
-This data engineer position at Sutter Health was posted on 2026-05-29.
+This data engineer position at Sutter Health was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

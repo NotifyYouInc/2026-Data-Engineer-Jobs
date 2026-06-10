@@ -1,16 +1,16 @@
-# DATA ENGINEER at Air Liquide
+# Data Engineer at Air Liquide
 
 | Field | Details |
 |-------|---------|
 | Company | [Air Liquide](https://scoutify.ai/companies/airliquidehr?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Paterna, Valencia, Spain |
+| Location | Japan |
 | Category | Data Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Spain-Paterna/DATA-ENGINEER_R10085181) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Japan-Yokosuka-shi/Data-Engineer_R10089089) |
 
 ## About This Role
 
-This data engineer position at Air Liquide was posted on 2026-02-12.
+This data engineer position at Air Liquide was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 
