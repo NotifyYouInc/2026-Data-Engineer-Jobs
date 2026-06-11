@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Wharton, Pennsylvania, United States |
 | Category | Data Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Reston-VA/Data-Engineer_R0241244) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Wharton-NJ/Data-Engineer_R0241249-1) |
 
 ## About This Role
 
-This data engineer position at Booz Allen was posted on 2026-05-29.
+This data engineer position at Booz Allen was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

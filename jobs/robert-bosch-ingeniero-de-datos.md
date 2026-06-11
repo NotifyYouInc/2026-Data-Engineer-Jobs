@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Ciudad Juárez, Chihuahua, Mexico |
 | Category | Data Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000125407829-ingeniero-de-datos) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000130083186-ingeniero-de-datos) |
 
 ## About This Role
 
-This data engineer position at Robert Bosch was posted on 2026-05-08.
+This data engineer position at Robert Bosch was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

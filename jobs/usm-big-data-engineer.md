@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [USM](https://scoutify.ai/companies/usm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | Alexandria, Virginia, United States |
 | Category | Data Engineer |
-| Posted | 2017-02-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/usm2/107484577-big-data-engineer) |
+| Posted | 2017-01-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/usm2/107097012-big-data-engineer) |
 
 ## About This Role
 
-This data engineer position at USM was posted on 2017-02-03.
+This data engineer position at USM was posted on 2017-01-31.
 
 ## Get Real-Time Alerts
 

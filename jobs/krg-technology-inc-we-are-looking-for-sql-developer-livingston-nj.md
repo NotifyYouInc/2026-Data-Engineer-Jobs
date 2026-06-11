@@ -5,12 +5,12 @@
 | Company | [krg technology inc](https://scoutify.ai/companies/krg-technology-inc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Livingston, New Jersey, United States |
 | Category | Data Engineer |
-| Posted | 2017-08-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/krgtechnologyinc/743999657882421-we-are-looking-for-sql-developer-livingston-nj) |
+| Posted | 2017-08-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/krgtechnologyinc/743999658476794-we-are-looking-for-sql-developer-livingston-nj) |
 
 ## About This Role
 
-This data engineer position at krg technology inc was posted on 2017-08-15.
+This data engineer position at krg technology inc was posted on 2017-08-23.
 
 ## Get Real-Time Alerts
 

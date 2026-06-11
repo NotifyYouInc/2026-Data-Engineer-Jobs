@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dellfor Technologies](https://scoutify.ai/companies/dellfor-technologies?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Montpelier, Vermont, United States |
 | Category | Data Engineer |
 | Posted | 2017-04-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/dellfortechnologies/113166601-informatica-developer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/dellfortechnologies/113166475-informatica-developer) |
 
 ## About This Role
 

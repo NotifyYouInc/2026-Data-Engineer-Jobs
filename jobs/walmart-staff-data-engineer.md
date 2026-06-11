@@ -1,16 +1,16 @@
-# STAFF, DATA ENGINEER at Walmart
+# Staff, Data Engineer at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Bentonville, Arkansas, United States |
 | Category | Data Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-TN-CHENNAI-Home-Office-Capita-Land/STAFF--DATA-ENGINEER_R-2419938) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Staff--Data-Engineer_R-2511796) |
 
 ## About This Role
 
-This data engineer position at Walmart was posted on 2026-05-13.
+This data engineer position at Walmart was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

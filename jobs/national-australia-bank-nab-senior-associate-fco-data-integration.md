@@ -5,12 +5,12 @@
 | Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Vietnam |
 | Category | Data Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/15-Tran-Bach-Dang-An-Khanh-Ward/Senior-Associate--FCO-Data-Integration_JR118339-1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/29-Lieu-Giai-Street-Ngoc-Ha-Ward/Senior-Associate--FCO-Data-Integration_JR111663) |
 
 ## About This Role
 
-This data engineer position at National Australia Bank (NAB) was posted on 2026-05-07.
+This data engineer position at National Australia Bank (NAB) was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

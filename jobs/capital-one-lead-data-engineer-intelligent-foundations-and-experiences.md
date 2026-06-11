@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 3 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Lead-Data-Engineer--Intelligent-Foundations-and-Experiences-_R237338-1) |
+| Location | 2 locations |
+| Category | Data Engineer |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Lead-Data-Engineer--Intelligent-Foundations-and-Experiences-_R243627-1) |
 
 ## About This Role
 
-This software engineer position at Capital One was posted on 2026-03-07.
+This data engineer position at Capital One was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

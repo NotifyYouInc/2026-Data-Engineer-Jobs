@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | Technical Writer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Manila/Senior-Data-Engineer---Analytics---Reporting_JR-0021572) |
+| Category | Data Engineer |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Manila/Senior-Data-Engineer---Analytics---Reporting_JR-0023595) |
 
 ## About This Role
 
-This technical writer position at Apex Fund Services was posted on 2026-03-13.
+This data engineer position at Apex Fund Services was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

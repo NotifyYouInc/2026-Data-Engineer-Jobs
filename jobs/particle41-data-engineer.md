@@ -1,16 +1,16 @@
-#   Data Engineer at Particle41
+# Data Engineer at Particle41
 
 | Field | Details |
 |-------|---------|
 | Company | [Particle41](https://scoutify.ai/companies/particle41?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
+| Location | Argentina |
 | Category | Data Engineer |
-| Posted | 2026-01-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/particle41llc/jobs/5017517008) |
+| Posted | 2025-12-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/particle41llc/jobs/5046198008) |
 
 ## About This Role
 
-This data engineer position at Particle41 was posted on 2026-01-13.
+This data engineer position at Particle41 was posted on 2025-12-23.
 
 ## Get Real-Time Alerts
 

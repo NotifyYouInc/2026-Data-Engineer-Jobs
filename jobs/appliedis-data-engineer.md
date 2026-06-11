@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Appliedis](https://scoutify.ai/companies/appliedis?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Virginia, US |
 | Category | Data Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Washington-DC/Data-Engineer_JR2026001207) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Remote---VA/Data-Engineer_JR2026001248) |
 
 ## About This Role
 
-This data engineer position at Appliedis was posted on 2026-05-19.
+This data engineer position at Appliedis was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

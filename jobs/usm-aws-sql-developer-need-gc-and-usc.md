@@ -5,12 +5,12 @@
 | Company | [USM](https://scoutify.ai/companies/usm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Data Engineer |
-| Posted | 2016-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/usm2/96435964-aws-sql-developer-need-gc-and-usc) |
+| Posted | 2016-09-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/usm2/98092721-aws-sql-developer-need-gc-and-usc) |
 
 ## About This Role
 
-This data engineer position at USM was posted on 2016-08-31.
+This data engineer position at USM was posted on 2016-09-06.
 
 ## Get Real-Time Alerts
 
