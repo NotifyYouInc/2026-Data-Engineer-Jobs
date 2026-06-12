@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Mississauga, Ontario, Canada |
 | Category | Data Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Belgrade/Data-Engineer_JR1039305) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Mississauga-ON/Data-Engineer_JR1039595-1) |
 
 ## About This Role
 
-This data engineer position at Synechron was posted on 2026-04-30.
+This data engineer position at Synechron was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Springfield, Missouri, United States |
+| Location | Alexandria, Virginia, United States |
 | Category | Financial Crimes & AML |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Springfield-VA/Expert-SAR-Imagery-Scientist_R0239707) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Alexandria-VA/Expert-SAR-Imagery-Scientist_R0241490) |
 
 ## About This Role
 
-This financial crimes & aml position at Booz Allen was posted on 2026-05-08.
+This financial crimes & aml position at Booz Allen was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

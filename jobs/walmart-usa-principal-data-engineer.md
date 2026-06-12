@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Bentonville, Arkansas, United States |
 | Category | Data Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/XMLNAME--USA--Principal--Data-Engineer_R-2404738) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Principal--Data-Engineer_R-2524383) |
 
 ## About This Role
 
-This data engineer position at Walmart was posted on 2026-02-12.
+This data engineer position at Walmart was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

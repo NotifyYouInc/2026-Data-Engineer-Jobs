@@ -5,12 +5,12 @@
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Data Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Israel---Tel-Aviv/Sr-Data-Engineer---Cloud-Security_R27214) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Israel---Tel-Aviv/Sr-Data-Engineer---Cloud-Security_R27215) |
 
 ## About This Role
 
-This data engineer position at CrowdStrike was posted on 2026-04-23.
+This data engineer position at CrowdStrike was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

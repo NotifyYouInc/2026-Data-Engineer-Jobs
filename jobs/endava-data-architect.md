@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 3 locations |
-| Category | Data Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000129149429-data-architect) |
+| Location | Texas, US |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000130238409-data-architect) |
 
 ## About This Role
 
-This data engineer position at Endava was posted on 2026-05-29.
+This technical & solutions architect position at Endava was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

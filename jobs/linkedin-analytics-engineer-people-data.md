@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Data Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000127503789-analytics-engineer-people-data) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000130238820-analytics-engineer-people-data) |
 
 ## About This Role
 
-This data engineer position at LinkedIn was posted on 2026-05-20.
+This data engineer position at LinkedIn was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

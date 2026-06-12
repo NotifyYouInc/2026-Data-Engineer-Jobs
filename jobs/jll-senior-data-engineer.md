@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Jalisco, Chiapas, Mexico |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/JaliscoMEX/Senior-Data-Engineer_REQ509344) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Senior-Data-Engineer_REQ512460) |
 
 ## About This Role
 
-This data engineer position at JLL was posted on 2026-06-01.
+This data engineer position at JLL was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

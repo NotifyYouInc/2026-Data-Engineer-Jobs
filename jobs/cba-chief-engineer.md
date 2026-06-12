@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cba](https://scoutify.ai/companies/cba?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
-| Category | Engineering Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/private_ad/job/Sydney-CBD-Area/Chief-Engineer_REQ256928-1) |
+| Location | Sydney, New South Wales, Australia |
+| Category | DevOps Engineer |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/private_ad/job/Sydney-CBD-Area/Chief-Engineer_REQ259218-1) |
 
 ## About This Role
 
-This engineering manager position at Cba was posted on 2026-05-18.
+This devops engineer position at Cba was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

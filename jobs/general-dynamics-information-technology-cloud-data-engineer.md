@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Wiesbaden, Hesse, Germany |
-| Category | DevOps Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/DEU-Wiesbaden---Wiesbaden-Army-Airfield-APC180/Cloud-Data-Engineer_RQ217032-1) |
+| Category | Data Engineer |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/DEU-Wiesbaden---Wiesbaden-Army-Airfield-APC180/Cloud-Data-Engineer_RQ221571-1) |
 
 ## About This Role
 
-This devops engineer position at General Dynamics Information Technology was posted on 2026-03-23.
+This data engineer position at General Dynamics Information Technology was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

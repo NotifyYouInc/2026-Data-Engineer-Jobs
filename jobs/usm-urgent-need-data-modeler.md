@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [USM](https://scoutify.ai/companies/usm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Nashville, Tennessee, United States |
+| Location | Dayton, Ohio, United States |
 | Category | Data Engineer |
-| Posted | 2017-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/usm2/743999656137199-urgent-need-data-modeler) |
+| Posted | 2016-10-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/usm2/100349384-urgent-need-data-modeler) |
 
 ## About This Role
 
-This data engineer position at USM was posted on 2017-07-20.
+This data engineer position at USM was posted on 2016-10-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [USM](https://scoutify.ai/companies/usm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Baltimore, Maryland, United States |
 | Category | Data Engineer |
-| Posted | 2017-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/usm2/109303097-etl-developer) |
+| Posted | 2016-09-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/usm2/98750010-etl-developer) |
 
 ## About This Role
 
-This data engineer position at USM was posted on 2017-02-27.
+This data engineer position at USM was posted on 2016-09-20.
 
 ## Get Real-Time Alerts
 

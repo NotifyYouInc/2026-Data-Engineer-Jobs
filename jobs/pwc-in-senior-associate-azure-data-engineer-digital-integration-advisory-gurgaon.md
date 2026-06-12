@@ -5,12 +5,12 @@
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Data Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Gurugram-10-C/IN-Senior-Associate-Azure-Data-Engineer-Digital-Integration-Advisory-Gurgaon_725798WD-1) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Gurugram-10-C/IN-Senior-Associate-Azure-Data-Engineer-Digital-Integration-Advisory-Gurgaon_734274WD-1) |
 
 ## About This Role
 
-This data engineer position at PwC was posted on 2026-04-30.
+This data engineer position at PwC was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 
