@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Lakewood, Colorado, United States |
-| Category | Data Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/CO---Lakewood-80215/Data-Architect-Sr_R219200-1) |
+| Location | 4 locations |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Data-Architect-Sr_R223496-1) |
 
 ## About This Role
 
-This data engineer position at PNC Financial was posted on 2026-04-17.
+This technical & solutions architect position at PNC Financial was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

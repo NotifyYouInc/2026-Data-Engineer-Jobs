@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Rosporden, Brittany, France |
 | Category | Data Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000127445370-ingenieur-expert-analytique-hf-rosporden-29) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000130513009-ingenieur-expert-analytique-hf-rosporden-29) |
 
 ## About This Role
 
-This data engineer position at Eurofins Scientific was posted on 2026-05-20.
+This data engineer position at Eurofins Scientific was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

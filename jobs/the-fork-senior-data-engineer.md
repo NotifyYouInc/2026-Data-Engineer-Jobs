@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Fork](https://scoutify.ai/companies/the-fork?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Data Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thefork/jobs/7712319) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thefork/jobs/7984621) |
 
 ## About This Role
 
-This data engineer position at The Fork was posted on 2026-03-20.
+This data engineer position at The Fork was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

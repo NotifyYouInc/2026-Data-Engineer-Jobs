@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Redlands, California, United States |
-| Category | Technology / IT Consulting |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://www.esri.com/careers/5096369007?gh_jid=5096369007) |
+| Location | St. Louis, Missouri, United States |
+| Category | Database Administration |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://www.esri.com/careers/5157005007?gh_jid=5157005007) |
 
 ## About This Role
 
-This technology / it consulting position at Esri was posted on 2026-04-01.
+This database administration position at Esri was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

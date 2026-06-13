@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Wharton, Pennsylvania, United States |
+| Location | Chantilly, Virginia, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Wharton-NJ/Data-Engineer_R0241249-1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Chantilly-VA/Data-Engineer_R0241347) |
 
 ## About This Role
 
-This data engineer position at Booz Allen was posted on 2026-06-03.
+This data engineer position at Booz Allen was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

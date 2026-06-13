@@ -5,12 +5,12 @@
 | Company | [Vagas Internas](https://scoutify.ai/companies/vagas-internas?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Brazil |
 | Category | Data Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/vagasinternas/jobs/7713673003) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/vagasinternas/jobs/7761372003) |
 
 ## About This Role
 
-This data engineer position at Vagas Internas was posted on 2026-05-28.
+This data engineer position at Vagas Internas was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

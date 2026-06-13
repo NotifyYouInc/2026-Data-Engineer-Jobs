@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000127814434-ai-data-engineer-iii) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000130560359-ai-data-engineer-iii) |
 
 ## About This Role
 
-This data engineer position at Sixt was posted on 2026-05-22.
+This data engineer position at Sixt was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 
