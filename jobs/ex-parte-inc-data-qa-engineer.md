@@ -1,16 +1,16 @@
-# Senior Data Engineer - AI at Anaplan
+# Data QA Engineer at Ex Parte, Inc
 
 | Field | Details |
 |-------|---------|
-| Company | [Anaplan](https://scoutify.ai/companies/anaplan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pennsylvania, US |
+| Company | [Ex Parte, Inc](https://scoutify.ai/companies/ex-parte-inc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Bethesda, Maryland, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8580757002) |
+| Posted | 2022-01-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/exparteinc/743999796168231-data-qa-engineer) |
 
 ## About This Role
 
-This data engineer position at Anaplan was posted on 2026-06-06.
+This data engineer position at Ex Parte, Inc was posted on 2022-01-04.
 
 ## Get Real-Time Alerts
 

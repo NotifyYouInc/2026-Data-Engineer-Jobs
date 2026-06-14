@@ -1,16 +1,16 @@
-# Senior Data Engineer - AI at Anaplan
+# Staff Geophysicist at Terraai
 
 | Field | Details |
 |-------|---------|
-| Company | [Anaplan](https://scoutify.ai/companies/anaplan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pennsylvania, US |
+| Company | [Terraai](https://scoutify.ai/companies/terraai?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Redwood City, California, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8580757002) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/terraai/3a66a3dc-f897-4775-aac0-b8e5a57d9401) |
 
 ## About This Role
 
-This data engineer position at Anaplan was posted on 2026-06-06.
+This data engineer position at Terraai was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

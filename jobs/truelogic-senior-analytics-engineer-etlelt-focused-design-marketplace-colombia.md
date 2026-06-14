@@ -1,16 +1,16 @@
-# Senior Data Engineer - AI at Anaplan
+# Senior Analytics Engineer (ETL/ELT focused) - Design Marketplace | Colombia at Truelogic
 
 | Field | Details |
 |-------|---------|
-| Company | [Anaplan](https://scoutify.ai/companies/anaplan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pennsylvania, US |
+| Company | [Truelogic](https://scoutify.ai/companies/truelogic?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Data Engineer |
 | Posted | 2026-06-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8580757002) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/truelogic/ec798d5e-3979-4c92-ac7d-1484758776c4) |
 
 ## About This Role
 
-This data engineer position at Anaplan was posted on 2026-06-06.
+This data engineer position at Truelogic was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

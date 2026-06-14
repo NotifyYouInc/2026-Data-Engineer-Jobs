@@ -1,16 +1,16 @@
-# Senior Data Engineer - AI at Anaplan
+# Senior Analytics Engineer (ETL/ELT focused) - Design Marketplace | DR at Truelogic
 
 | Field | Details |
 |-------|---------|
-| Company | [Anaplan](https://scoutify.ai/companies/anaplan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pennsylvania, US |
+| Company | [Truelogic](https://scoutify.ai/companies/truelogic?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Santo Domingo, Nacional, Dominican Republic |
 | Category | Data Engineer |
 | Posted | 2026-06-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8580757002) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/truelogic/37c8a255-41f8-4459-8afb-984549ad6d6b) |
 
 ## About This Role
 
-This data engineer position at Anaplan was posted on 2026-06-06.
+This data engineer position at Truelogic was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

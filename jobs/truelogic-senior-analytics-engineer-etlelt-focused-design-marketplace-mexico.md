@@ -1,16 +1,16 @@
-# Senior Data Engineer - AI at Anaplan
+# Senior Analytics Engineer (ETL/ELT focused) - Design Marketplace | Mexico at Truelogic
 
 | Field | Details |
 |-------|---------|
-| Company | [Anaplan](https://scoutify.ai/companies/anaplan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pennsylvania, US |
+| Company | [Truelogic](https://scoutify.ai/companies/truelogic?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Data Engineer |
 | Posted | 2026-06-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8580757002) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/truelogic/5276a678-6385-4fe1-b215-aa263e0537c3) |
 
 ## About This Role
 
-This data engineer position at Anaplan was posted on 2026-06-06.
+This data engineer position at Truelogic was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

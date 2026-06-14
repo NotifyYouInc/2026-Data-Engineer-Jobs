@@ -1,16 +1,16 @@
-# Senior Data Engineer - AI at Anaplan
+# Senior Data Architect - Oracle Health at Oracle
 
 | Field | Details |
 |-------|---------|
-| Company | [Anaplan](https://scoutify.ai/companies/anaplan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pennsylvania, US |
+| Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-06-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8580757002) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#331090) |
 
 ## About This Role
 
-This data engineer position at Anaplan was posted on 2026-06-06.
+This data engineer position at Oracle was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 
