@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | DevOps Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/_51580810) |
+| Category | Data Engineer |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/_51582219) |
 
 ## About This Role
 
-This devops engineer position at DXC Technology was posted on 2026-05-19.
+This data engineer position at DXC Technology was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

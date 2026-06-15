@@ -1,16 +1,16 @@
-# Data Engineer-1 Year Contract, ATE Data Engineering Team at Amazon
+# Data Engineer -1 Year Contract, ATE Data Engineering Team at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Beijing, Beijing, China |
 | Category | Data Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10420769/data-engineer-1-year-contract-ate-data-engineering-team) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10441724/data-engineer-1-year-contract-ate-data-engineering-team) |
 
 ## About This Role
 
-This data engineer position at Amazon was posted on 2026-05-15.
+This data engineer position at Amazon was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

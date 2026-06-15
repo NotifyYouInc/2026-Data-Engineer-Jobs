@@ -1,16 +1,16 @@
-# Data Engineer at DXC Technology
+# [Job -29790]  Senior Data Engineer | (Spark + Databricks) at Ciandt
 
 | Field | Details |
 |-------|---------|
-| Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Philippines |
+| Company | [Ciandt](https://scoutify.ai/companies/ciandt?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Quezon City, National Capital Region, Philippines |
 | Category | Data Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PHL---TAGUIG-CITY/Data-Engineer_51581324) |
+| Apply | [View on company site](https://jobs.lever.co/ciandt/8d686bc6-b7a6-44fa-9149-d46deb8892eb) |
 
 ## About This Role
 
-This data engineer position at DXC Technology was posted on 2026-06-08.
+This data engineer position at Ciandt was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

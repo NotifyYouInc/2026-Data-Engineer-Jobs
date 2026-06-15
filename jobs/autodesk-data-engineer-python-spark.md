@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Data-Engineer--Python--Spark-_26WD95831) |
+| Category | Data Engineer |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Data-Engineer--Python--Spark-_26WD95829-1) |
 
 ## About This Role
 
-This software engineer position at Autodesk was posted on 2026-03-24.
+This data engineer position at Autodesk was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

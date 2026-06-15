@@ -1,16 +1,16 @@
-# Data Engineering Lead Analyst -= HIH - Evernorth at Cigna
+# Data Engineering Lead Analyst - HOH - Evernorth at Cigna
 
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Data Engineer |
+| Category | Database Administration |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Data-Engineering-Lead-Analyst----HIH---Evernorth_26005663) |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Data-Engineering-Lead-Analyst---HOH---Evernorth_26005740) |
 
 ## About This Role
 
-This data engineer position at Cigna was posted on 2026-06-08.
+This database administration position at Cigna was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

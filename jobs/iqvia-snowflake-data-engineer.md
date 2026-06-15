@@ -1,16 +1,16 @@
-# Data Engineer at DXC Technology
+# Snowflake Data Engineer at IQVIA
 
 | Field | Details |
 |-------|---------|
-| Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Philippines |
+| Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PHL---TAGUIG-CITY/Data-Engineer_51581324) |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Snowflake-Data-Engineer_R1529722-1) |
 
 ## About This Role
 
-This data engineer position at DXC Technology was posted on 2026-06-08.
+This data engineer position at IQVIA was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

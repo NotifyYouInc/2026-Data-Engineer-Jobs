@@ -1,16 +1,16 @@
-# Data Engineer at DXC Technology
+# Power BI Lead Developer at BDO USA
 
 | Field | Details |
 |-------|---------|
-| Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Philippines |
+| Company | [BDO USA](https://scoutify.ai/companies/bdo-usa?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Grand Rapids, Michigan, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PHL---TAGUIG-CITY/Data-Engineer_51581324) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://ebqb.fa.us2.oraclecloud.com/jobs/#12384) |
 
 ## About This Role
 
-This data engineer position at DXC Technology was posted on 2026-06-08.
+This data engineer position at BDO USA was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Engineer at DXC Technology
+# Databricks  AWS Engineer - Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Philippines |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PHL---TAGUIG-CITY/Data-Engineer_51581324) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Databricks--AWS-Engineer---Vice-President_26967600) |
 
 ## About This Role
 
-This data engineer position at DXC Technology was posted on 2026-06-08.
+This data engineer position at Citigroup was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

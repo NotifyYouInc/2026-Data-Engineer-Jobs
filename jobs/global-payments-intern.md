@@ -1,16 +1,16 @@
-# Data Engineer at DXC Technology
+# Intern at Global Payments
 
 | Field | Details |
 |-------|---------|
-| Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Philippines |
+| Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PHL---TAGUIG-CITY/Data-Engineer_51581324) |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/PUNE--INDIA/Intern_R0071648) |
 
 ## About This Role
 
-This data engineer position at DXC Technology was posted on 2026-06-08.
+This data engineer position at Global Payments was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

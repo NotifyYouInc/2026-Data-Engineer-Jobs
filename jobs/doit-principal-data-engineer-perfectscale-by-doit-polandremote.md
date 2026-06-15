@@ -1,16 +1,16 @@
-# Data Engineer-Data Platforms - Japanese Bilingual at IBM
+# Principal Data Engineer - PerfectScale by DoiT, Poland(Remote) at DoiT
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Quezon City, National Capital Region, Philippines |
-| Category | Data Engineer |
+| Company | [DoiT](https://scoutify.ai/companies/doit?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Estonia |
+| Category | Software Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=108815) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/doitintl/jobs/7765788003) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-06-08.
+This software engineer position at DoiT was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

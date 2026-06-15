@@ -1,16 +1,16 @@
-# Associate Manager Data Engineering at DXC Technology
+# IN_Manager_Data Analytics & Engineering _Data and Analytics_Advisory_Bangalore at PwC
 
 | Field | Details |
 |-------|---------|
-| Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---KA---BANGALORE/Associate-Manager-Data-Engineering_51577539) |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Manager--SAP-MM--Materials-Management---Data-and-Analytics-Advisory-Mumbai_694123WD) |
 
 ## About This Role
 
-This data engineer position at DXC Technology was posted on 2026-06-08.
+This data engineer position at PwC was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

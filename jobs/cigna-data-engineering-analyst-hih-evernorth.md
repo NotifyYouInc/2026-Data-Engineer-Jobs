@@ -5,12 +5,12 @@
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Data-Engineering-Analyst---HIH---Evernorth_26000659) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Data-Engineering-Analyst---HIH---Evernorth_26005746) |
 
 ## About This Role
 
-This data engineer position at Cigna was posted on 2026-02-06.
+This data engineer position at Cigna was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Engineer at DXC Technology
+# 数据运营工程师（专员级） at Charles & Keith
 
 | Field | Details |
 |-------|---------|
-| Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Philippines |
+| Company | [Charles & Keith](https://scoutify.ai/companies/charles-keith?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | China |
 | Category | Data Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PHL---TAGUIG-CITY/Data-Engineer_51581324) |
+| Apply | [View on company site](https://charleskeith.wd3.myworkdayjobs.com/external/job/CK_CHINA-OFFICE/--_JR101607) |
 
 ## About This Role
 
-This data engineer position at DXC Technology was posted on 2026-06-08.
+This data engineer position at Charles & Keith was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

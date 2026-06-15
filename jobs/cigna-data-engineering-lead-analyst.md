@@ -1,16 +1,16 @@
-# Data Engineer at DXC Technology
+# Data Engineering Lead Analyst at Cigna
 
 | Field | Details |
 |-------|---------|
-| Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Philippines |
+| Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PHL---TAGUIG-CITY/Data-Engineer_51581324) |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Data-Engineering-Lead-Analyst_26005192-2) |
 
 ## About This Role
 
-This data engineer position at DXC Technology was posted on 2026-06-08.
+This data engineer position at Cigna was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

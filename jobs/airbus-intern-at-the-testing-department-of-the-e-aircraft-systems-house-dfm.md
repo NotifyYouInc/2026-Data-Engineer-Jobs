@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Mnchen-Area/Intern-at-the-Testing-Department-of-the-E-Aircraft-Systems-House--d-f-m-_JR10396671) |
+| Location | Taufkirchen, Bavaria, Germany |
+| Category | Data Engineer |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Mnchen-Area/Intern-at-the-Testing-Department-of-the-E-Aircraft-Systems-House--d-f-m-_JR10416051) |
 
 ## About This Role
 
-This software engineer position at Airbus was posted on 2026-03-12.
+This data engineer position at Airbus was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

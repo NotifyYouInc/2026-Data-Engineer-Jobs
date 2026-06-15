@@ -1,16 +1,16 @@
-# Software Engineer at Barclays
+# Principal Statistical Programmer at GSK
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Durham, North Carolina, United States |
 | Category | Software Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Software-Engineer_JR-0000082286-1) |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Durham-Blackwell-Street/Principal-Statistical-Programmer_442342-1) |
 
 ## About This Role
 
-This software engineer position at Barclays was posted on 2026-06-08.
+This software engineer position at GSK was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

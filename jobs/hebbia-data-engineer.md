@@ -1,16 +1,16 @@
-# Data Engineer at DXC Technology
+# Data Engineer at Hebbia
 
 | Field | Details |
 |-------|---------|
-| Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Philippines |
+| Company | [Hebbia](https://scoutify.ai/companies/hebbia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | New York City, New York, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PHL---TAGUIG-CITY/Data-Engineer_51581324) |
+| Posted | 2025-05-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/hebbia-ai/a848ec35-c0ee-404a-b153-5d8c2c434003) |
 
 ## About This Role
 
-This data engineer position at DXC Technology was posted on 2026-06-08.
+This data engineer position at Hebbia was posted on 2025-05-14.
 
 ## Get Real-Time Alerts
 

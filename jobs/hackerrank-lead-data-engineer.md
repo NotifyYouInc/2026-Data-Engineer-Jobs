@@ -1,16 +1,16 @@
-# Data Engineer at DXC Technology
+# Lead Data Engineer at HackerRank
 
 | Field | Details |
 |-------|---------|
-| Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Philippines |
+| Company | [HackerRank](https://scoutify.ai/companies/hackerrank?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PHL---TAGUIG-CITY/Data-Engineer_51581324) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/hackerrank/jobs/7959595) |
 
 ## About This Role
 
-This data engineer position at DXC Technology was posted on 2026-06-08.
+This data engineer position at HackerRank was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Engineer at DXC Technology
+# Product Master Data Architect at Altera Corporation
 
 | Field | Details |
 |-------|---------|
-| Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Philippines |
+| Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Penang, MY |
 | Category | Data Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PHL---TAGUIG-CITY/Data-Engineer_51581324) |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Penang-15-Penang-Malaysia/Product-Master-Data-Architect_R02588-1) |
 
 ## About This Role
 
-This data engineer position at DXC Technology was posted on 2026-06-08.
+This data engineer position at Altera Corporation was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 
