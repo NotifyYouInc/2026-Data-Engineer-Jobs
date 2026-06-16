@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Lead-Data-Modeler_JR324783) |
+| Location | San Francisco, California, United States |
+| Category | Data Engineer |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Lead-Data-Modeler_JR344517) |
 
 ## About This Role
 
-This software engineer position at Salesforce was posted on 2026-02-19.
+This data engineer position at Salesforce was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

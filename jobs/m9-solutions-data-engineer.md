@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [M9 Solutions](https://scoutify.ai/companies/m9-solutions?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Springfield, Missouri, United States |
+| Location | Bethesda, Maryland, United States |
 | Category | Data Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/m9solutions/jobs/5149017007) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/m9solutions/jobs/5159028007) |
 
 ## About This Role
 
-This data engineer position at M9 Solutions was posted on 2026-05-28.
+This data engineer position at M9 Solutions was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

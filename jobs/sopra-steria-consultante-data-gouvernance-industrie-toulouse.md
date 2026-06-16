@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | Data Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000126955749-consultante-data-gouvernance-industrie-toulouse) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000131052786-consultante-data-gouvernance-industrie-toulouse) |
 
 ## About This Role
 
-This data engineer position at Sopra Steria was posted on 2026-05-18.
+This data engineer position at Sopra Steria was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

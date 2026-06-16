@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lighthouse](https://scoutify.ai/companies/lighthouse?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Belgium |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Data Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/lighthouse/jobs/4875988101) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/lighthouse/jobs/4888800101) |
 
 ## About This Role
 
-This data engineer position at Lighthouse was posted on 2026-06-04.
+This data engineer position at Lighthouse was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

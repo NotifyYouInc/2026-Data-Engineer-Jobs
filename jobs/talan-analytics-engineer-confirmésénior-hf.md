@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Nantes, Pays de la Loire, France |
 | Category | Data Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000120329655-analytics-engineer-confirmesenior-hf) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000130835121-analytics-engineer-confirmesenior-hf) |
 
 ## About This Role
 
-This data engineer position at Talan was posted on 2026-04-13.
+This data engineer position at Talan was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

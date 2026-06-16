@@ -1,16 +1,16 @@
-# Développeur·euse de données_TG Quality Engineering TGQF at Ubisoft
+# Développeur·euse de données TG Quality Engineering (TGQF) at Ubisoft
 
 | Field | Details |
 |-------|---------|
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Canada |
+| Location | Montréal, Quebec, Canada |
 | Category | Data Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000122258152-developpeureuse-de-donnees-tg-quality-engineering-tgqf) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000130819035-developpeureuse-de-donnees-tg-quality-engineering-tgqf) |
 
 ## About This Role
 
-This data engineer position at Ubisoft was posted on 2026-04-22.
+This data engineer position at Ubisoft was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

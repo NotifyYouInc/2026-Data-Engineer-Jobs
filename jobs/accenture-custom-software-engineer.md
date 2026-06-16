@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Application-Developer_ATCI-5084826-S1887596-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5468313-S1997999-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-06-03.
+This software engineer position at Accenture was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

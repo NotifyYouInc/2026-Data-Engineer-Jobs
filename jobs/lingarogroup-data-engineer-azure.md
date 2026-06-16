@@ -1,16 +1,16 @@
-# Data Engineer - Azure - at Lingarogroup
+# Data Engineer - Azure at Lingarogroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Lingarogroup](https://scoutify.ai/companies/lingarogroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Mexico |
 | Category | Data Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.lever.co/lingarogroup/ea5698d8-752c-4ffa-bcb2-d73f6bd38fc4) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.lever.co/lingarogroup/a9e19f55-31b7-4977-8d36-9553732a4b88) |
 
 ## About This Role
 
-This data engineer position at Lingarogroup was posted on 2026-04-27.
+This data engineer position at Lingarogroup was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

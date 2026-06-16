@@ -5,12 +5,12 @@
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Kolkata, West Bengal, India |
 | Category | Data Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Kolkata-West-Bengal-India/Lead-Data-Engineer_R1311700) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Kolkata-West-Bengal-India/Lead-Data-Engineer_R1312838) |
 
 ## About This Role
 
-This data engineer position at Danaher was posted on 2026-06-02.
+This data engineer position at Danaher was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

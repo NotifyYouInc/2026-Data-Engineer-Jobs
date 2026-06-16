@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/IFC---ETL-Developer_JR-0000083289-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/IFC---ETL-Developer_JR-0000083297-1) |
 
 ## About This Role
 
-This data engineer position at Barclays was posted on 2026-06-05.
+This data engineer position at Barclays was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

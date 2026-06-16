@@ -6,7 +6,7 @@
 | Location | Rome, Lazio, Italy |
 | Category | Data Engineer |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990013485526-data-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990013493059-data-engineer) |
 
 ## About This Role
 

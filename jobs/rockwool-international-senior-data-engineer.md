@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwool International](https://scoutify.ai/companies/rockwool-international?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Poland |
-| Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://rockwoolgroup.wd3.myworkdayjobs.com/rockwool/job/Pozna/Senior-Data-Engineer_R0034361-2) |
+| Location | Poznań, Greater Poland, Poland |
+| Category | Data Engineer |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://rockwoolgroup.wd3.myworkdayjobs.com/rockwool/job/Pozna/Senior-Data-Engineer_R0035286-2) |
 
 ## About This Role
 
-This software engineer position at Rockwool International was posted on 2026-03-03.
+This data engineer position at Rockwool International was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

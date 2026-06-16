@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10376788/business-intel-engineer-ii-amazon-now-tez-quick-commerce) |
+| Category | Data Engineer |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10441832/business-intel-engineer-ii-amazon-now-tez-quick-commerce) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-03-26.
+This data engineer position at Amazon was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

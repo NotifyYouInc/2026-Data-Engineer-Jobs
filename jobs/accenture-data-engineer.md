@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Vilnius, Vilnius, Lithuania |
 | Category | Data Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Data-Engineer_ATCI-5456995-S1986463-1) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Vilnius/Data-Engineer_R00261602) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-06-04.
+This data engineer position at Accenture was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 
