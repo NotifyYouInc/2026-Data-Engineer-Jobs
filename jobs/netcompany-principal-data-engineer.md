@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Athens, Attica, Greece |
-| Category | Engineering Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000128966470-principal-data-engineer) |
+| Category | Data Engineer |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000131118089-principal-data-engineer) |
 
 ## About This Role
 
-This engineering manager position at Netcompany was posted on 2026-05-28.
+This data engineer position at Netcompany was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

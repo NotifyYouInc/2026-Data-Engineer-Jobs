@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Irving, Texas, United States |
+| Location | New York, US |
 | Category | Data Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Data-Engineer_R0912406) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-New-York/Data-Engineer_R0929092) |
 
 ## About This Role
 
-This data engineer position at CVS Health was posted on 2026-05-18.
+This data engineer position at CVS Health was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

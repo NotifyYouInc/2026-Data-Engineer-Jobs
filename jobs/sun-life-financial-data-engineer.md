@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | National Capital Region, PH |
-| Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Taguig-City-National-Capital-Region-Manila/Data-Engineer_JR00116059) |
+| Location | 3 locations |
+| Category | Data Engineer |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Waterford-Waterford-Ireland/Data-Engineer_JR00120403-1) |
 
 ## About This Role
 
-This software engineer position at Sun Life Financial was posted on 2026-03-18.
+This data engineer position at Sun Life Financial was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

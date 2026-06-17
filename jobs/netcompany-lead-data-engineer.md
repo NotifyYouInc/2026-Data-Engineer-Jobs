@@ -5,12 +5,12 @@
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Athens, Attica, Greece |
 | Category | Data Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000126504032-lead-data-engineer) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000131115984-lead-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Netcompany was posted on 2026-05-14.
+This data engineer position at Netcompany was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

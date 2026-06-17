@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Warsaw, Mazovia, Poland |
-| Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---POL---Warszawa---Rondo-Daszyskiego-2B/Junior-Data-Engineer_R304972) |
+| Location | Poland |
+| Category | Data Engineer |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---POL---Warszawa---Rondo-Daszyskiego-2B/Junior-Data-Engineer_R317512) |
 
 ## About This Role
 
-This software engineer position at Cushman & Wakefield was posted on 2026-02-27.
+This data engineer position at Cushman & Wakefield was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

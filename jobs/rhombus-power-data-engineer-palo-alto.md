@@ -5,12 +5,12 @@
 | Company | [Rhombus Power](https://scoutify.ai/companies/rhombuspower?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Palo Alto, California, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/rhombuspower/jobs/7715388003) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/rhombuspower/jobs/7599845003) |
 
 ## About This Role
 
-This data engineer position at Rhombus Power was posted on 2026-04-27.
+This data engineer position at Rhombus Power was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

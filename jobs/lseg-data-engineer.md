@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Location | Bucharest, București, Romania |
 | Category | Data Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/THA-Bangkok-One-Bangkok/Data-Engineer_R0120253-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Data-Engineer_R0119162-1) |
 
 ## About This Role
 
-This data engineer position at LSEG was posted on 2026-06-05.
+This data engineer position at LSEG was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

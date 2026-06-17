@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valtech](https://scoutify.ai/companies/valtech?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Ukraine |
 | Category | Data Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/valtech/jobs/4857319101) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/valtech/jobs/4890415101) |
 
 ## About This Role
 
-This data engineer position at Valtech was posted on 2026-05-20.
+This data engineer position at Valtech was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

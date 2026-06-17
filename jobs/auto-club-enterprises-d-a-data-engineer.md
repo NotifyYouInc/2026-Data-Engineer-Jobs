@@ -5,12 +5,12 @@
 | Company | [Auto Club Enterprises](https://scoutify.ai/companies/ace?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Coppell, Texas, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Coppell-TX-Remote/D---A-Data-Engineer_JR202636056) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Coppell-TX/D---A-Data-Engineer_JR202637122) |
 
 ## About This Role
 
-This data engineer position at Auto Club Enterprises was posted on 2026-04-28.
+This data engineer position at Auto Club Enterprises was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

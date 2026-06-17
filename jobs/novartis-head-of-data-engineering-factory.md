@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Cambridge, Massachusetts, United States |
+| Location | Basel, Basel-City, Switzerland |
 | Category | Engineering Manager |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Cambridge-USA/Head-of-Data-Engineering---Factory_REQ-10079242-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Basel-City/Head-of-Data-Engineering---Factory_REQ-10079840) |
 
 ## About This Role
 
-This engineering manager position at Novartis was posted on 2026-06-01.
+This engineering manager position at Novartis was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

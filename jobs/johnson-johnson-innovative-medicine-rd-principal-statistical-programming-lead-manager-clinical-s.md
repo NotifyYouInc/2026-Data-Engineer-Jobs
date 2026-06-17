@@ -1,0 +1,22 @@
+# [Innovative Medicine] R&D, Principal Statistical Programming Lead (Manager),  Clinical & Statistical Programming Japan, Global Development at Johnson & Johnson
+
+| Field | Details |
+|-------|---------|
+| Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Chiyoda, Tokyo, Japan |
+| Category | Data Engineer |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Chiyoda-Tokyo-Japan/XMLNAME--Innovative-Medicine--R-D--Principal-Statistical-Programmer-Lead--Manager----Clinical---Statistical-Programming-Japan--Global-Development_R-081445-1) |
+
+## About This Role
+
+This data engineer position at Johnson & Johnson was posted on 2026-06-10.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

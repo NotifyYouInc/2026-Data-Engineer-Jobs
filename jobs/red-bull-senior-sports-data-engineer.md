@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Elsbethen, Salzburg, Austria |
 | Category | Data Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000130416049-senior-sports-data-engineer) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000131219619-senior-sports-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Red Bull was posted on 2026-06-05.
+This data engineer position at Red Bull was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

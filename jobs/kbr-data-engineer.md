@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Camarillo, California, United States |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Data-Engineer_R2121517) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Data-Engineer_R2124826) |
 
 ## About This Role
 
-This data engineer position at KBR was posted on 2026-05-15.
+This data engineer position at KBR was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 
