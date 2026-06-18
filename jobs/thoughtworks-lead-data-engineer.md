@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
+| Location | Lima, Lima Province, Peru |
 | Category | Data Engineer |
 | Posted | 2026-06-09 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7964025?gh_jid=7964025) |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7964080?gh_jid=7964080) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Vadodara, Gujarat, India |
+| Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vadodara-India/Senior-Analyst--Big-Data-Analytics---Engineering_R-273941) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Analyst--Big-Data-Analytics---Engineering_R-277868-1) |
 
 ## About This Role
 
-This data engineer position at Mastercard was posted on 2026-04-16.
+This data engineer position at Mastercard was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

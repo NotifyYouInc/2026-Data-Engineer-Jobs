@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 3 locations |
 | Category | Data Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Data-Engineer_R-00279636) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Edinburgh/Data-Engineer_R-00277047-1) |
 
 ## About This Role
 
-This data engineer position at NatWest Group was posted on 2026-06-04.
+This data engineer position at NatWest Group was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

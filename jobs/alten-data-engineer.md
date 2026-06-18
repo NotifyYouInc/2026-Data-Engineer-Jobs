@@ -1,16 +1,16 @@
-# Data Engineer  at ALTEN
+# DATA Engineer  at ALTEN
 
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Lille, Hauts-de-France, France |
+| Location | Rabat, Rabat-Salé-Kénitra, Morocco |
 | Category | Data Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000121994064-data-engineer) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000131484789-data-engineer) |
 
 ## About This Role
 
-This data engineer position at ALTEN was posted on 2026-04-21.
+This data engineer position at ALTEN was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

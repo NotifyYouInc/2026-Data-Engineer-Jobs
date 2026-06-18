@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Madrid, Madrid, Spain |
-| Category | Data Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4851092101) |
+| Location | 2 locations |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4894684101) |
 
 ## About This Role
 
-This data engineer position at Ebury was posted on 2026-04-27.
+This ai / llm engineer position at Ebury was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

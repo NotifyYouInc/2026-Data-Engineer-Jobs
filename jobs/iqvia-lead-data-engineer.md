@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Data Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Amsterdam-Netherlands/Lead-Data-Engineer_R1508292) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Warsaw-Poland/Lead-Data-Engineer_R1543642) |
 
 ## About This Role
 
-This data engineer position at IQVIA was posted on 2026-05-13.
+This data engineer position at IQVIA was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

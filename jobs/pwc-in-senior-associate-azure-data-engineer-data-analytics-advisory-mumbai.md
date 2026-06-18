@@ -1,16 +1,16 @@
-# IN_Senior Associate_Azure Data Engineer_Data Analytics_Advisory_Mumbai at PwC
+# IN-Senior Associate_Azure Data Engineer_Data & Analytics_Advisory_Mumbai at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Airoli, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Airoli/IN-Senior-Associate-Java-Developer-Data-Analytics-Advisory-Mumbai_697268WD-1) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Data Engineer |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Shivaji-Park/IN-Senior-Associate-Azure-Data-Engineer-Data---Analytics-Advisory-PAN-India_712545WD-2) |
 
 ## About This Role
 
-This software engineer position at PwC was posted on 2026-02-18.
+This data engineer position at PwC was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

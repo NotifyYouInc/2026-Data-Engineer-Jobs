@@ -5,12 +5,12 @@
 | Company | [Pilot Flying J](https://scoutify.ai/companies/pilotflyingj?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Knoxville, Tennessee, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PilotCompany/744000130273139-engineer-ii-analytics) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PilotCompany/744000131514544-engineer-ii-analytics) |
 
 ## About This Role
 
-This data engineer position at Pilot Flying J was posted on 2026-06-04.
+This data engineer position at Pilot Flying J was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

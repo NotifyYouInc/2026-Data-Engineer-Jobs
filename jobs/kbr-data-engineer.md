@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Maryland, US |
 | Category | Data Engineer |
 | Posted | 2026-06-09 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Data-Engineer_R2124826) |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Bethesda-Chevy-Chase-Maryland/Data-Engineer_R2112693) |
 
 ## About This Role
 

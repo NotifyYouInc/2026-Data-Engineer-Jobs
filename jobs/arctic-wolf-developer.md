@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arctic Wolf](https://scoutify.ai/companies/arcticwolf?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://arcticwolf.wd1.myworkdayjobs.com/External/job/Bengaluru-IND/Developer_R26_238-1) |
+| Category | Data Engineer |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://arcticwolf.wd1.myworkdayjobs.com/External/job/Bengaluru-IND/Developer_R26_627) |
 
 ## About This Role
 
-This software engineer position at Arctic Wolf was posted on 2026-02-27.
+This data engineer position at Arctic Wolf was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -1,0 +1,22 @@
+# Team Leader - Data Engineer Senior F/H at Talan
+
+| Field | Details |
+|-------|---------|
+| Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Lyon, Rhône-Alpes, France |
+| Category | Engineering Manager |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000131429404-team-leader-data-engineer-senior-fh) |
+
+## About This Role
+
+This engineering manager position at Talan was posted on 2026-06-10.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

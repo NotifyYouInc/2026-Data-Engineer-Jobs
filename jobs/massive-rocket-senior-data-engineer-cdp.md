@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Massive Rocket](https://scoutify.ai/companies/massive-rocket?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United Kingdom |
+| Location | India |
 | Category | Data Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.lever.co/massive-rocket/885b158e-01be-41f2-93db-12a66224b9d8) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.lever.co/massive-rocket/80b80b1a-10eb-4f72-93c1-1af4f86cd13b) |
 
 ## About This Role
 
-This data engineer position at Massive Rocket was posted on 2026-05-12.
+This data engineer position at Massive Rocket was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

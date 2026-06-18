@@ -6,7 +6,7 @@
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Data Engineer |
 | Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000131155463-senior-data-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000131182130-senior-data-engineer) |
 
 ## About This Role
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Psi Cro](https://scoutify.ai/companies/psicro?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Oxford, England, United Kingdom |
+| Location | Tallinn, Harjumaa, Estonia |
 | Category | Data Engineer |
 | Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000131164809-senior-sas-developer-sdtm) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000131191578-senior-sas-developer-sdtm) |
 
 ## About This Role
 
