@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Psi Cro](https://scoutify.ai/companies/psicro?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Tallinn, Harjumaa, Estonia |
-| Category | Data Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000131191578-senior-sas-developer-sdtm) |
+| Location | Sofia, Sofia-Capital, Bulgaria |
+| Category | Software Engineer |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000131437209-senior-sas-developer-sdtm) |
 
 ## About This Role
 
-This data engineer position at Psi Cro was posted on 2026-06-09.
+This software engineer position at Psi Cro was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

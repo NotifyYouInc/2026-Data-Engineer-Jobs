@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Singapore, Singapore |
-| Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000000893531-data-engineer-databricks) |
+| Category | Data Engineer |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001147578-data-engineer-databricks) |
 
 ## About This Role
 
-This software engineer position at NCS was posted on 2026-02-25.
+This data engineer position at NCS was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

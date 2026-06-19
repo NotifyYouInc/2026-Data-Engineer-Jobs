@@ -5,12 +5,12 @@
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Data Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000131152722-vks-data-engineer) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000131603590-vks-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Software Mind was posted on 2026-06-09.
+This data engineer position at Software Mind was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Data Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/7981712) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/7981691) |
 
 ## About This Role
 
-This data engineer position at Capco was posted on 2026-06-09.
+This data engineer position at Capco was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

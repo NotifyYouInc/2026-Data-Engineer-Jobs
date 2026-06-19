@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Switzerland---Basel/Senior-Data-Engineer_31144980) |
+| Location | Singapore, Singapore |
+| Category | Data Engineer |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Singapore/Senior-Data-Engineer_31151943) |
 
 ## About This Role
 
-This devops engineer position at Abbott was posted on 2026-03-30.
+This data engineer position at Abbott was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

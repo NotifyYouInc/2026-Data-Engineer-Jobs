@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Data-Migration-Engineer_ATCI-5556671-S2023231) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Data-Migration-Engineer_ATCI-5596688-S2027454-1) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-05-13.
+This data engineer position at Accenture was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

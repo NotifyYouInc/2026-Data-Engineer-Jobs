@@ -1,16 +1,16 @@
-# Sr Associate Software Engineer at Amgen
+# Sr. Associate Software Engineer at Amgen
 
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Sr-Associate-Software-Engineer_R-229074) |
+| Category | Software Engineer |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Sr-Associate-Software-Engineer_R-246536) |
 
 ## About This Role
 
-This frontend engineer position at Amgen was posted on 2026-03-26.
+This software engineer position at Amgen was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

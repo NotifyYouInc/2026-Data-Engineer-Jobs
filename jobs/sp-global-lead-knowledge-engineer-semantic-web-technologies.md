@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | 6 locations |
 | Category | Data Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Mexico-City-MX/Lead-Knowledge-Engineer---Semantic-Web-Technologies_327698-1) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Bengaluru-Karnataka/Lead-Knowledge-Engineer---Semantic-Web-Technologies_329838-1) |
 
 ## About This Role
 
-This data engineer position at S&P Global was posted on 2026-04-14.
+This data engineer position at S&P Global was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

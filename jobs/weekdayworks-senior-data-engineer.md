@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Weekdayworks](https://scoutify.ai/companies/weekdayworks?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | 3 locations |
 | Category | Data Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.lever.co/weekdayworks/959ab5a3-e768-4312-95a4-05c88d77024a) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.lever.co/weekdayworks/02d81663-2965-4ff7-a654-24cbcf1f9d42) |
 
 ## About This Role
 
-This data engineer position at Weekdayworks was posted on 2026-04-29.
+This data engineer position at Weekdayworks was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 
