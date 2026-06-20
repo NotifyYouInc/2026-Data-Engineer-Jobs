@@ -1,16 +1,16 @@
-#  Mid-level Backend Spark developer at Talan
+# Mid-Level Backend Spark Developer at Talan
 
 | Field | Details |
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Málaga, Andalusia, Spain |
 | Category | Data Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000122395609-mid-level-backend-spark-developer) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000131857879-mid-level-backend-spark-developer) |
 
 ## About This Role
 
-This data engineer position at Talan was posted on 2026-04-23.
+This data engineer position at Talan was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

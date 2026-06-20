@@ -5,12 +5,12 @@
 | Company | [Florida Gulf Coast University](https://scoutify.ai/companies/florida-gulf-coast-university?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Fort Myers, Florida, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://fgcu.wd5.myworkdayjobs.com/eaglejobs/job/Main-Campus/Data-Engineer-II_R0007378) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://fgcu.wd5.myworkdayjobs.com/eaglejobs/job/Main-Campus/Data-Engineer-II_R0007526) |
 
 ## About This Role
 
-This data engineer position at Florida Gulf Coast University was posted on 2026-04-27.
+This data engineer position at Florida Gulf Coast University was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

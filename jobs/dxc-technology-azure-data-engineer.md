@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Data Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---TN---CHENNAI/Azure-Data-Engineer_51576382-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---TN---CHENNAI/Azure-Data-Engineer_51581911) |
 
 ## About This Role
 
-This data engineer position at DXC Technology was posted on 2026-05-25.
+This data engineer position at DXC Technology was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

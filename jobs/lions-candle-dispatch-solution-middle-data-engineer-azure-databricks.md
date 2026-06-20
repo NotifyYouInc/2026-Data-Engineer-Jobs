@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Warsaw, Mazovia, Poland |
-| Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000117617807-middle-data-engineer-azure-databricks) |
+| Location | Málaga, Andalusia, Spain |
+| Category | Data Engineer |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000131841980-middle-data-engineer-azure-databricks) |
 
 ## About This Role
 
-This software engineer position at Lions Candle-Dispatch Solution was posted on 2026-03-30.
+This data engineer position at Lions Candle-Dispatch Solution was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

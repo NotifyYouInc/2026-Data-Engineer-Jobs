@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | O'Fallon, Missouri, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Arlington-Virginia/Senior-Data-Engineer_R-280130) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Senior-Data-Engineer_R-280201) |
 
 ## About This Role
 
-This data engineer position at Mastercard was posted on 2026-06-10.
+This data engineer position at Mastercard was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 
