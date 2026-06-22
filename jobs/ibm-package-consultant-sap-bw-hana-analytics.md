@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | Technology / IT Consulting |
 | Posted | 2026-06-11 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=119913) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=119929) |
 
 ## About This Role
 

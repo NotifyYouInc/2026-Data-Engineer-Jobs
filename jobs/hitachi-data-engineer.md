@@ -1,16 +1,16 @@
-# Data engineer at Hitachi
+# Data Engineer at Hitachi
 
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Xiamen, Fujian, China |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Data Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Xiamen-Fujian-China/Data-engineer_R0104751) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Bangkok-Thailand/Data-Engineer_R0133843) |
 
 ## About This Role
 
-This data engineer position at Hitachi was posted on 2026-04-14.
+This data engineer position at Hitachi was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

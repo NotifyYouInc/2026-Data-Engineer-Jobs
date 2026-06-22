@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Exadel Inc (Website)](https://scoutify.ai/companies/exadel-inc-website?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Brazil |
+| Location | Bulgaria |
 | Category | Data Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/exadelinc/jobs/5991702004) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/exadelinc/jobs/6021686004) |
 
 ## About This Role
 
-This data engineer position at Exadel Inc (Website) was posted on 2026-05-11.
+This data engineer position at Exadel Inc (Website) was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 
