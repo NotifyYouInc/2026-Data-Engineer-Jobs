@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Data Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---KA---BANGALORE/Sr-Analyst-II-Data-Engineering_51579791) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/POL---MZ---WARSAW/Sr-Analyst-II-Data-Engineering_51582948) |
 
 ## About This Role
 
-This data engineer position at DXC Technology was posted on 2026-05-12.
+This data engineer position at DXC Technology was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

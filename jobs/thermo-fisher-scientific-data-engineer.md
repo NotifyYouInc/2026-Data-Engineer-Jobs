@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/Data-Engineer_R-01346560) |
+| Location | 2 locations |
+| Category | Data Engineer |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bengaluru-India/Data-Engineer_R-01356914) |
 
 ## About This Role
 
-This software engineer position at Thermo Fisher Scientific was posted on 2026-03-24.
+This data engineer position at Thermo Fisher Scientific was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

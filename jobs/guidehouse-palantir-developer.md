@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Los Angeles, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---CA-Los-Angeles/Palantir-Developer_39613) |
+| Location | McLean, Virginia, United States |
+| Category | Data Engineer |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/Palantir-Developer_40563) |
 
 ## About This Role
 
-This software engineer position at Guidehouse was posted on 2026-05-21.
+This data engineer position at Guidehouse was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

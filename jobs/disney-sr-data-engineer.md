@@ -1,16 +1,16 @@
-# Sr Data Engineer at Disney
+# Sr. Data Engineer at Disney
 
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Santa Monica, California, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Santa-Monica-CA-USA/Sr-Data-Engineer_10153287) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Bangalore-India/Sr-Data-Engineer_10153857) |
 
 ## About This Role
 
-This data engineer position at Disney was posted on 2026-06-11.
+This data engineer position at Disney was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

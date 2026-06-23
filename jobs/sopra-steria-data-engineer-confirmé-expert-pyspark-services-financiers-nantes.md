@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Nantes, Pays de la Loire, France |
 | Category | Data Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000131634548-data-engineer-confirme-expert-pyspark-services-financiers-nantes) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000132205818-data-engineer-confirme-expert-pyspark-services-financiers-nantes) |
 
 ## About This Role
 
-This data engineer position at Sopra Steria was posted on 2026-06-11.
+This data engineer position at Sopra Steria was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

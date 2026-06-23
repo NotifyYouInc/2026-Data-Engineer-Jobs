@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kpler](https://scoutify.ai/companies/kpler?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Germany |
+| Location | United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.lever.co/kpler/b4a0a958-a6e6-49a4-b7cc-6c56db44aee2) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.lever.co/kpler/4c5e0aa7-8555-4817-921c-e1c260d4b6f1) |
 
 ## About This Role
 
-This data engineer position at Kpler was posted on 2026-04-10.
+This data engineer position at Kpler was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

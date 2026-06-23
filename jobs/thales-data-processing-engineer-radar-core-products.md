@@ -5,12 +5,12 @@
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hengelo, Overijssel, The Netherlands |
 | Category | Data Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Hengelo/Data-Processing-Engineer--Radar-Core-Products_R0323749) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Hengelo/Data-Processing-Engineer--Radar-Core-Products_R0329988) |
 
 ## About This Role
 
-This data engineer position at Thales was posted on 2026-04-14.
+This data engineer position at Thales was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

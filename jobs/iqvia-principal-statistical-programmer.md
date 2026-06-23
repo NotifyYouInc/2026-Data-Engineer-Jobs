@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Durham, North Carolina, United States |
+| Location | Dublin, Leinster, Ireland |
 | Category | Software Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Durham-North-Carolina-United-States-of-America/Principal-Statistical-Programmer_R1545297) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Dublin-Ireland/Principal-Statistical-Programmer_R1551692) |
 
 ## About This Role
 
-This software engineer position at IQVIA was posted on 2026-05-18.
+This software engineer position at IQVIA was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

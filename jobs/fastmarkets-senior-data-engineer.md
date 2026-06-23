@@ -5,12 +5,12 @@
 | Company | [Fastmarkets](https://scoutify.ai/companies/fastmarkets?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Data Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Fastmarkets/744000129011299-senior-data-engineer) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Fastmarkets/744000132137801-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Fastmarkets was posted on 2026-05-28.
+This data engineer position at Fastmarkets was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

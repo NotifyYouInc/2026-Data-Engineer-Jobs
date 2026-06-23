@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 4 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/POL---MZ---WARSAW/Junior-BigData-Application-Engineer--Google-Azure-Cloud-_51552139) |
+| Location | Warsaw, Mazovia, Poland |
+| Category | DevOps Engineer |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/POL---MZ---WARSAW/Junior-BigData-Application-Engineer--Google-Azure-Cloud-_51573748) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-02-09.
+This devops engineer position at DXC Technology was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

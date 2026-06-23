@@ -5,12 +5,12 @@
 | Company | [Global Partners](https://scoutify.ai/companies/global?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Waltham, Massachusetts, United States |
 | Category | Data Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://global.wd1.myworkdayjobs.com/globalpartnerscareers/job/Waltham-MA---Corporate-Headquarters/Analytics-Engineer_R0030357) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://global.wd1.myworkdayjobs.com/globalpartnerscareers/job/Waltham-MA---Corporate-Headquarters/Analytics-Engineer_R0030682) |
 
 ## About This Role
 
-This data engineer position at Global Partners was posted on 2026-03-06.
+This data engineer position at Global Partners was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

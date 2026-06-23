@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rabobank](https://scoutify.ai/companies/rabobank?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Utrecht, Utrecht, The Netherlands |
-| Category | Software Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://rabobank.wd3.myworkdayjobs.com/jobs/job/Utrecht-Croeselaan-18/Senior-Data-Engineer_JR_00138101-1) |
+| Category | Data Engineer |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://rabobank.wd3.myworkdayjobs.com/jobs/job/Utrecht-Croeselaan-18/Senior-Data-Engineer_JR_00142121) |
 
 ## About This Role
 
-This software engineer position at Rabobank was posted on 2026-03-17.
+This data engineer position at Rabobank was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

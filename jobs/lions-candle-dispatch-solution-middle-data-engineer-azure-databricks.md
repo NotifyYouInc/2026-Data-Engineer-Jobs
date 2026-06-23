@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Málaga, Andalusia, Spain |
+| Location | Valencia, Valencia, Spain |
 | Category | Data Engineer |
 | Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000131841980-middle-data-engineer-azure-databricks) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000131839986-middle-data-engineer-azure-databricks) |
 
 ## About This Role
 

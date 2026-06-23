@@ -5,12 +5,12 @@
 | Company | [Cielo](https://scoutify.ai/companies/cielo?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Wauwatosa, Wisconsin, United States |
 | Category | Engineering Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cielo2/744000127401218-senior-director-client-data-solutions) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cielo2/744000132291028-senior-director-client-data-solutions) |
 
 ## About This Role
 
-This engineering manager position at Cielo was posted on 2026-05-20.
+This engineering manager position at Cielo was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

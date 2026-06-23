@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hyderabad-India/Lead-Data-Engineer_R-01345318) |
+| Location | 2 locations |
+| Category | Data Engineer |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bengaluru-India/Lead-Data-Engineer_R-01356910) |
 
 ## About This Role
 
-This software engineer position at Thermo Fisher Scientific was posted on 2026-03-09.
+This data engineer position at Thermo Fisher Scientific was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

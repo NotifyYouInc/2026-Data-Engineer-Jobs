@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TBC Bank](https://scoutify.ai/companies/tbcbank?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Georgia |
+| Location | Not specified |
 | Category | Data Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TBCBANK/744000131114199-) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TBCBANK/744000132160519-) |
 
 ## About This Role
 
-This data engineer position at TBC Bank was posted on 2026-06-09.
+This data engineer position at TBC Bank was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

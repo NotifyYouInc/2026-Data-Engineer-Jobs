@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Stuttgart, Baden-Wurttemberg, Germany |
+| Location | Fort Meade, Maryland, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Stuttgart-Baden-Wurttemberg/Data-Engineer_R0242011-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Data-Engineer_R0241771) |
 
 ## About This Role
 
-This data engineer position at Booz Allen was posted on 2026-06-11.
+This data engineer position at Booz Allen was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 
