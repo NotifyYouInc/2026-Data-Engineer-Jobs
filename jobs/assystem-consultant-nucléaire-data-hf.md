@@ -5,12 +5,12 @@
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Marseille, Provence-Alpes-Côte d'Azur, France |
 | Category | Data Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000129544449-consultant-nucleaire-data-hf) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000132454240-consultant-nucleaire-data-hf) |
 
 ## About This Role
 
-This data engineer position at Assystem was posted on 2026-06-01.
+This data engineer position at Assystem was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

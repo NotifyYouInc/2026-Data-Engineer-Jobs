@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Fort Meade, Maryland, United States |
+| Location | Aberdeen Proving Ground, Maryland, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Data-Engineer_R0241771) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Belcamp-MD/Data-Engineer_R0242278-1) |
 
 ## About This Role
 
-This data engineer position at Booz Allen was posted on 2026-06-12.
+This data engineer position at Booz Allen was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

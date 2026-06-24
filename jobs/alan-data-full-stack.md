@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alan](https://scoutify.ai/companies/alan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 5 locations |
-| Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/alan/5b2b016c-9e66-4a22-9f3d-3f9c0cebbcba) |
+| Category | Data Engineer |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/alan/118f5ad8-5db5-48ec-940e-1a880b148f25) |
 
 ## About This Role
 
-This software engineer position at Alan was posted on 2026-04-22.
+This data engineer position at Alan was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

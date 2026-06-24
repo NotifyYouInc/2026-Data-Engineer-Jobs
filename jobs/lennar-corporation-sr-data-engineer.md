@@ -5,12 +5,12 @@
 | Company | [Lennar Corporation](https://scoutify.ai/companies/lennar?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Irving-TX-Job-Posting-Location/Sr-Data-Engineer_R26_0000001501) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Sr-Data-Engineer_R26_0000002338) |
 
 ## About This Role
 
-This data engineer position at Lennar Corporation was posted on 2026-04-20.
+This data engineer position at Lennar Corporation was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

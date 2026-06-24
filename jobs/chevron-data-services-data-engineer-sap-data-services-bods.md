@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
-| Category | Software Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Buenos-Aires-Buenos-Aires-Argentina/Data-Services-Data-Engineer--SAP-Data-Services---BODS-_R000070355) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Engineer |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Bengaluru-Karnataka-India/Data-Services-Data-Engineer--SAP-Data-Services---BODS-_R000071935) |
 
 ## About This Role
 
-This software engineer position at Chevron was posted on 2026-04-01.
+This data engineer position at Chevron was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

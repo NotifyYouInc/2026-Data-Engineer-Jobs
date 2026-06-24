@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valtech](https://scoutify.ai/companies/valtech?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Ukraine |
+| Location | Kosovo |
 | Category | Data Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/valtech/jobs/4890415101) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/valtech/jobs/4899760101) |
 
 ## About This Role
 
-This data engineer position at Valtech was posted on 2026-06-09.
+This data engineer position at Valtech was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

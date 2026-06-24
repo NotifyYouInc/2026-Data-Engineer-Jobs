@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lyft](https://scoutify.ai/companies/lyft?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Data Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8565400002?gh_jid=8565400002) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8594129002?gh_jid=8594129002) |
 
 ## About This Role
 
-This data engineer position at Lyft was posted on 2026-05-27.
+This data engineer position at Lyft was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

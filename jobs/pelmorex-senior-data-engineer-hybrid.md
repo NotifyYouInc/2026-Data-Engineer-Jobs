@@ -1,16 +1,16 @@
-# Senior Data Engineer - Hybrid at Pelmorex
+# Senior Data Engineer, Hybrid at Pelmorex
 
 | Field | Details |
 |-------|---------|
 | Company | [Pelmorex](https://scoutify.ai/companies/pelmorex?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Oakville, Ontario, Canada |
 | Category | Data Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.lever.co/pelmorex/8afee5fd-a4c2-4f2c-a8de-3ca7d58dabae) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.lever.co/pelmorex/443d7a78-8da7-4be5-9e52-7ec9dbfede97) |
 
 ## About This Role
 
-This data engineer position at Pelmorex was posted on 2026-05-08.
+This data engineer position at Pelmorex was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

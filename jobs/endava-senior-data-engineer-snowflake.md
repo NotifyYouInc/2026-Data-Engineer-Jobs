@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | Braşov, Brașov County, Romania |
 | Category | Data Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000125823617-senior-data-engineer-snowflake) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000132350648-senior-data-engineer-snowflake) |
 
 ## About This Role
 
-This data engineer position at Endava was posted on 2026-05-11.
+This data engineer position at Endava was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

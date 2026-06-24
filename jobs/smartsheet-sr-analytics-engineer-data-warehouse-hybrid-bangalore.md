@@ -5,12 +5,12 @@
 | Company | [Smartsheet](https://scoutify.ai/companies/smartsheet?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/smartsheet/jobs/7960582) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/smartsheet/jobs/8009830) |
 
 ## About This Role
 
-This data engineer position at Smartsheet was posted on 2026-05-27.
+This data engineer position at Smartsheet was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

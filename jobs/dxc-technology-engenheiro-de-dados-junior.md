@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Araraquara, São Paulo, Brazil |
+| Location | São Bernardo do Campo, São Paulo, Brazil |
 | Category | Data Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/BRA---SP---ARARAQUARA/Engenheiro-de-Dados-Junior_51580050) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/BRA---SP---SAOBERNARDO-DOCAMPO/Engenheiro-de-Dados-Junior_51582918-1) |
 
 ## About This Role
 
-This data engineer position at DXC Technology was posted on 2026-05-07.
+This data engineer position at DXC Technology was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

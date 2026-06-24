@@ -5,12 +5,12 @@
 | Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Belfast, Northern Ireland, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000131614929-data-engineer) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000132365930-data-engineer) |
 
 ## About This Role
 
-This data engineer position at PA Consulting was posted on 2026-06-11.
+This data engineer position at PA Consulting was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

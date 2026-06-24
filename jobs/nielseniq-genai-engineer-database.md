@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000121106687-genai-engineer-database) |
+| Category | AI / ML Research |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000132562165-genai-engineer-database) |
 
 ## About This Role
 
-This ai / llm engineer position at NielsenIQ was posted on 2026-04-16.
+This ai / ml research position at NielsenIQ was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

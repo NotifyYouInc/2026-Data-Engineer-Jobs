@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Data Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000126506990-data-engineering-specialist-iii) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000132474785-data-engineering-specialist-iii) |
 
 ## About This Role
 
-This data engineer position at AECOM was posted on 2026-05-14.
+This data engineer position at AECOM was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 
