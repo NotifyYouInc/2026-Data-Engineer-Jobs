@@ -1,16 +1,16 @@
-# Junior Data engineer at Accenture
+# Junior Data Engineer at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Riga, Riga, Latvia |
+| Location | Singapore, Singapore |
 | Category | Data Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riga/Junior-Data-engineer_R00331493) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Singapore/Junior-Data-Engineer_14427556) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-05-20.
+This data engineer position at Accenture was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

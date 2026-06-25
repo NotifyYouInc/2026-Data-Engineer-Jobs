@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United States |
-| Category | Software Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TN-Remote/Senior-Data-Engineer_JR0145090-1) |
+| Location | Irving, Texas, United States |
+| Category | Data Engineer |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Senior-Data-Engineer_JR0149334) |
 
 ## About This Role
 
-This software engineer position at McKesson was posted on 2026-04-03.
+This data engineer position at McKesson was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

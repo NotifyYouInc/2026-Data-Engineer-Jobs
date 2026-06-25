@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2025-12-04 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200633452/database-engineer-rag-platform-developer) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200658131/database-engineer-rag-platform-developer) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2025-12-04.
+This software engineer position at Apple was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

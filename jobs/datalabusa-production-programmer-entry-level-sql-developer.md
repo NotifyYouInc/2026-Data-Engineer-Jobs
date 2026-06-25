@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Datalabusa](https://scoutify.ai/companies/datalabusa?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Germantown, Maryland, United States |
-| Category | Software Engineer |
-| Posted | 2025-08-01 |
-| Apply | [View on company site](https://jobs.lever.co/datalabusa/19b74a87-0d5f-4ca1-a218-5dae6004d0ee) |
+| Category | Data Engineer |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.lever.co/datalabusa/b36ba5ac-4247-4d90-ac90-6df3e9d46885) |
 
 ## About This Role
 
-This software engineer position at Datalabusa was posted on 2025-08-01.
+This data engineer position at Datalabusa was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

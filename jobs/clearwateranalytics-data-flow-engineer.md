@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clearwateranalytics](https://scoutify.ai/companies/clearwateranalytics?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Edinburgh, Scotland, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Mumbai/Data-Flow-Engineer_R11775) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Edinburgh/Data-Flow-Engineer_R4016-2) |
 
 ## About This Role
 
-This data engineer position at Clearwateranalytics was posted on 2026-05-20.
+This data engineer position at Clearwateranalytics was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

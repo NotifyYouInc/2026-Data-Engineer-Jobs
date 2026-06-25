@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CPI Security](https://scoutify.ai/companies/cpi-security?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Charlotte, North Carolina, United States |
-| Category | Data Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/cpisecurity/jobs/4680309006) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/cpisecurity/jobs/4690166006) |
 
 ## About This Role
 
-This data engineer position at CPI Security was posted on 2026-05-08.
+This technical & solutions architect position at CPI Security was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
-| Category | Privacy & Data Protection |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000125409489-data-governance-platform-technical-sme-hybrid-houston-or-dallas-tx) |
+| Category | Data Engineer |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000132676230-data-governance-platform-technical-sme-hybrid-houston-or-dallas-tx) |
 
 ## About This Role
 
-This privacy & data protection position at AECOM was posted on 2026-05-08.
+This data engineer position at AECOM was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

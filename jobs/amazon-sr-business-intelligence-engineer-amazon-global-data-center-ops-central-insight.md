@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10449629/sr-business-intelligence-engineer-amazon-global-data-center-ops-central-insight-and-analytics-team) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10425338/sr-business-intelligence-engineer-amazon-global-data-center-ops-central-insight-and-analytics-team) |
 
 ## About This Role
 
-This data engineer position at Amazon was posted on 2026-06-15.
+This data engineer position at Amazon was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

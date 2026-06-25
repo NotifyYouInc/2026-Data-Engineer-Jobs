@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Arlington, Texas, United States |
 | Category | Engineering Manager |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Data-Engineering_R-279528-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Arlington-Virginia/Manager--Data-Engineering_R-280546) |
 
 ## About This Role
 
-This engineering manager position at Mastercard was posted on 2026-06-10.
+This engineering manager position at Mastercard was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

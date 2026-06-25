@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bellevue, Washington, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10435765/business-intelligence-engineer-ii-amazon-freight) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10451992/business-intelligence-engineer-ii-amazon-freight) |
 
 ## About This Role
 
-This data engineer position at Amazon was posted on 2026-06-01.
+This data engineer position at Amazon was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

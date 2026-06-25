@@ -1,16 +1,16 @@
-# Senior Data Engineer at Apple
+# Senior Data Engineer  at Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Not specified |
 | Category | Data Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200635096/senior-data-engineer) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200663993/senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Apple was posted on 2026-02-16.
+This data engineer position at Apple was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

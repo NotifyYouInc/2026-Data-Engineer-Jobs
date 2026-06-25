@@ -5,12 +5,12 @@
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7572037?gh_jid=7572037) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7648985?gh_jid=7648985) |
 
 ## About This Role
 
-This data engineer position at Okta was posted on 2026-04-30.
+This data engineer position at Okta was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

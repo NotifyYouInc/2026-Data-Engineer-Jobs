@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HNTB](https://scoutify.ai/companies/hntb?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 4 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Kansas-City-MO/GIS-Analyst-II_R-29602) |
+| Location | 5 locations |
+| Category | Data Engineer |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Kansas-City-MO/GIS-Analyst-II_R-30531) |
 
 ## About This Role
 
-This software engineer position at HNTB was posted on 2026-03-24.
+This data engineer position at HNTB was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

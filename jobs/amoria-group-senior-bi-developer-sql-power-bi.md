@@ -5,12 +5,12 @@
 | Company | [Amoria Group](https://scoutify.ai/companies/amoria-group?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Manchester, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/amoriabond/jobs/4873949101) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/amoriabond/jobs/4901667101) |
 
 ## About This Role
 
-This data engineer position at Amoria Group was posted on 2026-05-22.
+This data engineer position at Amoria Group was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Betterup](https://scoutify.ai/companies/betterup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Austin, Texas, United States |
+| Location | 4 locations |
 | Category | Data Engineer |
-| Posted | 2026-01-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/betterup/e7d96b10-fcf1-4b49-a458-60261a9c0c32) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/betterup/d43f8d33-3427-451a-a002-611a7d239dee) |
 
 ## About This Role
 
-This data engineer position at Betterup was posted on 2026-01-20.
+This data engineer position at Betterup was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

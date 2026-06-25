@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Norco, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-CA-Norco/Data-Specialist_322954) |
+| Category | Data Engineer |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Norco-CA-US/Data-Specialist_327880) |
 
 ## About This Role
 
-This software engineer position at CACI was posted on 2026-03-10.
+This data engineer position at CACI was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

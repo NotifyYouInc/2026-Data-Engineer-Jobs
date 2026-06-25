@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | DevOps Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Data-Engineer_R-0000175071-1) |
+| Category | Data Engineer |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Data-Engineer_R-0000176319) |
 
 ## About This Role
 
-This devops engineer position at Royal Bank of Canada was posted on 2026-06-15.
+This data engineer position at Royal Bank of Canada was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10408921/business-intelligence-engineer-last-mile-analytics) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10409645/business-intelligence-engineer-last-mile-analytics) |
 
 ## About This Role
 
-This data engineer position at Amazon was posted on 2026-05-01.
+This data engineer position at Amazon was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 
