@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Hyderabad-Telangana-India/Senior-Stat-Programmer_R1546792) |
+| Category | Data Engineer |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Hyderabad-Telangana-India/Senior-Stat-Programmer_R1546784) |
 
 ## About This Role
 
-This software engineer position at IQVIA was posted on 2026-05-29.
+This data engineer position at IQVIA was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

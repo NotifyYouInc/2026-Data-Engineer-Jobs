@@ -5,12 +5,12 @@
 | Company | [Braintrust](https://scoutify.ai/companies/braintrust?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/braintrust/ac8b3b7d-22eb-4688-8042-bcf006eeafc5) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/braintrust/d1756ad8-be7c-4acd-961e-7e81e4f69024) |
 
 ## About This Role
 
-This data engineer position at Braintrust was posted on 2026-04-10.
+This data engineer position at Braintrust was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

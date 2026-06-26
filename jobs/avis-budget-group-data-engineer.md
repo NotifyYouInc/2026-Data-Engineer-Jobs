@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avis Budget Group](https://scoutify.ai/companies/avisbudget?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/IND---Bangalore---Embassy-Tech-Village/Data-Engineer_R0187939) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/IND---Bangalore---Embassy-Tech-Village/Data-Engineer_R0189233) |
 
 ## About This Role
 
-This data engineer position at Avis Budget Group was posted on 2026-04-14.
+This data engineer position at Avis Budget Group was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

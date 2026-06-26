@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Málaga, Andalusia, Spain |
 | Category | Data Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000131874929-mid-level-spark-developer) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000132839779-mid-level-spark-developer) |
 
 ## About This Role
 
-This data engineer position at Talan was posted on 2026-06-12.
+This data engineer position at Talan was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

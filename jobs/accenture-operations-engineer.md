@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | DevOps Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Operations-Engineer_ATCI-5587947-S2026521-1) |
+| Location | Gurugram, Haryana, India |
+| Category | Data Engineer |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Operations-Engineer_ATCI-5590508-S2026533-1) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-06-01.
+This data engineer position at Accenture was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

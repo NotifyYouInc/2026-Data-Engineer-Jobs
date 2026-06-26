@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rakuten](https://scoutify.ai/companies/rakuten?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Frontend Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://rakuten.wd1.myworkdayjobs.com/RakutenInc/job/Tokyo-Japan/Software-Engineer--Data-Management-Platform---Global-Ad-Technology-Supervisory-Department--GATD-_1032098-3) |
+| Category | Software Engineer |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://rakuten.wd1.myworkdayjobs.com/RakutenInc/job/Tokyo-Japan/Software-Engineer--Data-Management-Platform---Global-Ad-Technology-Supervisory-Department--GATD-_1034898-146) |
 
 ## About This Role
 
-This frontend engineer position at Rakuten was posted on 2026-02-27.
+This software engineer position at Rakuten was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

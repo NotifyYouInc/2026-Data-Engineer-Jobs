@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10381944/software-development-engineer-advanced-analytics-lld) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10453113/software-development-engineer-advanced-analytics-lld) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-04-02.
+This software engineer position at Amazon was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

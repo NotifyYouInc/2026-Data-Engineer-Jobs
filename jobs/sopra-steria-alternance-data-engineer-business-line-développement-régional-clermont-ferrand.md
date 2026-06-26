@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Aubière, Rhône-Alpes, France |
 | Category | Data Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000132352369-alternance-data-engineer-business-line-developpement-regional-clermont-ferrand) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000132793013-alternance-data-engineer-business-line-developpement-regional-clermont-ferrand) |
 
 ## About This Role
 
-This data engineer position at Sopra Steria was posted on 2026-06-16.
+This data engineer position at Sopra Steria was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

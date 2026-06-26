@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10450207/senior-business-intelligence-engineer-devices-demand-science-optimization) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10426557/senior-business-intelligence-engineer-devices-demand-science-optimization) |
 
 ## About This Role
 
-This data engineer position at Amazon was posted on 2026-06-16.
+This data engineer position at Amazon was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

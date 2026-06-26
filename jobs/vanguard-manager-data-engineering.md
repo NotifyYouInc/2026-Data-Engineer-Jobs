@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Hyderabad, Telangana, India |
 | Category | Engineering Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Manager--Data-Engineering_178743-1) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Hyderabad-India/Manager--Data-Engineering_178339) |
 
 ## About This Role
 
-This engineering manager position at Vanguard was posted on 2026-06-08.
+This engineering manager position at Vanguard was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

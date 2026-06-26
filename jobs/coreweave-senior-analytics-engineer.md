@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CoreWeave](https://scoutify.ai/companies/coreweave?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 4 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://coreweave.com/careers/job?4651525006&board=coreweave&gh_jid=4651525006) |
+| Location | 2 locations |
+| Category | Data Engineer |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://coreweave.com/careers/job?4690524006&board=coreweave&gh_jid=4690524006) |
 
 ## About This Role
 
-This software engineer position at CoreWeave was posted on 2026-02-05.
+This data engineer position at CoreWeave was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

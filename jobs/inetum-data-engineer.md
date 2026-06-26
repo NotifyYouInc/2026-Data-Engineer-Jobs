@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Data Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000121156274-data-engineer) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000132872789-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Inetum was posted on 2026-04-16.
+This data engineer position at Inetum was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

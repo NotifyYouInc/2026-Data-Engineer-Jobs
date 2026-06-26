@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Canada |
+| Location | Colombo, Western Province, Sri Lanka |
 | Category | Data Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Canada-Inc/Data-Engineer_R241787) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-LABS-----Sri-Lanka/Data-Engineer_R254864) |
 
 ## About This Role
 
-This data engineer position at Sysco was posted on 2026-03-13.
+This data engineer position at Sysco was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

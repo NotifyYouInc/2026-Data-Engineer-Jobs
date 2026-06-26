@@ -5,12 +5,12 @@
 | Company | [SmithRx](https://scoutify.ai/companies/smithrx?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/smithrx/jobs/8353976002) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/smithrx/jobs/8599748002) |
 
 ## About This Role
 
-This data engineer position at SmithRx was posted on 2026-04-02.
+This data engineer position at SmithRx was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

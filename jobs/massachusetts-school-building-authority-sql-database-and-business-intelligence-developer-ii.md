@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Massachusetts School Building Authority](https://scoutify.ai/companies/massachusetts-school-building-authority?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Data Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.lever.co/massschoolbuildings/a69109c1-ddd4-4947-bc5f-1c57a1987cab) |
+| Category | Database Administration |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.lever.co/massschoolbuildings/f52fb20f-972a-4f5f-8996-114415c218f5) |
 
 ## About This Role
 
-This data engineer position at Massachusetts School Building Authority was posted on 2026-04-13.
+This database administration position at Massachusetts School Building Authority was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

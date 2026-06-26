@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Senior-Data-Engineer---Product-Delivery_WD30272313-1) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Cerebrum/Senior-Data-Engineer---Product-Delivery_WD30272530) |
 
 ## About This Role
 
-This data engineer position at Johnson Controls was posted on 2026-06-17.
+This data engineer position at Johnson Controls was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Canopy](https://scoutify.ai/companies/canopy?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | South Jordan, Utah, United States |
-| Category | Implementation / Professional Services |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/canopytax/jobs/4258070009) |
+| Category | Data Engineer |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/canopytax/jobs/4290229009) |
 
 ## About This Role
 
-This implementation / professional services position at Canopy was posted on 2026-05-22.
+This data engineer position at Canopy was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

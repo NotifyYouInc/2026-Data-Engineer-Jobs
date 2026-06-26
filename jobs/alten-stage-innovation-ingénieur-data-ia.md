@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Sèvres, Île-de-France, France |
 | Category | AI / ML Research |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000130252933-stage-innovation-ingenieur-data-ia) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000132837128-stage-innovation-ingenieur-data-ia) |
 
 ## About This Role
 
-This ai / ml research position at ALTEN was posted on 2026-06-04.
+This ai / ml research position at ALTEN was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

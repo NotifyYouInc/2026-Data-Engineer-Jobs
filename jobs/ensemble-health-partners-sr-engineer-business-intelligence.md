@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ensemble Health Partners](https://scoutify.ai/companies/ensemble-health-partners?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
-| Category | Software Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Sr-Engineer--Business-Intelligence_R043714) |
+| Category | Data Engineer |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Sr-Engineer--Business-Intelligence_R041370) |
 
 ## About This Role
 
-This software engineer position at Ensemble Health Partners was posted on 2026-04-03.
+This data engineer position at Ensemble Health Partners was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

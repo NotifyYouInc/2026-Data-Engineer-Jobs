@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 3 locations |
+| Location | Columbus, Ohio, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/ISELIN-NJ/Lead-Data-Engineer_R-550165) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/COLUMBUS-OH/Lead-Data-Engineer_R-552081) |
 
 ## About This Role
 
-This data engineer position at Wells Fargo was posted on 2026-06-10.
+This data engineer position at Wells Fargo was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

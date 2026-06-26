@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Florida, US |
-| Category | Software Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Lead-Kafka-Engineer_R-0009798) |
+| Category | Data Engineer |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Lead-Kafka-Engineer_R-0011668) |
 
 ## About This Role
 
-This software engineer position at Raymond James Financial was posted on 2026-03-09.
+This data engineer position at Raymond James Financial was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

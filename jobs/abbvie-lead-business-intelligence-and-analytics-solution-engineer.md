@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Illinois, US |
 | Category | Data Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012921457-lead-business-intelligence-and-analytics-solution-engineer) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013686766-lead-business-intelligence-and-analytics-solution-engineer) |
 
 ## About This Role
 
-This data engineer position at AbbVie was posted on 2026-05-01.
+This data engineer position at AbbVie was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

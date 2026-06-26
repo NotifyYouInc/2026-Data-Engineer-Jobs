@@ -5,12 +5,12 @@
 | Company | [Medfar](https://scoutify.ai/companies/medfar?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Data Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/medfar/744000121861247-senior-data-transfer-developer) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/medfar/744000132868819-senior-data-transfer-developer) |
 
 ## About This Role
 
-This data engineer position at Medfar was posted on 2026-04-20.
+This data engineer position at Medfar was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

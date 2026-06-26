@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SQLI](https://scoutify.ai/companies/sqli?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Rabat, Rabat-Salé-Kénitra, Morocco |
-| Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SQLI1/744000111052725-ingenieur-data-snowflake-hf) |
+| Category | Data Engineer |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SQLI1/744000132821629-ingenieur-data-snowflake-hf) |
 
 ## About This Role
 
-This software engineer position at SQLI was posted on 2026-02-24.
+This data engineer position at SQLI was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 
