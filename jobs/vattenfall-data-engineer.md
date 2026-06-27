@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vattenfall](https://scoutify.ai/companies/vattenfall?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Katowice, Silesia, Poland |
+| Location | Hamburg, Hamburg, Germany |
 | Category | Data Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000131644474-data-engineer) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000133074894-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Vattenfall was posted on 2026-06-11.
+This data engineer position at Vattenfall was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

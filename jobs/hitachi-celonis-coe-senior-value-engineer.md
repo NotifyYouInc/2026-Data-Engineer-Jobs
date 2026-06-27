@@ -1,16 +1,16 @@
-# Celonis CoE Senior Value Engineer at Hitachi
+# Celonis Coe - Senior Value Engineer at Hitachi
 
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Data Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Bengaluru-Karnataka-India/Celonis-CoE-Senior-Value-Engineer_R0126149) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Krakow-Lesser-Poland-Poland/Celonis-Coe---Senior-Value-Engineer_R0130652-1) |
 
 ## About This Role
 
-This data engineer position at Hitachi was posted on 2026-04-16.
+This data engineer position at Hitachi was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

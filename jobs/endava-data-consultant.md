@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Colorado, US |
-| Category | Technology / IT Consulting |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000122042007-data-consultant) |
+| Location | Bogotá, Bogota D.C., Colombia |
+| Category | Data Engineer |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000133108571-data-consultant) |
 
 ## About This Role
 
-This technology / it consulting position at Endava was posted on 2026-04-21.
+This data engineer position at Endava was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

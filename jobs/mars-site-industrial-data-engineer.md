@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mars](https://scoutify.ai/companies/mars?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Fremont, California, United States |
+| Location | North Sioux City, South Dakota, United States |
 | Category | Data Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://mars.wd3.myworkdayjobs.com/external/job/USA-Nebraska-Fremont/Site-Industrial-Data-Engineer_R153838-1) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://mars.wd3.myworkdayjobs.com/external/job/USA-South-Dakota-North-Sioux-City/Site-Industrial-Data-Engineer_R158037) |
 
 ## About This Role
 
-This data engineer position at Mars was posted on 2026-05-01.
+This data engineer position at Mars was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Senior-Engineer-Data-Foundry---Compliance-Ops_R0058771) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Senior-Engineer-Data-Foundry---Compliance-Ops_R0059558) |
 
 ## About This Role
 
-This data engineer position at Empower was posted on 2026-05-20.
+This data engineer position at Empower was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

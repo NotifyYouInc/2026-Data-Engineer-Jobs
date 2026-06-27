@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 3 locations |
+| Location | Irving, Texas, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Data-Engineer--Cat-Digital-Data---AI_R0000363078) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Data-Engineer--Cat-Digital-Data---AI_R0000377847) |
 
 ## About This Role
 
-This data engineer position at Caterpillar was posted on 2026-04-15.
+This data engineer position at Caterpillar was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

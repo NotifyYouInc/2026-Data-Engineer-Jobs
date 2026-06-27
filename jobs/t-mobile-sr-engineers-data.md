@@ -6,7 +6,7 @@
 | Location | Frisco, Texas, United States |
 | Category | Data Engineer |
 | Posted | 2026-06-18 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Sr-Engineers--Data_REQ345444) |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Sr-Engineers--Data_REQ355880) |
 
 ## About This Role
 

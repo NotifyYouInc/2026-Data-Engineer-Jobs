@@ -5,12 +5,12 @@
 | Company | [KPMG Nederland](https://scoutify.ai/companies/kpmgnederland?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Amstelveen, North Holland, The Netherlands |
 | Category | Technology / IT Consulting |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPMGNederland/744000127146101-manager-data-architect) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPMGNederland/744000133012279-manager-data-architect) |
 
 ## About This Role
 
-This technology / it consulting position at KPMG Nederland was posted on 2026-05-19.
+This technology / it consulting position at KPMG Nederland was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

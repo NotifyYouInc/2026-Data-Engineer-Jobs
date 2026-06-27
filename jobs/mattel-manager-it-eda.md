@@ -6,7 +6,7 @@
 | Location | Hyderabad, Telangana, India |
 | Category | Engineering Manager |
 | Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000132773589-manager-it-eda) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000132845640-manager-it-eda) |
 
 ## About This Role
 
