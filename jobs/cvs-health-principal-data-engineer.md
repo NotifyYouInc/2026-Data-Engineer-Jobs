@@ -1,16 +1,16 @@
-# Manager, Data Engineering at CVS Health
+# Principal Data Engineer at CVS Health
 
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Woonsocket, Rhode Island, United States |
-| Category | Engineering Manager |
+| Location | Hartford, Connecticut, United States |
+| Category | Data Engineer |
 | Posted | 2026-06-20 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Manager--Data-Engineering_R0942451) |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Principal-Data-Engineer_R0942299) |
 
 ## About This Role
 
-This engineering manager position at CVS Health was posted on 2026-06-20.
+This data engineer position at CVS Health was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

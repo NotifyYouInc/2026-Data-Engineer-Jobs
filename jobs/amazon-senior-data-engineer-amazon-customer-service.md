@@ -1,16 +1,16 @@
-# Data Center Engineering Operations , DCEO at Amazon
+# Senior Data Engineer, Amazon Customer Service at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | DevOps Engineer |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428881/data-center-engineering-operations-dceo) |
+| Location | Austin, Texas, United States |
+| Category | Data Engineer |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10441355/senior-data-engineer-amazon-customer-service) |
 
 ## About This Role
 
-This devops engineer position at Amazon was posted on 2026-05-23.
+This data engineer position at Amazon was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Staff Data Engineer at CVS Health
+# Lead Azure Data Engineer at Weekdayworks
 
 | Field | Details |
 |-------|---------|
-| Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Wellesley, Massachusetts, United States |
+| Company | [Weekdayworks](https://scoutify.ai/companies/weekdayworks?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | 4 locations |
 | Category | Data Engineer |
 | Posted | 2026-06-20 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MA---Wellesley/Staff-Data-Engineer_R0942520) |
+| Apply | [View on company site](https://jobs.lever.co/weekdayworks/7ad87872-7873-47b7-a5e5-2f68e18ca903) |
 
 ## About This Role
 
-This data engineer position at CVS Health was posted on 2026-06-20.
+This data engineer position at Weekdayworks was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

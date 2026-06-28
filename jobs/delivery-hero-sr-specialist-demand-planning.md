@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | Data Engineer |
-| Posted | 2026-06-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000132066280-sr-specialist-demand-planning) |
+| Posted | 2026-06-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000133222409-sr-specialist-demand-planning) |
 
 ## About This Role
 
-This data engineer position at Delivery Hero was posted on 2026-06-14.
+This data engineer position at Delivery Hero was posted on 2026-06-21.
 
 ## Get Real-Time Alerts
 

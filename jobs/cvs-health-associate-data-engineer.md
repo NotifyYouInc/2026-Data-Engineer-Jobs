@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Richardson, Texas, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Richardson/Associate-Data-Engineer_R0861003) |
+| Location | Woonsocket, Rhode Island, United States |
+| Category | Data Engineer |
+| Posted | 2026-06-20 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Associate-Data-Engineer_R0942229) |
 
 ## About This Role
 
-This software engineer position at CVS Health was posted on 2026-03-30.
+This data engineer position at CVS Health was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

@@ -1,12 +1,12 @@
-# Manager, Data Engineering at CVS Health
+# Sr. Manager, Data Engineering at CVS Health
 
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Woonsocket, Rhode Island, United States |
+| Location | Irving, Texas, United States |
 | Category | Engineering Manager |
 | Posted | 2026-06-20 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Manager--Data-Engineering_R0942451) |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Sr-Manager--Data-Engineering_R0942297) |
 
 ## About This Role
 

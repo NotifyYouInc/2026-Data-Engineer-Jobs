@@ -1,16 +1,16 @@
-# Associate GIS Consultant at RESPEC
+# Anaplan BIE I, GFS at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [RESPEC](https://scoutify.ai/companies/respec?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Albuquerque, New Mexico, United States |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RESPECInc/744000133082780-associate-gis-consultant) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10440700/anaplan-bie-i-gfs) |
 
 ## About This Role
 
-This data engineer position at RESPEC was posted on 2026-06-19.
+This data engineer position at Amazon was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

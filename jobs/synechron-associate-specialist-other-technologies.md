@@ -1,16 +1,16 @@
-# Data Engineer-Data Integration at IBM
+# Associate Specialist Other Technologies at Synechron
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | 2 locations |
 | Category | Data Engineer |
 | Posted | 2026-06-21 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=102256) |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Gurugram/Associate-Specialist-Other-Technologies_JR1041055-1) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-06-21.
+This data engineer position at Synechron was posted on 2026-06-21.
 
 ## Get Real-Time Alerts
 

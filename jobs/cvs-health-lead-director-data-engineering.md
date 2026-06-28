@@ -1,16 +1,16 @@
-# Lead Director - Data Engineering at CVS Health
+# Lead Director, Data Engineering at CVS Health
 
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | District of Columbia, US |
+| Location | Irving, Texas, United States |
 | Category | Engineering Manager |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Massachusetts/Lead-Director---Data-Engineering_R0924515) |
+| Posted | 2026-06-20 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Lead-Director--Data-Engineering_R0942301) |
 
 ## About This Role
 
-This engineering manager position at CVS Health was posted on 2026-05-27.
+This engineering manager position at CVS Health was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 
