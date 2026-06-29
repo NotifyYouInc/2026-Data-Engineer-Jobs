@@ -1,16 +1,16 @@
-# Group Manager - Data Engineering at WNS
+# Sr Analytics Engineer at SEI Investments
 
 | Field | Details |
 |-------|---------|
-| Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [SEI Investments](https://scoutify.ai/companies/sei-investments?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000133280319-group-manager-data-engineering) |
+| Apply | [View on company site](https://seic.wd1.myworkdayjobs.com/sei_global_services/job/IND-Hyderabad-GCC/Sr-Analytics-Engineer_R0036670) |
 
 ## About This Role
 
-This data engineer position at WNS was posted on 2026-06-22.
+This data engineer position at SEI Investments was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

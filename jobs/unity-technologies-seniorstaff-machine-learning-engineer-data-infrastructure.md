@@ -1,16 +1,16 @@
-# Group Manager - Data Engineering at WNS
+# Senior/Staff Machine Learning Engineer, Data Infrastructure at Unity Technologies
 
 | Field | Details |
 |-------|---------|
-| Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Unity Technologies](https://scoutify.ai/companies/unity-technologies?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Data Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000133280319-group-manager-data-engineering) |
+| Apply | [View on company site](https://unity.com/careers/positions/8020196?gh_jid=8020196) |
 
 ## About This Role
 
-This data engineer position at WNS was posted on 2026-06-22.
+This data engineer position at Unity Technologies was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

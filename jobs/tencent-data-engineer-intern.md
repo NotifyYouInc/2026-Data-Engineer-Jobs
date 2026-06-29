@@ -1,16 +1,16 @@
-# Group Manager - Data Engineering at WNS
+# Data Engineer Intern at Tencent
 
 | Field | Details |
 |-------|---------|
-| Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Data Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000133280319-group-manager-data-engineering) |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/Data-Engineer-Intern_R107681-1) |
 
 ## About This Role
 
-This data engineer position at WNS was posted on 2026-06-22.
+This data engineer position at Tencent was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

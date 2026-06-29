@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kuala-Lumpur-Exchange-106/AWS-Data-Platform-Engineer_R00331901) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kuala-Lumpur-Exchange-106/AWS-Data-Platform-Engineer_R00337584) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-06-04.
+This data engineer position at Accenture was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

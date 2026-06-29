@@ -1,16 +1,16 @@
-# Group Manager - Data Engineering at WNS
+# Bigdata Developer with PySpark at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000133280319-group-manager-data-engineering) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Bigdata-Developer-with-PySpark_26967969) |
 
 ## About This Role
 
-This data engineer position at WNS was posted on 2026-06-22.
+This data engineer position at Citigroup was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

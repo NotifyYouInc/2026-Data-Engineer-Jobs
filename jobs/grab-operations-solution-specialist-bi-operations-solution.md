@@ -1,16 +1,16 @@
-# Group Manager - Data Engineering at WNS
+# Operations Solution Specialist,  BI & Operations Solution at Grab
 
 | Field | Details |
 |-------|---------|
-| Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Data Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000133280319-group-manager-data-engineering) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000133250721-operations-solution-specialist-bi-operations-solution) |
 
 ## About This Role
 
-This data engineer position at WNS was posted on 2026-06-22.
+This data engineer position at Grab was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

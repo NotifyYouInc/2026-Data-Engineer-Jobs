@@ -1,16 +1,16 @@
-# Group Manager - Data Engineering at WNS
+# Senior Data Engineer, Strategic Partnerships & IMPACT360 at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Seattle, Washington, United States |
 | Category | Data Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000133280319-group-manager-data-engineering) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10454511/senior-data-engineer-strategic-partnerships-impact360) |
 
 ## About This Role
 
-This data engineer position at WNS was posted on 2026-06-22.
+This data engineer position at Amazon was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

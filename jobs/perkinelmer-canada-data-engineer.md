@@ -1,16 +1,16 @@
-# Group Manager - Data Engineering at WNS
+# Data Engineer at PerkinElmer Canada
 
 | Field | Details |
 |-------|---------|
-| Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [PerkinElmer Canada](https://scoutify.ai/companies/perkinelmer-canada?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Malaysia |
 | Category | Data Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000133280319-group-manager-data-engineering) |
+| Apply | [View on company site](https://newperkinelmer.wd1.myworkdayjobs.com/external/job/Johor/Data-Engineer_REQ-057460) |
 
 ## About This Role
 
-This data engineer position at WNS was posted on 2026-06-22.
+This data engineer position at PerkinElmer Canada was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

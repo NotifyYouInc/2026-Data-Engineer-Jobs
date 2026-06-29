@@ -1,16 +1,16 @@
-# Data Center Build Engineer at Oracle
+# Senior Data Modeler at VSP Vision
 
 | Field | Details |
 |-------|---------|
-| Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Salt Lake City, Utah, United States |
+| Company | [VSP Vision](https://scoutify.ai/companies/vsp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#323193) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Senior-Data-Modeler_R-9622) |
 
 ## About This Role
 
-This data engineer position at Oracle was posted on 2026-06-15.
+This data engineer position at VSP Vision was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

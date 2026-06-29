@@ -1,16 +1,16 @@
-# Data Modeller, VP at NatWest Group
+# Technology Lead _ETL & Database Developer (Informatica / Greenplum / Cloud) at Broadridge
 
 | Field | Details |
 |-------|---------|
-| Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Broadridge](https://scoutify.ai/companies/broadridge?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Data-Modeller--VP_R-00275659-1) |
+| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Bengaluru-EPIP-Industrial-Area/Technology-Lead--ETL---Database-Developer--Informatica---Greenplum---Cloud-_JR1080724) |
 
 ## About This Role
 
-This data engineer position at NatWest Group was posted on 2026-06-22.
+This data engineer position at Broadridge was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

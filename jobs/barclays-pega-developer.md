@@ -1,16 +1,16 @@
-# Software Engineer - DEX Automation & Engineering at Gartner
+# Pega Developer at Barclays
 
 | Field | Details |
 |-------|---------|
-| Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Riyadh/Software-Engineer--DEX_111737) |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Pega-Developer_JR-0000112284) |
 
 ## About This Role
 
-This software engineer position at Gartner was posted on 2026-06-22.
+This software engineer position at Barclays was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

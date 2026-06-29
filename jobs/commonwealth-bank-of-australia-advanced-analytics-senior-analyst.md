@@ -1,4 +1,4 @@
-# Staff Data Engineer at Commonwealth Bank of Australia
+# Advanced Analytics Senior Analyst at Commonwealth Bank of Australia
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Sydney, New South Wales, Australia |
 | Category | Data Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Staff-Data-Engineer_REQ260119) |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Advanced-Analytics-Senior-Analyst_REQ258767-1) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# Group Manager - Data Engineering at WNS
+# Manufacturing Data Analytics Engineer at Aumovio
 
 | Field | Details |
 |-------|---------|
-| Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Calamba, Calabarzon, Philippines |
 | Category | Data Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000133280319-group-manager-data-engineering) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000133248849-manufacturing-data-analytics-engineer) |
 
 ## About This Role
 
-This data engineer position at WNS was posted on 2026-06-22.
+This data engineer position at Aumovio was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 
