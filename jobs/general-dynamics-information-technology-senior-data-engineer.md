@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | Falls Church, Virginia, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Arlington/Senior-Data-Engineer_RQ222427-2) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Senior-Data-Engineer_RQ222869-1) |
 
 ## About This Role
 
-This data engineer position at General Dynamics Information Technology was posted on 2026-06-16.
+This data engineer position at General Dynamics Information Technology was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

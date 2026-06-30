@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kpler](https://scoutify.ai/companies/kpler?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United Kingdom |
+| Location | Athens, Attica, Greece |
 | Category | Data Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.lever.co/kpler/4c5e0aa7-8555-4817-921c-e1c260d4b6f1) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.lever.co/kpler/02d6b081-e8d5-4e34-bb97-7cb2bece23f2) |
 
 ## About This Role
 
-This data engineer position at Kpler was posted on 2026-06-15.
+This data engineer position at Kpler was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

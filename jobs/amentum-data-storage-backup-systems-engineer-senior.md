@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Warrenton, Virginia, United States |
-| Category | Data Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Warrenton/Data-Storage---Backup-Systems-Engineer---Senior_R0159853) |
+| Category | IT & Systems Administration |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Warrenton/Data-Storage---Backup-Systems-Engineer---Senior_R0163874) |
 
 ## About This Role
 
-This data engineer position at Amentum was posted on 2026-05-01.
+This it & systems administration position at Amentum was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

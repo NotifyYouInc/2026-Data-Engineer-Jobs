@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Charlotte, North Carolina, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Assistant-Vice-President--Data-Engineer_26009670) |
+| Category | Data Engineer |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Assistant-Vice-President--Data-Engineer_26021243) |
 
 ## About This Role
 
-This software engineer position at Bank of America was posted on 2026-03-16.
+This data engineer position at Bank of America was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

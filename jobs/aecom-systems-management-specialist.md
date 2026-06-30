@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Fortitude Valley, Queensland, Australia |
-| Category | IT & Systems Administration |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000130361379-systems-management-specialist) |
+| Category | Data Engineer |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000133499979-systems-management-specialist) |
 
 ## About This Role
 
-This it & systems administration position at AECOM was posted on 2026-06-05.
+This data engineer position at AECOM was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

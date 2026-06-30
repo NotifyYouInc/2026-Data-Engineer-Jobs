@@ -5,12 +5,12 @@
 | Company | [Applaudo Studios](https://scoutify.ai/companies/applaudo-studios?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | San Salvador, San Salvador Department, El Salvador |
 | Category | Data Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000132654177-data-engineer) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000133412083-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Applaudo Studios was posted on 2026-06-17.
+This data engineer position at Applaudo Studios was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

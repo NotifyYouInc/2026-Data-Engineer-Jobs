@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Cardiff, Wales, United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | Data Engineer |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000133064939-platform-specialist) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000133067012-platform-specialist) |
 
 ## About This Role
 

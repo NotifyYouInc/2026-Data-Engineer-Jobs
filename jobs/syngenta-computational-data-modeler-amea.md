@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
 | Category | Data Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000130691725-computational-data-modeler-amea) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000133510339-computational-data-modeler-amea) |
 
 ## About This Role
 
-This data engineer position at Syngenta was posted on 2026-06-08.
+This data engineer position at Syngenta was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

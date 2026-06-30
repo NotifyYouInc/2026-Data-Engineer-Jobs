@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ōura](https://scoutify.ai/companies/ura?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Helsinki, Uusimaa, Finland |
+| Location | San Francisco, California, United States |
 | Category | Data Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/oura/jobs/4246508009) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/oura/jobs/4208313009) |
 
 ## About This Role
 
-This data engineer position at Ōura was posted on 2026-05-19.
+This data engineer position at Ōura was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Singapore, Singapore |
 | Category | Engineering Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000132668385-analytics-engineering-manager-ai-agentic-analytics) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000133507759-analytics-engineering-manager-ai-agentic-analytics) |
 
 ## About This Role
 
-This engineering manager position at Delivery Hero was posted on 2026-06-17.
+This engineering manager position at Delivery Hero was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

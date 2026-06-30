@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Rabat, Rabat-Salé-Kénitra, Morocco |
-| Category | Technology / IT Consulting |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000132857466-consultant-data-migration) |
+| Category | Data Engineer |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000133297419-consultant-data-migration) |
 
 ## About This Role
 
-This technology / it consulting position at ALTEN was posted on 2026-06-18.
+This data engineer position at ALTEN was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

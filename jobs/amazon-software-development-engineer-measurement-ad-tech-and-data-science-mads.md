@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Boulder, Colorado, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10377776/software-development-engineer-measurement-ad-tech-and-data-science-mads) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10456168/software-development-engineer-measurement-ad-tech-and-data-science-mads) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-03-27.
+This software engineer position at Amazon was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

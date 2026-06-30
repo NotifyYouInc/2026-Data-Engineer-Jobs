@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Richmond, Virginia, United States |
-| Category | Technical Writer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/VA-RICHMOND-2015-STAPLES-MILL-RD/Business-Information-Developer-Consultant_JR184981) |
+| Location | Atlanta, Georgia, United States |
+| Category | Data Engineer |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Business-Information-Developer-Consultant_JR196470) |
 
 ## About This Role
 
-This technical writer position at Elevance Health was posted on 2026-04-10.
+This data engineer position at Elevance Health was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

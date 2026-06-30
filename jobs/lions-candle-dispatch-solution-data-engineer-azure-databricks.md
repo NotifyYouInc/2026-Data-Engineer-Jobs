@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Łódź, Łódź Voivodeship, Poland |
 | Category | Data Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000131841904-data-engineer-azure-databricks) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000133343429-data-engineer-azure-databricks) |
 
 ## About This Role
 
-This data engineer position at Lions Candle-Dispatch Solution was posted on 2026-06-12.
+This data engineer position at Lions Candle-Dispatch Solution was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

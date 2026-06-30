@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Data Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000132776429-data-engineer-l-tech-foundations-2026-tech-grads) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000133342510-data-engineer-l-tech-foundations-2026-tech-grads) |
 
 ## About This Role
 
-This data engineer position at Delivery Hero was posted on 2026-06-18.
+This data engineer position at Delivery Hero was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 
