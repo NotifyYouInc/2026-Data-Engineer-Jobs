@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United Kingdom |
-| Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-United-Kingdom/Data-Specialist_R263698) |
+| Category | Data Engineer |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-United-Kingdom/Data-Specialist_R2610443) |
 
 ## About This Role
 
-This software engineer position at Cencora was posted on 2026-03-03.
+This data engineer position at Cencora was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Greensboro, North Carolina, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000117666109-senior-data-engineer) |
+| Location | Durham, North Carolina, United States |
+| Category | Data Engineer |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000133622842-senior-data-engineer) |
 
 ## About This Role
 
-This software engineer position at Syngenta was posted on 2026-03-30.
+This data engineer position at Syngenta was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

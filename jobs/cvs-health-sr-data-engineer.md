@@ -5,12 +5,12 @@
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Woonsocket, Rhode Island, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-20 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Sr-Data-Engineer_R0942395) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Sr-Data-Engineer_R0948756) |
 
 ## About This Role
 
-This data engineer position at CVS Health was posted on 2026-06-20.
+This data engineer position at CVS Health was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

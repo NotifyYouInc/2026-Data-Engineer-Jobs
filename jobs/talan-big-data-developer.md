@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Málaga, Andalusia, Spain |
+| Location | Spain |
 | Category | Data Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000133329119-big-data-developer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000133362449-big-data-developer) |
 
 ## About This Role
 

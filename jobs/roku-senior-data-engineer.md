@@ -1,16 +1,16 @@
-# Senior Data Engineer  at Roku
+# Senior Data Engineer at Roku
 
 | Field | Details |
 |-------|---------|
 | Company | [Roku](https://scoutify.ai/companies/roku?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Data Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://www.weareroku.com/jobs/7942519?gh_jid=7942519) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://www.weareroku.com/jobs/8002600?gh_jid=8002600) |
 
 ## About This Role
 
-This data engineer position at Roku was posted on 2026-05-19.
+This software engineer position at Roku was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

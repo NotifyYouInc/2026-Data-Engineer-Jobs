@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Adyen](https://scoutify.ai/companies/adyen?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | San Francisco, California, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7791168) |
+| Category | Data Engineer |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7791165) |
 
 ## About This Role
 
-This devops engineer position at Adyen was posted on 2026-04-10.
+This data engineer position at Adyen was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

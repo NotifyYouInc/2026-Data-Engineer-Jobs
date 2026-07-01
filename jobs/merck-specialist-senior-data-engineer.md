@@ -1,16 +1,16 @@
-# Specialist, Senior Data Engineer at Merck
+# Specialist Senior Data Engineer, at Merck
 
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City/Specialist--Senior-Data-Engineer_R403495-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City/Specialist-Senior-Data-Engineer-_R403474) |
 
 ## About This Role
 
-This data engineer position at Merck was posted on 2026-06-22.
+This data engineer position at Merck was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

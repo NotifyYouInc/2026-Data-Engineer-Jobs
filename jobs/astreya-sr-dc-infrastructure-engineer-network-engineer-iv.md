@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | San Jose, California, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/San-Jose-CA/Sr-DC-Infrastructure-Engineer--Network-Engineer-IV-_R0015848) |
+| Category | Data Engineer |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/San-Jose-CA/Sr-DC-Infrastructure-Engineer--Network-Engineer-IV-_R0016025-2) |
 
 ## About This Role
 
-This devops engineer position at Astreya was posted on 2026-06-04.
+This data engineer position at Astreya was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trustonic](https://scoutify.ai/companies/trustonic?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hanoi, Hanoi, Vietnam |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Data Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/trustonic/744000133312704-senior-data-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/trustonic/744000133320168-senior-data-engineer) |
 
 ## About This Role
 

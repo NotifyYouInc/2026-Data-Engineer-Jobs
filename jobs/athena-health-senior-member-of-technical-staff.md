@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Athena Health](https://scoutify.ai/companies/athenahealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
-| Category | DevOps Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Bangalore---Whitefield-India/Senior-Member-of-Technical-Staff_R14484) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Engineer |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Bangalore---Whitefield-India/Senior-Member-of-Technical-Staff_R15236) |
 
 ## About This Role
 
-This devops engineer position at Athena Health was posted on 2026-02-25.
+This data engineer position at Athena Health was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

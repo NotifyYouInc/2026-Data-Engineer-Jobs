@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Data Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10393606/big-data-engineer-ii-profit-intelligence) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10456880/big-data-engineer-ii-profit-intelligence) |
 
 ## About This Role
 
-This data engineer position at Amazon was posted on 2026-04-16.
+This data engineer position at Amazon was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

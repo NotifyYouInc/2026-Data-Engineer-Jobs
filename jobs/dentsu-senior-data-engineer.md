@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | 3 locations |
 | Category | Data Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Mumbai---Thane-Ashar-IT-Park/Senior-Data-Engineer_R1123512-3) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Bengaluru---Manyata-N1-Block/Senior-Data-Engineer_R1125655-7) |
 
 ## About This Role
 
-This data engineer position at Dentsu was posted on 2026-05-28.
+This data engineer position at Dentsu was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

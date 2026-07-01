@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Katowice, Silesia, Poland |
+| Location | Constanţa, Constanța County, Romania |
 | Category | Data Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000133331549-middle-data-engineer-azure-databricks) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000133343454-middle-data-engineer-azure-databricks) |
 
 ## About This Role
 

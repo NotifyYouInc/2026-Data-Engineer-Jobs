@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Faire](https://scoutify.ai/companies/faire?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | San Francisco, California, United States |
 | Category | Data Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://boards.greenhouse.io/faire/jobs/8569249002?gh_jid=8569249002) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://boards.greenhouse.io/faire/jobs/8604742002?gh_jid=8604742002) |
 
 ## About This Role
 
-This data engineer position at Faire was posted on 2026-05-28.
+This data engineer position at Faire was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

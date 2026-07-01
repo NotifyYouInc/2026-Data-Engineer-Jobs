@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Manulife](https://scoutify.ai/companies/manulife?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Vietnam |
 | Category | Data Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Toronto-Ontario/Data-Engineer_JR25120543-3) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Dist7-Ho-Chi-Minh/Data-Engineer_JR26061325) |
 
 ## About This Role
 
-This data engineer position at Manulife was posted on 2026-06-12.
+This data engineer position at Manulife was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

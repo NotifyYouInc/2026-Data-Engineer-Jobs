@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Senior-Data-Engineer_R-246272) |
+| Category | Data Engineer |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Senior-Data-Engineer_R-244070) |
 
 ## About This Role
 
-This software engineer position at Amgen was posted on 2026-06-11.
+This data engineer position at Amgen was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

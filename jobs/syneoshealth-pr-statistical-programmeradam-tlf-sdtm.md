@@ -1,16 +1,16 @@
-# Pr Statistical Programmer(ADaM, TLF & SDTM) at Syneoshealth
+# Pr Statistical Programmer(ADAM, TLF, SDTM) at Syneoshealth
 
 | Field | Details |
 |-------|---------|
 | Company | [Syneoshealth](https://scoutify.ai/companies/syneoshealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | India |
-| Category | PR & External Communications |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/IND-Remote/Pr-Statistical-Programmer-ADaM--TLF---SDTM-_25107309) |
+| Category | Data Engineer |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/IND-Remote/Pr-Statistical-Programmer-ADAM--TLF--SDTM-_25109650) |
 
 ## About This Role
 
-This pr & external communications position at Syneoshealth was posted on 2026-05-13.
+This data engineer position at Syneoshealth was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

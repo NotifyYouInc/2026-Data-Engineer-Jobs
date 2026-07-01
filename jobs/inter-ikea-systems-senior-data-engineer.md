@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inter Ikea Systems](https://scoutify.ai/companies/interikeasystems?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Sweden |
+| Location | Malmö, Skåne, Sweden |
 | Category | Data Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InterIKEAGroup/744000121729147-senior-data-engineer) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InterIKEAGroup/744000133552240-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Inter Ikea Systems was posted on 2026-04-20.
+This data engineer position at Inter Ikea Systems was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

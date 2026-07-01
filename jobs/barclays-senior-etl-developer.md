@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | New Jersey, US |
-| Category | Engineering Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/115-South-Jefferson-Rd-Campus-Whippany/Senior-ETL-Developer_JR-0000050458-1) |
+| Location | Whippany, New Jersey, United States |
+| Category | Data Engineer |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-300-Whippany-Campus-Jefferson-Park/Senior-ETL-Developer_JR-0000119365) |
 
 ## About This Role
 
-This engineering manager position at Barclays was posted on 2026-03-20.
+This data engineer position at Barclays was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

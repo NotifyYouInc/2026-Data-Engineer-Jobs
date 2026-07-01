@@ -5,12 +5,12 @@
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/Senior-Data-Engineer--AVP_R0424235-2) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Margarpatta/Senior-Data-Engineer--AVP_R0416834) |
 
 ## About This Role
 
-This data engineer position at Deutsche Bank was posted on 2026-05-20.
+This data engineer position at Deutsche Bank was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

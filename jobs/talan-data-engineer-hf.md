@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Rennes, Brittany, France |
 | Category | Data Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000120334286-data-engineer-hf) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000133636286-data-engineer-hf) |
 
 ## About This Role
 
-This data engineer position at Talan was posted on 2026-04-13.
+This data engineer position at Talan was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

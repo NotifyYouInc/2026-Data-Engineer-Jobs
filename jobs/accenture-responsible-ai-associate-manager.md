@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Trust & Safety |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru-BDC9A/Responsible-AI-Associate-Manager_AIOC-S01613607-1) |
+| Location | Mumbai, Maharashtra, India |
+| Category | AI / ML Research |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Responsible-AI-Associate-Manager_AIOC-S01613606-1) |
 
 ## About This Role
 
-This trust & safety position at Accenture was posted on 2026-06-10.
+This ai / ml research position at Accenture was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

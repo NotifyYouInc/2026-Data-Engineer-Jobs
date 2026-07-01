@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bounteous](https://scoutify.ai/companies/bounteous?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | Data Engineer |
-| Posted | 2026-06-20 |
-| Apply | [View on company site](https://jobs.lever.co/bounteous/907f61fe-6dcc-49bf-b794-e6ee5cc52d3e) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.lever.co/bounteous/039dd11e-1c62-479b-9143-4ccfb2a70e4e) |
 
 ## About This Role
 
-This data engineer position at Bounteous was posted on 2026-06-20.
+This data engineer position at Bounteous was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

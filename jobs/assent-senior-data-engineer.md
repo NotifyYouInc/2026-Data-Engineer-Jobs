@@ -5,12 +5,12 @@
 | Company | [Assent](https://scoutify.ai/companies/assent?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Assent/744000130852854-senior-data-engineer) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Assent/744000133531444-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Assent was posted on 2026-06-08.
+This data engineer position at Assent was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 
