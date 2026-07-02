@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [StepStone](https://scoutify.ai/companies/stepstone?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StepStoneGroup/744000133528024-staff-engineer) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StepStoneGroup/744000133911339-staff-engineer) |
 
 ## About This Role
 
-This software engineer position at StepStone was posted on 2026-06-23.
+This software engineer position at StepStone was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

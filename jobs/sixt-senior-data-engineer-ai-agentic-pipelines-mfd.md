@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000127863935-senior-data-engineer-ai-agentic-pipelines-mfd) |
+| Category | Data Engineer |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000133954199-senior-data-engineer-ai-agentic-pipelines-mfd) |
 
 ## About This Role
 
-This ai / llm engineer position at Sixt was posted on 2026-05-22.
+This data engineer position at Sixt was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

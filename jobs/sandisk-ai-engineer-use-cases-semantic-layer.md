@@ -1,16 +1,16 @@
-# AI Engineer – Use Cases & Semantic Layer at SanDisk
+# AI Engineer - Use Cases & Semantic Layer at SanDisk
 
 | Field | Details |
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Kfar Saba, Central District, Israel |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000123626519-ai-engineer-use-cases-semantic-layer) |
+| Category | Data Engineer |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000133928819-ai-engineer-use-cases-semantic-layer) |
 
 ## About This Role
 
-This ai / llm engineer position at SanDisk was posted on 2026-04-29.
+This data engineer position at SanDisk was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

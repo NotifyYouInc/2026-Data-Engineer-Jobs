@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Fayetteville, North Carolina, United States |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Data-Engineer_R0242717) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Data-Engineer_R0242865) |
 
 ## About This Role
 
-This data engineer position at Booz Allen was posted on 2026-06-22.
+This data engineer position at Booz Allen was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

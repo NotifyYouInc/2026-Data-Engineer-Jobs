@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Norfolk, Virginia, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Business-Information-Developer-Consultant_JR196470) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/VA-NORFOLK-5800-NORTHAMPTON-BLVD/Business-Information-Developer-Consultant_JR196808) |
 
 ## About This Role
 
-This data engineer position at Elevance Health was posted on 2026-06-22.
+This data engineer position at Elevance Health was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

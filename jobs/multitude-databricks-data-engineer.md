@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Multitude](https://scoutify.ai/companies/multitude?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bratislava, Bratislava Region, Slovakia |
+| Location | Not specified |
 | Category | Data Engineer |
-| Posted | 2026-05-31 |
-| Apply | [View on company site](https://multitude.wd103.myworkdayjobs.com/careers_multitude/job/Bratislava-Office/Databricks-Data-Engineer_JR100152) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://multitude.wd103.myworkdayjobs.com/careers_multitude/job/Europe-Remote/Databricks-Data-Engineer_JR100191-1) |
 
 ## About This Role
 
-This data engineer position at Multitude was posted on 2026-05-31.
+This data engineer position at Multitude was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

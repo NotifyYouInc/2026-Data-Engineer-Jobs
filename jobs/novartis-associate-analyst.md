@@ -5,12 +5,12 @@
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Associate-Analyst_REQ-10075510) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Associate-Analyst_REQ-10078443-1) |
 
 ## About This Role
 
-This data engineer position at Novartis was posted on 2026-04-22.
+This data engineer position at Novartis was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

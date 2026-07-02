@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Texas, US |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Texas/Data-Engineer--Synthetic-Data-Generation_R-416504) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Texas/Data-Engineer--Synthetic-Data-Generation_R-420791) |
 
 ## About This Role
 
-This data engineer position at Humana was posted on 2026-05-27.
+This data engineer position at Humana was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

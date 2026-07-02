@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Santa Clara, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Staff-Data-Engineer_R-066470-1) |
+| Location | Palm Beach Gardens, Florida, United States |
+| Category | Data Engineer |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Palm-Beach-Gardens-Florida-United-States-of-America/Staff-Data-Engineer_R-084717) |
 
 ## About This Role
 
-This software engineer position at Johnson & Johnson was posted on 2026-03-30.
+This data engineer position at Johnson & Johnson was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Technology Lead _ETL & Database Developer (Informatica / Greenplum / Cloud) at Broadridge
+# Technology Lead_ ETL & Database Developer (Informatica / Greenplum / Cloud) at Broadridge
 
 | Field | Details |
 |-------|---------|
 | Company | [Broadridge](https://scoutify.ai/companies/broadridge?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Bengaluru-EPIP-Industrial-Area/Technology-Lead--ETL---Database-Developer--Informatica---Greenplum---Cloud-_JR1080724) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Hyderabad-Hi-Tec-City/Technology-Lead--ETL---Database-Developer--Informatica---Greenplum---Cloud-_JR1082220) |
 
 ## About This Role
 
-This data engineer position at Broadridge was posted on 2026-06-22.
+This data engineer position at Broadridge was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

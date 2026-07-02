@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Levallois-Perret, Île-de-France, France |
+| Location | Lyon, Rhône-Alpes, France |
 | Category | Data Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000108206386-consultante-senior-data-engineer-aws-hf) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000133875795-consultante-senior-data-engineer-aws-hf) |
 
 ## About This Role
 
-This data engineer position at Devoteam was posted on 2026-02-09.
+This data engineer position at Devoteam was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

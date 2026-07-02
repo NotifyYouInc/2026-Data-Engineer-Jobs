@@ -5,12 +5,12 @@
 | Company | [ASOS](https://scoutify.ai/companies/asos?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000126486839-senior-data-engineer-data-science-platform) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000133993459-senior-data-engineer-data-science-platform) |
 
 ## About This Role
 
-This data engineer position at ASOS was posted on 2026-05-14.
+This data engineer position at ASOS was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

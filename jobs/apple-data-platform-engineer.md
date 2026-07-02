@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Not specified |
 | Category | Data Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200656191/data-platform-engineer) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200669525/data-platform-engineer) |
 
 ## About This Role
 
-This data engineer position at Apple was posted on 2026-04-07.
+This data engineer position at Apple was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

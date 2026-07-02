@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Rotterdam, South Holland, The Netherlands |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000117232277-senior-data-engineer-consultant) |
+| Location | Belgium |
+| Category | Data Engineer |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000133891602-senior-data-engineer-consultant) |
 
 ## About This Role
 
-This technology / it consulting position at SIA was posted on 2026-03-27.
+This data engineer position at SIA was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

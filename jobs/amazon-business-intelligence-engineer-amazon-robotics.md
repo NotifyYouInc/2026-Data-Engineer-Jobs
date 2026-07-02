@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Massachusetts, US |
-| Category | Robotics Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10431635/business-intelligence-engineer-amazon-robotics) |
+| Location | North Reading, Massachusetts, United States |
+| Category | Data Engineer |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10458100/business-intelligence-engineer-amazon-robotics) |
 
 ## About This Role
 
-This robotics engineer position at Amazon was posted on 2026-05-27.
+This data engineer position at Amazon was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

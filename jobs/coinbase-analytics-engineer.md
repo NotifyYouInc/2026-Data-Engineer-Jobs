@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coinbase](https://scoutify.ai/companies/coinbase?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Luxembourg, Luxembourg, Luxembourg |
+| Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://www.coinbase.com/careers/positions/7843712?gh_jid=7843712) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://www.coinbase.com/careers/positions/8020892?gh_jid=8020892) |
 
 ## About This Role
 
-This data engineer position at Coinbase was posted on 2026-06-12.
+This data engineer position at Coinbase was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

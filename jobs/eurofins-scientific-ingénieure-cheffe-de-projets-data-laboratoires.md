@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Data Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000133354039-ingenieure-cheffe-de-projets-data-laboratoires) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000133956300-ingenieure-cheffe-de-projets-data-laboratoires) |
 
 ## About This Role
 
-This data engineer position at Eurofins Scientific was posted on 2026-06-22.
+This data engineer position at Eurofins Scientific was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

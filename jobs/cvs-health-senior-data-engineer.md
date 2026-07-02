@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Wellesley, Massachusetts, United States |
+| Location | Richardson, Texas, United States |
 | Category | Data Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MA---Wellesley/Senior-Data-Engineer_R0781016-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Richardson/Senior-Data-Engineer_R0948490) |
 
 ## About This Role
 
-This data engineer position at CVS Health was posted on 2026-05-29.
+This data engineer position at CVS Health was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Synchrony Financial](https://scoutify.ai/companies/synchrony-financial?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/AVP--Analytics---Metadata-Developer_2601216-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/AVP--Analytics---Metadata-Developer_2601794) |
 
 ## About This Role
 
-This data engineer position at Synchrony Financial was posted on 2026-04-27.
+This data engineer position at Synchrony Financial was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 
