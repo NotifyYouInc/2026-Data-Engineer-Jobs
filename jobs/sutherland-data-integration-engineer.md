@@ -5,12 +5,12 @@
 | Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Data Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000133075019-data-integration-engineer) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000134314748-data-integration-engineer) |
 
 ## About This Role
 
-This data engineer position at Sutherland was posted on 2026-06-19.
+This data engineer position at Sutherland was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

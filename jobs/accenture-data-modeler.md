@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Data-Modeler_ATCI-5527994-S2030777-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Data-Modeler_ATCI-5620616-S2031867-1) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-06-19.
+This data engineer position at Accenture was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Tampa, Florida, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Hyderabad---TS---IN/EG-100---Information-Technology---Data-Architecture_R1601138) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Tampa---FL---US/Senior-Data-Engineer_R1603181) |
 
 ## About This Role
 
-This data engineer position at Bristol-Myers Squibb was posted on 2026-06-10.
+This data engineer position at Bristol-Myers Squibb was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Senior-Associate---Data-Engineer_R234175) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Engineer |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Senior-Associate---Data-Engineer_R245065-1) |
 
 ## About This Role
 
-This software engineer position at Capital One was posted on 2026-03-17.
+This data engineer position at Capital One was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

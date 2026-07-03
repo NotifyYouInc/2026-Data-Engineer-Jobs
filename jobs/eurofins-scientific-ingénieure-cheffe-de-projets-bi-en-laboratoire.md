@@ -6,7 +6,7 @@
 | Location | Paris, Île-de-France, France |
 | Category | Data Engineer |
 | Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000133876166-ingenieure-cheffe-de-projets-bi-en-laboratoire) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000133959629-ingenieure-cheffe-de-projets-bi-en-laboratoire) |
 
 ## About This Role
 

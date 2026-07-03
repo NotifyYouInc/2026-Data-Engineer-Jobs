@@ -5,12 +5,12 @@
 | Company | [Toyota](https://scoutify.ai/companies/toyota?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Plano, Texas, United States |
 | Category | Data Engineer |
-| Posted | 2026-05-30 |
-| Apply | [View on company site](https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Lead-Data-Platform-Engineer--Snowflake_10304491) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Lead-Data-Platform-Engineer--Snowflake_10330082) |
 
 ## About This Role
 
-This data engineer position at Toyota was posted on 2026-05-30.
+This data engineer position at Toyota was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

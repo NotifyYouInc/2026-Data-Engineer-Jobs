@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Thailand |
 | Category | Software Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000131856728-full-stack-data-engineer-data-engineering) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000134386310-full-stack-data-engineer-data-engineering) |
 
 ## About This Role
 
-This software engineer position at Western Digital was posted on 2026-06-12.
+This software engineer position at Western Digital was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

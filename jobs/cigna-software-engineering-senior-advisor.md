@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | New Jersey, US |
-| Category | Software Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Software-Engineering-Senior-Advisor_26001886) |
+| Location | Morris Plains, New Jersey, United States |
+| Category | Data Engineer |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Software-Engineering-Senior-Advisor_26007783) |
 
 ## About This Role
 
-This software engineer position at Cigna was posted on 2026-03-19.
+This data engineer position at Cigna was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

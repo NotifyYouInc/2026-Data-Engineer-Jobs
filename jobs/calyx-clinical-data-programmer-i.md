@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CALYX](https://scoutify.ai/companies/calyx?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
-| Category | Software Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://calyx.wd1.myworkdayjobs.com/perceptive/job/Remote-US/Clinical-Data-Programmer-I_JR104752) |
+| Category | Data Engineer |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://calyx.wd1.myworkdayjobs.com/perceptive/job/Remote-US/Clinical-Data-Programmer-I_JR104824) |
 
 ## About This Role
 
-This software engineer position at CALYX was posted on 2026-06-03.
+This data engineer position at CALYX was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

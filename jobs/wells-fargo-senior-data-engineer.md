@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Irving, Texas, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/SAN-FRANCISCO-CA/Senior-Data-Engineer_R-550968) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/IRVING-TX/Senior-Data-Engineer_R-552803) |
 
 ## About This Role
 
-This data engineer position at Wells Fargo was posted on 2026-06-12.
+This data engineer position at Wells Fargo was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

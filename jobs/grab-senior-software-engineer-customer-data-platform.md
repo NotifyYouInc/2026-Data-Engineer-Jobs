@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000113988078-senior-software-engineer-customer-data-platform) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000134207964-senior-software-engineer-customer-data-platform) |
 
 ## About This Role
 
-This software engineer position at Grab was posted on 2026-03-11.
+This software engineer position at Grab was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PubMatic](https://scoutify.ai/companies/pubmatic?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://pubmatic.com/job/?gh_jid=5277559008) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://pubmatic.com/job/?gh_jid=5281957008) |
 
 ## About This Role
 
-This software engineer position at PubMatic was posted on 2026-06-23.
+This software engineer position at PubMatic was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

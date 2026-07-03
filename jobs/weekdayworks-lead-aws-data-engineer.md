@@ -5,12 +5,12 @@
 | Company | [Weekdayworks](https://scoutify.ai/companies/weekdayworks?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.lever.co/weekdayworks/1ef88345-9798-452b-a455-2232f2258e7e) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.lever.co/weekdayworks/e4824a23-3aef-462b-9255-cefeb86bb3e9) |
 
 ## About This Role
 
-This data engineer position at Weekdayworks was posted on 2026-06-05.
+This data engineer position at Weekdayworks was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
+| Location | Budapest, Budapest, Hungary |
 | Category | Data Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000132168929-data-analytics-engineer-finance-systems) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000134229555-data-analytics-engineer-finance-systems) |
 
 ## About This Role
 
-This data engineer position at Louis Dreyfus was posted on 2026-06-15.
+This data engineer position at Louis Dreyfus was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

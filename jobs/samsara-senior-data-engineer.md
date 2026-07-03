@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Samsara](https://scoutify.ai/companies/samsara?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | Data Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://www.samsara.com/company/careers/roles/7964565?gh_jid=7964565) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://www.samsara.com/company/careers/roles/8025794?gh_jid=8025794) |
 
 ## About This Role
 
-This data engineer position at Samsara was posted on 2026-06-23.
+This data engineer position at Samsara was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

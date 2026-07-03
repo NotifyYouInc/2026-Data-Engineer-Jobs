@@ -5,12 +5,12 @@
 | Company | [Domino's](https://scoutify.ai/companies/dominos?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Ann Arbor, Michigan, United States |
 | Category | Engineering Manager |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/dominos/744000131353256-manager-enterprise-data-engineering) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/dominos/744000134155799-manager-enterprise-data-engineering) |
 
 ## About This Role
 
-This engineering manager position at Domino's was posted on 2026-06-10.
+This engineering manager position at Domino's was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

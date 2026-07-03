@@ -1,16 +1,16 @@
-# Data Engineer & Data Products at Kone
+# Data Engineer, Data Products at Kone
 
 | Field | Details |
 |-------|---------|
 | Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Chennai-ITECKBS/Data-Engineer---Data-Products_R0655338-1) |
+| Location | Pune, Maharashtra, India |
+| Category | Data Engineer |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Pune/Data-Engineer--Data-Products_R0661790-1) |
 
 ## About This Role
 
-This software engineer position at Kone was posted on 2026-02-23.
+This data engineer position at Kone was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

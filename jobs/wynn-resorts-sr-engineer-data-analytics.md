@@ -5,12 +5,12 @@
 | Company | [Wynn Resorts](https://scoutify.ai/companies/wynnresorts?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Las Vegas, Nevada, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WynnResorts/744000133682260-sr-engineer-data-analytics) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WynnResorts/744000134005439-sr-engineer-data-analytics) |
 
 ## About This Role
 
-This data engineer position at Wynn Resorts was posted on 2026-06-23.
+This data engineer position at Wynn Resorts was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

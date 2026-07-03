@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Rome, Lazio, Italy |
 | Category | Data Engineer |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/Analyst-I-Data-Engineering_51579001) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ITA---RM---ROME/Analyst-I-Data-Engineering_51583557) |
 
 ## About This Role
 
-This data engineer position at DXC Technology was posted on 2026-04-25.
+This data engineer position at DXC Technology was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

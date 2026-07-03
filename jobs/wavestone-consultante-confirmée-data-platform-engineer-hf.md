@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Puteaux, Île-de-France, France |
-| Category | Data Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000133548970-consultante-confirmee-data-platform-engineer-hf) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000133880324-consultante-confirmee-data-platform-engineer-hf) |
 
 ## About This Role
 
-This data engineer position at Wavestone was posted on 2026-06-23.
+This technology / it consulting position at Wavestone was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

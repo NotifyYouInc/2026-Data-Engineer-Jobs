@@ -1,16 +1,16 @@
-# Data Architect Senior at Intermountain Health
+# Data Architect - Senior at Intermountain Health
 
 | Field | Details |
 |-------|---------|
 | Company | [Intermountain Health](https://scoutify.ai/companies/intermountain-health?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | West Valley City, Utah, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/Nevada-Central-Office/Data-Architect-Senior_R167725) |
+| Category | Data Engineer |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/Lake-Park-Building/Data-Architect---Senior_R175829) |
 
 ## About This Role
 
-This technical & solutions architect position at Intermountain Health was posted on 2026-04-17.
+This data engineer position at Intermountain Health was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

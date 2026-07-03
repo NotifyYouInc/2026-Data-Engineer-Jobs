@@ -5,12 +5,12 @@
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Valencia, Valencia, Spain |
 | Category | Data Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000126518330-senior-data-engineer-i) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000134226399-senior-data-engineer-i) |
 
 ## About This Role
 
-This data engineer position at Flywire was posted on 2026-05-14.
+This data engineer position at Flywire was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 
