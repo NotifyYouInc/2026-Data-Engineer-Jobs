@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lennar Corporation](https://scoutify.ai/companies/lennar?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Miami, Florida, United States |
-| Category | Software Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Data-Engineer-II_R26_0000001282) |
+| Category | Data Engineer |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Data-Engineer-II_R26_0000002708) |
 
 ## About This Role
 
-This software engineer position at Lennar Corporation was posted on 2026-04-03.
+This data engineer position at Lennar Corporation was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data engineer at MET Group
+# Data Engineer at MET Group
 
 | Field | Details |
 |-------|---------|
 | Company | [MET Group](https://scoutify.ai/companies/met-group?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | Data Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/metgroup/744000126945239-data-engineer) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/metgroup/744000134482189-data-engineer) |
 
 ## About This Role
 
-This data engineer position at MET Group was posted on 2026-05-18.
+This data engineer position at MET Group was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

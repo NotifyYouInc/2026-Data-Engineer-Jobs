@@ -5,12 +5,12 @@
 | Company | [ARHS Developments](https://scoutify.ai/companies/arhsdevelopments?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | The Hague, South Holland, The Netherlands |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ARHS/744000114696303-software-developer) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ARHS/744000134442449-software-developer) |
 
 ## About This Role
 
-This software engineer position at ARHS Developments was posted on 2026-03-13.
+This software engineer position at ARHS Developments was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

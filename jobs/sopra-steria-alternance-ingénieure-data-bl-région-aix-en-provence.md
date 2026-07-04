@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France |
 | Category | Data Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000133286728-alternance-ingenieure-data-bl-region-aix-en-provence) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000134496338-alternance-ingenieure-data-bl-region-aix-en-provence) |
 
 ## About This Role
 
-This data engineer position at Sopra Steria was posted on 2026-06-22.
+This data engineer position at Sopra Steria was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

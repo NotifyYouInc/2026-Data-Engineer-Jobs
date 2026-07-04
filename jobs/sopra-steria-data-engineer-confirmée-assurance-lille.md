@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Villeneuve-d'Ascq, Hauts-de-France, France |
 | Category | Data Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000132424024-data-engineer-confirmee-assurance-lille) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000134433293-data-engineer-confirmee-assurance-lille) |
 
 ## About This Role
 
-This data engineer position at Sopra Steria was posted on 2026-06-16.
+This data engineer position at Sopra Steria was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

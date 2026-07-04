@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Data Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Cloud-Platform-Engineer_ATCI-5272454-S1936725-1) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Cloud-Platform-Engineer_ATCI-5554642-S2034823) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-04-27.
+This data engineer position at Accenture was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United States |
+| Location | Aberdeen, South Dakota, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---Remote-Any-Location/Data-Engineer_R180058-1) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Aberdeen/Data-Engineer_R182562) |
 
 ## About This Role
 
-This data engineer position at Parsons was posted on 2026-04-23.
+This data engineer position at Parsons was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 
