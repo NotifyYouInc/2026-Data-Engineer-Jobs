@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Spain |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Data Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000133362449-big-data-developer) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000134746417-big-data-developer) |
 
 ## About This Role
 
-This data engineer position at Talan was posted on 2026-06-22.
+This data engineer position at Talan was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

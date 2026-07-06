@@ -1,16 +1,16 @@
-# Engineer – Data Engineer III at Cencora
+# Data Engineer (m/f/d) at StepStone
 
 | Field | Details |
 |-------|---------|
-| Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Conshohocken, Pennsylvania, United States |
+| Company | [StepStone](https://scoutify.ai/companies/stepstone?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Düsseldorf, North Rhine-Westphalia, Germany |
 | Category | Data Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/Engineer---Data-Engineer-III_R2611037) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StepStoneGroup/744000134711739-data-engineer-mfd) |
 
 ## About This Role
 
-This data engineer position at Cencora was posted on 2026-06-29.
+This data engineer position at StepStone was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

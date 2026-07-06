@@ -1,16 +1,16 @@
-# Engineer – Data Engineer III at Cencora
+# Reservoir Engineer at Shell
 
 | Field | Details |
 |-------|---------|
-| Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Conshohocken, Pennsylvania, United States |
+| Company | [Shell](https://scoutify.ai/companies/shell?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Cyberjaya, Selangor, Malaysia |
 | Category | Data Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/Engineer---Data-Engineer-III_R2611037) |
+| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Cyberjaya-Wisma-Shell/Reservoir-Engineer_R205064) |
 
 ## About This Role
 
-This data engineer position at Cencora was posted on 2026-06-29.
+This data engineer position at Shell was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

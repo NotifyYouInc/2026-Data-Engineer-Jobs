@@ -1,16 +1,16 @@
-# Engineer – Data Engineer III at Cencora
+# Software Engineer - Tech at Point72
 
 | Field | Details |
 |-------|---------|
-| Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Conshohocken, Pennsylvania, United States |
+| Company | [Point72](https://scoutify.ai/companies/point72?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Data Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/Engineer---Data-Engineer-III_R2611037) |
+| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8568389002?gh_jid=8568389002) |
 
 ## About This Role
 
-This data engineer position at Cencora was posted on 2026-06-29.
+This data engineer position at Point72 was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

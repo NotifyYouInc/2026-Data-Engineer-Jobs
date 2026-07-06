@@ -1,16 +1,16 @@
-# Data Engineer ll, Program Team (Tech Foundations) at Delivery Hero
+# Principal Software Engineer II, Data Platform (Streaming, Dynamic Tables and more)  at Snowflake
 
 | Field | Details |
 |-------|---------|
-| Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000134732879-data-engineer-ll-program-team-tech-foundations) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/387f8fa8-a4cb-4df0-ad2b-25e8213cba66) |
 
 ## About This Role
 
-This data engineer position at Delivery Hero was posted on 2026-06-29.
+This software engineer position at Snowflake was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

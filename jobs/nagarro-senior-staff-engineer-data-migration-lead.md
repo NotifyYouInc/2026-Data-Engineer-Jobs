@@ -1,16 +1,16 @@
-# Engineer – Data Engineer III at Cencora
+# Senior Staff Engineer, Data Migration Lead at Nagarro
 
 | Field | Details |
 |-------|---------|
-| Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Conshohocken, Pennsylvania, United States |
+| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Not specified |
 | Category | Data Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/Engineer---Data-Engineer-III_R2611037) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000134743229-senior-staff-engineer-data-migration-lead) |
 
 ## About This Role
 
-This data engineer position at Cencora was posted on 2026-06-29.
+This data engineer position at Nagarro was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

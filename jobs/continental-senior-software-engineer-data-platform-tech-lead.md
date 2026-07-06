@@ -1,16 +1,16 @@
-# BI Engineer, Prime Data Engineering and Anaytics at Amazon
+# Senior Software Engineer – Data Platform (Tech Lead) at Continental
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10460777/bi-engineer-prime-data-engineering-and-anaytics) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000134694729-senior-software-engineer-data-platform-tech-lead) |
 
 ## About This Role
 
-This data engineer position at Amazon was posted on 2026-06-29.
+This software engineer position at Continental was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

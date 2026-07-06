@@ -1,16 +1,16 @@
-# Engineer – Data Engineer III at Cencora
+# HR Data Engineer at Rio Tinto
 
 | Field | Details |
 |-------|---------|
-| Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Conshohocken, Pennsylvania, United States |
+| Company | [Rio Tinto](https://scoutify.ai/companies/riotinto?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | 3 locations |
 | Category | Data Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/Engineer---Data-Engineer-III_R2611037) |
+| Apply | [View on company site](https://riotinto.wd3.myworkdayjobs.com/riotinto_careers/job/Brisbane/HR-Data-Engineer_R59964) |
 
 ## About This Role
 
-This data engineer position at Cencora was posted on 2026-06-29.
+This data engineer position at Rio Tinto was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

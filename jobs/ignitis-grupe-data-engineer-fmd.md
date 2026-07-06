@@ -5,12 +5,12 @@
 | Company | [Ignitis Grupe](https://scoutify.ai/companies/ignitisgrupe?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
 | Category | Data Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000125040545-data-engineer-fmd) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000134692539-data-engineer-fmd) |
 
 ## About This Role
 
-This data engineer position at Ignitis Grupe was posted on 2026-05-07.
+This data engineer position at Ignitis Grupe was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Software Engineer at Cisco
+# Software Engineer- 8-10 years of experience in Data Warehousing (DWH) with expertise in cloud data platforms and database at Cisco
 
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 3 locations |
-| Category | Software Engineer |
+| Location | 2 locations |
+| Category | Data Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Knoxville-Tennessee-US/Software-Engineer_2016513) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Hyderabad-India/Software-Engineer--8-10-years-of-experience-in-Data-Warehousing--DWH--with-expertise-in-cloud-data-platforms-and-database_2014512) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-06-29.
+This data engineer position at Cisco was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

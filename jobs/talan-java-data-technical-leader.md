@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
-| Category | Software Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000133924054-java-data-technical-leader) |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Category | Data Engineer |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000134714779-java-data-technical-leader) |
 
 ## About This Role
 
-This software engineer position at Talan was posted on 2026-06-24.
+This data engineer position at Talan was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

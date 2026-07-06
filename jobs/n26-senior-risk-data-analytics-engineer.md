@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [N26](https://scoutify.ai/companies/n26?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Berlin, State of Berlin, Germany |
-| Category | Software Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://n26.com/en-eu/careers/positions/8018102?gh_jid=8018102) |
+| Location | Madrid, Madrid, Spain |
+| Category | Data Engineer |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://n26.com/en-eu/careers/positions/8034995?gh_jid=8034995) |
 
 ## About This Role
 
-This software engineer position at N26 was posted on 2026-06-24.
+This data engineer position at N26 was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

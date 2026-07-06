@@ -1,16 +1,16 @@
-# Engineer – Data Engineer III at Cencora
+# Service Engineer Confirmé – Data Engineering & Cloud at ALTEN
 
 | Field | Details |
 |-------|---------|
-| Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Conshohocken, Pennsylvania, United States |
+| Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Rabat, Rabat-Salé-Kénitra, Morocco |
 | Category | Data Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/Engineer---Data-Engineer-III_R2611037) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000134731166-service-engineer-confirme-data-engineering-cloud) |
 
 ## About This Role
 
-This data engineer position at Cencora was posted on 2026-06-29.
+This data engineer position at ALTEN was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

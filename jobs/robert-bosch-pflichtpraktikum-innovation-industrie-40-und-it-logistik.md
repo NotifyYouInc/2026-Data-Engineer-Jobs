@@ -1,16 +1,16 @@
-# Data Engineer_AI at Robert Bosch
+# Pflichtpraktikum Innovation, Industrie 4.0 und IT-Logistik at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Coimbatore, Tamil Nadu, India |
-| Category | Data Engineer |
+| Location | Homburg, Saarland, Germany |
+| Category | AI / LLM Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000134755430-data-engineer-ai) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000134737699-pflichtpraktikum-innovation-industrie-40-und-it-logistik) |
 
 ## About This Role
 
-This data engineer position at Robert Bosch was posted on 2026-06-29.
+This ai / llm engineer position at Robert Bosch was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

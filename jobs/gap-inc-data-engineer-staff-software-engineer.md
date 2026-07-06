@@ -1,16 +1,16 @@
-# Engineer – Data Engineer III at Cencora
+# Data Engineer-Staff Software Engineer at Gap Inc.
 
 | Field | Details |
 |-------|---------|
-| Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Conshohocken, Pennsylvania, United States |
+| Company | [Gap Inc.](https://scoutify.ai/companies/gap-inc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/Engineer---Data-Engineer-III_R2611037) |
+| Apply | [View on company site](https://gapinc.wd1.myworkdayjobs.com/gapinc/job/Spoke---Hyderabad/Data-Engineer-Staff-Software-Engineer_R183163) |
 
 ## About This Role
 
-This data engineer position at Cencora was posted on 2026-06-29.
+This data engineer position at Gap Inc. was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 
