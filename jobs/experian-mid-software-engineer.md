@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | São Carlos, São Paulo, Brazil |
 | Category | Software Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000133693069-mid-software-engineer) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000135254420-mid-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-06-23.
+This software engineer position at Experian was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

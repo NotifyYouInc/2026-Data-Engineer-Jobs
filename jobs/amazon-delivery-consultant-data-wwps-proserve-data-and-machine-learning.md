@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10460359/delivery-consultant-data-wwps-proserve-data-and-machine-learning) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10461958/delivery-consultant-data-wwps-proserve-data-and-machine-learning) |
 
 ## About This Role
 
-This data engineer position at Amazon was posted on 2026-06-26.
+This data engineer position at Amazon was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

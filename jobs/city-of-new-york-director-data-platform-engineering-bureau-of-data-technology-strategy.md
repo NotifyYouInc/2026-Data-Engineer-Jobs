@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Long Island City, New York, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013487781-director-data-platform-engineering-bureau-of-data-technology-strategy) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013873911-director-data-platform-engineering-bureau-of-data-technology-strategy) |
 
 ## About This Role
 
-This data engineer position at City of New York was posted on 2026-06-05.
+This data engineer position at City of New York was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

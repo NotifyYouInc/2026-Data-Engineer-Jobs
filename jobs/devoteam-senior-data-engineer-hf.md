@@ -1,16 +1,16 @@
-# Senior Data engineer H/F at Devoteam
+# Senior Data Engineer (H/F) at Devoteam
 
 | Field | Details |
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Lille, Hauts-de-France, France |
+| Location | Casablanca, Casablanca-Settat, Morocco |
 | Category | Data Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000126010714-senior-data-engineer-hf) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000135244517-senior-data-engineer-hf) |
 
 ## About This Role
 
-This data engineer position at Devoteam was posted on 2026-05-12.
+This data engineer position at Devoteam was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

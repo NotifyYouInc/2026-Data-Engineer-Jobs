@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Data Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Bangkok-Thailand/Data-Engineer_R0133843) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Data-Engineer_R0124753) |
 
 ## About This Role
 
-This data engineer position at Hitachi was posted on 2026-06-15.
+This data engineer position at Hitachi was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

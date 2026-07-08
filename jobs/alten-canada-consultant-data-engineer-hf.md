@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Data Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000128476199-consultant-data-engineer-hf) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000134818609-consultant-data-engineer-hf) |
 
 ## About This Role
 
-This data engineer position at ALTEN Canada was posted on 2026-05-26.
+This data engineer position at ALTEN Canada was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Software Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-ON-Toronto/Principal-Analytics-Engineer_JR-0103557-1) |
+| Location | 2 locations |
+| Category | Data Engineer |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Principal-Analytics-Engineer_JR-0107883) |
 
 ## About This Role
 
-This software engineer position at Workday was posted on 2026-02-02.
+This data engineer position at Workday was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

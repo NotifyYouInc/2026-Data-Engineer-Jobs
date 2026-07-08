@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ClickUp](https://scoutify.ai/companies/clickup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
+| Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clickup/a653e515-c4c4-4cce-b70c-e7e16cbe7ea3) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clickup/e8c4b937-621a-47c1-b71c-f36073a62ec2) |
 
 ## About This Role
 
-This data engineer position at ClickUp was posted on 2026-04-06.
+This data engineer position at ClickUp was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

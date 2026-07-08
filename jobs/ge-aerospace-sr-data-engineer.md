@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Aerospace](https://scoutify.ai/companies/ge-aerospace?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United States |
-| Category | DevOps Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Sr-Data-Engineer_R5030253-2) |
+| Location | Querétaro, Chiapas, Mexico |
+| Category | Data Engineer |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Queretaro/Sr-Data-Engineer_R5036912-1) |
 
 ## About This Role
 
-This devops engineer position at GE Aerospace was posted on 2026-03-06.
+This data engineer position at GE Aerospace was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

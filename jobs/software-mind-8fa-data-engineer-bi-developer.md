@@ -5,12 +5,12 @@
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Data Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000131891254-8fa-data-engineer-bi-developer) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000134856750-8fa-data-engineer-bi-developer) |
 
 ## About This Role
 
-This data engineer position at Software Mind was posted on 2026-06-12.
+This data engineer position at Software Mind was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

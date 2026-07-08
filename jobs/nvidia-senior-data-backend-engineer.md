@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | California, US |
-| Category | Software Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Remote/Senior-Data-Backend-Engineer_JR2012985) |
+| Location | Hillsboro, Oregon, United States |
+| Category | Data Engineer |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Senior-Data-Backend-Engineer_JR2020354) |
 
 ## About This Role
 
-This software engineer position at Nvidia was posted on 2026-02-16.
+This data engineer position at Nvidia was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

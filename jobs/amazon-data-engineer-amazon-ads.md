@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | New York City, New York, United States |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10439144/data-engineer-amazon-ads) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10463961/data-engineer-amazon-ads) |
 
 ## About This Role
 
-This data engineer position at Amazon was posted on 2026-06-03.
+This data engineer position at Amazon was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

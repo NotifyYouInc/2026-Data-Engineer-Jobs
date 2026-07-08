@@ -5,12 +5,12 @@
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Springdale, Arkansas, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Springdale-AR-Terminal-Office---Springdale-Arkansas/Senior-Data-Engineer---Logistics_R0458098-1) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Springdale-AR-Terminal-Office---Springdale-Arkansas/Senior-Data-Engineer---Logistics_R0470284-1) |
 
 ## About This Role
 
-This data engineer position at Tyson Foods was posted on 2026-04-28.
+This data engineer position at Tyson Foods was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

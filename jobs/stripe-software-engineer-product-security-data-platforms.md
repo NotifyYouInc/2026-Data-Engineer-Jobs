@@ -5,12 +5,12 @@
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7761694) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8039800) |
 
 ## About This Role
 
-This software engineer position at Stripe was posted on 2026-03-31.
+This software engineer position at Stripe was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

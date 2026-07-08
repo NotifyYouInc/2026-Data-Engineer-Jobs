@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Villeneuve-d'Ascq, Hauts-de-France, France |
 | Category | Data Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000132870891-bi-engineer-senior-services-financiers-lille) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000135195208-bi-engineer-senior-services-financiers-lille) |
 
 ## About This Role
 
-This data engineer position at Sopra Steria was posted on 2026-06-18.
+This data engineer position at Sopra Steria was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

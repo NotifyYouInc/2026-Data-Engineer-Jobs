@@ -1,16 +1,16 @@
-# Sr Data Engineer at McKesson
+# Sr. Data Engineer at McKesson
 
 | Field | Details |
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Irving, Texas, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Sr-Data-Engineer_JR0144706) |
+| Category | Data Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Sr-Data-Engineer_JR0150004) |
 
 ## About This Role
 
-This software engineer position at McKesson was posted on 2026-03-23.
+This data engineer position at McKesson was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

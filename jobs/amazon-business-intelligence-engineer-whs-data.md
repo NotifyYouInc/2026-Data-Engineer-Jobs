@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Luxembourg |
 | Category | Data Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10410960/business-intelligence-engineer-whs-data) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10463343/business-intelligence-engineer-whs-data) |
 
 ## About This Role
 
-This data engineer position at Amazon was posted on 2026-05-05.
+This data engineer position at Amazon was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

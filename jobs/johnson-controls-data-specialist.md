@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Data-Specialist_WD30266151) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Data-Specialist_WD30273537) |
 
 ## About This Role
 
-This data engineer position at Johnson Controls was posted on 2026-04-15.
+This data engineer position at Johnson Controls was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

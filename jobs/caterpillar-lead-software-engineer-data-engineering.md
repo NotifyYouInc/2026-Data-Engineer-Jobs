@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Lead-Software-Engineer---Data-Engineering_R0000367335) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Data Engineer |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Lead-Software-Engineer---Data-Engineering_R0000379685) |
 
 ## About This Role
 
-This software engineer position at Caterpillar was posted on 2026-05-12.
+This data engineer position at Caterpillar was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

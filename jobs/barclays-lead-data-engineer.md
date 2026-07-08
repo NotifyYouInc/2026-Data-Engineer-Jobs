@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Engineering Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Lead-Data-Engineer_JR-0000091437-1) |
+| Location | Glasgow, Scotland, United Kingdom |
+| Category | Data Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Lead-Data-Engineer_JR-0000110659-1) |
 
 ## About This Role
 
-This engineering manager position at Barclays was posted on 2026-03-06.
+This data engineer position at Barclays was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

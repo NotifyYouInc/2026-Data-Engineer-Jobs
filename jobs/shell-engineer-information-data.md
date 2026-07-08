@@ -5,12 +5,12 @@
 | Company | [Shell](https://scoutify.ai/companies/shell?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Data Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/SHELL-CENTRE--CHENNAI/Engineer---Information---Data_R195525-1) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/SHELL-CENTRE--CHENNAI/Engineer---Information---Data_R206428) |
 
 ## About This Role
 
-This data engineer position at Shell was posted on 2026-06-03.
+This data engineer position at Shell was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

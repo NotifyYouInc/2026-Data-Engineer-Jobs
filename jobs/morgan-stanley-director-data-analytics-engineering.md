@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Alpharetta, Georgia, United States |
-| Category | Data Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Alpharetta-GA-1-Edison/Director--Data---Analytics-Engineering_JR000528) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Alpharetta-Georgia-United-States-of-America/Director--Data---Analytics-Engineering_JR034384) |
 
 ## About This Role
 
-This data engineer position at Morgan Stanley was posted on 2026-04-17.
+This machine learning engineer position at Morgan Stanley was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

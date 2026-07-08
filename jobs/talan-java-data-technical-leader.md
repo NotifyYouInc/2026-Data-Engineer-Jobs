@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Data Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000134714779-java-data-technical-leader) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000135035238-java-data-technical-leader) |
 
 ## About This Role
 
-This data engineer position at Talan was posted on 2026-06-29.
+This data engineer position at Talan was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Engineer - Data at Geico
+# Senior Engineer – Data at Geico
 
 | Field | Details |
 |-------|---------|
 | Company | [Geico](https://scoutify.ai/companies/geico?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Seattle-WA/Senior-Engineer---Data_R0063855) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Remote-United-States/Senior-Engineer---Data_R0064724) |
 
 ## About This Role
 
-This data engineer position at Geico was posted on 2026-05-11.
+This data engineer position at Geico was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Veepee](https://scoutify.ai/companies/veepee?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Brussels, Brussels Capital, Belgium |
 | Category | Data Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.lever.co/veepee/770ca743-cd6b-4b06-adfa-adfaad40e0ec) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.lever.co/veepee/03073dc6-9adf-44ef-9c12-dbb718c0b6fc) |
 
 ## About This Role
 
-This data engineer position at Veepee was posted on 2026-06-02.
+This data engineer position at Veepee was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

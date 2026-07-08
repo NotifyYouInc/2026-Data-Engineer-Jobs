@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Carrollton, Texas, United States |
+| Location | Conshohocken, Pennsylvania, United States |
 | Category | Data Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Carrollton-TX/Data-Engineer-III_R2611038) |
+| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/Data-Engineer-III_R2611058) |
 
 ## About This Role
 

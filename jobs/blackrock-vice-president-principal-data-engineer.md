@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Gurugram, Haryana, India |
 | Category | Data Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Vice-President---Principal-Data-Engineer_R261651) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Gurugram-India/Vice-President---Principal-Data-Engineer_R261652) |
 
 ## About This Role
 
-This data engineer position at Blackrock was posted on 2026-06-19.
+This data engineer position at Blackrock was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

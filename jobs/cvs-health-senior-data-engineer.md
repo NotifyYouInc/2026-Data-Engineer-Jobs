@@ -1,16 +1,16 @@
-# Senior Data Engineer at CVS Health
+# Senior Data engineer at CVS Health
 
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Richardson, Texas, United States |
+| Location | Texas, US |
 | Category | Data Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Richardson/Senior-Data-Engineer_R0948490) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Senior-Data-engineer_R0942588) |
 
 ## About This Role
 
-This data engineer position at CVS Health was posted on 2026-06-24.
+This data engineer position at CVS Health was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

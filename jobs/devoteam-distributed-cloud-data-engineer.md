@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
-| Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000116451185-distributed-cloud-data-engineer) |
+| Location | Portugal |
+| Category | Data Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000135267290-distributed-cloud-data-engineer) |
 
 ## About This Role
 
-This software engineer position at Devoteam was posted on 2026-03-24.
+This data engineer position at Devoteam was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

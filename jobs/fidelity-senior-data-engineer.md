@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Merrimack, New Hampshire, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Merrimack-NH/Senior-Data-Engineer_2128379) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Senior-Data-Engineer_2131430) |
 
 ## About This Role
 
-This data engineer position at Fidelity was posted on 2026-04-30.
+This data engineer position at Fidelity was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Acrisure Innovation](https://scoutify.ai/companies/acrisure-innovation?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/acrisureinnovation/jobs/8446322002) |
+| Category | Data Engineer |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/acrisureinnovation/jobs/8613037002) |
 
 ## About This Role
 
-This software engineer position at Acrisure Innovation was posted on 2026-03-16.
+This data engineer position at Acrisure Innovation was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

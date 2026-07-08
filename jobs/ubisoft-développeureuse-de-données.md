@@ -1,16 +1,16 @@
-# Développeur·euse de données at Ubisoft
+# Développeur·euse de données  at Ubisoft
 
 | Field | Details |
 |-------|---------|
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Canada |
+| Location | Montréal, Quebec, Canada |
 | Category | Data Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000122260467-developpeureuse-de-donnees) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000135283647-developpeureuse-de-donnees) |
 
 ## About This Role
 
-This data engineer position at Ubisoft was posted on 2026-04-22.
+This data engineer position at Ubisoft was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

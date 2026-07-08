@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bristol, England, United Kingdom |
-| Category | Software Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000114032437-data-engineer) |
+| Category | Data Engineer |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000134817808-data-engineer) |
 
 ## About This Role
 
-This software engineer position at AECOM was posted on 2026-03-11.
+This data engineer position at AECOM was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

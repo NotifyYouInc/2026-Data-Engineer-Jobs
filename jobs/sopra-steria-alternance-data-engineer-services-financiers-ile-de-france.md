@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Data Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000134417291-alternance-data-engineer-services-financiers-ile-de-france) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000135202450-alternance-data-engineer-services-financiers-ile-de-france) |
 
 ## About This Role
 
-This data engineer position at Sopra Steria was posted on 2026-06-26.
+This data engineer position at Sopra Steria was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

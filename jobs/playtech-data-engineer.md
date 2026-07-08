@@ -5,12 +5,12 @@
 | Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Tartu, Tartu, Estonia |
 | Category | Data Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000127921961-data-engineer) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000134976189-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Playtech was posted on 2026-05-22.
+This data engineer position at Playtech was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

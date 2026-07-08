@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Location | Singapore |
 | Category | Data Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/ITE-HQ-Headquarters/Data---Analytics-Engineer---Learning-Technologies-Devt--ITE-Headquarters-_JR-10000051257) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/ITE-HQ-Headquarters/Data---Analytics-Engineer---Learning-Technologies-Devt--ITE-Headquarters-_JR-10000052277) |
 
 ## About This Role
 
-This data engineer position at Economic Development Board was posted on 2026-06-01.
+This data engineer position at Economic Development Board was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

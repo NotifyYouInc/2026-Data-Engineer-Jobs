@@ -1,16 +1,16 @@
-# Data Engineer - Director - Data & Analytics Engineering at Morgan Stanley
+# Data Engineer_Director_Data & Analytics Engineering at Morgan Stanley
 
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Bengaluru-India/Data-Engineer---Director---Data---Analytics-Engineering_JR033823) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Bengaluru-India/Data-Engineer-Director-Data---Analytics-Engineering_PT-JR039843-1) |
 
 ## About This Role
 
-This data engineer position at Morgan Stanley was posted on 2026-04-06.
+This data engineer position at Morgan Stanley was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

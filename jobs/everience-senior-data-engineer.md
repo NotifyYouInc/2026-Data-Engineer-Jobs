@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Utrecht, Utrecht, The Netherlands |
-| Category | Software Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000115620182-senior-data-engineer) |
+| Location | Paris, Île-de-France, France |
+| Category | Data Engineer |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000135018545-senior-data-engineer) |
 
 ## About This Role
 
-This software engineer position at Everience was posted on 2026-03-19.
+This data engineer position at Everience was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 
