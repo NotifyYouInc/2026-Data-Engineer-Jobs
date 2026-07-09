@@ -1,16 +1,16 @@
-# Application Support Engineer at Accenture
+# Big Data Ab Initio Engineer at Barclays
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
 | Posted | 2026-07-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5634185-S2055983-1) |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Data-Engineer---DevOps_JR-0000078319) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-07-02.
+This data engineer position at Barclays was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

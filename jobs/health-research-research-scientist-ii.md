@@ -1,16 +1,16 @@
-# Senior AI Data Engineer at Cortica
+# Research Scientist II at Health Research
 
 | Field | Details |
 |-------|---------|
-| Company | [Cortica](https://scoutify.ai/companies/cortica?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | San Diego, California, United States |
+| Company | [Health Research](https://scoutify.ai/companies/healthresearch?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Albany, New York, United States |
 | Category | Data Engineer |
 | Posted | 2026-07-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/allcareers/jobs/8617191002) |
+| Apply | [View on company site](https://healthresearch.wd1.myworkdayjobs.com/hri_careers/job/Albany-NY/Research-Scientist-II_JR-0002205) |
 
 ## About This Role
 
-This data engineer position at Cortica was posted on 2026-07-01.
+This data engineer position at Health Research was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

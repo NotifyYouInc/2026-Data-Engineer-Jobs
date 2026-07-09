@@ -1,16 +1,16 @@
-# Application Support Engineer at Accenture
+# Senior Analytics  Engineer at WGSN
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [WGSN](https://scoutify.ai/companies/wgsn?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Data Engineer |
 | Posted | 2026-07-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5634185-S2055983-1) |
+| Apply | [View on company site](https://jobs.lever.co/wgsn/b93422ff-8307-4852-a16a-ab88baef49e7) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-07-02.
+This data engineer position at WGSN was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

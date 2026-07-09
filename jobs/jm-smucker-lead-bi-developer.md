@@ -1,16 +1,16 @@
-# Data Engineer, AVP at NatWest Group
+# Lead BI Developer at J.M. Smucker
 
 | Field | Details |
 |-------|---------|
-| Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 3 locations |
+| Company | [J.M. Smucker](https://scoutify.ai/companies/smucker?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Data-Engineer--AVP_R-00278398-1) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Lead-BI-Developer_115485) |
 
 ## About This Role
 
-This data engineer position at NatWest Group was posted on 2026-07-02.
+This data engineer position at J.M. Smucker was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

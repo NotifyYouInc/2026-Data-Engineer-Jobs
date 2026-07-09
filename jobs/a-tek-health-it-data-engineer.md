@@ -1,16 +1,16 @@
-# Data Engineer, AVP at NatWest Group
+# Health IT Data Engineer at A-TEK
 
 | Field | Details |
 |-------|---------|
-| Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 3 locations |
+| Company | [A-TEK](https://scoutify.ai/companies/a-tek?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Data-Engineer--AVP_R-00278398-1) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/atek/jobs/5289117008) |
 
 ## About This Role
 
-This data engineer position at NatWest Group was posted on 2026-07-02.
+This data engineer position at A-TEK was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

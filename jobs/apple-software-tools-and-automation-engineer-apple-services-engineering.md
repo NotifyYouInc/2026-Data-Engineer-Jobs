@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Not specified |
-| Category | Industrial Automation |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200666145/software-tools-and-automation-engineer-apple-services-engineering) |
+| Category | QA Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200669873/software-tools-and-automation-engineer-apple-services-engineering) |
 
 ## About This Role
 
-This industrial automation position at Apple was posted on 2026-06-02.
+This qa engineer position at Apple was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

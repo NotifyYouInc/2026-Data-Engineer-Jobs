@@ -1,16 +1,16 @@
-# Data Engineer, AVP at NatWest Group
+# [P] Data Engineer, Safeguards at Anthropic
 
 | Field | Details |
 |-------|---------|
-| Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 3 locations |
+| Company | [Anthropic](https://scoutify.ai/companies/anthropic?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Data-Engineer--AVP_R-00278398-1) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5240422008) |
 
 ## About This Role
 
-This data engineer position at NatWest Group was posted on 2026-07-02.
+This data engineer position at Anthropic was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

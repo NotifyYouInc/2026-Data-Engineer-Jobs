@@ -1,16 +1,16 @@
-# Senior AI Data Engineer at Cortica
+# Software Engineer, Data Infrastructure at Wing
 
 | Field | Details |
 |-------|---------|
-| Company | [Cortica](https://scoutify.ai/companies/cortica?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | San Diego, California, United States |
-| Category | Data Engineer |
+| Company | [Wing](https://scoutify.ai/companies/wing?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Palo Alto, California, United States |
+| Category | Software Engineer |
 | Posted | 2026-07-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/allcareers/jobs/8617191002) |
+| Apply | [View on company site](https://wing.com/careers/8604891002?gh_jid=8604891002) |
 
 ## About This Role
 
-This data engineer position at Cortica was posted on 2026-07-01.
+This software engineer position at Wing was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

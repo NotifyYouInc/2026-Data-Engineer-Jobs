@@ -1,16 +1,16 @@
-# Senior AI Data Engineer at Cortica
+# Associate Data Architect at AXIS Capital
 
 | Field | Details |
 |-------|---------|
-| Company | [Cortica](https://scoutify.ai/companies/cortica?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | San Diego, California, United States |
+| Company | [AXIS Capital](https://scoutify.ai/companies/axis-capital?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | 2 locations |
 | Category | Data Engineer |
 | Posted | 2026-07-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/allcareers/jobs/8617191002) |
+| Apply | [View on company site](https://axiscapital.wd1.myworkdayjobs.com/axiscareers/job/Halifax-NS/Associate-Data-Architect_REQ06607-1) |
 
 ## About This Role
 
-This data engineer position at Cortica was posted on 2026-07-01.
+This data engineer position at AXIS Capital was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

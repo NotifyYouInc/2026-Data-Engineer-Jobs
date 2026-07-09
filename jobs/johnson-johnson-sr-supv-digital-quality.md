@@ -1,16 +1,16 @@
-# Application Support Engineer at Accenture
+# Sr Supv Digital Quality at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
 | Posted | 2026-07-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5634185-S2055983-1) |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Bangalore-Karnataka-India/Sr-Supv-Digital-Quality_R-086106) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-07-02.
+This data engineer position at Johnson & Johnson was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

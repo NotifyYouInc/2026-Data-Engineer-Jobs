@@ -1,16 +1,16 @@
-# Application Support Engineer at Accenture
+# Staff Data Engineer at Sixt
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
 | Posted | 2026-07-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5634185-S2055983-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000135409049-staff-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-07-02.
+This data engineer position at Sixt was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

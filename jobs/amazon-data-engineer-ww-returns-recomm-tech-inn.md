@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10456647/data-engineer-ww-returns-recomm-tech-inn) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10464477/data-engineer-ww-returns-recomm-tech-inn) |
 
 ## About This Role
 
-This data engineer position at Amazon was posted on 2026-06-23.
+This data engineer position at Amazon was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

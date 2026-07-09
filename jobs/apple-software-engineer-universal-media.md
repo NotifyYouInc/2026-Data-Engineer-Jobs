@@ -1,16 +1,16 @@
-# Senior AI Data Engineer at Cortica
+# Software Engineer - Universal Media at Apple
 
 | Field | Details |
 |-------|---------|
-| Company | [Cortica](https://scoutify.ai/companies/cortica?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | San Diego, California, United States |
-| Category | Data Engineer |
+| Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Not specified |
+| Category | Software Engineer |
 | Posted | 2026-07-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/allcareers/jobs/8617191002) |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200670706/software-engineer-universal-media) |
 
 ## About This Role
 
-This data engineer position at Cortica was posted on 2026-07-01.
+This software engineer position at Apple was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

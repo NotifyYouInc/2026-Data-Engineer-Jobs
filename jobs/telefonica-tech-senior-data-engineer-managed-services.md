@@ -1,16 +1,16 @@
-# Application Support Engineer at Accenture
+# Senior Data Engineer - Managed Services at Telefonica Tech
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Telefonica Tech](https://scoutify.ai/companies/telefonica-tech?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
 | Posted | 2026-07-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5634185-S2055983-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/telefonicatech/744000135437187-senior-data-engineer-managed-services) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-07-02.
+This data engineer position at Telefonica Tech was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

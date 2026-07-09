@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Grenoble, Rhône-Alpes, France |
 | Category | Data Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000129751223-geomaticien-sig-hf) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000135454749-geomaticien-sig-hf) |
 
 ## About This Role
 
-This data engineer position at ALTEN was posted on 2026-06-02.
+This data engineer position at ALTEN was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

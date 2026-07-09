@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Courbevoie, Île-de-France, France |
 | Category | Data Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000134828798-senior-data-engineer-hf-sopra-steria-next-idf) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000135206198-senior-data-engineer-hf-sopra-steria-next-idf) |
 
 ## About This Role
 
-This data engineer position at Sopra Steria was posted on 2026-06-29.
+This data engineer position at Sopra Steria was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

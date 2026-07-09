@@ -1,16 +1,16 @@
-# Data Engineer, AVP at NatWest Group
+# Research Scientist, Data at Pika
 
 | Field | Details |
 |-------|---------|
-| Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 3 locations |
+| Company | [Pika](https://scoutify.ai/companies/pika?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Palo Alto, California, United States |
 | Category | Data Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Data-Engineer--AVP_R-00278398-1) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/pika/82835e51-284c-47af-b254-088fff23acd5) |
 
 ## About This Role
 
-This data engineer position at NatWest Group was posted on 2026-07-02.
+This data engineer position at Pika was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

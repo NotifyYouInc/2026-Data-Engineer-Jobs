@@ -5,12 +5,12 @@
 | Company | [City and County of San Francisco](https://scoutify.ai/companies/city-and-county-of-san-francisco?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityandcountyofsanfrancisco1/3743990013665326-senior-data-engineer-1043-datasf-office-of-city-administrator) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityandcountyofsanfrancisco1/3743990013885786-senior-data-engineer-1043-datasf-office-of-city-administrator) |
 
 ## About This Role
 
-This data engineer position at City and County of San Francisco was posted on 2026-06-17.
+This data engineer position at City and County of San Francisco was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

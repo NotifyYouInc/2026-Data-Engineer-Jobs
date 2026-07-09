@@ -1,16 +1,16 @@
-# Data Engineer, AVP at NatWest Group
+# Senior Analytics Engineer at Centene
 
 | Field | Details |
 |-------|---------|
-| Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 3 locations |
+| Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Florida, US |
 | Category | Data Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Data-Engineer--AVP_R-00278398-1) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Senior-Analytics-Engineer_1642329-1) |
 
 ## About This Role
 
-This data engineer position at NatWest Group was posted on 2026-07-02.
+This data engineer position at Centene was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

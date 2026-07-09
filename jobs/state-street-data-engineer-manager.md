@@ -1,16 +1,16 @@
-# Data Engineer - Manager at State Street
+# Data Engineer - Manager at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Data-Engineer---Manager_R-786262) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Engineer |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Data-Engineer---Manager_R-793320) |
 
 ## About This Role
 
-This software engineer position at State Street was posted on 2026-03-19.
+This data engineer position at State Street was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

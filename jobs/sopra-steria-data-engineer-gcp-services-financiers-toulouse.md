@@ -1,16 +1,16 @@
-# Senior Data Engineer (H/F) - Sopra Steria Next - Limonest at Sopra Steria
+# Data Engineer GCP - Services Financiers - Toulouse at Sopra Steria
 
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Limonest, Rhône-Alpes, France |
+| Location | Colomiers, Occitanie, France |
 | Category | Data Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000135202862-senior-data-engineer-hf-sopra-steria-next-limonest) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000135451014-data-engineer-gcp-services-financiers-toulouse) |
 
 ## About This Role
 
-This data engineer position at Sopra Steria was posted on 2026-07-01.
+This data engineer position at Sopra Steria was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

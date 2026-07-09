@@ -1,16 +1,16 @@
-# Senior AI Data Engineer at Cortica
+# Senior Data Engineer at Group 1001
 
 | Field | Details |
 |-------|---------|
-| Company | [Cortica](https://scoutify.ai/companies/cortica?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | San Diego, California, United States |
+| Company | [Group 1001](https://scoutify.ai/companies/group1001wd?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Zionsville, Indiana, United States |
 | Category | Data Engineer |
 | Posted | 2026-07-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/allcareers/jobs/8617191002) |
+| Apply | [View on company site](https://group1001wd.wd5.myworkdayjobs.com/careers/job/Zionsville-Office/Senior-Data-Engineer_R26_0323) |
 
 ## About This Role
 
-This data engineer position at Cortica was posted on 2026-07-01.
+This data engineer position at Group 1001 was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

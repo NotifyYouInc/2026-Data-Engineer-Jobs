@@ -6,7 +6,7 @@
 | Location | Costa Mesa, California, United States |
 | Category | Data Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5150089007?gh_jid=5150089007) |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5114652007?gh_jid=5114652007) |
 
 ## About This Role
 
