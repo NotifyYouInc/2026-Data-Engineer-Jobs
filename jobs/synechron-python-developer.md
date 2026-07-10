@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Toronto-ON/Python-Developer_JR1037326) |
+| Location | Pune, Maharashtra, India |
+| Category | Data Engineer |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Pune---Kharadi-EON-II/Python-Developer_JR1041479-1) |
 
 ## About This Role
 
-This software engineer position at Synechron was posted on 2026-03-06.
+This data engineer position at Synechron was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

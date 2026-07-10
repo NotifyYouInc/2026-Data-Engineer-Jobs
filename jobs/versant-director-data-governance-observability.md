@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Leadership Development Program |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000131962953-director-data-governance-observability) |
+| Category | Data Engineer |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000135576408-director-data-governance-observability) |
 
 ## About This Role
 
-This leadership development program position at Versant was posted on 2026-06-12.
+This data engineer position at Versant was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

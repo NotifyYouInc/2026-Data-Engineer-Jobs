@@ -1,16 +1,16 @@
-# SR. DATA ENGINEER at Micron
+# Sr. Data Engineer at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taoyuan---Fab-11-Taiwan/SR-DATA-ENGINEER_JR90323) |
+| Location | Hyderabad, Telangana, India |
+| Category | Data Engineer |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Sr-Data-Engineer_JR105341) |
 
 ## About This Role
 
-This software engineer position at Micron was posted on 2026-02-24.
+This data engineer position at Micron was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

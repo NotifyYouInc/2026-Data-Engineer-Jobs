@@ -1,16 +1,16 @@
-# Business Intelligence Engineer , Amazon Customer Service at Amazon
+# Business Intelligence Engineer, Amazon Customer Service at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | London, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10423295/business-intelligence-engineer-amazon-customer-service) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10465568/business-intelligence-engineer-amazon-customer-service) |
 
 ## About This Role
 
-This data engineer position at Amazon was posted on 2026-05-19.
+This data engineer position at Amazon was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Durability, Data Analytics Principal Engineer P4 (Onsite) at RTX
+# Durability Data Analytics Principal Engineer P4 (Onsite) at RTX
 
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | East Hartford, Connecticut, United States |
-| Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Durability--Data-Analytics-Principal-Engineer-P4--Onsite-_01829898-1) |
+| Category | Data Engineer |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/Durability-Data-Analytics-Principal-Engineer-P4--Onsite-_01857071) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-04-16.
+This data engineer position at RTX was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

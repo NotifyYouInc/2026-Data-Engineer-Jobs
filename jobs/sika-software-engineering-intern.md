@@ -5,12 +5,12 @@
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Zürich, Zurich, Switzerland |
 | Category | Software Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000134947630-software-engineering-intern) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000135191514-software-engineering-intern) |
 
 ## About This Role
 
-This software engineer position at Sika was posted on 2026-06-30.
+This software engineer position at Sika was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

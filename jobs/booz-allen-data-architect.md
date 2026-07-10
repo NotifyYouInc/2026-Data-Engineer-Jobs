@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Data-Architect_R0242060) |
+| Location | Warner Robins, Georgia, United States |
+| Category | Data Engineer |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Warner-Robins-GA/Data-Architect_R0243613) |
 
 ## About This Role
 
-This technical & solutions architect position at Booz Allen was posted on 2026-06-11.
+This data engineer position at Booz Allen was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 4 locations |
-| Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Springfield-VA/Oracle-Database-Engineer_R0238417) |
+| Category | Data Engineer |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Springfield-VA/Oracle-Database-Engineer_R0243694) |
 
 ## About This Role
 
-This software engineer position at Booz Allen was posted on 2026-04-22.
+This data engineer position at Booz Allen was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---Thanissandra-BCIT/Abinitio-Developer_JR1041320) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---Thanissandra-BCIT/Abinitio-Developer_JR1041321) |
 
 ## About This Role
 
-This data engineer position at Synechron was posted on 2026-06-30.
+This data engineer position at Synechron was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

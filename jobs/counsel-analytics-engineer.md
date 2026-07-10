@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Counsel](https://scoutify.ai/companies/counsel?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | New York, US |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/counsel/c98d0bc0-8398-4adb-8d31-f08fa3be88d8) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/counsel/3b697d1e-3928-4f24-8d60-54652894dc66) |
 
 ## About This Role
 
-This data engineer position at Counsel was posted on 2026-04-14.
+This data engineer position at Counsel was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

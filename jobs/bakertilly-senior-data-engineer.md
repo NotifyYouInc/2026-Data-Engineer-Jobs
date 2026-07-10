@@ -5,12 +5,12 @@
 | Company | [Bakertilly](https://scoutify.ai/companies/bakertilly?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/IND-KA-Bangalore---Cherry-Hills/Senior-Data-Engineer_JR104980) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/IND-KA-Bangalore---Cherry-Hills/Senior-Data-Engineer_JR106838) |
 
 ## About This Role
 
-This data engineer position at Bakertilly was posted on 2026-04-29.
+This data engineer position at Bakertilly was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

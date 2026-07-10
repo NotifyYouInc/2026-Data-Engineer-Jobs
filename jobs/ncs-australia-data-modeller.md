@@ -5,12 +5,12 @@
 | Company | [NCS Australia](https://scoutify.ai/companies/ncs-australia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Data Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001034687-data-modeller) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001206777-data-modeller) |
 
 ## About This Role
 
-This data engineer position at NCS Australia was posted on 2026-04-29.
+This data engineer position at NCS Australia was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

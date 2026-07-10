@@ -5,12 +5,12 @@
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Data Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/MADRID-GENERAL-OFFICE/Data-Engineer-Internship--m-f-x-_R000153580) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/MADRID-GENERAL-OFFICE/Data-Engineer-Internship--m-f-x-_R000154644) |
 
 ## About This Role
 
-This data engineer position at Procter & Gamble was posted on 2026-06-16.
+This data engineer position at Procter & Gamble was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

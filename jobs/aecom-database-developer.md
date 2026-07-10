@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | New York City, New York, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000134307099-database-developer) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000135493645-database-developer) |
 
 ## About This Role
 
-This data engineer position at AECOM was posted on 2026-06-25.
+This data engineer position at AECOM was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

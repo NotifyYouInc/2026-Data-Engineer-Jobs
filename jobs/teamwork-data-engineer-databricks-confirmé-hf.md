@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TeamWork](https://scoutify.ai/companies/teamwork?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Saint-Priest, Rhône-Alpes, France |
+| Location | Paris, Île-de-France, France |
 | Category | Data Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TeamworkCorporate/744000121114277-data-engineer-databricks-confirme-hf) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TeamworkCorporate/744000135488331-data-engineer-databricks-confirme-hf) |
 
 ## About This Role
 
-This data engineer position at TeamWork was posted on 2026-04-16.
+This data engineer position at TeamWork was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

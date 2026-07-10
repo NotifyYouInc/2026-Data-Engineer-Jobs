@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cgm](https://scoutify.ai/companies/cgm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 4 locations |
+| Location | Heidelberg, Baden-Wurttemberg, Germany |
 | Category | Data Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://cgm.wd3.myworkdayjobs.com/cgm/job/Koblenz/Senior-Data-Engineer--m-w-d-_JR109649) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://cgm.wd3.myworkdayjobs.com/cgm/job/Heidelberg/Senior-Data-Engineer--m-w-d-_JR109906) |
 
 ## About This Role
 
-This data engineer position at Cgm was posted on 2026-05-28.
+This data engineer position at Cgm was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

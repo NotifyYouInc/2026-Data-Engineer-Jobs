@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Nevada, US |
+| Location | Stuttgart, Baden-Wurttemberg, Germany |
 | Category | Data Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Nellis-AFB-NV/Data-Engineer_R0243381) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Stuttgart-Baden-Wurttemberg/Data-Engineer_R0243507-1) |
 
 ## About This Role
 
-This data engineer position at Booz Allen was posted on 2026-06-30.
+This data engineer position at Booz Allen was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

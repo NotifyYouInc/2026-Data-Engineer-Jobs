@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Rome, Lazio, Italy |
+| Location | Warwick, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990013493059-data-engineer) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990013921396-data-engineer) |
 
 ## About This Role
 
-This data engineer position at MSX International was posted on 2026-06-05.
+This data engineer position at MSX International was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Data Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000127636723-senior-process-intelligence-analyst-engineer-mfd) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000135655541-senior-process-intelligence-analyst-engineer-mfd) |
 
 ## About This Role
 
-This data engineer position at Sixt was posted on 2026-05-21.
+This data engineer position at Sixt was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 
