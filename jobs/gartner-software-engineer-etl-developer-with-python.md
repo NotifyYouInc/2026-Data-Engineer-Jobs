@@ -1,16 +1,16 @@
-# Senior Data Engineer at Roku
+# Software Engineer - ETL Developer with Python at Gartner
 
 | Field | Details |
 |-------|---------|
-| Company | [Roku](https://scoutify.ai/companies/roku?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Austin, Texas, United States |
+| Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Data Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://www.weareroku.com/jobs/8044827?gh_jid=8044827) |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Software-Engineer---ETL-Developer-with-Python_111578) |
 
 ## About This Role
 
-This data engineer position at Roku was posted on 2026-07-03.
+This data engineer position at Gartner was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Engineer III at Expedia
+# Principal Engineer, Data Analytics Engineering [ 8+ years ]  at Western Digital
 
 | Field | Details |
 |-------|---------|
-| Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Bangalore/Data-Engineer-III_R-107353) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000135711559-principal-engineer-data-analytics-engineering-8-years) |
 
 ## About This Role
 
-This data engineer position at Expedia was posted on 2026-07-02.
+This data engineer position at Western Digital was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

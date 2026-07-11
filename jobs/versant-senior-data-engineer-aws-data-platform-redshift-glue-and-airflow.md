@@ -5,12 +5,12 @@
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Orlando, Florida, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000135111589-senior-data-engineer-aws-data-platform-redshift-glue-and-airflow) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000135582921-senior-data-engineer-aws-data-platform-redshift-glue-and-airflow) |
 
 ## About This Role
 
-This data engineer position at Versant was posted on 2026-06-30.
+This data engineer position at Versant was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

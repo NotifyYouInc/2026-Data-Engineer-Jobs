@@ -1,16 +1,16 @@
-# Senior Data Engineer at Roku
+# Data Associate at TD Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Roku](https://scoutify.ai/companies/roku?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Austin, Texas, United States |
+| Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Data Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://www.weareroku.com/jobs/8044827?gh_jid=8044827) |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Associate_R_1494371) |
 
 ## About This Role
 
-This data engineer position at Roku was posted on 2026-07-03.
+This data engineer position at TD Bank was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Data Engineer at Roku
+# DATA ENGINEER II at Inter Carreiras
 
 | Field | Details |
 |-------|---------|
-| Company | [Roku](https://scoutify.ai/companies/roku?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Austin, Texas, United States |
+| Company | [Inter Carreiras](https://scoutify.ai/companies/inter-carreiras?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Belo Horizonte, Minas Gerais, Brazil |
 | Category | Data Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://www.weareroku.com/jobs/8044827?gh_jid=8044827) |
+| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4707932005?gh_jid=4707932005) |
 
 ## About This Role
 
-This data engineer position at Roku was posted on 2026-07-03.
+This data engineer position at Inter Carreiras was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

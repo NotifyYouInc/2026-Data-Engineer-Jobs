@@ -1,16 +1,16 @@
-# Data Engineer III at Expedia
+# Senior Data Platform Engineer (Data Lake and Catalog) at Expedia
 
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | London, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Bangalore/Data-Engineer-III_R-107353) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Senior-Data-Platform-Engineer--Data-Lake-and-Catalog-_R-107322-1) |
 
 ## About This Role
 
-This data engineer position at Expedia was posted on 2026-07-02.
+This data engineer position at Expedia was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

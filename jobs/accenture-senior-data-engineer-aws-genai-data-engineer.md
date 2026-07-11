@@ -1,12 +1,12 @@
-# Quality Engineer at Accenture
+# Senior Data Engineer AWS & GenAI Data Engineer at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Madrid, Madrid, Spain |
 | Category | Data Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Quality-Engineer_ATCI-5624114-S2056713-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Madrid/Senior-Data-Engineer-AWS---GenAI-Data-Engineer_14531949) |
 
 ## About This Role
 

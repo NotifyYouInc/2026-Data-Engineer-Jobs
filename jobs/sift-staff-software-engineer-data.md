@@ -1,16 +1,16 @@
-# Senior Data Engineer at Roku
+# Staff Software Engineer, Data at Sift
 
 | Field | Details |
 |-------|---------|
-| Company | [Roku](https://scoutify.ai/companies/roku?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Austin, Texas, United States |
+| Company | [Sift](https://scoutify.ai/companies/sift?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://www.weareroku.com/jobs/8044827?gh_jid=8044827) |
+| Posted | 2025-10-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/siftstack/d4d9eb12-8306-4421-9634-e73af5c93c8e) |
 
 ## About This Role
 
-This data engineer position at Roku was posted on 2026-07-03.
+This data engineer position at Sift was posted on 2025-10-27.
 
 ## Get Real-Time Alerts
 

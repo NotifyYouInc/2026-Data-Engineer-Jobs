@@ -1,16 +1,16 @@
-# Senior Data Engineer at Roku
+# Data Engineer at Skimmer
 
 | Field | Details |
 |-------|---------|
-| Company | [Roku](https://scoutify.ai/companies/roku?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Austin, Texas, United States |
+| Company | [Skimmer](https://scoutify.ai/companies/skimmer?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | United States |
 | Category | Data Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://www.weareroku.com/jobs/8044827?gh_jid=8044827) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/skimmer/26347076-0ed6-4886-8f64-d691909e43c4) |
 
 ## About This Role
 
-This data engineer position at Roku was posted on 2026-07-03.
+This data engineer position at Skimmer was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

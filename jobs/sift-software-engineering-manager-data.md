@@ -1,16 +1,16 @@
-# Data Engineer at Bank of Montreal
+# Software Engineering Manager (Data) at Sift
 
 | Field | Details |
 |-------|---------|
-| Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Sift](https://scoutify.ai/companies/sift?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
-| Category | Data Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Data-Engineer_R260019331) |
+| Category | Engineering Manager |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/siftstack/29f2aa4d-80af-419f-83fc-a9053e03f433) |
 
 ## About This Role
 
-This data engineer position at Bank of Montreal was posted on 2026-07-03.
+This engineering manager position at Sift was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

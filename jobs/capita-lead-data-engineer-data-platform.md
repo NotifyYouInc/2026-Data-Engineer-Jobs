@@ -1,16 +1,16 @@
-# Senior Data Engineer at Roku
+# Lead Data Engineer - Data Platform at Capita
 
 | Field | Details |
 |-------|---------|
-| Company | [Roku](https://scoutify.ai/companies/roku?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Austin, Texas, United States |
+| Company | [Capita](https://scoutify.ai/companies/capita?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://www.weareroku.com/jobs/8044827?gh_jid=8044827) |
+| Apply | [View on company site](https://capita.wd3.myworkdayjobs.com/capitaglobal/job/Pune/Lead-Data-Engineer---Data-Platform_10120213) |
 
 ## About This Role
 
-This data engineer position at Roku was posted on 2026-07-03.
+This data engineer position at Capita was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Data Engineer at Roku
+# Senior Analytics Engineer (f/m/div.) at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [Roku](https://scoutify.ai/companies/roku?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Austin, Texas, United States |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Braga, Braga, Portugal |
 | Category | Data Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://www.weareroku.com/jobs/8044827?gh_jid=8044827) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000135765439-senior-analytics-engineer-fmdiv) |
 
 ## About This Role
 
-This data engineer position at Roku was posted on 2026-07-03.
+This data engineer position at Robert Bosch was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

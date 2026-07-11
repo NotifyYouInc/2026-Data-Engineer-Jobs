@@ -1,16 +1,16 @@
-# Senior Data Engineer at Roku
+# Databricks Data Engineer  at Devoteam
 
 | Field | Details |
 |-------|---------|
-| Company | [Roku](https://scoutify.ai/companies/roku?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Austin, Texas, United States |
+| Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Data Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://www.weareroku.com/jobs/8044827?gh_jid=8044827) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000135698479-databricks-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Roku was posted on 2026-07-03.
+This data engineer position at Devoteam was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

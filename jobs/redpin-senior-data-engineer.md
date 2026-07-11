@@ -1,16 +1,16 @@
-# Senior Data Engineer at Roku
+# Senior Data Engineer at Redpin
 
 | Field | Details |
 |-------|---------|
-| Company | [Roku](https://scoutify.ai/companies/roku?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Austin, Texas, United States |
+| Company | [Redpin](https://scoutify.ai/companies/redpin?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://www.weareroku.com/jobs/8044827?gh_jid=8044827) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/currenciesdirect/jobs/4767440101) |
 
 ## About This Role
 
-This data engineer position at Roku was posted on 2026-07-03.
+This data engineer position at Redpin was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

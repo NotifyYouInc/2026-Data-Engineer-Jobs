@@ -1,16 +1,16 @@
-# Senior Data Engineer at Roku
+# Data Enginner at Magna
 
 | Field | Details |
 |-------|---------|
-| Company | [Roku](https://scoutify.ai/companies/roku?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Austin, Texas, United States |
+| Company | [Magna](https://scoutify.ai/companies/magna?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Ramos Arizpe, Coahuila, Mexico |
 | Category | Data Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://www.weareroku.com/jobs/8044827?gh_jid=8044827) |
+| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Ramos-Arizpe-MX/Data-Enginner_R00247360) |
 
 ## About This Role
 
-This data engineer position at Roku was posted on 2026-07-03.
+This data engineer position at Magna was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

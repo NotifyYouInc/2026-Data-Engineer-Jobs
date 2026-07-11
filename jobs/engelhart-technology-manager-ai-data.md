@@ -1,16 +1,16 @@
-# Senior Data Engineer at Roku
+# Technology Manager, AI & Data  at Engelhart
 
 | Field | Details |
 |-------|---------|
-| Company | [Roku](https://scoutify.ai/companies/roku?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Data Engineer |
+| Company | [Engelhart](https://scoutify.ai/companies/engelhart?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | London, England, United Kingdom |
+| Category | Engineering Manager |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://www.weareroku.com/jobs/8044827?gh_jid=8044827) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/engelhart/jobs/8045137) |
 
 ## About This Role
 
-This data engineer position at Roku was posted on 2026-07-03.
+This engineering manager position at Engelhart was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

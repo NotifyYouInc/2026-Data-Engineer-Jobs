@@ -1,16 +1,16 @@
-# Senior Data Engineer at Roku
+# Staff Platform Data Engineer (m/f/d) at Sixt
 
 | Field | Details |
 |-------|---------|
-| Company | [Roku](https://scoutify.ai/companies/roku?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Austin, Texas, United States |
+| Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Data Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://www.weareroku.com/jobs/8044827?gh_jid=8044827) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000135750969-staff-platform-data-engineer-mfd) |
 
 ## About This Role
 
-This data engineer position at Roku was posted on 2026-07-03.
+This data engineer position at Sixt was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

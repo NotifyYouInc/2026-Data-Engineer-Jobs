@@ -1,16 +1,16 @@
-# Quality Engineer at Accenture
+# Database Developer- Assistant Vice President at State Street
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Quality-Engineer_ATCI-5624114-S2056713-1) |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Database-Developer--Assistant-Vice-President_R-793489) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-07-03.
+This software engineer position at State Street was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 
