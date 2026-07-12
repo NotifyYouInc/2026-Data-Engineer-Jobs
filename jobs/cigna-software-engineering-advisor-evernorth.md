@@ -1,16 +1,16 @@
-# Software Engineering Advisor –Evernorth at Cigna
+# Software Engineering Advisor - Evernorth at Cigna
 
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bloomington, Minnesota, United States |
-| Category | Data Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomington-MN/Software-Engineering-Advisor--Evernorth_26003867) |
+| Location | Morris Plains, New Jersey, United States |
+| Category | Software Engineer |
+| Posted | 2026-07-05 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Software-Engineering-Advisor---Evernorth_26007758) |
 
 ## About This Role
 
-This data engineer position at Cigna was posted on 2026-04-06.
+This software engineer position at Cigna was posted on 2026-07-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Engineer Manager at Capita
+# AWS Data Architect at Weekdayworks
 
 | Field | Details |
 |-------|---------|
-| Company | [Capita](https://scoutify.ai/companies/capita?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Weekdayworks](https://scoutify.ai/companies/weekdayworks?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-07-05 |
-| Apply | [View on company site](https://capita.wd3.myworkdayjobs.com/capitaglobal/job/Pune/Data-Engineer-Manager_10120122) |
+| Posted | 2026-07-04 |
+| Apply | [View on company site](https://jobs.lever.co/weekdayworks/9453365b-4c0c-4c41-8bd1-e89ba8dfde9e) |
 
 ## About This Role
 
-This data engineer position at Capita was posted on 2026-07-05.
+This data engineer position at Weekdayworks was posted on 2026-07-04.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Engineer Manager at Capita
+# Data Engineer - Billing Platform at AppsFlyer
 
 | Field | Details |
 |-------|---------|
-| Company | [Capita](https://scoutify.ai/companies/capita?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [AppsFlyer](https://scoutify.ai/companies/appsflyer?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Herzliya, Tel Aviv, Israel |
 | Category | Data Engineer |
 | Posted | 2026-07-05 |
-| Apply | [View on company site](https://capita.wd3.myworkdayjobs.com/capitaglobal/job/Pune/Data-Engineer-Manager_10120122) |
+| Apply | [View on company site](https://careers.appsflyer.com/jobs/position/8620283002?gh_jid=8620283002) |
 
 ## About This Role
 
-This data engineer position at Capita was posted on 2026-07-05.
+This data engineer position at AppsFlyer was posted on 2026-07-05.
 
 ## Get Real-Time Alerts
 
