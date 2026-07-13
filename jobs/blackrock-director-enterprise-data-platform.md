@@ -1,16 +1,16 @@
-# Data Engineer 2 at Comcast
+# Director - Enterprise Data Platform at Blackrock
 
 | Field | Details |
 |-------|---------|
-| Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Data Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Data-Engineer-2_R439478) |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Director---Enterprise-Data-Platform_R264458) |
 
 ## About This Role
 
-This data engineer position at Comcast was posted on 2026-07-06.
+This data engineer position at Blackrock was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

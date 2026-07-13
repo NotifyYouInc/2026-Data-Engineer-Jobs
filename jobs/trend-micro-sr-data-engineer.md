@@ -1,16 +1,16 @@
-# Data Engineer 2 at Comcast
+# (Sr.) Data Engineer at Trend Micro
 
 | Field | Details |
 |-------|---------|
-| Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Data Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Data-Engineer-2_R439478) |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Taipei/XMLNAME--Sr--Data-Engineer_R0009905) |
 
 ## About This Role
 
-This data engineer position at Comcast was posted on 2026-07-06.
+This data engineer position at Trend Micro was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

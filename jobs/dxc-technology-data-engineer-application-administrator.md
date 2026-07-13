@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Data Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/BGR---SOFIA/Data-Engineer---Application-Administrator_51583345) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/BGR---SOFIA/Data-Engineer---Application-Administrator_51584401) |
 
 ## About This Role
 
-This data engineer position at DXC Technology was posted on 2026-06-30.
+This data engineer position at DXC Technology was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

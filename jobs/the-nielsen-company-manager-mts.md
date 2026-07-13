@@ -1,16 +1,16 @@
-# Senior Data Engineer (Python, PySpark, Kafka) at Robert Bosch
+# Manager, MTS at The Nielsen Company
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
+| Category | Engineering Manager |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000135948765-senior-data-engineer-python-pyspark-kafka) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013931436-manager-mts) |
 
 ## About This Role
 
-This data engineer position at Robert Bosch was posted on 2026-07-06.
+This engineering manager position at The Nielsen Company was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

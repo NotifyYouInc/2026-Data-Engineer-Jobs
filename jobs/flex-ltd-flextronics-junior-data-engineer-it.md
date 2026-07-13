@@ -1,16 +1,16 @@
-# Data Engineer 2 at Comcast
+# Junior Data Engineer - IT at FLEX LTD. Flextronics
 
 | Field | Details |
 |-------|---------|
-| Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Data Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Data-Engineer-2_R439478) |
+| Posted | 2026-07-05 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/India-Chennai/Junior-Data-Engineer---IT_WD224301) |
 
 ## About This Role
 
-This data engineer position at Comcast was posted on 2026-07-06.
+This data engineer position at FLEX LTD. Flextronics was posted on 2026-07-05.
 
 ## Get Real-Time Alerts
 

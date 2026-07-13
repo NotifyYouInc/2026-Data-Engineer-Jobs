@@ -1,16 +1,16 @@
-# Senior Data Engineer at Levi Strauss & Co.
+# Xtrackers SEA - Order C/R (AVP - Sr. Tech Analyst, Data Dev) at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Levi Strauss & Co.](https://scoutify.ai/companies/levistraussandco?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://levistraussandco.wd5.myworkdayjobs.com/external/job/GCC-Office--ITC-Green-Center-Bengaluru-Karnataka-India/Senior-Data-Engineer_R-0153723) |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bangalore-Velankani-Tech-Park/Xtrackers-SEA---Order-C-R--AVP---Sr-Tech-Analyst--Data-Dev-_R0439893-1) |
 
 ## About This Role
 
-This data engineer position at Levi Strauss & Co. was posted on 2026-07-06.
+This data engineer position at Deutsche Bank was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

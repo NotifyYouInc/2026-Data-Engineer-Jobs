@@ -1,16 +1,16 @@
-# Data Engineer 2 at Comcast
+# Analytics Engineer at Careers at Eucalyptus
 
 | Field | Details |
 |-------|---------|
-| Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Careers at Eucalyptus](https://scoutify.ai/companies/careers-at-eucalyptus?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | New South Wales, AU |
 | Category | Data Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Data-Engineer-2_R439478) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/eucalyptus/jobs/4712113005) |
 
 ## About This Role
 
-This data engineer position at Comcast was posted on 2026-07-06.
+This data engineer position at Careers at Eucalyptus was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

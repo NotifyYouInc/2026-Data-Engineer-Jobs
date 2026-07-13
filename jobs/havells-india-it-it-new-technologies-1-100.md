@@ -1,16 +1,16 @@
-# Data Engineer II at Airasia
+# IT_IT New Technologies_1 (100) at Havells India
 
 | Field | Details |
 |-------|---------|
-| Company | [Airasia](https://scoutify.ai/companies/airasia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Company | [Havells India](https://scoutify.ai/companies/ocs-cx-oj47964?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Uttar Pradesh, IN |
 | Category | Data Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://airasia.wd3.myworkdayjobs.com/careers/job/Kuala-Lumpur---RedQ/Data-Engineer-II_JR0034158) |
+| Posted | 2025-08-28 |
+| Apply | [View on company site](https://iabgcp.fa.ocs.oraclecloud.com/jobs/#1001051) |
 
 ## About This Role
 
-This data engineer position at Airasia was posted on 2026-07-06.
+This data engineer position at Havells India was posted on 2025-08-28.
 
 ## Get Real-Time Alerts
 

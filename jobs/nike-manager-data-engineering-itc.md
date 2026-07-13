@@ -1,16 +1,16 @@
-# Senior Data Engineer at Levi Strauss & Co.
+# Manager Data Engineering, ITC at Nike
 
 | Field | Details |
 |-------|---------|
-| Company | [Levi Strauss & Co.](https://scoutify.ai/companies/levistraussandco?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://levistraussandco.wd5.myworkdayjobs.com/external/job/GCC-Office--ITC-Green-Center-Bengaluru-Karnataka-India/Senior-Data-Engineer_R-0153723) |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Manager-Data-Engineering--ITC_R-87277) |
 
 ## About This Role
 
-This data engineer position at Levi Strauss & Co. was posted on 2026-07-06.
+This data engineer position at Nike was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

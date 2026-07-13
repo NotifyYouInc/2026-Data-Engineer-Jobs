@@ -1,16 +1,16 @@
-# Senior Data Engineer at Levi Strauss & Co.
+# Associate Engineer - Data Engineer pyTorch at HARMAN International
 
 | Field | Details |
 |-------|---------|
-| Company | [Levi Strauss & Co.](https://scoutify.ai/companies/levistraussandco?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://levistraussandco.wd5.myworkdayjobs.com/external/job/GCC-Office--ITC-Green-Center-Bengaluru-Karnataka-India/Senior-Data-Engineer_R-0153723) |
+| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Bangalore---Karnataka-India---Kalyani-Platina/Associate-Engineer---Data-Engineer-pyTorch_R-54118-2026) |
 
 ## About This Role
 
-This data engineer position at Levi Strauss & Co. was posted on 2026-07-06.
+This data engineer position at HARMAN International was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

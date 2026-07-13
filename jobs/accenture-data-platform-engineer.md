@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Data Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Data-Platform-Engineer_ATCI-5317561-S1938569-1) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Data-Platform-Engineer_ATCP-1394986-S421096) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-07-01.
+This data engineer position at Accenture was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

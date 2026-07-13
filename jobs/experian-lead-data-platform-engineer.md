@@ -1,16 +1,16 @@
-# Data Engineer 2 at Comcast
+# Lead Data Platform Engineer at Experian
 
 | Field | Details |
 |-------|---------|
-| Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Data-Engineer-2_R439478) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000135914471-lead-data-platform-engineer) |
 
 ## About This Role
 
-This data engineer position at Comcast was posted on 2026-07-06.
+This data engineer position at Experian was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

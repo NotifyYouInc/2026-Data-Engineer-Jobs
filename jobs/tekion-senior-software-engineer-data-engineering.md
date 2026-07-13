@@ -1,16 +1,16 @@
-# Senior Data Engineer at Levi Strauss & Co.
+# Senior Software Engineer - Data Engineering at Tekion
 
 | Field | Details |
 |-------|---------|
-| Company | [Levi Strauss & Co.](https://scoutify.ai/companies/levistraussandco?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Tekion](https://scoutify.ai/companies/tekion?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://levistraussandco.wd5.myworkdayjobs.com/external/job/GCC-Office--ITC-Green-Center-Bengaluru-Karnataka-India/Senior-Data-Engineer_R-0153723) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tekion/jobs/7781608003) |
 
 ## About This Role
 
-This data engineer position at Levi Strauss & Co. was posted on 2026-07-06.
+This data engineer position at Tekion was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

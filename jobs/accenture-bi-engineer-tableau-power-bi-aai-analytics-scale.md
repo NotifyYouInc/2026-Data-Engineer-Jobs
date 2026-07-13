@@ -1,16 +1,16 @@
-# Custom Software Engineer at Accenture
+# BI Engineer - Tableau / Power BI (AAI Analytics Scale) at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5630858-S2056107-1) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Category | Data Engineer |
+| Posted | 2026-07-05 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kuala-Lumpur-Vertical-Corp-Tower-B/BI-Engineer---Tableau---Power-BI--AAI-Analytics-Scale-_14501028) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-07-02.
+This data engineer position at Accenture was posted on 2026-07-05.
 
 ## Get Real-Time Alerts
 
