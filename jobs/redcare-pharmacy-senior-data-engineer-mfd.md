@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Berlin, State of Berlin, Germany |
-| Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000112495654-senior-data-engineer-mfd) |
+| Location | Germany |
+| Category | Data Engineer |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000136016220-senior-data-engineer-mfd) |
 
 ## About This Role
 
-This software engineer position at Redcare Pharmacy was posted on 2026-03-03.
+This data engineer position at Redcare Pharmacy was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

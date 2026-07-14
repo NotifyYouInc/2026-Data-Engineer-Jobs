@@ -1,12 +1,12 @@
-#  Clinical Data Manager (Senior) at Bioptimus
+# Clinical Data Manager (Senior) at Bioptimus
 
 | Field | Details |
 |-------|---------|
 | Company | [Bioptimus](https://scoutify.ai/companies/bioptimus8?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | Paris, Île-de-France, France |
 | Category | Data Engineer |
 | Posted | 2026-07-02 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/bioptimus8/jobs/4917737101) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/bioptimus8/jobs/4899433101) |
 
 ## About This Role
 

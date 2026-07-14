@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
 | Category | Software Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000128695874-software-engineer-python-data-agentic-ai) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000136150549-software-engineer-python-data-agentic-ai) |
 
 ## About This Role
 
-This software engineer position at Devoteam was posted on 2026-05-27.
+This software engineer position at Devoteam was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

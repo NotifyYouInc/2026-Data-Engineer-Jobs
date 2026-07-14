@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Data-Engineer_2015738-2) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Hyderabad-India/Data-Engineer_2016454-1) |
 
 ## About This Role
 
-This data engineer position at Cisco was posted on 2026-07-02.
+This data engineer position at Cisco was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

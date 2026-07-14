@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valtech](https://scoutify.ai/companies/valtech?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/valtech/jobs/4650592101) |
+| Location | 2 locations |
+| Category | AI / LLM Engineer |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/valtech/jobs/4920393101) |
 
 ## About This Role
 
-This data engineer position at Valtech was posted on 2026-04-20.
+This ai / llm engineer position at Valtech was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

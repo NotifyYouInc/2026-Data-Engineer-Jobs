@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10456815/data-engineer-ii-sales-data-services-sds) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10467078/data-engineer-ii-sales-data-services-sds) |
 
 ## About This Role
 
-This data engineer position at Amazon was posted on 2026-06-23.
+This data engineer position at Amazon was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

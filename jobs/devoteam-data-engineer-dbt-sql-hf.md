@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Rabat, Rabat-Salé-Kénitra, Morocco |
 | Category | Data Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000130004469-data-engineer-dbt-sql-hf) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000136019259-data-engineer-dbt-sql-hf) |
 
 ## About This Role
 
-This data engineer position at Devoteam was posted on 2026-06-03.
+This data engineer position at Devoteam was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

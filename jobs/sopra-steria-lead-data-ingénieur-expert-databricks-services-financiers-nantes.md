@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Nantes, Pays de la Loire, France |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000128191708-lead-data-ingenieur-expert-databricks-services-financiers-nantes) |
+| Category | Data Engineer |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000135990745-lead-data-ingenieur-expert-databricks-services-financiers-nantes) |
 
 ## About This Role
 
-This technical & solutions architect position at Sopra Steria was posted on 2026-05-25.
+This data engineer position at Sopra Steria was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

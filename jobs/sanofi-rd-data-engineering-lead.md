@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/R-D-Data-Engineering-Lead_R2846114-1) |
+| Category | Data Engineer |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/R-D-Data-Engineering-Lead_R2861420) |
 
 ## About This Role
 
-This software engineer position at Sanofi was posted on 2026-03-10.
+This data engineer position at Sanofi was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

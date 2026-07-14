@@ -5,12 +5,12 @@
 | Company | [Jobs for Humanity](https://scoutify.ai/companies/jobs-for-humanity?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Beirut, Beyrouth, Lebanon |
 | Category | Data Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000126927942-data-integrations-engineer) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000135962229-data-integrations-engineer) |
 
 ## About This Role
 
-This data engineer position at Jobs for Humanity was posted on 2026-05-18.
+This data engineer position at Jobs for Humanity was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

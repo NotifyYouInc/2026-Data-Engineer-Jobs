@@ -5,12 +5,12 @@
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Not specified |
 | Category | Data Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000135177674-associate-principal-engineer-data-engineer-enterprise-data-architecture-banking-domain) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000135975731-associate-principal-engineer-data-engineer-enterprise-data-architecture-banking-domain) |
 
 ## About This Role
 
-This data engineer position at Nagarro was posted on 2026-07-01.
+This data engineer position at Nagarro was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

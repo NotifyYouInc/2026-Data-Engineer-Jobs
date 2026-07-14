@@ -1,16 +1,16 @@
-# Data Engineer at Clarity Innovations
+# Data Engineer  at Clarity Innovations
 
 | Field | Details |
 |-------|---------|
 | Company | [Clarity Innovations](https://scoutify.ai/companies/clarityinnovates?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | Florida, US |
 | Category | Data Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/clarityinnovates/jobs/5049719007) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/clarityinnovates/jobs/5180558007) |
 
 ## About This Role
 
-This data engineer position at Clarity Innovations was posted on 2026-02-11.
+This data engineer position at Clarity Innovations was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

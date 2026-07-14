@@ -5,12 +5,12 @@
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Lead--SW-Eng_R157175-1) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Lead--SW-Eng_R157166) |
 
 ## About This Role
 
-This data engineer position at Northern Trust was posted on 2026-07-02.
+This data engineer position at Northern Trust was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

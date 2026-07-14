@@ -5,12 +5,12 @@
 | Company | [Xcel Energy](https://scoutify.ai/companies/xcelenergy?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Senior-Data-Engineer_JR114084) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Senior-Data-Engineer_JR114469-1) |
 
 ## About This Role
 
-This data engineer position at Xcel Energy was posted on 2026-05-28.
+This data engineer position at Xcel Energy was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 
