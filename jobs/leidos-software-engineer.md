@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | McLean, Virginia, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/9633-McLean-VA-Non-specific-Customer-Site/Software-Engineer_R-00178022) |
+| Category | Software Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/Software-Engineer_R-00186773) |
 
 ## About This Role
 
-This frontend engineer position at Leidos was posted on 2026-03-11.
+This software engineer position at Leidos was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

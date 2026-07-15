@@ -1,16 +1,16 @@
-# Lead Data Engineer, Sr. Specialist at Merck
+# Lead Data engineer, Sr. Specialist at Merck
 
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City/Lead-Data-Engineer--Sr-Specialist_R403485-1) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad/Lead-Data-engineer--Sr-Specialist_R405810-1) |
 
 ## About This Role
 
-This data engineer position at Merck was posted on 2026-06-22.
+This data engineer position at Merck was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

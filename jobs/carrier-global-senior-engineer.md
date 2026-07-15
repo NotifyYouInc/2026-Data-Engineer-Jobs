@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Building-No-12D-Floor-5-Raheja-Mindspace-Cyberabad-Madhapur-Hyderabad---500081-Telangana-India/Senior-Engineer_30207622) |
+| Category | Data Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Building-No-12C-Floor-91011-Building-No-12B--Stilt-floor-Raheja-Mindspace-Cyberabad-Madhapur-Hyderabad---500081-Telangana-India/Senior-Engineer_30210843) |
 
 ## About This Role
 
-This software engineer position at Carrier Global was posted on 2026-06-17.
+This data engineer position at Carrier Global was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

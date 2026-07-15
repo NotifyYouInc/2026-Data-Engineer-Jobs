@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hangzhou, Zhejiang, China |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Data-Platform-Engineering-Principal--VP_R-787851-1) |
+| Category | Data Engineer |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Data-Platform-Engineering-Principal--VP_R-793788-1) |
 
 ## About This Role
 
-This technical & solutions architect position at State Street was posted on 2026-04-09.
+This data engineer position at State Street was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

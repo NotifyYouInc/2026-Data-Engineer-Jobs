@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Giza, Giza, Egypt |
 | Category | Data Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=117589) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=125046) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-06-02.
+This data engineer position at IBM was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

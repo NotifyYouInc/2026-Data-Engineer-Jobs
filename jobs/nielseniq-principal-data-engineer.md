@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Data Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000132892489-principal-data-engineer) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000136387524-principal-data-engineer) |
 
 ## About This Role
 
-This data engineer position at NielsenIQ was posted on 2026-06-18.
+This data engineer position at NielsenIQ was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/Palantir-Developer_40563) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Palantir-Developer_41650) |
 
 ## About This Role
 
-This data engineer position at Guidehouse was posted on 2026-06-16.
+This data engineer position at Guidehouse was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

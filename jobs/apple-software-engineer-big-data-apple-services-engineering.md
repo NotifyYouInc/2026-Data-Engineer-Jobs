@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200664567/software-engineer-big-data-apple-services-engineering) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200671404/software-engineer-big-data-apple-services-engineering) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-05-22.
+This software engineer position at Apple was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

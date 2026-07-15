@@ -5,12 +5,12 @@
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 7 locations |
 | Category | Data Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Adobe-Experience-Platform-Engineer_R-1094719-1) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Adobe-Experience-Platform-Engineer_R-1097357-1) |
 
 ## About This Role
 
-This data engineer position at Verizon was posted on 2026-05-06.
+This data engineer position at Verizon was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

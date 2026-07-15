@@ -1,16 +1,16 @@
-# Data Engineer  at Mr Apple
+# Data Engineer at Mr Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Mr Apple](https://scoutify.ai/companies/mr-apple?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | New Zealand |
 | Category | Data Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mrapple/jobs/5069822007) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mrapple/jobs/5170064007) |
 
 ## About This Role
 
-This data engineer position at Mr Apple was posted on 2026-03-18.
+This data engineer position at Mr Apple was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Paris, Île-de-France, France |
 | Category | Data Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Madrid-Spain/Data-Engineer_R1509418) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Paris-France/Data-Engineer_R1556242) |
 
 ## About This Role
 
-This data engineer position at IQVIA was posted on 2026-06-05.
+This data engineer position at IQVIA was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

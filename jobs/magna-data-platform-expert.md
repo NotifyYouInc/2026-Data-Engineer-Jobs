@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Magna](https://scoutify.ai/companies/magna?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Sweden |
-| Category | Software Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Linkoping-SE/Data-Platform-Expert_R00233776) |
+| Location | 2 locations |
+| Category | Data Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Iasi-RO/Data-Platform-Expert_R00251049) |
 
 ## About This Role
 
-This software engineer position at Magna was posted on 2026-03-09.
+This data engineer position at Magna was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

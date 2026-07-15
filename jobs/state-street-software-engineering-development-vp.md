@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Clifton-New-Jersey/Software-Engineering---Development--VP_R-784690) |
+| Location | Toronto, Ontario, Canada |
+| Category | Data Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Software-Engineering---Development--VP_R-792778) |
 
 ## About This Role
 
-This software engineer position at State Street was posted on 2026-02-24.
+This data engineer position at State Street was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

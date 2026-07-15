@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Absa](https://scoutify.ai/companies/absa?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | South Africa |
-| Category | Engineering Manager |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Sandton/Lead-Data-Engineer_R-15984897-1) |
+| Location | Johannesburg, Gauteng, South Africa |
+| Category | Data Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Johannesburg/Lead-Data-Engineer_R-15988958) |
 
 ## About This Role
 
-This engineering manager position at Absa was posted on 2026-03-12.
+This data engineer position at Absa was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 
