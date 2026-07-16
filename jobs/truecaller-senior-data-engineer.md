@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truecaller](https://scoutify.ai/companies/truecaller?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Data Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/truecaller/jobs/7307261) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/truecaller/jobs/8045075) |
 
 ## About This Role
 
-This data engineer position at Truecaller was posted on 2026-04-14.
+This data engineer position at Truecaller was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

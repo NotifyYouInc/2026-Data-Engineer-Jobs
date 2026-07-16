@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Denmark |
+| Location | Copenhagen, Capital Region, Denmark |
 | Category | Data Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000125053480-data-engineer) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000136468569-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Devoteam was posted on 2026-05-07.
+This data engineer position at Devoteam was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

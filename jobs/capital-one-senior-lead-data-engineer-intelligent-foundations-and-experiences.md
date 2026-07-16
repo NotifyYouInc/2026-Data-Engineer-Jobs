@@ -1,16 +1,16 @@
-# Senior Lead Data Engineer (Intelligent Foundations and Experiences) at Capital One
+# Senior Lead Data Engineer  (Intelligent Foundations and Experiences) at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 3 locations |
-| Category | Engineering Manager |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Lead-Data-Engineer--Intelligent-Foundations-and-Experiences-_R237339-1) |
+| Category | Data Engineer |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Lead-Data-Engineer---Intelligent-Foundations-and-Experiences-_R246234-1) |
 
 ## About This Role
 
-This engineering manager position at Capital One was posted on 2026-03-07.
+This data engineer position at Capital One was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

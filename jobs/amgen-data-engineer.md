@@ -5,12 +5,12 @@
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Data-Engineer_R-242352) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Data-Engineer_R-249342-1) |
 
 ## About This Role
 
-This data engineer position at Amgen was posted on 2026-06-26.
+This data engineer position at Amgen was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

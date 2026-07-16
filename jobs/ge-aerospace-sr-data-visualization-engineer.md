@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Aerospace](https://scoutify.ai/companies/ge-aerospace?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Terre Haute, Indiana, United States |
+| Location | Evendale, Ohio, United States |
 | Category | Data Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Terre-Haute/Sr-Data-Visualization-Engineer_R5033683-2) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Sr-Data-Visualization-Engineer_R5037240-1) |
 
 ## About This Role
 
-This data engineer position at GE Aerospace was posted on 2026-05-12.
+This data engineer position at GE Aerospace was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

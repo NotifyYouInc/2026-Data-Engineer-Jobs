@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7674814?gh_jid=7674814) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8045905?gh_jid=8045905) |
 
 ## About This Role
 
-This software engineer position at Okta was posted on 2026-03-06.
+This software engineer position at Okta was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

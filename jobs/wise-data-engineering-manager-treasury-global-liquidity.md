@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Engineering Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000125123669-data-engineering-manager-treasury-global-liquidity) |
+| Category | Data Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000136741874-data-engineering-manager-treasury-global-liquidity) |
 
 ## About This Role
 
-This engineering manager position at WISE was posted on 2026-05-07.
+This data engineer position at WISE was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

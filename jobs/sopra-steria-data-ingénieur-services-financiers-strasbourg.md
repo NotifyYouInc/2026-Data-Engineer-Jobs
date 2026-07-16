@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Strasbourg, Grand Est, France |
 | Category | Data Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000134433748-data-ingenieur-services-financiers-strasbourg) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000136460028-data-ingenieur-services-financiers-strasbourg) |
 
 ## About This Role
 
-This data engineer position at Sopra Steria was posted on 2026-06-26.
+This data engineer position at Sopra Steria was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Lead Data Engineer (Intelligent Foundations and Experiences) at Capital One
+# Lead Data Engineer  (Intelligent Foundations and Experiences) at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Data Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Lead-Data-Engineer--Intelligent-Foundations-and-Experiences-_R243627-1) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Lead-Data-Engineer---Intelligent-Foundations-and-Experiences-_R246233-1) |
 
 ## About This Role
 
-This data engineer position at Capital One was posted on 2026-06-04.
+This data engineer position at Capital One was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

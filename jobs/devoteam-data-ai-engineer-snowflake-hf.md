@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Toulouse, Occitanie, France |
-| Category | Software Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000106866295-data-ai-engineer-snowflake-hf) |
+| Category | Data Engineer |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000136526424-data-ai-engineer-snowflake-hf) |
 
 ## About This Role
 
-This software engineer position at Devoteam was posted on 2026-02-02.
+This data engineer position at Devoteam was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

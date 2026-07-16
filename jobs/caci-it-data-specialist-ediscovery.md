@@ -1,16 +1,16 @@
-# IT Data Specialist – eDiscovery at CACI
+# IT Data Specialist– eDiscovery at CACI
 
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | Engineering Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/AGT-WASHINGTON-DC/IT-Data-Specialist---eDiscovery_323536) |
+| Category | Legal |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Washington-DC-US/IT-Data-Specialist--eDiscovery_328742) |
 
 ## About This Role
 
-This engineering manager position at CACI was posted on 2026-03-19.
+This legal position at CACI was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

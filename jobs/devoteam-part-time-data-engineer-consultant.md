@@ -1,16 +1,16 @@
-# Part-time Data Engineer Consultant  at Devoteam
+# Part-time Data Engineer Consultant at Devoteam
 
 | Field | Details |
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Denmark |
+| Location | Copenhagen, Capital Region, Denmark |
 | Category | Data Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000126042369-part-time-data-engineer-consultant) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000136466919-part-time-data-engineer-consultant) |
 
 ## About This Role
 
-This data engineer position at Devoteam was posted on 2026-05-12.
+This data engineer position at Devoteam was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

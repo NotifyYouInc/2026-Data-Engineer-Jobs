@@ -1,16 +1,16 @@
-# Data Engineer  at Capco
+# Data Engineer at Capco
 
 | Field | Details |
 |-------|---------|
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 5 locations |
+| Location | Milan, Lombardy, Italy |
 | Category | Data Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8018268) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/7953752) |
 
 ## About This Role
 
-This data engineer position at Capco was posted on 2026-06-19.
+This data engineer position at Capco was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

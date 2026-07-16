@@ -1,16 +1,16 @@
-# AVP Data Engineer (L10) at Synchrony Financial
+# AVP, Data Engineer (L10) at Synchrony Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [Synchrony Financial](https://scoutify.ai/companies/synchrony-financial?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/AVP-Data-Engineer--L10-_2601903-1) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/AVP--Data-Engineer--L10-_2601939-1) |
 
 ## About This Role
 
-This data engineer position at Synchrony Financial was posted on 2026-07-03.
+This data engineer position at Synchrony Financial was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

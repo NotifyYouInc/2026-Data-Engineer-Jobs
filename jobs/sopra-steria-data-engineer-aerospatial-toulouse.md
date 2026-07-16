@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Colomiers, Occitanie, France |
 | Category | Data Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000126992824-data-engineer-aerospatial-toulouse) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000136444906-data-engineer-aerospatial-toulouse) |
 
 ## About This Role
 
-This data engineer position at Sopra Steria was posted on 2026-05-18.
+This data engineer position at Sopra Steria was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

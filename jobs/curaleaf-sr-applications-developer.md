@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Curaleaf](https://scoutify.ai/companies/curaleaf?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Stamford, Connecticut, United States |
+| Location | Wakefield, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/curaleaf/jobs/8506373002) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/curaleaf/jobs/8624375002) |
 
 ## About This Role
 
-This software engineer position at Curaleaf was posted on 2026-04-14.
+This software engineer position at Curaleaf was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

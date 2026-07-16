@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Vienna, Vienna, Austria |
-| Category | Data Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000133542844-senior-software-engineer-data-python-aws) |
+| Category | Software Engineer |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000136459712-senior-software-engineer-data-python-aws) |
 
 ## About This Role
 
-This data engineer position at Sportradar was posted on 2026-06-23.
+This software engineer position at Sportradar was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 
