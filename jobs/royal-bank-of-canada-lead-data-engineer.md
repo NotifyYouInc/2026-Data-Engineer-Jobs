@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Software Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Lead-Data-Engineer_R-0000170973-1) |
+| Category | Data Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Lead-Data-Engineer_R-0000178742-2) |
 
 ## About This Role
 
-This software engineer position at Royal Bank of Canada was posted on 2026-06-04.
+This data engineer position at Royal Bank of Canada was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# SENIOR DATA ENGINEER  at Robert Bosch
+# Senior data engineer at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Campinas, São Paulo, Brazil |
+| Location | Budapest, Budapest, Hungary |
 | Category | Data Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000127921851-senior-data-engineer) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000136771121-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Robert Bosch was posted on 2026-05-22.
+This data engineer position at Robert Bosch was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

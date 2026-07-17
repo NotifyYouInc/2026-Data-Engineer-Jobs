@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United States |
-| Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Palantir-Foundry-Developer_36683-1) |
+| Location | Norfolk, Virginia, United States |
+| Category | Data Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Norfolk/Palantir-Foundry-Developer_41679-1) |
 
 ## About This Role
 
-This software engineer position at Guidehouse was posted on 2026-02-23.
+This data engineer position at Guidehouse was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

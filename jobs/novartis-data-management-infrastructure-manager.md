@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/INSURGENTES/Data-Management---Infrastructure-Manager_REQ-10074672-1) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Barcelona-Gran-Va/Data-Management---Infrastructure-Manager_REQ-10077341) |
 
 ## About This Role
 
-This data engineer position at Novartis was posted on 2026-04-08.
+This data engineer position at Novartis was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

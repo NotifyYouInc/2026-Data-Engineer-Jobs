@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [K2 Space](https://scoutify.ai/companies/k2-space?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Los Angeles, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5164615008) |
+| Category | Data Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5317996008) |
 
 ## About This Role
 
-This software engineer position at K2 Space was posted on 2026-03-24.
+This data engineer position at K2 Space was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

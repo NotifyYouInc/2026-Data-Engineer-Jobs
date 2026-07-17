@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/New-York-NY/Datawarehouse-Architect-with-Capital-market-Domain_JR1039938) |
+| Category | Data Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/New-York-NY/Datawarehouse-Architect-with-Capital-market-Domain_JR1041741) |
 
 ## About This Role
 
-This technical & solutions architect position at Synechron was posted on 2026-05-21.
+This data engineer position at Synechron was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

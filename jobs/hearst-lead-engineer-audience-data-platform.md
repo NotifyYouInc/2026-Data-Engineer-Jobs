@@ -1,0 +1,22 @@
+# Lead Engineer, Audience Data Platform at Hearst
+
+| Field | Details |
+|-------|---------|
+| Company | [Hearst](https://scoutify.ai/companies/us6-cx-oj49481?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | New York City, New York, United States |
+| Category | Software Engineer |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://eevd.fa.us6.oraclecloud.com/jobs/#2025576) |
+
+## About This Role
+
+This software engineer position at Hearst was posted on 2026-03-17.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

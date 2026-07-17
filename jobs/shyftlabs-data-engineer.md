@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ShyftLabs](https://scoutify.ai/companies/shyftlabs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Software Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.lever.co/shyftlabs/f1b358fc-3b63-4f84-82d5-62e72cb0a2b8) |
+| Location | Noida, Uttar Pradesh, India |
+| Category | Data Engineer |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.lever.co/shyftlabs/c3c22ed9-adf7-4afb-b561-d29808c13c87) |
 
 ## About This Role
 
-This software engineer position at ShyftLabs was posted on 2026-04-01.
+This data engineer position at ShyftLabs was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

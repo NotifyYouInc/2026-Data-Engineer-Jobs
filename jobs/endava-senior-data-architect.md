@@ -5,12 +5,12 @@
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Database Administration |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000135646876-senior-data-architect) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000136804019-senior-data-architect) |
 
 ## About This Role
 
-This database administration position at Endava was posted on 2026-07-03.
+This database administration position at Endava was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

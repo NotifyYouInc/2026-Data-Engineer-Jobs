@@ -1,16 +1,16 @@
-# Systems Engineer (Data Intelligence & Analytics Team) at Cloudflare
+# Systems Engineer, Data Intelligence & Analytics Team at Cloudflare
 
 | Field | Details |
 |-------|---------|
 | Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Austin, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/8022909?gh_jid=8022909) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/8050813?gh_jid=8050813) |
 
 ## About This Role
 
-This software engineer position at Cloudflare was posted on 2026-07-07.
+This software engineer position at Cloudflare was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

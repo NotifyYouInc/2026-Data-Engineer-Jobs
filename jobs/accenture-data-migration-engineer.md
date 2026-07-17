@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Data-Migration-Engineer_ATCI-5596684-S2034844) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Data-Migration-Engineer_ATCI-5633353-S2057874-1) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-06-26.
+This data engineer position at Accenture was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

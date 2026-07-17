@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
-| Category | Database Administration |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000112721905-ingenieur-data-fh) |
+| Category | Data Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000136848305-ingenieur-data-fh) |
 
 ## About This Role
 
-This database administration position at Eurofins Scientific was posted on 2026-03-04.
+This data engineer position at Eurofins Scientific was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [CreateFuture](https://scoutify.ai/companies/xdesign?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/xdesign/jobs/4911980101) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/xdesign/jobs/4922428101) |
 
 ## About This Role
 
-This data engineer position at CreateFuture was posted on 2026-06-29.
+This data engineer position at CreateFuture was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 
