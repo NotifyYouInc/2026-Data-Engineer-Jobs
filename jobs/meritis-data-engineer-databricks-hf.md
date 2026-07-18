@@ -1,16 +1,16 @@
-# Data Engineer - Databricks (H/F) at Meritis
+# Data Engineer Databricks (H/F) at Meritis
 
 | Field | Details |
 |-------|---------|
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Montpellier, Occitanie, France |
+| Location | Lille, Hauts-de-France, France |
 | Category | Data Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000121762603-data-engineer-databricks-hf) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000137085029-data-engineer-databricks-hf) |
 
 ## About This Role
 
-This data engineer position at Meritis was posted on 2026-04-20.
+This data engineer position at Meritis was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [enercity](https://scoutify.ai/companies/enercity?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hannover, Lower Saxony, Germany |
-| Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://enercity.wd3.myworkdayjobs.com/enercity_extern/job/Hannover/Data-Engineer--m-w-d-_J2026005) |
+| Category | Data Engineer |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://enercity.wd3.myworkdayjobs.com/enercity_extern/job/Hannover/Data-Engineer--m-w-d-_J2026390-1) |
 
 ## About This Role
 
-This software engineer position at enercity was posted on 2026-02-23.
+This data engineer position at enercity was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

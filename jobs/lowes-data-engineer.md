@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Charlotte, North Carolina, United States |
 | Category | Data Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/Data-Engineer_JR-02528511) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Data-Engineer_JR-02584796) |
 
 ## About This Role
 
-This data engineer position at Lowe's was posted on 2026-07-06.
+This data engineer position at Lowe's was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

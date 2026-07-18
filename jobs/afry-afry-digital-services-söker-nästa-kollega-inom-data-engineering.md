@@ -5,12 +5,12 @@
 | Company | [AFRY](https://scoutify.ai/companies/afry?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Sweden |
 | Category | Data Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000128966459-afry-digital-services-soker-nasta-kollega-inom-data-engineering) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000137145879-afry-digital-services-soker-nasta-kollega-inom-data-engineering) |
 
 ## About This Role
 
-This data engineer position at AFRY was posted on 2026-05-28.
+This data engineer position at AFRY was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

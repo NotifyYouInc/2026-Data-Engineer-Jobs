@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Finanzen.net](https://scoutify.ai/companies/finanzennetgmbh?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 3 locations |
+| Location | Karlsruhe, Baden-Wurttemberg, Germany |
 | Category | Data Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/FinanzennetGmbH/744000129702665-senior-data-engineer-wmd) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/FinanzennetGmbH/744000137209039-senior-data-engineer-wmd) |
 
 ## About This Role
 
-This data engineer position at Finanzen.net was posted on 2026-06-02.
+This data engineer position at Finanzen.net was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

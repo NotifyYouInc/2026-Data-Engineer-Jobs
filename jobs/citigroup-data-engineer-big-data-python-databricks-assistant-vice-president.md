@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Data-Engineer--Big-Data--Python--Databricks----Assistant-Vice-President_26952913) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Data-Engineer--Big-Data--Python--Databricks----Assistant-Vice-President_26976949) |
 
 ## About This Role
 
-This data engineer position at Citigroup was posted on 2026-04-16.
+This data engineer position at Citigroup was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

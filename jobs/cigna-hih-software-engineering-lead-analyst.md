@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | DevOps Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Software-Engineering-Lead-Analyst_26002351) |
+| Category | Software Engineer |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Software-Engineering-Lead-Analyst_26007931) |
 
 ## About This Role
 
-This devops engineer position at Cigna was posted on 2026-03-17.
+This software engineer position at Cigna was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

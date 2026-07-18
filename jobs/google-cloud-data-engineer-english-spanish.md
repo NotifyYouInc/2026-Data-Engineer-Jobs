@@ -1,16 +1,16 @@
-# Cloud Data Engineer (English, Spanish) at Google
+# Cloud Data Engineer, (English, Spanish) at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Data Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUf2BoEMWXtFtw-23y0I1wbSeNaZv2q1tdLBD3g4vuCvEjsACxwdTHr_eCbWIowgFLwh-B6NXGWlHQJ-BLmApTOoPHXDdR9Zmjt6uRgEZJUz42siJwErExBXMYYTcA%3D%3D_V2&loc=MX&title=Cloud+Data+Engineer) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckR4xLDeV1lLJqtPr8syneb5GJ_X-mHVbfWe_wwglwp4ZEjsA1Ny_i4Xk-XHygSukJlypuedYb-0zkSlWFhwzgiGUQ48TT0Hw9-FVoDDzWaoOadPazRFVamy6PXQVdA%3D%3D_V2&loc=AR&title=Cloud+Data+Engineer) |
 
 ## About This Role
 
-This data engineer position at Google was posted on 2026-05-08.
+This data engineer position at Google was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

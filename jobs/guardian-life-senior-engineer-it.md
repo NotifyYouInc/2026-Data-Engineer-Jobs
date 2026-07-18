@@ -1,16 +1,16 @@
-# Senior Engineer IT at Guardian Life
+# Senior Engineer - IT at Guardian Life
 
 | Field | Details |
 |-------|---------|
 | Company | [Guardian Life](https://scoutify.ai/companies/guardianlife?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Chennai/Senior-Engineer-IT_R000108662-1) |
+| Category | Data Engineer |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Chennai/Senior-Engineer---IT_R000109479-1) |
 
 ## About This Role
 
-This software engineer position at Guardian Life was posted on 2026-02-17.
+This data engineer position at Guardian Life was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

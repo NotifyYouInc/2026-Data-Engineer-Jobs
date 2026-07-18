@@ -5,12 +5,12 @@
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Springdale, Arkansas, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Corporate-412-West---Springdale-Arkansas/Data-Engineer-II_R0464637) |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Tyson-on-Thompson---Springdale-Arkansas/Data-Engineer-II_R0469589) |
 
 ## About This Role
 
-This data engineer position at Tyson Foods was posted on 2026-06-01.
+This data engineer position at Tyson Foods was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 
