@@ -1,16 +1,16 @@
-# IN-Senior Associate_ Snowflake Senior Data Engineer_Data and Analytics_Advisory_Bangalore at PwC
+# IN_Senior Associate_ Snowflake Senior Data Engineer_Data and Analytics_Advisory_Bangalore at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Manager-Data-Architect-Data-and-Analytics-Advisory-Bangalore_694339WD) |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate--Snowflake-Senior-Data-Engineer-Data-and-Analytics-Advisory-Bangalore_743819WD-1) |
 
 ## About This Role
 
-This data engineer position at PwC was posted on 2026-05-07.
+This data engineer position at PwC was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 
