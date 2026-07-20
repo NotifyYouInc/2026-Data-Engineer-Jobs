@@ -1,16 +1,16 @@
-# Data Specialist at Caterpillar Inc.
+# Data Engineer at Genworth Financial
 
 | Field | Details |
 |-------|---------|
-| Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Genworth Financial](https://scoutify.ai/companies/genworth-financial?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Shanghai-Shanghai/Data-Specialist_R0000381176) |
+| Posted | 2026-07-12 |
+| Apply | [View on company site](https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Data-Engineer_REQ-260206) |
 
 ## About This Role
 
-This data engineer position at Caterpillar Inc. was posted on 2026-07-13.
+This data engineer position at Genworth Financial was posted on 2026-07-12.
 
 ## Get Real-Time Alerts
 

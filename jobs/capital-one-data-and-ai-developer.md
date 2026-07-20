@@ -1,16 +1,16 @@
-# Data Specialist at Caterpillar Inc.
+# Data and AI Developer at Capital One
 
 | Field | Details |
 |-------|---------|
-| Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Nottingham, England, United Kingdom |
 | Category | Data Engineer |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Shanghai-Shanghai/Data-Specialist_R0000381176) |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Nottingham--Eng/Data-and-AI-Developer_R244185-1) |
 
 ## About This Role
 
-This data engineer position at Caterpillar Inc. was posted on 2026-07-13.
+This data engineer position at Capital One was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

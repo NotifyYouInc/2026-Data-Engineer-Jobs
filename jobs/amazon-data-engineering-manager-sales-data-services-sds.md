@@ -1,16 +1,16 @@
-# Data Specialist at Caterpillar Inc.
+# Data Engineering Manager, Sales Data Services (SDS) at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Shanghai-Shanghai/Data-Specialist_R0000381176) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10472028/data-engineering-manager-sales-data-services-sds) |
 
 ## About This Role
 
-This data engineer position at Caterpillar Inc. was posted on 2026-07-13.
+This data engineer position at Amazon was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

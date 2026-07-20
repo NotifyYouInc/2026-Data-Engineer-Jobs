@@ -1,16 +1,16 @@
-# Lead Data Engineer at Thoughtworks
+# Visualization Specialist - Data Engineering at Bristlecone
 
 | Field | Details |
 |-------|---------|
-| Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Company | [Bristlecone](https://scoutify.ai/companies/ocs-cx-oj16856?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/8034937?gh_jid=8034937) |
+| Posted | 2024-10-24 |
+| Apply | [View on company site](https://iaagiz.fa.ocs.oraclecloud.com/jobs/#12303) |
 
 ## About This Role
 
-This data engineer position at Thoughtworks was posted on 2026-07-13.
+This data engineer position at Bristlecone was posted on 2024-10-24.
 
 ## Get Real-Time Alerts
 

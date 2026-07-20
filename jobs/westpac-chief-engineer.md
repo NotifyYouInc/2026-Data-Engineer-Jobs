@@ -1,16 +1,16 @@
-# Lead Data Engineer at Thoughtworks
+# Chief Engineer at Westpac
 
 | Field | Details |
 |-------|---------|
-| Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Company | [Westpac](https://scoutify.ai/companies/ap1-cx-oj118843?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Data Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/8034937?gh_jid=8034937) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://ebuu.fa.ap1.oraclecloud.com/jobs/#70014) |
 
 ## About This Role
 
-This data engineer position at Thoughtworks was posted on 2026-07-13.
+This data engineer position at Westpac was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Lead Data Engineer at Thoughtworks
+# Data Manager at EFG International
 
 | Field | Details |
 |-------|---------|
-| Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Company | [EFG International](https://scoutify.ai/companies/ocs-cx-oj35143?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Luxembourg |
 | Category | Data Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/8034937?gh_jid=8034937) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://fa-eqai-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#6278) |
 
 ## About This Role
 
-This data engineer position at Thoughtworks was posted on 2026-07-13.
+This data engineer position at EFG International was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Lead Data Engineer at Thoughtworks
+# Analytics Product Engineer at SCOR
 
 | Field | Details |
 |-------|---------|
-| Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
-| Category | Data Engineer |
+| Company | [SCOR](https://scoutify.ai/companies/ocs-cx-oj97530?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Ilfov, RO |
+| Category | Software Engineer |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/8034937?gh_jid=8034937) |
+| Apply | [View on company site](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#5160) |
 
 ## About This Role
 
-This data engineer position at Thoughtworks was posted on 2026-07-13.
+This software engineer position at SCOR was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

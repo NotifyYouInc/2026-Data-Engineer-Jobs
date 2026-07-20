@@ -1,16 +1,16 @@
-# Lead Data Engineer at Thoughtworks
+# Intermediate Fullstack Engineer - Data Products at GitLab
 
 | Field | Details |
 |-------|---------|
-| Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
-| Category | Data Engineer |
+| Company | [GitLab](https://scoutify.ai/companies/gitlab?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | India |
+| Category | Software Engineer |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/8034937?gh_jid=8034937) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gitlab/jobs/8623751002) |
 
 ## About This Role
 
-This data engineer position at Thoughtworks was posted on 2026-07-13.
+This software engineer position at GitLab was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

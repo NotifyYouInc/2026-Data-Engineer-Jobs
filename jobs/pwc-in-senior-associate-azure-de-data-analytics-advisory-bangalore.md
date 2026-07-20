@@ -1,16 +1,16 @@
-# Data Engineer II, Sales Data Services (SDS) at Amazon
+# IN_Senior Associate_Azure DE_Data & Analytics _Advisory _Bangalore at PwC
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10472025/data-engineer-ii-sales-data-services-sds) |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-Azure-DE-Data---Analytics--Advisory--Bangalore_714746WD-1) |
 
 ## About This Role
 
-This data engineer position at Amazon was posted on 2026-07-13.
+This data engineer position at PwC was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

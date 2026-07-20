@@ -1,16 +1,16 @@
-# Data Specialist at Caterpillar Inc.
+# Principal Specialist, Exploration & PDE Data Domain at Ma'aden
 
 | Field | Details |
 |-------|---------|
-| Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Company | [Ma'aden](https://scoutify.ai/companies/ocs-cx-oj65712?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Saudi Arabia |
 | Category | Data Engineer |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Shanghai-Shanghai/Data-Specialist_R0000381176) |
+| Apply | [View on company site](https://fa-epod-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#6876) |
 
 ## About This Role
 
-This data engineer position at Caterpillar Inc. was posted on 2026-07-13.
+This data engineer position at Ma'aden was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

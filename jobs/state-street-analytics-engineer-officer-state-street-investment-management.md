@@ -1,12 +1,12 @@
-# Data Engineering - AI Platform Engineer at State Street
+# Analytics Engineer, Officer, State Street Investment Management at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hangzhou, Zhejiang, China |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Data Engineer |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Data-Engineering---AI-Platform-Engineer_R-794006) |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Krakow-Poland/Analytics-Engineer--Officer--State-Street-Investment-Management_R-794054) |
 
 ## About This Role
 

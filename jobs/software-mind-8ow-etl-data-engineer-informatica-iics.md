@@ -5,12 +5,12 @@
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | San José, San José, Costa Rica |
 | Category | Data Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000135493444-8ow-etl-data-engineer-informatica-iics) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000137358659-8ow-etl-data-engineer-informatica-iics) |
 
 ## About This Role
 
-This data engineer position at Software Mind was posted on 2026-07-02.
+This data engineer position at Software Mind was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

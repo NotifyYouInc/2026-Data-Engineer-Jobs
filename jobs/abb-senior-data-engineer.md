@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Data Engineer |
 | Posted | 2026-07-09 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Senior-Data-Engineer_JR00040826) |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Petaling-Jaya-Selangor-Malaysia/Senior-Data-Engineer_JR00040017) |
 
 ## About This Role
 

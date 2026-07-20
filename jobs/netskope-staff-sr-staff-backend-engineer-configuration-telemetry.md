@@ -1,16 +1,16 @@
-# Data Engineer II, Sales Data Services (SDS) at Amazon
+# Staff / Sr. Staff, Backend Engineer - Configuration & Telemetry at Netskope
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Netskope](https://scoutify.ai/companies/netskope?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10472025/data-engineer-ii-sales-data-services-sds) |
+| Category | Software Engineer |
+| Posted | 2026-07-12 |
+| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=8059158) |
 
 ## About This Role
 
-This data engineer position at Amazon was posted on 2026-07-13.
+This software engineer position at Netskope was posted on 2026-07-12.
 
 ## Get Real-Time Alerts
 

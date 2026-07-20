@@ -1,16 +1,16 @@
-# Data Specialist at Caterpillar Inc.
+# Senior Big Data Engineer at N-iX
 
 | Field | Details |
 |-------|---------|
-| Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Ukraine |
 | Category | Data Engineer |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Shanghai-Shanghai/Data-Specialist_R0000381176) |
+| Apply | [View on company site](https://careers.n-ix.com/jobs/4922827101?gh_jid=4922827101) |
 
 ## About This Role
 
-This data engineer position at Caterpillar Inc. was posted on 2026-07-13.
+This data engineer position at N-iX was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

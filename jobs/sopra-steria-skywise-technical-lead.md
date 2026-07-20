@@ -1,16 +1,16 @@
-# Data Engineer II, Sales Data Services (SDS) at Amazon
+# Skywise Technical Lead at Sopra Steria
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10472025/data-engineer-ii-sales-data-services-sds) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000137370879-skywise-technical-lead) |
 
 ## About This Role
 
-This data engineer position at Amazon was posted on 2026-07-13.
+This software engineer position at Sopra Steria was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

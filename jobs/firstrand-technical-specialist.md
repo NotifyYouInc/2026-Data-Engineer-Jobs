@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Johannesburg, Gauteng, South Africa |
-| Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Technical-Specialist_R42602) |
+| Category | Sales Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Technical-Specialist_R51555-1) |
 
 ## About This Role
 
-This software engineer position at FirstRand was posted on 2026-02-18.
+This sales engineer position at FirstRand was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 
