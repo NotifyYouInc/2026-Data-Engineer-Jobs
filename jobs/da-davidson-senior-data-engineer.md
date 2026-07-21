@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [D.A. Davidson](https://scoutify.ai/companies/d-a-davidson?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
-| Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.lever.co/dadavidson/cf1b84d6-7365-4baa-b464-56870ce56fa4) |
+| Category | Data Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.lever.co/dadavidson/80341706-431a-4667-a846-31282fbefaf8) |
 
 ## About This Role
 
-This software engineer position at D.A. Davidson was posted on 2026-03-25.
+This data engineer position at D.A. Davidson was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

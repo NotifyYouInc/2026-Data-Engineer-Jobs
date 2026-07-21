@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Fort Worth, Texas, United States |
+| Location | Colorado Springs, Colorado, United States |
 | Category | Data Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Worth-TX/Data-Engineer_R-00186714) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Colorado-Springs-CO/Data-Engineer_R-00187108) |
 
 ## About This Role
 
-This data engineer position at Leidos was posted on 2026-07-09.
+This data engineer position at Leidos was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

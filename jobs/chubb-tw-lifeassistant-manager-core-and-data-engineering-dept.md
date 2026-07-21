@@ -1,16 +1,16 @@
-# 【TW Life】Assistant Manager, Core and Data Engineering Dept at Chubb
+# 【TW Life】Assistant Manager, Core and Data Engineering Dept. at Chubb
 
 | Field | Details |
 |-------|---------|
 | Company | [Chubb](https://scoutify.ai/companies/ocs-cx-oj28119?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Taiwan |
 | Category | Data Engineer |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#29976) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#34795) |
 
 ## About This Role
 
-This data engineer position at Chubb was posted on 2026-01-30.
+This data engineer position at Chubb was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

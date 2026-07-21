@@ -1,16 +1,16 @@
-# Data engineer at BP
+# Data Engineer at BP
 
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Data-engineer_RQ112361) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Data-Engineer_RQ112950-1) |
 
 ## About This Role
 
-This data engineer position at BP was posted on 2026-06-24.
+This data engineer position at BP was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

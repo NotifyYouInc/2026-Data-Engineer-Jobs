@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Burns Harbor, Indiana, United States |
 | Category | Data Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/Data-Management-Engineer_51584828) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---IN---BURNS-HARBOR/Data-Management-Engineer_51585006) |
 
 ## About This Role
 
-This data engineer position at DXC Technology was posted on 2026-07-10.
+This data engineer position at DXC Technology was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

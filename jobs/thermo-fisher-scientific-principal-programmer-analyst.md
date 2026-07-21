@@ -5,12 +5,12 @@
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/Principal-Programmer-Analyst_R-01357629) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/Principal-Programmer-Analyst_R-01357627) |
 
 ## About This Role
 
-This software engineer position at Thermo Fisher Scientific was posted on 2026-07-07.
+This software engineer position at Thermo Fisher Scientific was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

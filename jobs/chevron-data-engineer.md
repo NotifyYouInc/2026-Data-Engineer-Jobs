@@ -5,12 +5,12 @@
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Bengaluru-Karnataka-India/Data-Engineer_R000071834) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Bengaluru-Karnataka-India/Data-Engineer_R000071869-2) |
 
 ## About This Role
 
-This data engineer position at Chevron was posted on 2026-06-09.
+This data engineer position at Chevron was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Italy |
-| Category | Software Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000115682357-databricks-engineer) |
+| Location | Assago, Lombardy, Italy |
+| Category | Data Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000137428569-databricks-engineer) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-03-19.
+This data engineer position at Sopra Steria was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Colliers International UK](https://scoutify.ai/companies/colliersinternationaluk?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Italy |
-| Category | Software Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ColliersInternationalEMEA/744000118375467-data-engineer-real-estate) |
+| Category | Data Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ColliersInternationalEMEA/744000137594215-data-engineer-real-estate) |
 
 ## About This Role
 
-This software engineer position at Colliers International UK was posted on 2026-04-02.
+This data engineer position at Colliers International UK was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

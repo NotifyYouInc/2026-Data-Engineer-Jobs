@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sugarcrm](https://scoutify.ai/companies/sugarcrm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United States |
+| Location | Denver, Colorado, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.lever.co/sugarcrm/54146de9-851f-431d-9320-45cc7c8f516a) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.lever.co/sugarcrm/b621123f-205d-4473-96c3-17462dc095d7) |
 
 ## About This Role
 
-This data engineer position at Sugarcrm was posted on 2026-06-29.
+This data engineer position at Sugarcrm was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

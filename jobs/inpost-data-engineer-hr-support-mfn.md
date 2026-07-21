@@ -5,12 +5,12 @@
 | Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Poland |
 | Category | Data Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000132398409-data-engineer-hr-support-mfn) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000137604709-data-engineer-hr-support-mfn) |
 
 ## About This Role
 
-This data engineer position at INPOST was posted on 2026-06-16.
+This data engineer position at INPOST was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

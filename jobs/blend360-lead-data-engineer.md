@@ -1,16 +1,16 @@
-# Lead Data Engineer at Blend360
+# Lead Data Engineer  at Blend360
 
 | Field | Details |
 |-------|---------|
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Columbia, South Carolina, United States |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000129806739-lead-data-engineer) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000137447340-lead-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Blend360 was posted on 2026-06-02.
+This data engineer position at Blend360 was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

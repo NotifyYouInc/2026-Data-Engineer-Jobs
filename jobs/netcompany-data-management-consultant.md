@@ -1,0 +1,22 @@
+# Data Management Consultant at Netcompany
+
+| Field | Details |
+|-------|---------|
+| Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Copenhagen, Capital Region, Denmark |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000137422219-data-management-consultant) |
+
+## About This Role
+
+This strategy / management consulting position at Netcompany was posted on 2026-07-13.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

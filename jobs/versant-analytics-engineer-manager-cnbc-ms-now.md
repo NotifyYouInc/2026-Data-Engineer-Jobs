@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Englewood Cliffs, New Jersey, United States |
+| Location | New York City, New York, United States |
 | Category | Data Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000135580460-analytics-engineer-manager-cnbc-ms-now) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000137544489-analytics-engineer-manager-cnbc-ms-now) |
 
 ## About This Role
 
-This data engineer position at Versant was posted on 2026-07-02.
+This data engineer position at Versant was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

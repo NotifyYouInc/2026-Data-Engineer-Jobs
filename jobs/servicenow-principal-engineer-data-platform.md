@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000134845497-principal-engineer-data-platform) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000137553614-principal-engineer-data-platform) |
 
 ## About This Role
 
-This software engineer position at ServiceNow was posted on 2026-06-29.
+This software engineer position at ServiceNow was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 
