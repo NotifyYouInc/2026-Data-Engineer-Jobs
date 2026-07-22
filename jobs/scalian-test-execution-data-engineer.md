@@ -5,12 +5,12 @@
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Casablanca, Casablanca-Settat, Morocco |
 | Category | Data Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000136210608-test-execution-data-engineer) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000137628758-test-execution-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Scalian was posted on 2026-07-07.
+This data engineer position at Scalian was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

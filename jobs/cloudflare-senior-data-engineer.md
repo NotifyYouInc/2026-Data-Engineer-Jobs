@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Austin, Texas, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/8007032?gh_jid=8007032) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118) |
 
 ## About This Role
 
-This data engineer position at Cloudflare was posted on 2026-06-19.
+This data engineer position at Cloudflare was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

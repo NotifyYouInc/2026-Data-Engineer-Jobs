@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dropbox](https://scoutify.ai/companies/dropbox?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Mexico |
-| Category | Software Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.dropbox.com/listing/7739553?gh_jid=7739553) |
+| Location | Poland |
+| Category | Data Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.dropbox.com/listing/8053628?gh_jid=8053628) |
 
 ## About This Role
 
-This software engineer position at Dropbox was posted on 2026-03-26.
+This data engineer position at Dropbox was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Colorado Springs, Colorado, United States |
+| Location | Farnborough, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Colorado-Springs-CO/Data-Engineer_R-00187108) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Farnborough-Hampshire-UK/Data-Engineer_R-00187282) |
 
 ## About This Role
 
-This data engineer position at Leidos was posted on 2026-07-10.
+This data engineer position at Leidos was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

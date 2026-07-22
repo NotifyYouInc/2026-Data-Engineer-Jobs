@@ -5,12 +5,12 @@
 | Company | [Intercom](https://scoutify.ai/companies/intercom?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/intercom/jobs/7808050) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/intercom/jobs/8053723) |
 
 ## About This Role
 
-This data engineer position at Intercom was posted on 2026-04-13.
+This data engineer position at Intercom was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

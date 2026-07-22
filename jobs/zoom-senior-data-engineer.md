@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | India |
 | Category | Data Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Senior-Data-Engineer_R19150-1) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote-IND/Senior-Data-Engineer_R19373-1) |
 
 ## About This Role
 
-This data engineer position at Zoom was posted on 2026-05-06.
+This data engineer position at Zoom was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

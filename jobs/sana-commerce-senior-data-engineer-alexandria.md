@@ -5,12 +5,12 @@
 | Company | [Sana Commerce](https://scoutify.ai/companies/sana-commerce?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Alexandria, Alexandria, Egypt |
 | Category | Data Engineer |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/sanacommerce/744000124351319-senior-data-engineer-alexandria) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/sanacommerce/744000137625569-senior-data-engineer-alexandria) |
 
 ## About This Role
 
-This data engineer position at Sana Commerce was posted on 2026-05-04.
+This data engineer position at Sana Commerce was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

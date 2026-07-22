@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Rome, Lazio, Italy |
-| Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000116425902-senior-databricks-data-engineer) |
+| Location | Italy |
+| Category | Data Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000137696330-senior-databricks-data-engineer) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-03-24.
+This data engineer position at Sopra Steria was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

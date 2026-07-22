@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Data Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10425031/business-intelligence-engineer-lmaq) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Analyst |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10474809/business-intelligence-engineer-lmaq) |
 
 ## About This Role
 
-This data engineer position at Amazon was posted on 2026-05-20.
+This data analyst position at Amazon was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

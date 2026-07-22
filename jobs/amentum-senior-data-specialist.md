@@ -5,12 +5,12 @@
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | Data Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-DC-Washington/Senior-Data-Specialist_R0160856) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-DC-Washington/Senior-Data-Specialist_R0165978) |
 
 ## About This Role
 
-This data engineer position at Amentum was posted on 2026-05-08.
+This data engineer position at Amentum was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

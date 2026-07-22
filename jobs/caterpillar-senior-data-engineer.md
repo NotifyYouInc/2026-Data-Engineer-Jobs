@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Košice, Košice Region, Slovakia |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Kosice-Slovakia/Senior-Data-Engineer_R0000373189) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Senior-Data-Engineer--Cat-Digital_R0000382322) |
 
 ## About This Role
 
-This data engineer position at Caterpillar was posted on 2026-05-29.
+This data engineer position at Caterpillar was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

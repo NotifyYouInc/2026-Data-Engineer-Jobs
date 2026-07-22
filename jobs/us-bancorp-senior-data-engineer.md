@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Irving, Texas, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Senior-Data-Engineer_2026-0015364-1) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Senior-Data-Engineer_2026-0020769) |
 
 ## About This Role
 
-This data engineer position at U.S. Bancorp was posted on 2026-06-10.
+This data engineer position at U.S. Bancorp was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

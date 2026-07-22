@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Data Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000126087997-cloud-data-engineer-lead-consultant) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000137630417-cloud-data-engineer-lead-consultant) |
 
 ## About This Role
 
-This data engineer position at Devoteam was posted on 2026-05-12.
+This data engineer position at Devoteam was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

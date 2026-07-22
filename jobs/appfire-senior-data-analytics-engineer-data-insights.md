@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Appfire](https://scoutify.ai/companies/appfire?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Spain |
+| Location | Canada |
 | Category | Data Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/appfire/jobs/4697729005) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/appfire/jobs/4715344005) |
 
 ## About This Role
 
-This data engineer position at Appfire was posted on 2026-05-21.
+This data engineer position at Appfire was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

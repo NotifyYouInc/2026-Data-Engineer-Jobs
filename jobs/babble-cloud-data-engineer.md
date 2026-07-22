@@ -5,12 +5,12 @@
 | Company | [Babble Cloud](https://scoutify.ai/companies/babble-cloud?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pristina, Pristina, Kosovo |
 | Category | Data Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/babblecloud/744000120485287-data-engineer) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/babblecloud/744000137642419-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Babble Cloud was posted on 2026-04-13.
+This data engineer position at Babble Cloud was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

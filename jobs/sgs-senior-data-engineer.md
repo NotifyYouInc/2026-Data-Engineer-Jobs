@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Data Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000132941739-senior-data-engineer) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000137750527-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at SGS was posted on 2026-06-18.
+This data engineer position at SGS was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

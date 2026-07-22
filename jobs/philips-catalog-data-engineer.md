@@ -5,12 +5,12 @@
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Data Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Chennai-ex-Madras/Catalog-Data-Engineer_586282) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Chennai-ex-Madras/Catalog-Data-Engineer_587670) |
 
 ## About This Role
 
-This data engineer position at Philips was posted on 2026-06-26.
+This data engineer position at Philips was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 
