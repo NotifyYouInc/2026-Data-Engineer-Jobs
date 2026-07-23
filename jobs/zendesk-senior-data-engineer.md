@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Mexico-City-Mexico/Senior-Data-Engineer_R34346) |
+| Location | Lisbon, Lisbon, Portugal |
+| Category | Data Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Lisbon-Portugal/Senior-Data-Engineer_R35183) |
 
 ## About This Role
 
-This software engineer position at Zendesk was posted on 2026-03-23.
+This data engineer position at Zendesk was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Los Angeles, California, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000134839979-data-manager-oil-gas-remediation) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000137933079-data-manager-oil-gas-remediation) |
 
 ## About This Role
 
-This data engineer position at AECOM was posted on 2026-06-29.
+This data engineer position at AECOM was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

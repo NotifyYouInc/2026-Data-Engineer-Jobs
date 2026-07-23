@@ -5,12 +5,12 @@
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000136018821-senior-analytics-engineer-data-applications) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000138024209-senior-analytics-engineer-data-applications) |
 
 ## About This Role
 
-This data engineer position at Intuitive Surgical was posted on 2026-07-06.
+This data engineer position at Intuitive Surgical was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

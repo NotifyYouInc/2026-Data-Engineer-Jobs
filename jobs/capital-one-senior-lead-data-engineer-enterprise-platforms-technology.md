@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | McLean, Virginia, United States |
-| Category | Engineering Manager |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Lead-Data-Engineer--Enterprise-Platforms-Technology-_R238926-2) |
+| Location | 2 locations |
+| Category | Data Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Senior-Lead-Data-Engineer--Enterprise-Platforms-Technology-_R246263-1) |
 
 ## About This Role
 
-This engineering manager position at Capital One was posted on 2026-03-26.
+This data engineer position at Capital One was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Data Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Paris/Accelerator---Data---AI-Engineering--Paris-_R2849272) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Paris/Accelerator---Data---AI-Engineering--Paris-_R2864200) |
 
 ## About This Role
 
-This data engineer position at Sanofi was posted on 2026-04-13.
+This data engineer position at Sanofi was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

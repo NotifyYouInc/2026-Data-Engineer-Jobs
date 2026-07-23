@@ -5,12 +5,12 @@
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Bristol-CT-USA/Sr-Software-Engineer_10135285) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Sr-Software-Engineer_10151727) |
 
 ## About This Role
 
-This software engineer position at Disney was posted on 2026-02-23.
+This software engineer position at Disney was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

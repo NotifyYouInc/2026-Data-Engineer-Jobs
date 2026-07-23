@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Miami, Florida, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Data-Engineer_R-280352) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Miami-Florida/Lead-Data-Engineer_R-282473) |
 
 ## About This Role
 
-This data engineer position at Mastercard was posted on 2026-06-22.
+This data engineer position at Mastercard was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

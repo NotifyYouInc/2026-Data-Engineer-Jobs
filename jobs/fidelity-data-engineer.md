@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Merrimack, New Hampshire, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Merrimack-NH/Data-Engineer_2125110-1) |
+| Location | Westlake, Ohio, United States |
+| Category | Data Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Data-Engineer_2131556-1) |
 
 ## About This Role
 
-This software engineer position at Fidelity was posted on 2026-03-11.
+This data engineer position at Fidelity was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

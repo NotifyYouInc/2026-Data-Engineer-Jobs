@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | O'Fallon, Missouri, United States |
+| Location | Miami, Florida, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Senior-Data-Engineer_R-280201) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Miami-Florida/Senior-Data-Engineer_R-282484) |
 
 ## About This Role
 
-This data engineer position at Mastercard was posted on 2026-06-12.
+This data engineer position at Mastercard was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

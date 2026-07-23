@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Miguel Hidalgo, Mexico City, Mexico |
 | Category | Data Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Miguel-Hidalgo-11320/Data-Engineer--Ciudad-de-Mxico--Miguel-Hidalgo-_JR00109018) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Miguel-Hidalgo-11320/Descripcin-de-puesto-Data-Engineer--Ciudad-de-Mxico--Miguel-Hidalgo-_JR00109442) |
 
 ## About This Role
 
-This data engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-07-10.
+This data engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

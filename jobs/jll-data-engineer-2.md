@@ -5,12 +5,12 @@
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Data-Engineer-2_REQ512456) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Data-Engineer-2_REQ520567) |
 
 ## About This Role
 
-This data engineer position at JLL was posted on 2026-07-09.
+This data engineer position at JLL was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 
