@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fusion Consulting](https://scoutify.ai/companies/fusionconsulting?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | New Haven, Connecticut, United States |
+| Location | Mumbai, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/FusionConsulting/744000137600579-senior-data-modeler-snowflake) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/FusionConsulting/744000137847789-senior-data-modeler-snowflake) |
 
 ## About This Role
 
-This data engineer position at Fusion Consulting was posted on 2026-07-14.
+This data engineer position at Fusion Consulting was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

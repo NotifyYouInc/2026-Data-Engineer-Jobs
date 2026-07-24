@@ -5,12 +5,12 @@
 | Company | [Fortune Brands](https://scoutify.ai/companies/fortune-brands?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Deerfield, Illinois, United States |
 | Category | Data Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/fortunebrands/744000137536069-lead-data-engineer) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/fortunebrands/744000137743739-lead-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Fortune Brands was posted on 2026-07-13.
+This data engineer position at Fortune Brands was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

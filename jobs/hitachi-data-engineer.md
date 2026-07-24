@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Data Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Lodz-Lodz-Poland/Data-Engineer_R0123353) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Bangkok-Thailand/Data-Engineer_R01030586) |
 
 ## About This Role
 
-This data engineer position at Hitachi was posted on 2026-07-08.
+This data engineer position at Hitachi was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

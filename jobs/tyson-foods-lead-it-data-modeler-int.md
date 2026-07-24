@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
-| Category | Database Administration |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Bangalore-India/Lead-IT-Data-Modeler-INT_R0452205-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Bangalore-India/Lead-IT-Data-Modeler-INT_R0473574-1) |
 
 ## About This Role
 
-This database administration position at Tyson Foods was posted on 2026-03-26.
+This data engineer position at Tyson Foods was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

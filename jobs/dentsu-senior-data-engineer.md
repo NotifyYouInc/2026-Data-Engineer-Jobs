@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | 3 locations |
 | Category | Data Engineer |
 | Posted | 2026-07-14 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Pune---Kharadi-EON-Free-Zone/Senior-Data-Engineer_R1125653-7) |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Mumbai---Thane-Ashar-IT-Park/Senior-Data-Engineer_R1123578-1) |
 
 ## About This Role
 

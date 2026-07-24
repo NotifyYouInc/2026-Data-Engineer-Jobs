@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Timişoara, Timiș County, Romania |
 | Category | Data Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000137085739-data-modeler-senior) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138136139-data-modeler-senior) |
 
 ## About This Role
 
-This data engineer position at Robert Bosch was posted on 2026-07-10.
+This data engineer position at Robert Bosch was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

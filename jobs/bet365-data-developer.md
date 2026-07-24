@@ -5,12 +5,12 @@
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Data Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000133973188-data-developer) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000138110728-data-developer) |
 
 ## About This Role
 
-This data engineer position at bet365 was posted on 2026-06-24.
+This data engineer position at bet365 was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

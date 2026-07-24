@@ -5,12 +5,12 @@
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Lima, Lima Province, Peru |
 | Category | Data Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lima-San-Isidro/DATA-ENGINEERING-SOLUTIONS-DEVELOPMENT-ANALYST_JR00104542) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lima-San-Isidro/DATA-ENGINEERING-SOLUTIONS-DEVELOPMENT-ANALYST_JR00109535) |
 
 ## About This Role
 
-This data engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-05-22.
+This data engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

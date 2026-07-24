@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi Solutions](https://scoutify.ai/companies/hitachi-solutions?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
+| Location | Porto, Porto, Portugal |
 | Category | Technology / IT Consulting |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/hitachisolutions/744000137446126-lead-data-consultant) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/hitachisolutions/744000138121619-lead-data-consultant) |
 
 ## About This Role
 
-This technology / it consulting position at Hitachi Solutions was posted on 2026-07-13.
+This technology / it consulting position at Hitachi Solutions was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

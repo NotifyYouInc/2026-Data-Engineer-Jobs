@@ -5,12 +5,12 @@
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | San Jose, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CRI---San-Jose---San-Jose-City-Place/Associate-Clinical-Programmer_R393151-1) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CRI---San-Jose---San-Jose-City-Place/Associate-Clinical-Programmer_R407863) |
 
 ## About This Role
 
-This software engineer position at Merck was posted on 2026-04-08.
+This software engineer position at Merck was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Vizient](https://scoutify.ai/companies/vizient?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Irving, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Senior-Software-Engineer_34131R) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Senior-Software-Engineer_34409R) |
 
 ## About This Role
 
-This software engineer position at Vizient was posted on 2026-06-11.
+This software engineer position at Vizient was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verana Health](https://scoutify.ai/companies/verana-health?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/veranahealth/jobs/8621530002) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/veranahealth/jobs/8635045002) |
 
 ## About This Role
 
-This software engineer position at Verana Health was posted on 2026-07-06.
+This software engineer position at Verana Health was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

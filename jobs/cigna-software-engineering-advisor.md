@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Franklin, Tennessee, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Austin-TX/Software-Engineering-Advisor_26003267) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Franklin-TN/Software-Engineering-Advisor_26008690) |
 
 ## About This Role
 
-This software engineer position at Cigna was posted on 2026-04-03.
+This software engineer position at Cigna was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

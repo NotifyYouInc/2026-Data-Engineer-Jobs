@@ -5,12 +5,12 @@
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Bengaluru---Manyata-N1-Block/Data-Engineer_R1127019-1) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Bangalore/Data-Engineer_R1126946-1) |
 
 ## About This Role
 
-This data engineer position at Dentsu was posted on 2026-07-02.
+This data engineer position at Dentsu was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

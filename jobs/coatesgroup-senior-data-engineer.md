@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coatesgroup](https://scoutify.ai/companies/coatesgroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.lever.co/coatesgroup/54c4930d-b7bc-474a-92fd-870856722b17) |
+| Category | Data Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.lever.co/coatesgroup/13bd2acf-ef02-46c9-9618-dc76a7967a1d) |
 
 ## About This Role
 
-This software engineer position at Coatesgroup was posted on 2026-02-20.
+This data engineer position at Coatesgroup was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 
