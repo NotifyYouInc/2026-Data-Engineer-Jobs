@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Data Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000126311544-senior-data-analytics-engineer) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138301400-senior-data-analytics-engineer) |
 
 ## About This Role
 
-This data engineer position at Experian was posted on 2026-05-13.
+This data engineer position at Experian was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

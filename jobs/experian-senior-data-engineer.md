@@ -1,16 +1,16 @@
-# Senior Data engineer at Experian
+# Senior Data Engineer at Experian
 
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Heredia, Heredia Province, Costa Rica |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Data Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000134043439-senior-data-engineer) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138280839-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Experian was posted on 2026-06-25.
+This data engineer position at Experian was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

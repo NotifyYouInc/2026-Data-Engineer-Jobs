@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Data Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000128815769-senior-analytics-engineer-go-to-market-data) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000138370617-senior-analytics-engineer-go-to-market-data) |
 
 ## About This Role
 
-This data engineer position at LinkedIn was posted on 2026-05-27.
+This data engineer position at LinkedIn was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

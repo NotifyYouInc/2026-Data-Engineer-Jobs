@@ -5,12 +5,12 @@
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Querétaro, Chiapas, Mexico |
 | Category | Data Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Queretaro---Queretaro-Mexico---Avenida-5-de-Febrero/Data-Engineer_R-51836-2026) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Data-Engineer/31633) |
 
 ## About This Role
 
-This data engineer position at HARMAN International was posted on 2026-05-22.
+This data engineer position at HARMAN International was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

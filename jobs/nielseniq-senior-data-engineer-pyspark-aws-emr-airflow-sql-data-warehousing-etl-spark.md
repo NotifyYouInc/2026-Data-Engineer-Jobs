@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000136048967-senior-data-engineer-pyspark-aws-emr-airflow-sql-data-warehousing-etl-spark) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000138289199-senior-data-engineer-pyspark-aws-emr-airflow-sql-data-warehousing-etl-spark) |
 
 ## About This Role
 
-This data engineer position at NielsenIQ was posted on 2026-07-06.
+This data engineer position at NielsenIQ was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

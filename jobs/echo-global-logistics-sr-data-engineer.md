@@ -1,16 +1,16 @@
-# Sr Data Engineer at Echo Global Logistics
+# Sr. Data Engineer at Echo Global Logistics
 
 | Field | Details |
 |-------|---------|
 | Company | [Echo Global Logistics](https://scoutify.ai/companies/echo?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Reno, Nevada, United States |
 | Category | Data Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://echo.wd1.myworkdayjobs.com/Echo_Logistics/job/Chicago-IL/Sr-Data-Engineer_R4333) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://echo.wd1.myworkdayjobs.com/Echo_Logistics/job/ITS---Reno-NV-Corporate/Sr-Data-Engineer_R4454) |
 
 ## About This Role
 
-This data engineer position at Echo Global Logistics was posted on 2026-05-29.
+This data engineer position at Echo Global Logistics was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

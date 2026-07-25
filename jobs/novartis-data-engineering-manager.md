@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Engineering Manager |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Data-Engineering-Manager_REQ-10072905) |
+| Category | Data Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Data-Engineering-Manager_REQ-10083237-1) |
 
 ## About This Role
 
-This engineering manager position at Novartis was posted on 2026-03-03.
+This data engineer position at Novartis was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000115503897-data-engineer-gcp-hf) |
+| Category | Data Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000138296449-data-engineer-gcp-hf) |
 
 ## About This Role
 
-This software engineer position at ALTEN was posted on 2026-03-18.
+This data engineer position at ALTEN was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

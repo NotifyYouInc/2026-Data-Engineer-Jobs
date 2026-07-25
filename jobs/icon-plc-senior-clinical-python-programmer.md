@@ -5,12 +5,12 @@
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Lead-Clinical-Data-Science-Programmer_JR134948) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Senior-Clinical-Python-Programmer_JR156050) |
 
 ## About This Role
 
-This software engineer position at ICON plc was posted on 2026-06-15.
+This software engineer position at ICON plc was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

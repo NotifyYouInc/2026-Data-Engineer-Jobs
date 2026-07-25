@@ -1,16 +1,16 @@
-#  Principal, Data Analytics (Adobe - AA/CJA/WebSDK) at DEPT®
+# Principal, Data Analytics (Adobe - AA/CJA/WebSDK) at DEPT®
 
 | Field | Details |
 |-------|---------|
 | Company | [DEPT®](https://scoutify.ai/companies/dept?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | Data Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/8035766) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/8072554) |
 
 ## About This Role
 
-This data engineer position at DEPT® was posted on 2026-07-01.
+This data engineer position at DEPT® was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 
