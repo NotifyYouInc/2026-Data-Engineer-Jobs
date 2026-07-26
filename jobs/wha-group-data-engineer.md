@@ -1,16 +1,16 @@
-# Sr Engineer Data at Empower
+# Data Engineer at WHA Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [WHA Group](https://scoutify.ai/companies/ocs-cx-oj118111?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Thailand |
 | Category | Data Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Sr-Engineer-Data_R0060879-1) |
+| Posted | 2025-01-21 |
+| Apply | [View on company site](https://fa-evbk-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#211) |
 
 ## About This Role
 
-This data engineer position at Empower was posted on 2026-07-17.
+This data engineer position at WHA Group was posted on 2025-01-21.
 
 ## Get Real-Time Alerts
 

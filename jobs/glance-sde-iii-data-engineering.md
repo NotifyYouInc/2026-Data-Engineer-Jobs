@@ -1,16 +1,16 @@
-# Sr Engineer Data at Empower
+# SDE III - Data Engineering at Glance
 
 | Field | Details |
 |-------|---------|
-| Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Glance](https://scoutify.ai/companies/glance?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Sr-Engineer-Data_R0060879-1) |
+| Category | Software Engineer |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/glance/jobs/8054886) |
 
 ## About This Role
 
-This data engineer position at Empower was posted on 2026-07-17.
+This software engineer position at Glance was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

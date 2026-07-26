@@ -1,16 +1,16 @@
-# Quantexa Data Engineer at Synechron
+# Digital R&D Data Engineering Expert at Sanofi
 
 | Field | Details |
 |-------|---------|
-| Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
 | Posted | 2026-07-18 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---Thanissandra-BCIT/Quantexa-Data-Engineer_JR1041865-1) |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Digital-R-D-Data-Engineering-Expert_R2864268) |
 
 ## About This Role
 
-This data engineer position at Synechron was posted on 2026-07-18.
+This data engineer position at Sanofi was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

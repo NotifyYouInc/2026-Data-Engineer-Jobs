@@ -1,16 +1,16 @@
-# Sr Engineer Data at Empower
+# Concepteur(trice) de données at Industrial Alliance
 
 | Field | Details |
 |-------|---------|
-| Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Industrial Alliance](https://scoutify.ai/companies/industrial-alliance?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | 2 locations |
 | Category | Data Engineer |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Sr-Engineer-Data_R0060879-1) |
+| Apply | [View on company site](https://ia.wd3.myworkdayjobs.com/professional/job/Quebec-Quebec/Concepteur-trice--de-donnes_JR10027014) |
 
 ## About This Role
 
-This data engineer position at Empower was posted on 2026-07-17.
+This data engineer position at Industrial Alliance was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

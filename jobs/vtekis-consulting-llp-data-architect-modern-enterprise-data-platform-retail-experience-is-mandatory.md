@@ -5,12 +5,12 @@
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Data Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000137951634-data-architect-modern-enterprise-data-platform-retail-experience-is-mandatory) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000138148379-data-architect-modern-enterprise-data-platform-retail-experience-is-mandatory) |
 
 ## About This Role
 
-This data engineer position at VTekis Consulting LLP was posted on 2026-07-15.
+This data engineer position at VTekis Consulting LLP was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

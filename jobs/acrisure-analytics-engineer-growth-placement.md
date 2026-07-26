@@ -1,16 +1,16 @@
-# Sr Engineer Data at Empower
+# Analytics Engineer, Growth & Placement at Acrisure
 
 | Field | Details |
 |-------|---------|
-| Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Acrisure](https://scoutify.ai/companies/acrisure?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | 2 locations |
 | Category | Data Engineer |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Sr-Engineer-Data_R0060879-1) |
+| Apply | [View on company site](https://acrisure.wd1.myworkdayjobs.com/acrisure/job/816-Congress-Ave-Ste-1800----AUSTIN-TX/Analytics-Engineer--Growth---Placement_JR113875) |
 
 ## About This Role
 
-This data engineer position at Empower was posted on 2026-07-17.
+This data engineer position at Acrisure was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 
