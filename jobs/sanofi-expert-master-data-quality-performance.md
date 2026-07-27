@@ -1,16 +1,16 @@
-# Data engineer at DXC Technology
+# Expert Master Data - Quality & Performance at Sanofi
 
 | Field | Details |
 |-------|---------|
-| Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/Data-engineer_51585333) |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Expert-Master-Data---Quality---Performance_R2864785-1) |
 
 ## About This Role
 
-This data engineer position at DXC Technology was posted on 2026-07-20.
+This data engineer position at Sanofi was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

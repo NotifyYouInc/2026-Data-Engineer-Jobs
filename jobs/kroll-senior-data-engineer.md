@@ -1,16 +1,16 @@
-# Data Quality Developer at Mouser Electronics
+# Senior Data Engineer at Kroll
 
 | Field | Details |
 |-------|---------|
-| Company | [Mouser Electronics](https://scoutify.ai/companies/us2-cx-oj71627?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Kroll](https://scoutify.ai/companies/us2-cx-oj60987?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://eabw.fa.us2.oraclecloud.com/jobs/#31107) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://hcxs.fa.us2.oraclecloud.com/jobs/#21014033) |
 
 ## About This Role
 
-This data engineer position at Mouser Electronics was posted on 2026-07-20.
+This data engineer position at Kroll was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

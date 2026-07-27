@@ -1,16 +1,16 @@
-# Data engineer at DXC Technology
+# STAGE - DATA ENGINEERING & ANALYSE SYSTÈME (H/F)  at ALTEN
 
 | Field | Details |
 |-------|---------|
-| Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Toulouse, Occitanie, France |
 | Category | Data Engineer |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/Data-engineer_51585333) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000138581909-stage-data-engineering-analyse-systeme-hf) |
 
 ## About This Role
 
-This data engineer position at DXC Technology was posted on 2026-07-20.
+This data engineer position at ALTEN was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

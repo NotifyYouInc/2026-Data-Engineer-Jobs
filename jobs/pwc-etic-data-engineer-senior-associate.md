@@ -1,16 +1,16 @@
-# IN_Senior Associate_Azure DE_D&A_Advisory_Mumbai at PwC
+# ETIC,  Data Engineer, Senior Associate at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Cairo, Cairo, Egypt |
 | Category | Data Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Shivaji-Park/IN-Senior-Associate-Business-Analyst-D-A-Advisory-Mumbai_716780WD-1) |
+| Posted | 2026-07-19 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Cairo---ETIC/ETIC---Data-Engineer--Senior-Associate_745792WD) |
 
 ## About This Role
 
-This data engineer position at PwC was posted on 2026-07-20.
+This data engineer position at PwC was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data engineer at DXC Technology
+# Data and Analytics Engineer at SanDisk
 
 | Field | Details |
 |-------|---------|
-| Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/Data-engineer_51585333) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000138601675-data-and-analytics-engineer) |
 
 ## About This Role
 
-This data engineer position at DXC Technology was posted on 2026-07-20.
+This data engineer position at SanDisk was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

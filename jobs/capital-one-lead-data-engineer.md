@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Data Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Lead-Data-Engineer_R247097) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Lead-Data-Engineer_R247128) |
 
 ## About This Role
 
-This data engineer position at Capital One was posted on 2026-07-15.
+This data engineer position at Capital One was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

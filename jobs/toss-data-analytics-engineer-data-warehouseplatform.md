@@ -1,16 +1,16 @@
-# Data engineer at DXC Technology
+#  Data Analytics Engineer (Data Warehouse/Platform) at Toss
 
 | Field | Details |
 |-------|---------|
-| Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Toss](https://scoutify.ai/companies/toss?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Seoul, Seoul, South Korea |
 | Category | Data Engineer |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/Data-engineer_51585333) |
+| Apply | [View on company site](https://toss.im/career/job-detail?gh_jid=6110708003) |
 
 ## About This Role
 
-This data engineer position at DXC Technology was posted on 2026-07-20.
+This data engineer position at Toss was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# IN_Senior Associate_Azure DE_D&A_Advisory_Mumbai at PwC
+# Developer with ADF and SSIS Skills (Open) at Apex Fund Services
 
 | Field | Details |
 |-------|---------|
-| Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Data Engineer |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Shivaji-Park/IN-Senior-Associate-Business-Analyst-D-A-Advisory-Mumbai_716780WD-1) |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Mumbai/Developer-with-ADF-and-SSIS-Skills--Open-_JR-0016040) |
 
 ## About This Role
 
-This data engineer position at PwC was posted on 2026-07-20.
+This data engineer position at Apex Fund Services was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

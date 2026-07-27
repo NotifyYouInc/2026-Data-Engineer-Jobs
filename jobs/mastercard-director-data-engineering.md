@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Director--Data-Engineering_R-280751) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Director--Data-Engineering_R-280996) |
 
 ## About This Role
 
-This data engineer position at Mastercard was posted on 2026-07-07.
+This data engineer position at Mastercard was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

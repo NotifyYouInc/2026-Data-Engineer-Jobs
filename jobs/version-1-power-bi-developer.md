@@ -1,16 +1,16 @@
-# Data Quality Developer at Mouser Electronics
+# Power BI Developer at Version 1
 
 | Field | Details |
 |-------|---------|
-| Company | [Mouser Electronics](https://scoutify.ai/companies/us2-cx-oj71627?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
+| Category | Data Analyst |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://eabw.fa.us2.oraclecloud.com/jobs/#31107) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000138601034-power-bi-developer) |
 
 ## About This Role
 
-This data engineer position at Mouser Electronics was posted on 2026-07-20.
+This data analyst position at Version 1 was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

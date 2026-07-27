@@ -1,16 +1,16 @@
-# Data engineer at DXC Technology
+# Senior Data Modeller at MUFG Intime India
 
 | Field | Details |
 |-------|---------|
-| Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [MUFG Intime India](https://scoutify.ai/companies/ap1-cx-oj72475?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | India |
 | Category | Data Engineer |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/Data-engineer_51585333) |
+| Apply | [View on company site](https://hcmn.fa.ap1.oraclecloud.com/jobs/#15591) |
 
 ## About This Role
 
-This data engineer position at DXC Technology was posted on 2026-07-20.
+This data engineer position at MUFG Intime India was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

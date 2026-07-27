@@ -1,16 +1,16 @@
-# Data engineer at DXC Technology
+# Data Engineer - Python - Pyspark at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | India |
 | Category | Data Engineer |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/Data-engineer_51585333) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/TOWER-B-EON-FREE-ZONE-II/Data-Engineer---Python---Pyspark_26953645-1) |
 
 ## About This Role
 
-This data engineer position at DXC Technology was posted on 2026-07-20.
+This data engineer position at Citigroup was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

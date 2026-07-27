@@ -1,16 +1,16 @@
-# Data Quality Developer at Mouser Electronics
+# Associate Principal BI Platform Engineer  at Dragos
 
 | Field | Details |
 |-------|---------|
-| Company | [Mouser Electronics](https://scoutify.ai/companies/us2-cx-oj71627?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
+| Company | [Dragos](https://scoutify.ai/companies/dragos?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | United States |
+| Category | Data Analyst |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://eabw.fa.us2.oraclecloud.com/jobs/#31107) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dragos/jobs/5317825008) |
 
 ## About This Role
 
-This data engineer position at Mouser Electronics was posted on 2026-07-20.
+This data analyst position at Dragos was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Quality Developer at Mouser Electronics
+# ML Engineer (Data Pipeline) at Toss
 
 | Field | Details |
 |-------|---------|
-| Company | [Mouser Electronics](https://scoutify.ai/companies/us2-cx-oj71627?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
+| Company | [Toss](https://scoutify.ai/companies/toss?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Seoul, Seoul, South Korea |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://eabw.fa.us2.oraclecloud.com/jobs/#31107) |
+| Apply | [View on company site](https://toss.im/career/job-detail?gh_jid=7809211003) |
 
 ## About This Role
 
-This data engineer position at Mouser Electronics was posted on 2026-07-20.
+This machine learning engineer position at Toss was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

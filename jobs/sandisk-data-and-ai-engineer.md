@@ -1,16 +1,16 @@
-# Data Quality Developer at Mouser Electronics
+# Data and AI Engineer at SanDisk
 
 | Field | Details |
 |-------|---------|
-| Company | [Mouser Electronics](https://scoutify.ai/companies/us2-cx-oj71627?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://eabw.fa.us2.oraclecloud.com/jobs/#31107) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000138602939-data-and-ai-engineer) |
 
 ## About This Role
 
-This data engineer position at Mouser Electronics was posted on 2026-07-20.
+This ai / llm engineer position at SanDisk was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 
