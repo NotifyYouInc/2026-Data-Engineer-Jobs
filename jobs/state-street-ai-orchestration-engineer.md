@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 4 locations |
+| Location | Kilkenny, Leinster, Ireland |
 | Category | AI / LLM Engineer |
 | Posted | 2026-07-16 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/AI-Orchestration-Engineer_R-794426) |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Kilkenny-Ireland/AI-Orchestration-Engineer_R-794424) |
 
 ## About This Role
 

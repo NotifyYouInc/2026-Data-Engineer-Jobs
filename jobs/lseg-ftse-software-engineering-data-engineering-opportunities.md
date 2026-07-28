@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | New York City, New York, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Greater-Charlotte-Area-United-States/FTSE-Software-Engineering---Data-Engineering-Opportunities_R0121535-1) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/FTSE-Software-Engineering---Data-Engineering-Opportunities_R0121732) |
 
 ## About This Role
 
-This data engineer position at LSEG was posted on 2026-07-09.
+This data engineer position at LSEG was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

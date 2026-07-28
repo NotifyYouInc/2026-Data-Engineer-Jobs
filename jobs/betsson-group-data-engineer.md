@@ -5,12 +5,12 @@
 | Company | [Betsson Group](https://scoutify.ai/companies/betsson-group?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Malta |
 | Category | Data Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/betsson/jobs/7535276) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/betsson/jobs/8064185) |
 
 ## About This Role
 
-This data engineer position at Betsson Group was posted on 2026-07-07.
+This data engineer position at Betsson Group was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

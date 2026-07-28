@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Atruvia](https://scoutify.ai/companies/ocs-cx-oj9736?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Karlsruhe, Baden-Wurttemberg, Germany |
 | Category | Data Engineer |
-| Posted | 2025-11-07 |
-| Apply | [View on company site](https://fa-exxd-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#1277) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://fa-exxd-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#2316) |
 
 ## About This Role
 
-This data engineer position at Atruvia was posted on 2025-11-07.
+This data engineer position at Atruvia was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

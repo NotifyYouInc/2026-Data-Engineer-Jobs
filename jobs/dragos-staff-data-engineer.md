@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dragos](https://scoutify.ai/companies/dragos?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
-| Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dragos/jobs/5078946008) |
+| Category | Data Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dragos/jobs/5364953008) |
 
 ## About This Role
 
-This software engineer position at Dragos was posted on 2026-02-20.
+This data engineer position at Dragos was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

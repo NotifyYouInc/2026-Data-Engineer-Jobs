@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Keyloop](https://scoutify.ai/companies/keyloop?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Data Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.lever.co/keyloop/db64514d-dc34-4fae-9b0f-7eb7f5c27009) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.lever.co/keyloop/3f5ee13e-1eb7-4aa2-9e92-43bfb35dd6c9) |
 
 ## About This Role
 
-This data engineer position at Keyloop was posted on 2026-07-16.
+This data engineer position at Keyloop was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

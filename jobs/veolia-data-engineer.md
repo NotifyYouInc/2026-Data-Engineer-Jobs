@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Paramus, New Jersey, United States |
 | Category | Data Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000135551709-data-engineer) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000138692959-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Veolia was posted on 2026-07-02.
+This data engineer position at Veolia was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

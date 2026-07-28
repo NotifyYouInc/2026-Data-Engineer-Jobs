@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Software Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Technology-Delivery-Lead_R_1474758) |
+| Category | Project Manager |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Technology-Delivery-Lead_R_1498297) |
 
 ## About This Role
 
-This software engineer position at TD Bank was posted on 2026-03-19.
+This project manager position at TD Bank was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Louisville, Kentucky, United States |
 | Category | Data Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Pune---Panchshil/Analyst----Data-Engineering_R_341765) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Louisville---West-Market/Analyst----Data-Engineering_R_356516) |
 
 ## About This Role
 
-This data engineer position at Marsh & McLennan Companies was posted on 2026-05-25.
+This data engineer position at Marsh & McLennan Companies was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

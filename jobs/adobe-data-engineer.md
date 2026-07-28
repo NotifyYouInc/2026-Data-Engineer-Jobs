@@ -1,16 +1,16 @@
-# Data engineer at Adobe
+# Data Engineer at Adobe
 
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Data-engineer_R166484-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Data-Engineer_R170274) |
 
 ## About This Role
 
-This software engineer position at Adobe was posted on 2026-03-26.
+This data engineer position at Adobe was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

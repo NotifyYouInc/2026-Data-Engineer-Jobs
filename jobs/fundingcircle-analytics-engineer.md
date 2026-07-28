@@ -5,12 +5,12 @@
 | Company | [fundingcircle](https://scoutify.ai/companies/fundingcircle?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/fundingcircle/ac8d5f48-c565-45ac-a98d-69a6664bd255) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/fundingcircle/d86d8ed7-cc2e-4dd3-8e0f-2faf60b683cf) |
 
 ## About This Role
 
-This data engineer position at fundingcircle was posted on 2026-05-08.
+This data engineer position at fundingcircle was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

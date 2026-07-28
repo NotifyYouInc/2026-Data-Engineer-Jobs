@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Data Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000138079015-senior-director-panel-applications-data-engineering) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000138781599-senior-director-panel-applications-data-engineering) |
 
 ## About This Role
 
-This data engineer position at NielsenIQ was posted on 2026-07-16.
+This data engineer position at NielsenIQ was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

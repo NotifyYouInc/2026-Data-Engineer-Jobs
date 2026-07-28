@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Crane Worldwide Logistics](https://scoutify.ai/companies/crane-worldwide-logistics?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Not specified |
-| Category | Data Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/cra1009crwl/JobBoard/755fc3a5-077f-4395-ad9a-01ffdc6dea89/OpportunityDetail?opportunityId=76862152-3a2b-4af4-a962-ba4144db6154) |
+| Category | Data Analyst |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/cra1009crwl/JobBoard/755fc3a5-077f-4395-ad9a-01ffdc6dea89/OpportunityDetail?opportunityId=323b8c55-c55f-4adb-b5a3-1da247012950) |
 
 ## About This Role
 
-This data engineer position at Crane Worldwide Logistics was posted on 2026-06-19.
+This data analyst position at Crane Worldwide Logistics was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Data Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000131458396-consultant-data-aws-fh) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000138636149-consultant-data-aws-fh) |
 
 ## About This Role
 
-This data engineer position at Talan was posted on 2026-06-10.
+This data engineer position at Talan was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

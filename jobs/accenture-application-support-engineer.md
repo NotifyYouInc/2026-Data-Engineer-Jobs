@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5634185-S2055983-1) |
+| Location | Hyderabad, Telangana, India |
+| Category | Technical Support Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Application-Support-Engineer_ATCI-5672268-S2059351-1) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-07-02.
+This technical support engineer position at Accenture was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

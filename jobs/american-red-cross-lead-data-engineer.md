@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [American Red Cross](https://scoutify.ai/companies/americanredcross?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | North Carolina, US |
 | Category | Data Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Raleigh-NC/Lead-Data-Engineer_RC88452) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Statewide-NC/Lead-Data-Engineer_RC90083) |
 
 ## About This Role
 
-This data engineer position at American Red Cross was posted on 2026-05-15.
+This data engineer position at American Red Cross was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

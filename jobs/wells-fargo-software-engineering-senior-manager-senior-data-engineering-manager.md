@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Engineering Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Software-Engineering-Senior-Manager---Senior-Data-Engineering-Manager_R-540983) |
+| Category | Data Engineer |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Software-Engineering-Senior-Manager---Senior-Data-Engineering-Manager_R-561419) |
 
 ## About This Role
 
-This engineering manager position at Wells Fargo was posted on 2026-04-30.
+This data engineer position at Wells Fargo was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

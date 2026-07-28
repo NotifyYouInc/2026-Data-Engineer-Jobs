@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Sector, Uttar Pradesh, India |
 | Category | Data Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/DLF-Downtown-Sector-25A-Phase-3-Block-3/Senior-Analyst_JR110830) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/DLF-Phase-3-Sector-24-Gurugram/Senior-Analyst_JR120319) |
 
 ## About This Role
 
-This data engineer position at National Australia Bank (NAB) was posted on 2026-06-19.
+This data engineer position at National Australia Bank (NAB) was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

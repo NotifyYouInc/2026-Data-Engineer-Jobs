@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Belfort, Bourgogne, France |
 | Category | Data Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000133539139-data-engineer-avec-competences-ia-3-a-5-ans-dexperience-belfort-hf) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000138673704-data-engineer-avec-competences-ia-3-a-5-ans-dexperience-belfort-hf) |
 
 ## About This Role
 
-This data engineer position at Everience was posted on 2026-06-23.
+This data engineer position at Everience was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

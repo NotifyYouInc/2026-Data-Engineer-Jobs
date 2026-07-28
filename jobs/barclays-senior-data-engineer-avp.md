@@ -1,16 +1,16 @@
-# Senior Data Engineer – AVP at Barclays
+# Senior Data Engineer - AVP at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | New Jersey, US |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-Whippany-Campus-Jefferson-Park/Senior-Data-Engineer---AVP_JR-0000105715) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-Whippany-Campus-Jefferson-Park/Senior-Data-Engineer---AVP_JR-0000099543) |
 
 ## About This Role
 
-This data engineer position at Barclays was posted on 2026-04-15.
+This data engineer position at Barclays was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

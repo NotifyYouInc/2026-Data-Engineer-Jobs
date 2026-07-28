@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fcka9zLnjUG2rXzOKRMqUATu394yR3rG3tTRGvAz8dZ7s_EjsA1Ny_iyTgfwIDKz1nFg5tonxf6rRtBuC14PatrjCpWNBoagT30ZNY3IEAIypEFuOACpzV68TFcpALfQ%3D%3D_V2&loc=IN&title=Cloud+Data+Engineer) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUMvddGqYzXBgLCyKPRmkVrAC75W8a5RON7UcMzRu1u9EjsA1Ny_i136bmcYv_1H2IN0UW7PMstNI-fZMIt66iWgE_hegrmxusATZw1sbnP8p5cVqRQEEZQv9WJO6Q%3D%3D_V2&loc=IN&title=Cloud+Data+Engineer) |
 
 ## About This Role
 
-This data engineer position at Google was posted on 2026-06-19.
+This data engineer position at Google was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 
