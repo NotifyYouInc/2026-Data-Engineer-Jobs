@@ -1,16 +1,16 @@
-# IN_Senior Associate_Azure Data Engineering_D&A_Advisory_Noida at PwC
+# IN_Senior Associate_Azure Data Engineering _D&A_Advisory_Noida at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Noida, Uttar Pradesh, India |
-| Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Noida/IN-Senior-Associate-Azure-Data-Engineering-D-A-Advisory-Noida_707314WD-1) |
+| Category | Data Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Noida/IN-Senior-Associate-Azure-Data-Engineering--D-A-Advisory-Noida_745503WD-1) |
 
 ## About This Role
 
-This software engineer position at PwC was posted on 2026-02-19.
+This data engineer position at PwC was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

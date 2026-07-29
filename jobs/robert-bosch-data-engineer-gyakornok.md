@@ -1,16 +1,16 @@
-# Data engineer gyakornok at Robert Bosch
+# Data Engineer gyakornok at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | Data Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000122673243-data-engineer-gyakornok) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138843264-data-engineer-gyakornok) |
 
 ## About This Role
 
-This data engineer position at Robert Bosch was posted on 2026-04-24.
+This data engineer position at Robert Bosch was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [42dot](https://scoutify.ai/companies/42dot?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | South Korea |
 | Category | Software Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/42dot/1c43ae10-457b-43d9-b61b-8bc4366fbc48) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/42dot/255422d1-ddbb-45de-b807-0e0ad480d76b) |
 
 ## About This Role
 
-This software engineer position at 42dot was posted on 2026-06-11.
+This software engineer position at 42dot was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Western Alliance Bancorporation](https://scoutify.ai/companies/western-alliance-bancorporation?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/Dallas-TX/Staff-Engineer-II---Senior-Data-Engineer_R12692) |
+| Category | Data Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/Phoenix-AZ/Staff-Engineer-II---Senior-Data-Engineer_R13474-1) |
 
 ## About This Role
 
-This software engineer position at Western Alliance Bancorporation was posted on 2026-03-24.
+This data engineer position at Western Alliance Bancorporation was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

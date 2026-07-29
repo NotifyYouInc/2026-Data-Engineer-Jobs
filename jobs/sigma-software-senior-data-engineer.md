@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Lviv, Lviv, Ukraine |
+| Location | Kyiv, Kyiv City, Ukraine |
 | Category | Data Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000135756389-senior-data-engineer) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000138851835-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Sigma Software was posted on 2026-07-03.
+This data engineer position at Sigma Software was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

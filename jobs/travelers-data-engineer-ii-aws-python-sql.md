@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Travelers](https://scoutify.ai/companies/travelers?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hartford, Connecticut, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-II--AWS--Python--SQL-_R-48954) |
+| Category | Data Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-II--AWS--Python--SQL-_R-51507) |
 
 ## About This Role
 
-This software engineer position at Travelers was posted on 2026-02-04.
+This data engineer position at Travelers was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

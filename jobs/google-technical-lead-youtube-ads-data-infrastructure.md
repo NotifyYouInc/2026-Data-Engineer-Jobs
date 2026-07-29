@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Kirkland, Washington, United States |
-| Category | Engineering Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckU0Gu6MmBBlkxZ-0G1c7my4x7699JLSwvaLdncOEC82cEjsACxwdTD8QlFpXNkK-OukQN_04_kiOhupuM8AmuO9iqciOZwtrbJ249oR8kSOpCod1OdEk5-7CBg99ZQ%3D%3D_V2&loc=US&title=Technical+Lead) |
+| Category | Software Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckX4IECip6WRICIJ0WIa_3doiOhyqxn8FBstCSfndArH3EjsA1Ny_i0Yzaj5ZctLISPn9lpxaTaaDYxCMKXc3omSgwiLmHFtmtCb6KoHpKC7fB92zg-6eXtLj7ADshA%3D%3D_V2&loc=US&title=Technical+Lead) |
 
 ## About This Role
 
-This engineering manager position at Google was posted on 2026-06-08.
+This software engineer position at Google was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

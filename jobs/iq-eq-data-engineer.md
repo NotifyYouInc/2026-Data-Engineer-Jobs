@@ -5,12 +5,12 @@
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000122621610-data-engineer) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000138866579-data-engineer) |
 
 ## About This Role
 
-This data engineer position at IQ-EQ was posted on 2026-04-24.
+This data engineer position at IQ-EQ was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

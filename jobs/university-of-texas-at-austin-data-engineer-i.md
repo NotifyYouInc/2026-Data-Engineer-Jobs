@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [University of Texas at Austin](https://scoutify.ai/companies/university-of-texas-at-austin?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Not specified |
+| Location | Austin, Texas, United States |
 | Category | Data Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://utaustin.wd1.myworkdayjobs.com/utstaff/job/AUSTIN-TX/Data-Engineer-I_R_00045134) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://utaustin.wd1.myworkdayjobs.com/utstaff/job/UT-MAIN-CAMPUS/Data-Engineer-I_R_00047414) |
 
 ## About This Role
 
-This data engineer position at University of Texas at Austin was posted on 2026-03-18.
+This data engineer position at University of Texas at Austin was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

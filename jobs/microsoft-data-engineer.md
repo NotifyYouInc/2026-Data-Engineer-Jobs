@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Redmond, Washington, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556874265) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556937462) |
 
 ## About This Role
 
-This data engineer position at Microsoft was posted on 2026-06-16.
+This data engineer position at Microsoft was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ASI](https://scoutify.ai/companies/asi?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Niort, Nouvelle-Aquitaine, France |
 | Category | Data Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASIFR/744000127010570-data-ingenieur-python-fh) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASIFR/744000138835079-data-ingenieur-python-fh) |
 
 ## About This Role
 
-This data engineer position at ASI was posted on 2026-05-18.
+This data engineer position at ASI was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10453867/data-engineer-pv-prime-video-tv-tech) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10480963/data-engineer-pv-prime-video-tv-tech) |
 
 ## About This Role
 
-This data engineer position at Amazon was posted on 2026-06-19.
+This data engineer position at Amazon was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ebury/jobs/4922736101) |
+| Category | Data Engineer |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ebury/jobs/4934328101) |
 
 ## About This Role
 
-This ai / llm engineer position at Ebury was posted on 2026-07-08.
+This data engineer position at Ebury was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Systems International](https://scoutify.ai/companies/tsystemsinternational?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Granada, Andalusia, Spain |
+| Location | Reus, Catalonia, Spain |
 | Category | Data Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000130814435-senior-data-engineer-databricks-mfd) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000138911111-senior-data-engineer-databricks-mfd) |
 
 ## About This Role
 
-This data engineer position at T-Systems International was posted on 2026-06-08.
+This data engineer position at T-Systems International was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ASI](https://scoutify.ai/companies/asi?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Rennes, Brittany, France |
 | Category | Data Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASIFR/744000126307539-data-ingenieur-fh) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASIFR/744000138832634-data-ingenieur-fh) |
 
 ## About This Role
 
-This data engineer position at ASI was posted on 2026-05-13.
+This data engineer position at ASI was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

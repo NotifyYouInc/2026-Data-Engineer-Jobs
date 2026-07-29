@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DRW](https://scoutify.ai/companies/drweng?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Singapore, Singapore |
 | Category | Data Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/7833046) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/7396522) |
 
 ## About This Role
 
-This data engineer position at DRW was posted on 2026-04-27.
+This data engineer position at DRW was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

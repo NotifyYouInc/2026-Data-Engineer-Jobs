@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rimes](https://scoutify.ai/companies/rimestechnologies?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | London, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/rimestechnologies/jobs/6105816004) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/rimestechnologies/jobs/6110602004) |
 
 ## About This Role
 
-This data engineer position at Rimes was posted on 2026-07-01.
+This data engineer position at Rimes was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

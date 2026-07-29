@@ -5,12 +5,12 @@
 | Company | [StepStone](https://scoutify.ai/companies/stepstone?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Düsseldorf, North Rhine-Westphalia, Germany |
 | Category | Data Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StepStoneGroup/744000134711739-data-engineer-mfd) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StepStoneGroup/744000138904194-data-engineer-mfd) |
 
 ## About This Role
 
-This data engineer position at StepStone was posted on 2026-06-29.
+This data engineer position at StepStone was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

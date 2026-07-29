@@ -5,12 +5,12 @@
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Mississauga, Ontario, Canada |
 | Category | Data Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MISSISSAUGA-Ontario-Canada/Sr-Data-Engineer_R-0000170555-2) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MISSISSAUGA-Ontario-Canada/Sr-Data-Engineer_R-0000179775-1) |
 
 ## About This Role
 
-This data engineer position at Royal Bank of Canada was posted on 2026-05-12.
+This data engineer position at Royal Bank of Canada was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

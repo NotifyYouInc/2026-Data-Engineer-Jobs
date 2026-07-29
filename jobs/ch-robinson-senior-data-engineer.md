@@ -5,12 +5,12 @@
 | Company | [C.H. Robinson](https://scoutify.ai/companies/chrobinson?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Minnesota, US |
 | Category | Data Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Minnesota-Remote/Senior-Data-Engineer_R47818) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Minnesota-Remote/Senior-Data-Engineer_R48008) |
 
 ## About This Role
 
-This data engineer position at C.H. Robinson was posted on 2026-04-23.
+This data engineer position at C.H. Robinson was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

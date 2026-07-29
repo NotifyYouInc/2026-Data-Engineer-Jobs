@@ -5,12 +5,12 @@
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Hyderabad-Office-Level-3--4-Block-A---East-Wing/Senior-Data-Engineer_R000102595) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Hyderabad---Phoenix-Equinox-Tower-2/Senior-Data-Engineer_R000105589-1) |
 
 ## About This Role
 
-This data engineer position at Warner Bros Discovery was posted on 2026-05-07.
+This data engineer position at Warner Bros Discovery was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

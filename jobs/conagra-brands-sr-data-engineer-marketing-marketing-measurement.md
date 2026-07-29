@@ -5,12 +5,12 @@
 | Company | [Conagra Brands](https://scoutify.ai/companies/conagrabrands?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Chicago-Illinois/Sr-Data-Engineer---Marketing---Marketing-Measurement_Req-037374) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Chicago-Illinois/Sr-Data-Engineer---Marketing---Marketing-Measurement_Req-039263) |
 
 ## About This Role
 
-This data engineer position at Conagra Brands was posted on 2026-04-07.
+This data engineer position at Conagra Brands was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

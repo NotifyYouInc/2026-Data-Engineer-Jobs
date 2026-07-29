@@ -5,12 +5,12 @@
 | Company | [Aviva](https://scoutify.ai/companies/aviva?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Markham, Ontario, Canada |
 | Category | Data Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://aviva.wd1.myworkdayjobs.com/External/job/Markham/Senior-Data-Engineer_R-169700) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://aviva.wd1.myworkdayjobs.com/External/job/Markham/Senior-Data-Engineer_R-171135) |
 
 ## About This Role
 
-This data engineer position at Aviva was posted on 2026-06-11.
+This data engineer position at Aviva was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Engineer – Python Developer at Citigroup
+# Data Engineer/ Python Developer at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Data-Engineer---Python-Developer_26936609) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Data-Engineer--Python-Developer_26969641) |
 
 ## About This Role
 
-This data engineer position at Citigroup was posted on 2026-02-24.
+This data engineer position at Citigroup was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

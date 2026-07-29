@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/India---Bengaluru/Data-Engineer_R7299) |
+| Location | Manila, National Capital Region, Philippines |
+| Category | Data Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/Manila---One-World-Square/Data-Engineer_R8113) |
 
 ## About This Role
 
-This software engineer position at CAI was posted on 2026-03-10.
+This data engineer position at CAI was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 
