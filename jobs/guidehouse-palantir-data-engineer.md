@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Arlington/Palantir-Data-Engineer_39001) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Palantir-Data-Engineer_42342) |
 
 ## About This Role
 
-This data engineer position at Guidehouse was posted on 2026-05-01.
+This data engineer position at Guidehouse was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

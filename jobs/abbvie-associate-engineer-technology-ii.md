@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | North Chicago, Illinois, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012133177-associate-engineer-technology-ii) |
+| Location | Illinois, US |
+| Category | Data Engineer |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014230956-associate-engineer-technology-ii) |
 
 ## About This Role
 
-This software engineer position at AbbVie was posted on 2026-03-13.
+This data engineer position at AbbVie was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

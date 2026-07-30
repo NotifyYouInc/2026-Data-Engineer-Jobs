@@ -1,16 +1,16 @@
-# Junior Big Data Engineer at N-iX
+# Junior Big Data Engineer  at N-iX
 
 | Field | Details |
 |-------|---------|
 | Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Ukraine |
 | Category | Data Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://careers.n-ix.com/jobs/4890100101?gh_jid=4890100101) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://careers.n-ix.com/jobs/4933978101?gh_jid=4933978101) |
 
 ## About This Role
 
-This data engineer position at N-iX was posted on 2026-06-09.
+This data engineer position at N-iX was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

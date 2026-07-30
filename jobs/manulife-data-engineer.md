@@ -5,12 +5,12 @@
 | Company | [Manulife](https://scoutify.ai/companies/manulife?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Waterloo-Ontario/Data-Engineer_JR26061275-3) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Waterloo-Ontario/Data-Engineer_JR26070441-2) |
 
 ## About This Role
 
-This data engineer position at Manulife was posted on 2026-07-18.
+This data engineer position at Manulife was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

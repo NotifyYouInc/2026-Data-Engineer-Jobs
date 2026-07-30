@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/IND---Bangalore-DRG/Senior-Product-AI-Data-Engineer_JREQ135578-1) |
+| Category | Data Engineer |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/IND---Bangalore-DRG/Senior-Product-AI-Data-Engineer_JREQ135957-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Clarivate was posted on 2026-05-19.
+This data engineer position at Clarivate was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

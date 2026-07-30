@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WillowTree](https://scoutify.ai/companies/willowtree?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Canada |
+| Location | Ontario, CA |
 | Category | Data Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/telus-digital/090dad1f-90dc-4702-bb93-89e6ee9a5ef3) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/telus-digital/09edcbe7-c05e-422c-af40-4660699f0760) |
 
 ## About This Role
 
-This data engineer position at WillowTree was posted on 2026-05-06.
+This data engineer position at WillowTree was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

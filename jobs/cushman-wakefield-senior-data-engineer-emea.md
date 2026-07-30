@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | London, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Amsterdam-Netherlands/Senior-Data-Engineer-EMEA_R318869) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/London-United-Kingdom/Senior-Data-Engineer-EMEA_R329617) |
 
 ## About This Role
 
-This data engineer position at Cushman & Wakefield was posted on 2026-06-08.
+This data engineer position at Cushman & Wakefield was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

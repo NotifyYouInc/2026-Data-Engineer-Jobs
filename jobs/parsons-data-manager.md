@@ -5,12 +5,12 @@
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | Data Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---DC-Washington/Data-Manager_R183006) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---DC-Washington/Data-Manager_R183673) |
 
 ## About This Role
 
-This data engineer position at Parsons was posted on 2026-07-07.
+This data engineer position at Parsons was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

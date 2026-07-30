@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Irving, Texas, United States |
 | Category | Data Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Senior-Data-Engineer---Vice-President_26960602) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Senior-Data-Engineer---Vice-President_26970128) |
 
 ## About This Role
 
-This data engineer position at Citigroup was posted on 2026-05-11.
+This data engineer position at Citigroup was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

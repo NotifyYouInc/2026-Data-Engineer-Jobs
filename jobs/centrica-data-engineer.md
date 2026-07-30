@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centrica](https://scoutify.ai/companies/centrica?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://centrica.wd3.myworkdayjobs.com/Centrica/job/Leicester/Data-Engineer_R0069781) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Data Engineer |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://centrica.wd3.myworkdayjobs.com/Centrica/job/Dublin/Data-Engineer_R0086404-1) |
 
 ## About This Role
 
-This software engineer position at Centrica was posted on 2026-03-18.
+This data engineer position at Centrica was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

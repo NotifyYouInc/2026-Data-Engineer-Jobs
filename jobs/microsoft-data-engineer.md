@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Redmond, Washington, United States |
 | Category | Data Engineer |
 | Posted | 2026-07-21 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556937462) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556939508) |
 
 ## About This Role
 

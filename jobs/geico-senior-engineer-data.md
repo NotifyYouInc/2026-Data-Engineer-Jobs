@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Geico](https://scoutify.ai/companies/geico?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United States |
+| Location | Richardson, Texas, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Remote-United-States/Senior-Engineer---Data_R0064724) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Richardson-TX/Senior-Engineer---Data_R0064909) |
 
 ## About This Role
 
-This data engineer position at Geico was posted on 2026-06-29.
+This data engineer position at Geico was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

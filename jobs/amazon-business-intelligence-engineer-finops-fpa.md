@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10452556/business-intelligence-engineer-finops-fp-a) |
+| Category | Data Analyst |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10482187/business-intelligence-engineer-finops-fp-a) |
 
 ## About This Role
 
-This data engineer position at Amazon was posted on 2026-06-18.
+This data analyst position at Amazon was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

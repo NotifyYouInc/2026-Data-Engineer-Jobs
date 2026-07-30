@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Data Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000133118810-senior-data-engineer) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000139165609-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at NielsenIQ was posted on 2026-06-19.
+This data engineer position at NielsenIQ was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 
