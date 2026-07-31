@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Columbia, South Carolina, United States |
+| Location | Montevideo, Montevideo Department, Uruguay |
 | Category | Data Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000138894320-lead-data-engineer) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000139122095-lead-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Blend360 was posted on 2026-07-21.
+This data engineer position at Blend360 was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

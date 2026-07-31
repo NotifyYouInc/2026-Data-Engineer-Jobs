@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Málaga, Andalusia, Spain |
 | Category | Data Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000107243948-senior-data-engineer) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000139535979-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Talan was posted on 2026-02-04.
+This data engineer position at Talan was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

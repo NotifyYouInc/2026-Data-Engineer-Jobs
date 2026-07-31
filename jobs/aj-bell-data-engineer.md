@@ -5,12 +5,12 @@
 | Company | [AJ Bell](https://scoutify.ai/companies/ajbell1?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Manchester, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AJBell1/744000138802059-data-engineer) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AJBell1/744000139288039-data-engineer) |
 
 ## About This Role
 
-This data engineer position at AJ Bell was posted on 2026-07-21.
+This data engineer position at AJ Bell was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

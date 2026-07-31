@@ -5,12 +5,12 @@
 | Company | [Devsavant](https://scoutify.ai/companies/devsavant?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Not specified |
 | Category | Data Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/devsavant/b58ac40b-d118-4dbe-a701-3ca04999f6ec) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/devsavant/545fa7f9-7ec9-4120-be3e-ed6ab8d0c58d) |
 
 ## About This Role
 
-This data engineer position at Devsavant was posted on 2026-04-06.
+This data engineer position at Devsavant was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

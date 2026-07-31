@@ -5,12 +5,12 @@
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 3 locations |
 | Category | Technical Writer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/HEDIS-Business-Information-Developer-Consultant-Senior_JR191667-1) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/HEDIS-Business-Information-Developer-Consultant-Senior_JR201250) |
 
 ## About This Role
 
-This technical writer position at Elevance Health was posted on 2026-07-07.
+This technical writer position at Elevance Health was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

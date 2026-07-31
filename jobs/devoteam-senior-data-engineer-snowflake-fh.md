@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
+| Location | Lille, Hauts-de-France, France |
 | Category | Data Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000137927190-senior-data-engineer-snowflake-fh) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000139301897-senior-data-engineer-snowflake-fh) |
 
 ## About This Role
 
-This data engineer position at Devoteam was posted on 2026-07-15.
+This data engineer position at Devoteam was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

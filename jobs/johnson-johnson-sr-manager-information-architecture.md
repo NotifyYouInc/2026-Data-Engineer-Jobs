@@ -5,12 +5,12 @@
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 3 locations |
 | Category | Data Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Zug-Switzerland/Sr-Manager--Information-Architecture_R-077887) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Zug-Switzerland/Sr-Manager--Information-Architecture_R-089924) |
 
 ## About This Role
 
-This data engineer position at Johnson & Johnson was posted on 2026-05-22.
+This data engineer position at Johnson & Johnson was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 
