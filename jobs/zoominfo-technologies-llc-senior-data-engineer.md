@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ZoomInfo Technologies LLC](https://scoutify.ai/companies/zoominfo-technologies-llc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Dublin, Leinster, Ireland |
 | Category | Data Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://www.zoominfo.com/careers?gh_jid=8509474002) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://www.zoominfo.com/careers?gh_jid=8649162002) |
 
 ## About This Role
 
-This data engineer position at ZoomInfo Technologies LLC was posted on 2026-04-22.
+This data engineer position at ZoomInfo Technologies LLC was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -1,0 +1,22 @@
+# Data Engineer, CPU & Storage at OpenAI
+
+| Field | Details |
+|-------|---------|
+| Company | [OpenAI](https://scoutify.ai/companies/openai?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | San Francisco, California, United States |
+| Category | Data Engineer |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/openai/0c0fe7aa-24fb-4bad-aa30-3f68f1418e37) |
+
+## About This Role
+
+This data engineer position at OpenAI was posted on 2026-07-24.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

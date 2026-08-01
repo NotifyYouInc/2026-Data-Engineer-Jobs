@@ -1,16 +1,16 @@
-# Data Engineering Manager  at Dragos
+# Data Engineering Manager at Dragos
 
 | Field | Details |
 |-------|---------|
 | Company | [Dragos](https://scoutify.ai/companies/dragos?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
-| Category | Engineering Manager |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dragos/jobs/5207887008) |
+| Category | Data Engineer |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dragos/jobs/5365080008) |
 
 ## About This Role
 
-This engineering manager position at Dragos was posted on 2026-05-27.
+This data engineer position at Dragos was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Técnico Databricks / Hadoop at DXC Technology
+# Técnico Databricks Hadoop at DXC Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | São Bernardo do Campo, São Paulo, Brazil |
 | Category | Data Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/BRA---SP---SAO-PAULO/Tcnico-Databricks---Hadoop_51584078) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/BRA---SP---SAOBERNARDO-DOCAMPO/Tcnico-Databricks-Hadoop_51585258) |
 
 ## About This Role
 
-This data engineer position at DXC Technology was posted on 2026-06-29.
+This data engineer position at DXC Technology was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

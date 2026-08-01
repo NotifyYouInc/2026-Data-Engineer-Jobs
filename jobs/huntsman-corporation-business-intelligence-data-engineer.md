@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Huntsman Corporation](https://scoutify.ai/companies/huntsman-corporation?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Heredia, Heredia Province, Costa Rica |
-| Category | Software Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/Costa-Rica---Heredia/Business-Intelligence-Data-Engineer_J-019632-1) |
+| Category | Data Engineer |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/Costa-Rica---Heredia/Business-Intelligence-Data-Engineer_J-020114) |
 
 ## About This Role
 
-This software engineer position at Huntsman Corporation was posted on 2026-03-17.
+This data engineer position at Huntsman Corporation was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

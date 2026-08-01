@@ -5,12 +5,12 @@
 | Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
 | Category | Data Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Krakow-Poland/AI-ML-Data-Engineer_J000698973) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Krakow-Poland/AI-ML-Data-Engineer_J000701407) |
 
 ## About This Role
 
-This data engineer position at Aptiv was posted on 2026-05-27.
+This data engineer position at Aptiv was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 
