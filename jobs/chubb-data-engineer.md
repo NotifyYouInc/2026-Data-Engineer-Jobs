@@ -5,12 +5,12 @@
 | Company | [Chubb](https://scoutify.ai/companies/ocs-cx-oj28119?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
 | Category | Data Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#32366) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#35278) |
 
 ## About This Role
 
-This data engineer position at Chubb was posted on 2026-04-29.
+This data engineer position at Chubb was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

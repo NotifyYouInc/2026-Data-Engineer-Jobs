@@ -1,16 +1,16 @@
-# Data Engineer at Cisco
+# Data Engineer, Time and Pay Innovation at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Data-Engineer_2014960-1) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10484361/data-engineer-time-and-pay-innovation) |
 
 ## About This Role
 
-This data engineer position at Cisco was posted on 2026-07-27.
+This data engineer position at Amazon was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

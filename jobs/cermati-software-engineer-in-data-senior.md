@@ -1,16 +1,16 @@
-# SDE III - Data Engineering at Glance
+# Software Engineer in Data (Senior) at Cermati
 
 | Field | Details |
 |-------|---------|
-| Company | [Glance](https://scoutify.ai/companies/glance?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Cermati](https://scoutify.ai/companies/cermati?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Software Engineer |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/glance/jobs/8054888) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cermaticom/744000139910010-software-engineer-in-data-senior) |
 
 ## About This Role
 
-This software engineer position at Glance was posted on 2026-07-27.
+This software engineer position at Cermati was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

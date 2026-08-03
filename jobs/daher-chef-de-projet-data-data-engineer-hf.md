@@ -1,16 +1,16 @@
-# Data Engineer at Cisco
+# Chef de projet Data / Data Engineer (H/F) at Daher
 
 | Field | Details |
 |-------|---------|
-| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Company | [Daher](https://scoutify.ai/companies/daher?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Colomiers, Occitanie, France |
 | Category | Data Engineer |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Data-Engineer_2014960-1) |
+| Apply | [View on company site](https://daher.wd3.myworkdayjobs.com/daher/job/Colomiers-31/Chef-de-projet-Data---Data-Engineer--H-F-_R4642-2025-1) |
 
 ## About This Role
 
-This data engineer position at Cisco was posted on 2026-07-27.
+This data engineer position at Daher was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

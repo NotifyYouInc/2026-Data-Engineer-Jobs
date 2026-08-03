@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Data Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000139064230-regular-data-engineer-inetum) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000139210459-regular-data-engineer-inetum) |
 
 ## About This Role
 
-This data engineer position at Inetum was posted on 2026-07-22.
+This data engineer position at Inetum was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

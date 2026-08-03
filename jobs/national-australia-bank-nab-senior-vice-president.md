@@ -1,16 +1,16 @@
-# Senior Associate, Data Integration- FCO at National Australia Bank (NAB)
+# Senior Vice President at National Australia Bank (NAB)
 
 | Field | Details |
 |-------|---------|
 | Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hanoi, Hanoi, Vietnam |
-| Category | Data Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/29-Lieu-Giai-Street-Ngoc-Ha-Ward/Senior-Associate--Data-Integration--FCO_JR120021) |
+| Location | Gurugram, Haryana, India |
+| Category | Engineering Manager |
+| Posted | 2026-07-26 |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/DLF-Downtown-Sector-25A-Phase-3-Block-4/Senior-Vice-President_JR118433-1) |
 
 ## About This Role
 
-This data engineer position at National Australia Bank (NAB) was posted on 2026-07-27.
+This engineering manager position at National Australia Bank (NAB) was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

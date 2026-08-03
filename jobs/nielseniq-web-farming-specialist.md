@@ -1,16 +1,16 @@
-# Data Engineer at Cisco
+# Web Farming Specialist at NielsenIQ
 
 | Field | Details |
 |-------|---------|
-| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Karachi, Sindh, Pakistan |
 | Category | Data Engineer |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Data-Engineer_2014960-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000139966782-web-farming-specialist) |
 
 ## About This Role
 
-This data engineer position at Cisco was posted on 2026-07-27.
+This data engineer position at NielsenIQ was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

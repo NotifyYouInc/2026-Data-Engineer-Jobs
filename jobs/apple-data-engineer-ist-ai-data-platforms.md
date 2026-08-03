@@ -1,16 +1,16 @@
-# Data Engineer at Cisco
+# Data Engineer, IS&T Ai & Data Platforms at Apple
 
 | Field | Details |
 |-------|---------|
-| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Data Engineer |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Data-Engineer_2014960-1) |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200673795/data-engineer-is-t-ai-data-platforms) |
 
 ## About This Role
 
-This data engineer position at Cisco was posted on 2026-07-27.
+This data engineer position at Apple was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

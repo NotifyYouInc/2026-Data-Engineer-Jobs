@@ -1,16 +1,16 @@
-# Data Engineer at Cisco
+# Lead Data Engineer at Next
 
 | Field | Details |
 |-------|---------|
-| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Company | [Next](https://scoutify.ai/companies/em2-cx-oj74502?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Leicester, England, United Kingdom |
 | Category | Data Engineer |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Data-Engineer_2014960-1) |
+| Apply | [View on company site](https://ekeq.fa.em2.oraclecloud.com/jobs/#76258) |
 
 ## About This Role
 
-This data engineer position at Cisco was posted on 2026-07-27.
+This data engineer position at Next was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

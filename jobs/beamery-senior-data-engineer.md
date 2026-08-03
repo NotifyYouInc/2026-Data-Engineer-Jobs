@@ -1,16 +1,16 @@
-# Data Engineer at Cisco
+# Senior Data Engineer at Beamery
 
 | Field | Details |
 |-------|---------|
-| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Company | [Beamery](https://scoutify.ai/companies/beamery?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Data-Engineer_2014960-1) |
+| Posted | 2026-07-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/beamery/547906b1-169c-458d-93a7-aa94ce0f3e20) |
 
 ## About This Role
 
-This data engineer position at Cisco was posted on 2026-07-27.
+This data engineer position at Beamery was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

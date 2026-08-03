@@ -1,16 +1,16 @@
-# Data Engineer at Cisco
+# Senior Specialist, Data Engineer, BSF at Zeiss
 
 | Field | Details |
 |-------|---------|
-| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Singapore, Singapore |
 | Category | Data Engineer |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Data-Engineer_2014960-1) |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Singapore/Senior-Specialist--Data-Engineer--BSF_JR_1051736-1) |
 
 ## About This Role
 
-This data engineer position at Cisco was posted on 2026-07-27.
+This data engineer position at Zeiss was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

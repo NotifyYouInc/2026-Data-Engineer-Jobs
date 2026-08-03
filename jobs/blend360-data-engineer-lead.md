@@ -6,7 +6,7 @@
 | Location | Montevideo, Montevideo Department, Uruguay |
 | Category | Data Engineer |
 | Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000139099527-data-engineer-lead) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000139168629-data-engineer-lead) |
 
 ## About This Role
 

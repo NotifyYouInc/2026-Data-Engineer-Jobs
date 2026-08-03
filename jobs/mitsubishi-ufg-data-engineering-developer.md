@@ -1,16 +1,16 @@
-# Data Engineer at Accenture
+# Data Engineering- Developer at Mitsubishi UFG
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Data-Engineer_ATCI-5693629-S2060145) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/Data-Engineering--Developer_10078253-WD-2) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-07-23.
+This data engineer position at Mitsubishi UFG was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -1,12 +1,12 @@
-# Senior Associate, Data Integration- FCO at National Australia Bank (NAB)
+# Senior Data Engineer - Martech at National Australia Bank (NAB)
 
 | Field | Details |
 |-------|---------|
 | Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hanoi, Hanoi, Vietnam |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Data Engineer |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/29-Lieu-Giai-Street-Ngoc-Ha-Ward/Senior-Associate--Data-Integration--FCO_JR120021) |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/15-Tran-Bach-Dang-An-Khanh-Ward/Senior-Data-Engineer---Martech_JR120655) |
 
 ## About This Role
 

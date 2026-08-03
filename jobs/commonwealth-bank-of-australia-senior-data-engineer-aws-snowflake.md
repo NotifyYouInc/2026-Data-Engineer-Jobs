@@ -1,4 +1,4 @@
-# Senior Data Engineer at Commonwealth Bank of Australia
+# Senior Data Engineer (AWS & Snowflake) at Commonwealth Bank of Australia
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | 2 locations |
 | Category | Data Engineer |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Senior-Data-Engineer_REQ261645) |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Senior-Data-Engineer--AWS---Snowflake-_REQ262331-1) |
 
 ## About This Role
 

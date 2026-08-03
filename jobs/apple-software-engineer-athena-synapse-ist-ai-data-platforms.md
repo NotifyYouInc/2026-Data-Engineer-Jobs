@@ -1,16 +1,16 @@
-# SDE III - Data Engineering at Glance
+# Software Engineer - Athena Synapse, IS&T Ai & Data Platforms at Apple
 
 | Field | Details |
 |-------|---------|
-| Company | [Glance](https://scoutify.ai/companies/glance?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Software Engineer |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/glance/jobs/8054888) |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200673804/software-engineer-athena-synapse-is-t-ai-data-platforms) |
 
 ## About This Role
 
-This software engineer position at Glance was posted on 2026-07-27.
+This software engineer position at Apple was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 
