@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MQ Referrals Only](https://scoutify.ai/companies/mq-referrals-only?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/mqreferrals/jobs/8068352) |
 
 ## About This Role
 
-This software engineer position at MQ Referrals Only was posted on 2026-07-23.
+This data engineer position at MQ Referrals Only was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

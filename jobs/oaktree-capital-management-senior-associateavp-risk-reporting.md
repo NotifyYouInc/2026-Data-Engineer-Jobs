@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Oaktree Capital Management](https://scoutify.ai/companies/oaktree?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Los Angeles, California, United States |
-| Category | Data Analyst |
+| Category | Data Engineer |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Los-Angeles-California/Senior-Associate-AVP--Risk---Reporting_2026-306) |
 
 ## About This Role
 
-This data analyst position at Oaktree Capital Management was posted on 2026-07-23.
+This data engineer position at Oaktree Capital Management was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

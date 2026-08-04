@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [VWH Capital Management](https://scoutify.ai/companies/vwhcapitalmanagementlp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | AI / LLM Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/VWHCapitalManagementLP/744000139349439-vice-president-ai-platform-lead) |
 
 ## About This Role
 
-This ai / llm engineer position at VWH Capital Management was posted on 2026-07-23.
+This data engineer position at VWH Capital Management was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

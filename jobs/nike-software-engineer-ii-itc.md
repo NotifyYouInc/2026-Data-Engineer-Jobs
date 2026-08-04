@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Karnataka, IN |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-25 |
 | Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Software-Engineer-II--ITC_R-86854-1) |
 
 ## About This Role
 
-This software engineer position at Nike was posted on 2026-07-25.
+This data engineer position at Nike was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

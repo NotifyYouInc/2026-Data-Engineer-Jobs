@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Baton (A Ryder Technology Lab)](https://scoutify.ai/companies/baton-a-ryder-technology-lab?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/baton/jobs/5196180007) |
 
 ## About This Role
 
-This software engineer position at Baton (A Ryder Technology Lab) was posted on 2026-07-24.
+This data engineer position at Baton (A Ryder Technology Lab) was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

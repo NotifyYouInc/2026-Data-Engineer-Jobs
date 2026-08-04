@@ -1,16 +1,16 @@
-# Data Engineer - Scala  at Capco
+# Data Engineer - Scala at Capco
 
 | Field | Details |
 |-------|---------|
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/7767983) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8090592) |
 
 ## About This Role
 
-This data engineer position at Capco was posted on 2026-05-15.
+This data engineer position at Capco was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

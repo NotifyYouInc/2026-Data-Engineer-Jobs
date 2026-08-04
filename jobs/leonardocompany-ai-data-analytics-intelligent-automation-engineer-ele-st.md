@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leonardocompany](https://scoutify.ai/companies/leonardocompany?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Italy |
-| Category | DevOps Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/IT---Roma---Via-Tiburtina--KM12400/AI--Data-Analytics---Intelligent-Automation-Engineer--ELE-ST-_R0031941) |
 
 ## About This Role
 
-This devops engineer position at Leonardocompany was posted on 2026-07-24.
+This data engineer position at Leonardocompany was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Texas, US |
-| Category | DevOps Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/All-Cities-Texas-United-States-of-America/Data-Analytics-and-Cloud-Engineer---Military-Bridge_3166463-1) |
 
 ## About This Role
 
-This devops engineer position at Hewlett Packard (HP) was posted on 2026-07-23.
+This data engineer position at Hewlett Packard (HP) was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

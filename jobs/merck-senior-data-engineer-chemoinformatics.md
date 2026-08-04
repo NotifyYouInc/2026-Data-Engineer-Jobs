@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Schwabenheim, Rheinland-Pfalz, Germany |
-| Category | Data Engineer |
+| Category | Bioinformatics / Computational Biology |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/DEU---Rheinland-Pfalz---Schwabenheim/Senior-Data-Engineer---Chemoinformatics_R408495) |
 
 ## About This Role
 
-This data engineer position at Merck was posted on 2026-07-23.
+This bioinformatics / computational biology position at Merck was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

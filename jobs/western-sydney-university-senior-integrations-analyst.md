@@ -5,12 +5,12 @@
 | Company | [Western Sydney University](https://scoutify.ai/companies/western-sydney-university?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Richmond, Victoria, Australia |
 | Category | Data Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/westernsydneyuniversity/6000000001253067-senior-integrations-analyst) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/westernsydneyuniversity/6000000001263858-senior-integrations-analyst) |
 
 ## About This Role
 
-This data engineer position at Western Sydney University was posted on 2026-07-22.
+This data engineer position at Western Sydney University was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

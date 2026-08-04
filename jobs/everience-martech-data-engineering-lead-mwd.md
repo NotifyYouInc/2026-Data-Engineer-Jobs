@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
-| Category | Marketing Operations |
+| Category | Data Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000139592180-martech-data-engineering-lead-mwd) |
 
 ## About This Role
 
-This marketing operations position at Everience was posted on 2026-07-24.
+This data engineer position at Everience was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

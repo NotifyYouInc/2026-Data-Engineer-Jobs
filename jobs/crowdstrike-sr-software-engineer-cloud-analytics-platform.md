@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-25 |
 | Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---New-York-NY/Sr-Software-Engineer--Cloud---Analytics-Platform_R29257) |
 
 ## About This Role
 
-This software engineer position at CrowdStrike was posted on 2026-07-25.
+This data engineer position at CrowdStrike was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

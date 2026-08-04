@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
-| Category | Forward Deployed Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Diego-CA/Palantir-Foundry-Ontology-Engineer_R0245167) |
 
 ## About This Role
 
-This forward deployed engineer position at Booz Allen was posted on 2026-07-23.
+This data engineer position at Booz Allen was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

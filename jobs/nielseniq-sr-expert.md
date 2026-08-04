@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Vadodara, Gujarat, India |
-| Category | Software Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000115142288-sr-expert) |
+| Category | Data Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000139971449-sr-expert) |
 
 ## About This Role
 
-This software engineer position at NielsenIQ was posted on 2026-03-17.
+This data engineer position at NielsenIQ was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

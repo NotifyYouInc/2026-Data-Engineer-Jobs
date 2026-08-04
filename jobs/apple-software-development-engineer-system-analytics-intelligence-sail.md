@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | California, US |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200673952/software-development-engineer-system-analytics-intelligence-sail) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-07-24.
+This data engineer position at Apple was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

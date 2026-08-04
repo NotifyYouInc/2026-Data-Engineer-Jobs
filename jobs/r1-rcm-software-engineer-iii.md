@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [R1 Rcm](https://scoutify.ai/companies/r1rcm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://r1rcm.wd1.myworkdayjobs.com/r1rcm/job/Noida-India/Software-Engineer-III_R260000003133) |
 
 ## About This Role
 
-This software engineer position at R1 Rcm was posted on 2026-07-27.
+This data engineer position at R1 Rcm was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

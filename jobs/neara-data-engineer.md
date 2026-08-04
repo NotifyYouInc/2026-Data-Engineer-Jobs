@@ -5,12 +5,12 @@
 | Company | [Neara](https://scoutify.ai/companies/neara?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
 | Category | Data Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/neara/59781d7c-b0f4-491f-bc80-972fc11959e2) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/neara/9180a44f-b8d4-4dc4-ba48-1af675155654) |
 
 ## About This Role
 
-This data engineer position at Neara was posted on 2026-06-15.
+This data engineer position at Neara was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

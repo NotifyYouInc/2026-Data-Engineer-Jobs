@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Cork, Munster, Ireland |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200673322/software-engineer-oracle-oltp-olap-software-and-services) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-07-27.
+This data engineer position at Apple was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

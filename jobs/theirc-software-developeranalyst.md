@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Theirc](https://scoutify.ai/companies/theirc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-25 |
 | Apply | [View on company site](https://theirc.wd1.myworkdayjobs.com/external_careers/job/Nairobi-Kenya/Software-Developer-Analyst_JR00004309) |
 
 ## About This Role
 
-This software engineer position at Theirc was posted on 2026-07-25.
+This data engineer position at Theirc was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

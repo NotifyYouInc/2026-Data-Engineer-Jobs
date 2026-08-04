@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Engineering Manager |
+| Category | Data Engineer |
 | Posted | 2026-07-26 |
 | Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/DLF-Downtown-Sector-25A-Phase-3-Block-4/Senior-Vice-President_JR118433-1) |
 
 ## About This Role
 
-This engineering manager position at National Australia Bank (NAB) was posted on 2026-07-26.
+This data engineer position at National Australia Bank (NAB) was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

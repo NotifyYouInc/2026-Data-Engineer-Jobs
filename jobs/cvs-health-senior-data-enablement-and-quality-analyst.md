@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Woonsocket, Rhode Island, United States |
-| Category | QA Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Senior-Data-Enablement-and-Quality-Analyst_R0979032) |
 
 ## About This Role
 
-This qa engineer position at CVS Health was posted on 2026-07-24.
+This data engineer position at CVS Health was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

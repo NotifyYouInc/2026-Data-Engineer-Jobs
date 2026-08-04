@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | India |
-| Category | Engineering Manager |
+| Category | Data Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/India-Remote/Manager--Software-Engineering_JR114911) |
 
 ## About This Role
 
-This engineering manager position at ServiceTitan was posted on 2026-07-24.
+This data engineer position at ServiceTitan was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

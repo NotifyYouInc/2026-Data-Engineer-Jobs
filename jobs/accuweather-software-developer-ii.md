@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AccuWeather](https://scoutify.ai/companies/accuweather?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | State College, Pennsylvania, United States |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/accuweather/jobs/8084432) |
 
 ## About This Role
 
-This software engineer position at AccuWeather was posted on 2026-07-24.
+This data engineer position at AccuWeather was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

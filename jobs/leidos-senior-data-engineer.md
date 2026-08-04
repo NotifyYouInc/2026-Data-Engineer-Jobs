@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Bethesda, Maryland, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Canberra-Australian-Capital-Territory-Australia/Senior-Data-Engineer_R-00181010) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Senior-Data-Engineer_R-00188177) |
 
 ## About This Role
 
-This data engineer position at Leidos was posted on 2026-04-16.
+This data engineer position at Leidos was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

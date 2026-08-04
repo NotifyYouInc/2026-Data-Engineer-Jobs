@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Irving, Texas, United States |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-25 |
 | Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Senior-Engineer-Consultant---Application-Development_R-1098682) |
 
 ## About This Role
 
-This software engineer position at Verizon was posted on 2026-07-25.
+This data engineer position at Verizon was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000139337399-software-engineer-data-engineer-python-sql-snowflake-cloud-devops-cicd-pipeline-ai-co-pilot-usage-and-prompt-engineering-gen-ai-docker-kubernetes) |
 
 ## About This Role
 
-This software engineer position at NielsenIQ was posted on 2026-07-23.
+This data engineer position at NielsenIQ was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

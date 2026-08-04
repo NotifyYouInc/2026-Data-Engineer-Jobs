@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-26 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000139870179-senior-staff-engineer-sas-programmer) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-07-26.
+This data engineer position at Nagarro was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

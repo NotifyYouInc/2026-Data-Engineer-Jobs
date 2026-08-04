@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Data Analyst |
+| Category | Data Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Lead-BI-Engineer---IDL-Technology_JR-0000107428) |
 
 ## About This Role
 
-This data analyst position at Barclays was posted on 2026-07-24.
+This data engineer position at Barclays was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

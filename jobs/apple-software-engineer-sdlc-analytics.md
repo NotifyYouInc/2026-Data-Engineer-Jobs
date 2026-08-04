@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | San Diego, California, United States |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-25 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200671850/software-engineer-sdlc-analytics) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-07-25.
+This data engineer position at Apple was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Data Engineer at Capital Technology Group
+# Senior Data Engineer  at Capital Technology Group
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital Technology Group](https://scoutify.ai/companies/capitaltg?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://boards.greenhouse.io/capitaltg/jobs/5100127007?gh_jid=5100127007) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://boards.greenhouse.io/capitaltg/jobs/5195543007?gh_jid=5195543007) |
 
 ## About This Role
 
-This data engineer position at Capital Technology Group was posted on 2026-04-06.
+This data engineer position at Capital Technology Group was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

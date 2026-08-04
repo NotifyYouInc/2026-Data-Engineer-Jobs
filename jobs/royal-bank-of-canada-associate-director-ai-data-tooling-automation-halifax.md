@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Halifax, Nova Scotia, Canada |
-| Category | AI / LLM Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Associate-Director--AI---Data-Tooling---Automation--Halifax-_R-0000177683-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Royal Bank of Canada was posted on 2026-07-23.
+This data engineer position at Royal Bank of Canada was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

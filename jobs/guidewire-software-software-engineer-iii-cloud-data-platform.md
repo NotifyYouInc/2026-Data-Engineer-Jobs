@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Guidewire Software](https://scoutify.ai/companies/guidewire-software?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | San Mateo, California, United States |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---San-Mateo-CA/Software-Engineer-III---Cloud-Data-Platform_JR_15062) |
 
 ## About This Role
 
-This software engineer position at Guidewire Software was posted on 2026-07-24.
+This data engineer position at Guidewire Software was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

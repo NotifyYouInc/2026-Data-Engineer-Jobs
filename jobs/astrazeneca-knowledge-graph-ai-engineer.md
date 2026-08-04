@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
-| Category | AI / LLM Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Mexico---Guadalajara/Knowledge-Graph---AI-Engineer_R-256991) |
 
 ## About This Role
 
-This ai / llm engineer position at AstraZeneca was posted on 2026-07-23.
+This data engineer position at AstraZeneca was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

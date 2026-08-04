@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Singapore, Singapore |
+| Location | Mumbai, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Singapore/Senior-Data-Engineer_31151943) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/India--Mumbai--Mumbai-Development-Center---EPD/Senior-Data-Engineer_31157388) |
 
 ## About This Role
 
-This data engineer position at Abbott was posted on 2026-06-12.
+This data engineer position at Abbott was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

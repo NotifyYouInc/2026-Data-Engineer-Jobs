@@ -5,12 +5,12 @@
 | Company | [Egen](https://scoutify.ai/companies/egen?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.lever.co/egen/e8554016-989b-41a8-aeac-dfde2ffd3cd3) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.lever.co/egen/b8001f13-144c-45ca-b7b7-51fa1544ed7b) |
 
 ## About This Role
 
-This data engineer position at Egen was posted on 2026-05-19.
+This data engineer position at Egen was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

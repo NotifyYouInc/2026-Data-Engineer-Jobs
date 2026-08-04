@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 6 locations |
-| Category | Data Analyst |
+| Category | Data Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/VA-RICHMOND-2015-STAPLES-MILL-RD/Business-Intelligence-Developer-Senior_JR200600) |
 
 ## About This Role
 
-This data analyst position at Elevance Health was posted on 2026-07-24.
+This data engineer position at Elevance Health was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

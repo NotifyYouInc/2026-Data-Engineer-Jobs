@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [People Data Labs](https://scoutify.ai/companies/people-data-labs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/people-data-labs/32b381fa-c60d-4bf8-ae95-b9cf4eb75e5a) |
 
 ## About This Role
 
-This software engineer position at People Data Labs was posted on 2026-07-23.
+This data engineer position at People Data Labs was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

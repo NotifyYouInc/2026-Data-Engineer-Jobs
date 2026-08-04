@@ -1,16 +1,16 @@
-# Analytics Engineer at Coolblue
+# Analytics Engineer  at Coolblue
 
 | Field | Details |
 |-------|---------|
 | Company | [Coolblue](https://scoutify.ai/companies/coolblue?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Rotterdam, South Holland, The Netherlands |
 | Category | Data Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Coolblue/744000131135229-analytics-engineer) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Coolblue/744000139974039-analytics-engineer) |
 
 ## About This Role
 
-This data engineer position at Coolblue was posted on 2026-06-09.
+This data engineer position at Coolblue was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

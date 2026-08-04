@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Chicago, Illinois, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Senior-Data-Specialist_R0000374796) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Senior-Data-Specialist_R0000385140) |
 
 ## About This Role
 
-This data engineer position at Caterpillar was posted on 2026-06-11.
+This data engineer position at Caterpillar was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

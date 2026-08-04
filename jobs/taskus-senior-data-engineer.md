@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TaskUs](https://scoutify.ai/companies/taskus?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Data Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Navi-Mumbai-India/Senior-Data-Engineer_R_2607_8710) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Chennai-India---Remote/Senior-Data-Engineer_R_2607_9653) |
 
 ## About This Role
 
-This data engineer position at TaskUs was posted on 2026-07-06.
+This data engineer position at TaskUs was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

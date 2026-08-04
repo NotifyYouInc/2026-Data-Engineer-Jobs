@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Minneapolis, Minnesota, United States |
-| Category | Technology / IT Consulting |
+| Category | Data Engineer |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Strategic-Technology-Consultant_R70453-1) |
 
 ## About This Role
 
-This technology / it consulting position at Medtronic was posted on 2026-07-23.
+This data engineer position at Medtronic was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

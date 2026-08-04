@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [T. Rowe Price](https://scoutify.ai/companies/t-rowe-price?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677) |
 
 ## About This Role
 
-This software engineer position at T. Rowe Price was posted on 2026-07-23.
+This data engineer position at T. Rowe Price was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 
