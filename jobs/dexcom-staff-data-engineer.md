@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dexcom](https://scoutify.ai/companies/dexcom?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United States |
+| Location | San Diego, California, United States |
 | Category | Data Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/Staff-Data-Engineer_JR119832) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Staff-Data-Engineer_JR120178-1) |
 
 ## About This Role
 
-This data engineer position at Dexcom was posted on 2026-07-15.
+This data engineer position at Dexcom was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

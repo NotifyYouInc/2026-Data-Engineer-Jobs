@@ -5,12 +5,12 @@
 | Company | [Swift](https://scoutify.ai/companies/swift?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://swift.wd3.myworkdayjobs.com/join-swift/job/Kuala-Lumpur-Malaysia/Senior-Data-Engineer_2026-16148) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://swift.wd3.myworkdayjobs.com/join-swift/job/Kuala-Lumpur-Malaysia/Senior-Data-Engineer_2026-15543) |
 
 ## About This Role
 
-This data engineer position at Swift was posted on 2026-06-22.
+This data engineer position at Swift was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

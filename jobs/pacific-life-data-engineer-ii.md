@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pacific Life](https://scoutify.ai/companies/pacificlife?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | Newport Beach, California, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Charlotte---NC/Data-Engineer-II_R16749) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-800/Data-Engineer-II_R17355) |
 
 ## About This Role
 
-This data engineer position at Pacific Life was posted on 2026-04-13.
+This data engineer position at Pacific Life was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

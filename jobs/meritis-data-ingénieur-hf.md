@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | France |
-| Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000109709211-data-ingenieur-hf) |
+| Category | Data Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000140277264-data-ingenieur-hf) |
 
 ## About This Role
 
-This software engineer position at Meritis was posted on 2026-02-17.
+This data engineer position at Meritis was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

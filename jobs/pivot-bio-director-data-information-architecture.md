@@ -5,12 +5,12 @@
 | Company | [Pivot Bio](https://scoutify.ai/companies/pivot-bio?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Minnetonka, Minnesota, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://www.pivotbio.com/job-description?gh_jid=8586256002) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://www.pivotbio.com/job-description?gh_jid=8653991002) |
 
 ## About This Role
 
-This data engineer position at Pivot Bio was posted on 2026-06-10.
+This data engineer position at Pivot Bio was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

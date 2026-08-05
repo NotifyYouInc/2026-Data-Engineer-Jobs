@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Tampa, Florida, United States |
 | Category | Data Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Data-Engineer--Senior_R0245139) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Tampa-FL/Data-Engineer--Senior_R0245470) |
 
 ## About This Role
 
-This data engineer position at Booz Allen was posted on 2026-07-23.
+This data engineer position at Booz Allen was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

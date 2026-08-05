@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Travelers](https://scoutify.ai/companies/travelers?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Senior-Data-Engineer_R-49800) |
+| Location | Hartford, Connecticut, United States |
+| Category | Data Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Senior-Data-Engineer_R-51535) |
 
 ## About This Role
 
-This software engineer position at Travelers was posted on 2026-03-30.
+This data engineer position at Travelers was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

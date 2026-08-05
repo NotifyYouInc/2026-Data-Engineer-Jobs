@@ -1,16 +1,16 @@
-# AWS Data Engineer at Capco
+# AWS Data Engineer  at Capco
 
 | Field | Details |
 |-------|---------|
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Edinburgh, Scotland, United Kingdom |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/7681746) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8088082) |
 
 ## About This Role
 
-This data engineer position at Capco was posted on 2026-06-10.
+This data engineer position at Capco was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

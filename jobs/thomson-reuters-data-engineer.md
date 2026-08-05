@@ -5,12 +5,12 @@
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Data-Engineer_JREQ201910-1) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Data-Engineer_JREQ202170) |
 
 ## About This Role
 
-This data engineer position at Thomson Reuters was posted on 2026-07-15.
+This data engineer position at Thomson Reuters was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

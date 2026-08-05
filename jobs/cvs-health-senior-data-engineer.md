@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Georgia, US |
+| Location | Florida, US |
 | Category | Data Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/GA---Work-from-home/Senior-Data-Engineer_R0961959) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-North-Carolina/Senior-Data-Engineer_R0971445-1) |
 
 ## About This Role
 
-This data engineer position at CVS Health was posted on 2026-07-24.
+This data engineer position at CVS Health was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

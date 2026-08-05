@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/Data-and-AI-Engineer_R2861422) |
+| Category | Data Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/Data-and-AI-Engineer_R2862231-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Sanofi was posted on 2026-07-17.
+This data engineer position at Sanofi was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

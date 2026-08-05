@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | Columbia, South Carolina, United States |
 | Category | Data Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000139666584-lead-data-engineer) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000140275509-lead-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Blend360 was posted on 2026-07-24.
+This data engineer position at Blend360 was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

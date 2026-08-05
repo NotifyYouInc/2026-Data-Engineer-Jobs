@@ -1,0 +1,22 @@
+# Data Engineer at Beghouconsulting
+
+| Field | Details |
+|-------|---------|
+| Company | [Beghouconsulting](https://scoutify.ai/companies/beghouconsulting?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Durham, North Carolina, United States |
+| Category | Data Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.lever.co/beghouconsulting/5d0a3a87-b7a3-4bc4-bcfd-12ea596707f9) |
+
+## About This Role
+
+This data engineer position at Beghouconsulting was posted on 2026-07-28.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

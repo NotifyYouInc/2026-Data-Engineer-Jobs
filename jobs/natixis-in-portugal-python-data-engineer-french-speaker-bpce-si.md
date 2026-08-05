@@ -1,16 +1,16 @@
-# Python Data Engineer (French Speaker) - BPCE SI at natixis-in-portugal
+# Python Data Engineer (French Speaker) | BPCE SI at natixis-in-portugal
 
 | Field | Details |
 |-------|---------|
 | Company | [natixis-in-portugal](https://scoutify.ai/companies/natixisinportugal?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | Portugal |
 | Category | Data Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NatixisInPortugal/744000121817747-python-data-engineer-french-speaker-bpce-si) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NatixisInPortugal/744000140239529-python-data-engineer-french-speaker-bpce-si) |
 
 ## About This Role
 
-This data engineer position at natixis-in-portugal was posted on 2026-04-20.
+This data engineer position at natixis-in-portugal was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 
