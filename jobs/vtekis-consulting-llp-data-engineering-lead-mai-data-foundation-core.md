@@ -5,12 +5,12 @@
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bassersdorf, Zurich, Switzerland |
 | Category | Data Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000140042949-data-engineering-lead-mai-data-foundation-core) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000140325829-data-engineering-lead-mai-data-foundation-core) |
 
 ## About This Role
 
-This data engineer position at VTekis Consulting LLP was posted on 2026-07-27.
+This data engineer position at VTekis Consulting LLP was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

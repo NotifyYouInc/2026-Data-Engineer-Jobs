@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital on Tap](https://scoutify.ai/companies/capital-on-tap?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Data Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/capitalontap/jobs/8653161002) |
 
 ## About This Role
 
-This data engineer position at Capital on Tap was posted on 2026-07-28.
+This devops engineer position at Capital on Tap was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PETRONAS](https://scoutify.ai/companies/ap1-cx-oj85488?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Data Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://epuc.fa.ap1.oraclecloud.com/jobs/#29102) |
 
 ## About This Role
 
-This data engineer position at PETRONAS was posted on 2026-07-28.
+This machine learning engineer position at PETRONAS was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

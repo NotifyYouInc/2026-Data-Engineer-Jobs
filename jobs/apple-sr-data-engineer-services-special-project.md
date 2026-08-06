@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Cupertino, California, United States |
-| Category | Data Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200674485/sr-data-engineer-services-special-project) |
 
 ## About This Role
 
-This data engineer position at Apple was posted on 2026-07-28.
+This machine learning engineer position at Apple was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

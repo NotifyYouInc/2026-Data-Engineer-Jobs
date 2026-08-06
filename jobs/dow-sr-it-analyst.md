@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dow](https://scoutify.ai/companies/dow?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
-| Category | Data Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/Sr-IT-Analyst_R2067603) |
 
 ## About This Role
 
-This data engineer position at Dow was posted on 2026-07-28.
+This devops engineer position at Dow was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

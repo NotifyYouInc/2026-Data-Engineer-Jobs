@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HarbourVest](https://scoutify.ai/companies/harbourvest?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Data Engineer |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://harbourvest.wd5.myworkdayjobs.com/hvp/job/Boston/Assistant-Director--Fund-Financial-System_R2471) |
 
 ## About This Role
 
-This data engineer position at HarbourVest was posted on 2026-07-29.
+This asset management / portfolio management position at HarbourVest was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

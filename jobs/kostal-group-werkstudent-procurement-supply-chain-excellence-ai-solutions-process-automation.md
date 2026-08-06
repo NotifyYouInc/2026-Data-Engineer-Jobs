@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KOSTAL Group](https://scoutify.ai/companies/kostalgroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Lüdenscheid, North Rhine-Westphalia, Germany |
-| Category | Data Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/KOSTALGroup/744000140197099-werkstudent-procurement-supply-chain-excellence-ai-solutions-process-automation-mwdka) |
 
 ## About This Role
 
-This data engineer position at KOSTAL Group was posted on 2026-07-28.
+This machine learning engineer position at KOSTAL Group was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

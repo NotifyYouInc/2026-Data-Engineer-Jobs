@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Keppel](https://scoutify.ai/companies/keppel?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Singapore, Singapore |
-| Category | Data Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://keppel.wd3.myworkdayjobs.com/keppelcareers/job/Singapore/XMLNAME--Keppel-Internship-Programme-2027--Intern--Data-AI-Engineering--Jan---May-2027-_10016295) |
 
 ## About This Role
 
-This data engineer position at Keppel was posted on 2026-07-28.
+This machine learning engineer position at Keppel was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

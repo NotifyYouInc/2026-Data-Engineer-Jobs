@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Singapore |
-| Category | Data Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Central-Region-City-Area/First-VP--Senior-Data-Engineer--Group-Technology---Ops_JR92144) |
 
 ## About This Role
 
-This data engineer position at UOB Group was posted on 2026-07-28.
+This machine learning engineer position at UOB Group was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

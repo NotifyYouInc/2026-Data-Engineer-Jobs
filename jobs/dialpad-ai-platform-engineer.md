@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dialpad](https://scoutify.ai/companies/dialpad?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
-| Category | Data Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/dialpad/jobs/8636223002) |
 
 ## About This Role
 
-This data engineer position at Dialpad was posted on 2026-07-27.
+This devops engineer position at Dialpad was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

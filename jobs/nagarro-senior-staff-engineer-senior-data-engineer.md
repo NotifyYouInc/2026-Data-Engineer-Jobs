@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United States |
+| Location | Texas, US |
 | Category | Data Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000140031389-senior-staff-engineer-senior-data-engineer) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000140466959-senior-staff-engineer-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Nagarro was posted on 2026-07-27.
+This data engineer position at Nagarro was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

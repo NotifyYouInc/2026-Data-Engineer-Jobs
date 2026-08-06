@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Miguel Hidalgo, Mexico City, Mexico |
-| Category | Data Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Miguel-Hidalgo-11320/Data-Developer-Gen-AI--Ciudad-de-Mxico--Miguel-Hidalgo-_JR00110559) |
 
 ## About This Role
 
-This data engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-07-28.
+This machine learning engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

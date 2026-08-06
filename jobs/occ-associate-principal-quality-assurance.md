@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OCC](https://scoutify.ai/companies/theocc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Data Engineer |
+| Category | QA Engineer |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Associate-Principal--Quality-Assurance_REQ-4751) |
 
 ## About This Role
 
-This data engineer position at OCC was posted on 2026-07-29.
+This qa engineer position at OCC was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

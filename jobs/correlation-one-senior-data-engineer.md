@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Correlation One](https://scoutify.ai/companies/correlationone?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Not specified |
+| Location | Union, New Jersey, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/correlationone/jobs/6102140004) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/correlationone/jobs/6102142004) |
 
 ## About This Role
 
-This data engineer position at Correlation One was posted on 2026-06-29.
+This data engineer position at Correlation One was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

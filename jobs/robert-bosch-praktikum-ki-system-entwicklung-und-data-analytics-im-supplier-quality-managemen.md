@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Kusterdingen, Baden-Wurttemberg, Germany |
-| Category | Data Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000140202119-praktikum-ki-system-entwicklung-und-data-analytics-im-supplier-quality-management) |
 
 ## About This Role
 
-This data engineer position at Robert Bosch was posted on 2026-07-28.
+This machine learning engineer position at Robert Bosch was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

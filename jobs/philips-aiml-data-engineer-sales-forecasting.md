@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/AI-ML-Data-Engineer--Sales-Forecasting_587506-1) |
 
 ## About This Role
 
-This data engineer position at Philips was posted on 2026-07-28.
+This machine learning engineer position at Philips was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

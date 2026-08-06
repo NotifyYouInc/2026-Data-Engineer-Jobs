@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sony Pictures Entertainment](https://scoutify.ai/companies/spe?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
-| Category | Data Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://spe.wd1.myworkdayjobs.com/SonyPicturesEntertainment/job/Buenos-Aires-Argentina/AI-Efficiency--Innovation---Automation-Analyst_JR113829) |
 
 ## About This Role
 
-This data engineer position at Sony Pictures Entertainment was posted on 2026-07-27.
+This machine learning engineer position at Sony Pictures Entertainment was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

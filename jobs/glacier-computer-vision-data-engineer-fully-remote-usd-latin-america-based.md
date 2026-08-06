@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Glacier](https://scoutify.ai/companies/glacier?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Not specified |
-| Category | Data Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/glacier/4421dbba-20c6-4318-8557-205af1a4b03c) |
 
 ## About This Role
 
-This data engineer position at Glacier was posted on 2026-07-27.
+This machine learning engineer position at Glacier was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

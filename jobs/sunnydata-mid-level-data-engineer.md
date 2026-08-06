@@ -1,12 +1,12 @@
-# Mid-level Data Engineer at SunnyData
+# Mid-level Data Engineer  at SunnyData
 
 | Field | Details |
 |-------|---------|
 | Company | [SunnyData](https://scoutify.ai/companies/sunnydata?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Mexico |
+| Location | Uruguay |
 | Category | Data Engineer |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sunnydata/c0162c6c-97df-44f1-8cb6-cc626a2cee05) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sunnydata/613f670d-ce01-4b77-b6a5-272b7ef7936f) |
 
 ## About This Role
 

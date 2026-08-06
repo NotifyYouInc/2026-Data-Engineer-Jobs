@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sutter Health](https://scoutify.ai/companies/sutterhealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Emeryville, California, United States |
-| Category | Data Engineer |
+| Category | Marketing Operations |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://sutterhealth.wd1.myworkdayjobs.com/sh/job/Emeryville/Marketing-Analytics-Engineer_R-136711) |
 
 ## About This Role
 
-This data engineer position at Sutter Health was posted on 2026-07-28.
+This marketing operations position at Sutter Health was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

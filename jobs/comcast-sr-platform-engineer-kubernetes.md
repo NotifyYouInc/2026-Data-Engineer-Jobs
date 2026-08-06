@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pennsylvania, US |
-| Category | Data Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---West-Chester-1354-Boot-Rd/Sr-Platform-Engineer--Kubernetes_R441462) |
 
 ## About This Role
 
-This data engineer position at Comcast was posted on 2026-07-27.
+This devops engineer position at Comcast was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

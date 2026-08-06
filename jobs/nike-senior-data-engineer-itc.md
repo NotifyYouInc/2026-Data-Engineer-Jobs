@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Karnataka, IN |
-| Category | DevOps Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Senior-Data-Engineer--ITC_R-80313) |
+| Category | Data Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Senior-Data-Engineer--ITC_R-89039) |
 
 ## About This Role
 
-This devops engineer position at Nike was posted on 2026-03-04.
+This data engineer position at Nike was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

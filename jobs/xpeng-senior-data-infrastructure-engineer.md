@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [XPENG](https://scoutify.ai/companies/xpeng?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | Data Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/xpengmotors/jobs/8653034002) |
 
 ## About This Role
 
-This data engineer position at XPENG was posted on 2026-07-28.
+This devops engineer position at XPENG was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 
