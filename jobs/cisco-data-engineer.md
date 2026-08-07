@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | North Carolina, US |
 | Category | Data Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Data-Engineer_2019329-1) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Data-Engineer_2019222) |
 
 ## About This Role
 
-This data engineer position at Cisco was posted on 2026-07-28.
+This data engineer position at Cisco was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Taptapsend](https://scoutify.ai/companies/taptapsend?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Data Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/taptapsend/a96ce6ce-0e8c-424d-9870-6efa74d82b85) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/taptapsend/7b6d9fb2-ab3d-4054-bfb8-b09d8af9ae47) |
 
 ## About This Role
 
-This data engineer position at Taptapsend was posted on 2026-07-13.
+This data engineer position at Taptapsend was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

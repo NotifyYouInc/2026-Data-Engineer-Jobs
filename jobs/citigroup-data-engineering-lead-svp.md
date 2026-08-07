@@ -1,16 +1,16 @@
-# Data Engineering Lead, SVP at Citigroup
+# Data Engineering Lead (SVP) at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Engineering Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Data-Engineering-Lead--SVP_26940860) |
+| Location | Belfast, Northern Ireland, United Kingdom |
+| Category | Data Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Data-Engineering-Lead--SVP-_26982009) |
 
 ## About This Role
 
-This engineering manager position at Citigroup was posted on 2026-02-27.
+This data engineer position at Citigroup was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

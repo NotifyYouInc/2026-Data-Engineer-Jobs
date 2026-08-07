@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fora Financial](https://scoutify.ai/companies/fora-financial?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/forafinancial/jobs/4298234009) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/forafinancial/jobs/4302249009) |
 
 ## About This Role
 
-This data engineer position at Fora Financial was posted on 2026-06-30.
+This data engineer position at Fora Financial was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

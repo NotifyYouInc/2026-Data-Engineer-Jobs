@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sovrn](https://scoutify.ai/companies/sovrn?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Boulder, Colorado, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/sovrn/jobs/8095474) |
 
 ## About This Role
 
-This data engineer position at Sovrn was posted on 2026-07-29.
+This software engineer position at Sovrn was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

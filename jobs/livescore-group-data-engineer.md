@@ -5,12 +5,12 @@
 | Company | [LiveScore Group ](https://scoutify.ai/companies/livescore-group?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/livescore9/jobs/8556114002) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/livescore9/jobs/8658361002) |
 
 ## About This Role
 
-This data engineer position at LiveScore Group  was posted on 2026-05-19.
+This data engineer position at LiveScore Group  was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

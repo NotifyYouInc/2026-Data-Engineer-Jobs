@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000140471609-t-sql-linux-analystdeveloper) |
 
 ## About This Role
 
-This data engineer position at Inetum was posted on 2026-07-29.
+This software engineer position at Inetum was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

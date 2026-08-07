@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Shippeo](https://scoutify.ai/companies/shippeo?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Shippeo/744000140478078-senior-data-integration-engineer-bangalore) |
 
 ## About This Role
 
-This data engineer position at Shippeo was posted on 2026-07-29.
+This software engineer position at Shippeo was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

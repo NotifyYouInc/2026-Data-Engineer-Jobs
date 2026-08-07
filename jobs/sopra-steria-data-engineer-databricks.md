@@ -1,16 +1,16 @@
-# Data Engineer, Databricks  at Sopra Steria
+# Data Engineer (Databricks) at Sopra Steria
 
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Oslo, Oslo, Norway |
-| Category | Software Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000112147613-data-engineer-databricks) |
+| Location | Madrid, Madrid, Spain |
+| Category | Data Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000140656994-data-engineer-databricks) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-03-02.
+This data engineer position at Sopra Steria was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

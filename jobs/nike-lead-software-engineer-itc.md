@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
+| Location | Karnataka, IN |
 | Category | Software Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Lead-Software-Engineer--ITC_R-86493) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Lead-Software-Engineer--ITC_R-89088) |
 
 ## About This Role
 
-This software engineer position at Nike was posted on 2026-06-23.
+This software engineer position at Nike was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Data Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000130567758-data-engineer-marketing-digital-ecommerce-hf-cdi-paris-17eme) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000140680919-data-engineer-marketing-digital-ecommerce-hf-cdi-paris-17eme) |
 
 ## About This Role
 
-This data engineer position at REXEL was posted on 2026-06-05.
+This data engineer position at REXEL was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Adyen](https://scoutify.ai/companies/adyen?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/8095959) |
 
 ## About This Role
 
-This data engineer position at Adyen was posted on 2026-07-30.
+This software engineer position at Adyen was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

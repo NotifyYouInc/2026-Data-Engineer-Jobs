@@ -5,12 +5,12 @@
 | Company | [Privia Health](https://scoutify.ai/companies/privia-health?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/priviahealth/744000136321789-senior-data-engineer) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/priviahealth/744000140680136-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Privia Health was posted on 2026-07-07.
+This data engineer position at Privia Health was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

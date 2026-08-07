@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [absorblms](https://scoutify.ai/companies/absorblms?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Canada |
-| Category | Machine Learning Engineer |
+| Category | Marketing Operations |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/absorblms/3449c536-8e9f-4aac-8523-28b17b639f1d) |
 
 ## About This Role
 
-This machine learning engineer position at absorblms was posted on 2026-07-29.
+This marketing operations position at absorblms was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AOT Technologies](https://scoutify.ai/companies/aottechnologies?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Victoria, British Columbia, Canada |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://boards.greenhouse.io/aottechnologies/jobs/5373491008?gh_jid=5373491008) |
 
 ## About This Role
 
-This data engineer position at AOT Technologies was posted on 2026-07-28.
+This software engineer position at AOT Technologies was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

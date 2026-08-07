@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Canary Wharf, England, United Kingdom |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Platform-Data-Principal-Engineer_JR-0000099659) |
 
 ## About This Role
 
-This data engineer position at Barclays was posted on 2026-07-29.
+This software engineer position at Barclays was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

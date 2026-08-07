@@ -5,12 +5,12 @@
 | Company | [Dedalus CandG](https://scoutify.ai/companies/dedalus-candg?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Graz, Styria, Austria |
 | Category | Data Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://dedalus.wd3.myworkdayjobs.com/external/job/AUT---Graz/Datenbankentwickler-fr-SQL-DWH-BI--m-w-d-_JR107856-1) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://dedalus.wd3.myworkdayjobs.com/external/job/AUT---Graz/Datenbankentwickler-fr-SQL-DWH-BI--m-w-d-_JR108840) |
 
 ## About This Role
 
-This data engineer position at Dedalus CandG was posted on 2026-04-23.
+This data engineer position at Dedalus CandG was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

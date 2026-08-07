@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Data Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Custom-Software-Engineer_ATCI-5670272-S2060803-1) |
+| Location | Gurugram, Haryana, India |
+| Category | Software Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Custom-Software-Engineer_ATCI-5639558-S2061139-1) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-07-28.
+This software engineer position at Accenture was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

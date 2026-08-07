@@ -1,16 +1,16 @@
-# Engenheiro(a) de Dados - Pleno at XP Inc.
+# Engenheiro(a) de Dados | Pleno at XP Inc.
 
 | Field | Details |
 |-------|---------|
 | Company | [XP Inc.](https://scoutify.ai/companies/xpinc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Data Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/xpinc/jobs/8588720002) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/xpinc/jobs/8659508002) |
 
 ## About This Role
 
-This data engineer position at XP Inc. was posted on 2026-07-07.
+This data engineer position at XP Inc. was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

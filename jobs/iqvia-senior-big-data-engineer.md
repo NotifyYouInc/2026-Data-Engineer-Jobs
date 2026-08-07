@@ -5,12 +5,12 @@
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Data Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Warsaw-Poland/Senior-Big-Data-Engineer_R1551645) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Warsaw-Poland/Senior-Big-Data-Engineer_R1558256) |
 
 ## About This Role
 
-This data engineer position at IQVIA was posted on 2026-07-16.
+This data engineer position at IQVIA was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

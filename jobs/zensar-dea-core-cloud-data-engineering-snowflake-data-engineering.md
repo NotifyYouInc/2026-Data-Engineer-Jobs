@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zensar](https://scoutify.ai/companies/ocs-cx-oj119068?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#147885_2) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#148948) |
 
 ## About This Role
 
-This data engineer position at Zensar was posted on 2026-07-14.
+This data engineer position at Zensar was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

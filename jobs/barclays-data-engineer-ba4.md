@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Data Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Data-Engineer---BA4_JR-0000111887) |
+| Category | Corporate Development & M&A |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Data-Engineer---BA4_JR-0000106159) |
 
 ## About This Role
 
-This data engineer position at Barclays was posted on 2026-06-22.
+This corporate development & m&a position at Barclays was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

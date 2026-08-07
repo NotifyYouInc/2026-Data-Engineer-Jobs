@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Huntsville, Alabama, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AL-Huntsville/Earth-Science-Software-Engineer--ES4-_R0167109-1) |
 
 ## About This Role
 
-This data engineer position at Amentum was posted on 2026-07-29.
+This software engineer position at Amentum was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

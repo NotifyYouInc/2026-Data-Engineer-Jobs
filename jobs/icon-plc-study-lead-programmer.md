@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 8 locations |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Poland-Warsaw/Study-Lead-Programmer_JR156784) |
 
 ## About This Role
 
-This data engineer position at ICON plc was posted on 2026-07-29.
+This software engineer position at ICON plc was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 
