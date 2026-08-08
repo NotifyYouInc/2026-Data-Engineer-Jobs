@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Miami, Florida, United States |
-| Category | Data Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Miami-Florida/Senior-Data-Engineer_R-282484) |
+| Location | Navi Mumbai, Maharashtra, India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Navi-Mumbai-India-Finicity/Senior-Data-Engineer_R-287219) |
 
 ## About This Role
 
-This data engineer position at Mastercard was posted on 2026-07-15.
+This machine learning engineer position at Mastercard was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Georgia---Alpharetta---30005/Senior-Data-Engineer_J00178152) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Missouri---St-Louis---Lackland/Senior-Data-Engineer_J00178184) |
 
 ## About This Role
 
-This data engineer position at Equifax was posted on 2026-07-21.
+This data engineer position at Equifax was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

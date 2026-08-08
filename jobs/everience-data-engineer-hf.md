@@ -1,16 +1,16 @@
-# Data Engineer (H/F) at Everience
+# Data Engineer H/F at Everience
 
 | Field | Details |
 |-------|---------|
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
+| Location | Vannes, Brittany, France |
 | Category | Data Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000134217659-data-engineer-hf) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000140851299-data-engineer-hf) |
 
 ## About This Role
 
-This data engineer position at Everience was posted on 2026-06-25.
+This data engineer position at Everience was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Veradigm](https://scoutify.ai/companies/veradigm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://veradigm.wd12.myworkdayjobs.com/vr/job/Pune-India/Sr-Data-Engineer_JR10744) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://veradigm.wd12.myworkdayjobs.com/vr/job/Pune-India/Sr-Data-Engineer_JR10723-1) |
 
 ## About This Role
 
-This data engineer position at Veradigm was posted on 2026-07-29.
+This data engineer position at Veradigm was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

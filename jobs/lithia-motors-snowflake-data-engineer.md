@@ -5,12 +5,12 @@
 | Company | [Lithia Motors](https://scoutify.ai/companies/lithia-motors?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Remote---USA/Snowflake-Data-Engineer_R111350) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Remote---USA/Snowflake-Data-Engineer_R114290-1) |
 
 ## About This Role
 
-This data engineer position at Lithia Motors was posted on 2026-06-29.
+This data engineer position at Lithia Motors was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

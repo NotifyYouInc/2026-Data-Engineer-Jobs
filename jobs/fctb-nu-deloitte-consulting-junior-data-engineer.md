@@ -5,12 +5,12 @@
 | Company | [FCTB (nu: Deloitte Consulting)](https://scoutify.ai/companies/fctbnudeloitteconsulting?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Data Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000123486109-junior-data-engineer) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000140899649-junior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at FCTB (nu: Deloitte Consulting) was posted on 2026-04-28.
+This data engineer position at FCTB (nu: Deloitte Consulting) was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

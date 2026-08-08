@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clearwateranalytics](https://scoutify.ai/companies/clearwateranalytics?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Boise, Idaho, United States |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Data Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Boise/Sr-Data-Flow-Engineer_R3137-1) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Noida/Sr-Data-Flow-Engineer_R11985) |
 
 ## About This Role
 
-This data engineer position at Clearwateranalytics was posted on 2026-06-04.
+This data engineer position at Clearwateranalytics was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

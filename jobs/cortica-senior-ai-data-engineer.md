@@ -5,12 +5,12 @@
 | Company | [Cortica](https://scoutify.ai/companies/cortica?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | San Diego, California, United States |
 | Category | Data Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/allcareers/jobs/8617191002) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/allcareers/jobs/8662850002) |
 
 ## About This Role
 
-This data engineer position at Cortica was posted on 2026-07-01.
+This data engineer position at Cortica was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 
