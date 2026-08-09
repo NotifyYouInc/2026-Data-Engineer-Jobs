@@ -1,16 +1,16 @@
-# Senior Digital Product Owner (Senior Data Quality Analyst ) at Caterpillar
+# Lead Data Engineer – Physical AI Platform, Data Engineering at Caterpillar
 
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Irving, Texas, United States |
 | Category | Data Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Senior-Digital-Product-Owner--Senior-Data-Quality-Analyst--_R0000377987) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Lead-Data-Engineer---Physical-AI-Platform--Data-Engineering_R0000383376-1) |
 
 ## About This Role
 
-This data engineer position at Caterpillar was posted on 2026-07-29.
+This data engineer position at Caterpillar was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

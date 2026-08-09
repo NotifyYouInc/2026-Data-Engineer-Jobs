@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000140680320-senior-software-engineer-ii-data-onboarding-reporting) |
 
 ## About This Role
 
-This software engineer position at WISE was posted on 2026-07-30.
+This data engineer position at WISE was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

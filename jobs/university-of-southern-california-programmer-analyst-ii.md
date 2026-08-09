@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [University of Southern California](https://scoutify.ai/companies/university-of-southern-california?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Los Angeles, California, United States |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://usc.wd5.myworkdayjobs.com/externalusccareers/job/Los-Angeles-CA---University-Park-Campus/Programmer-Analyst-II_REQ20178034) |
 
 ## About This Role
 
-This software engineer position at University of Southern California was posted on 2026-07-30.
+This data engineer position at University of Southern California was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

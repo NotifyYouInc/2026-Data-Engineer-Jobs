@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Toss](https://scoutify.ai/companies/toss?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Seoul, Seoul, South Korea |
-| Category | DevOps Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://toss.im/career/job-detail?gh_jid=7821171003) |
 
 ## About This Role
 
-This devops engineer position at Toss was posted on 2026-07-30.
+This data engineer position at Toss was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vibe](https://scoutify.ai/companies/vibe?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/vibe/8284bc22-6569-474f-8270-2f3a7ef4009d) |
 
 ## About This Role
 
-This software engineer position at Vibe was posted on 2026-07-31.
+This data engineer position at Vibe was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

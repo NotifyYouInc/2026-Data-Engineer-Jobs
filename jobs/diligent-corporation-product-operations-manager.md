@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Diligent Corporation](https://scoutify.ai/companies/diligentcorporation?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | Product Manager |
+| Category | Data Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/diligentcorporation/jobs/6131657004) |
 
 ## About This Role
 
-This product manager position at Diligent Corporation was posted on 2026-07-31.
+This data engineer position at Diligent Corporation was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

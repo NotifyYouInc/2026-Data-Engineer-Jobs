@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Shippeo](https://scoutify.ai/companies/shippeo?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Shippeo/744000140673789-senior-software-engineer-data) |
 
 ## About This Role
 
-This software engineer position at Shippeo was posted on 2026-07-30.
+This data engineer position at Shippeo was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

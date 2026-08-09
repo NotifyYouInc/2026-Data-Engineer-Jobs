@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Batu Kawan, Penang, Malaysia |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000140833509-software-engineer-backend-database) |
 
 ## About This Role
 
-This software engineer position at SanDisk was posted on 2026-07-31.
+This data engineer position at SanDisk was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

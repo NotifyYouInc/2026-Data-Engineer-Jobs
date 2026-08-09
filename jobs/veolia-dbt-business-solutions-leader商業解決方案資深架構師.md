@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Taiwan |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000140831759-dbt-business-solutions-leader) |
 
 ## About This Role
 
-This software engineer position at Veolia was posted on 2026-07-31.
+This data engineer position at Veolia was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

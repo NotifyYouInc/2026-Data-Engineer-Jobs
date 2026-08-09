@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Customer Success |
+| Category | Data Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Senior-Data-Engineer---Customer-Success_R0120103) |
 
 ## About This Role
 
-This customer success position at LSEG was posted on 2026-07-30.
+This data engineer position at LSEG was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

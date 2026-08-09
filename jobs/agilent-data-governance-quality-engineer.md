@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Agilent](https://scoutify.ai/companies/agilent?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
-| Category | QA Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-01 |
 | Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/agilent_careers/job/US-DE-Wilmington/Data-Governance---Quality-Engineer_4038916) |
 
 ## About This Role
 
-This qa engineer position at Agilent was posted on 2026-08-01.
+This data engineer position at Agilent was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Software Engineer, Data Engineering at Field AI
+# Staff Engineer (Snowflake, Apache Kafka, Oracle, AWS Lambda) at Nagarro
 
 | Field | Details |
 |-------|---------|
-| Company | [Field AI](https://scoutify.ai/companies/field-ai?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Irvine, California, United States |
+| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Data Engineer |
 | Posted | 2026-08-01 |
-| Apply | [View on company site](https://jobs.lever.co/field-ai/e3b7bac7-5410-44bb-964c-02815fbd0c97) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000141067109-staff-engineer-snowflake-apache-kafka-oracle-aws-lambda) |
 
 ## About This Role
 
-This data engineer position at Field AI was posted on 2026-08-01.
+This data engineer position at Nagarro was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

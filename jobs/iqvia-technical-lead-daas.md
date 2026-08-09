@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Mexico-City-Mexico/Technical-Lead--DaaS-_R1560799) |
 
 ## About This Role
 
-This software engineer position at IQVIA was posted on 2026-07-30.
+This data engineer position at IQVIA was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

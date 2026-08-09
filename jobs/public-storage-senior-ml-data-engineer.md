@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Public Storage](https://scoutify.ai/companies/publicstorage?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Frisco, Texas, United States |
-| Category | Machine Learning Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/PublicStorage/744000140724602-senior-ml-data-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Public Storage was posted on 2026-07-30.
+This data engineer position at Public Storage was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

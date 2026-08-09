@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200674388/senior-software-engineer-strategic-data-solutions) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-07-29.
+This data engineer position at Apple was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

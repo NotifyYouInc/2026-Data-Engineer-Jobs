@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Cybersecurity Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/India-Pune-Mississippi-Building/Cyber-Data-Engineer---OT-Cyber_R26-5894) |
 
 ## About This Role
 
-This cybersecurity engineer position at Rockwell Automation was posted on 2026-07-30.
+This data engineer position at Rockwell Automation was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

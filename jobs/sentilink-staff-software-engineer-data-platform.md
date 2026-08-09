@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sentilink](https://scoutify.ai/companies/sentilink?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/sentilink/9bc3de0b-1638-4310-8df1-2dd965f0bdf4) |
 
 ## About This Role
 
-This software engineer position at Sentilink was posted on 2026-07-30.
+This data engineer position at Sentilink was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

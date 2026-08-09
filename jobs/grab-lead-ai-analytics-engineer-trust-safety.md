@@ -1,16 +1,16 @@
-# Data and Analytics AI Engineer at Aaon
+# Lead AI Analytics Engineer, Trust & Safety at Grab
 
 | Field | Details |
 |-------|---------|
-| Company | [Aaon](https://scoutify.ai/companies/aaon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Tulsa, Oklahoma, United States |
+| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Singapore, Singapore |
 | Category | Data Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://aaon.wd108.myworkdayjobs.com/aaon/job/Tulsa-OK/Data-and-Analytics-AI-Engineer_JR103023) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000141078449-lead-ai-analytics-engineer-trust-safety) |
 
 ## About This Role
 
-This data engineer position at Aaon was posted on 2026-07-30.
+This data engineer position at Grab was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

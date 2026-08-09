@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amigo](https://scoutify.ai/companies/amigo?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/amigo/1446fe3d-0f74-46f6-8fcc-5d73dc58fc72) |
 
 ## About This Role
 
-This software engineer position at Amigo was posted on 2026-07-29.
+This data engineer position at Amigo was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

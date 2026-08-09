@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SBT Global, Inc.](https://scoutify.ai/companies/sbt-global-inc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Englewood Cliffs, New Jersey, United States |
-| Category | DevOps Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/sbtglobalinc/3743990014354776-dataops-engineer) |
 
 ## About This Role
 
-This devops engineer position at SBT Global, Inc. was posted on 2026-07-29.
+This data engineer position at SBT Global, Inc. was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

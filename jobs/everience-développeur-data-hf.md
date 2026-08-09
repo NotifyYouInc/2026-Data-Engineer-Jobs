@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Vannes, Brittany, France |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000140852448-developpeur-data-hf) |
 
 ## About This Role
 
-This software engineer position at Everience was posted on 2026-07-31.
+This data engineer position at Everience was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

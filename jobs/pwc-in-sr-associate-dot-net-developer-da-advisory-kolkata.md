@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Kolkata, West Bengal, India |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kolkata-DN-57/IN-Sr-Associate-Databricks--Data---Analytics--Advisory--Bangalore_715110WD-1) |
 
 ## About This Role
 
-This software engineer position at PwC was posted on 2026-07-30.
+This data engineer position at PwC was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 
