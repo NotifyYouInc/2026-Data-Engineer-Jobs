@@ -1,16 +1,16 @@
-# Senior Data Engineer at Thumbtack
+# Senior Data Engineer (Snowflake) at Telstra Health
 
 | Field | Details |
 |-------|---------|
-| Company | [Thumbtack](https://scoutify.ai/companies/thumbtack?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Ontario, CA |
+| Company | [Telstra Health](https://scoutify.ai/companies/ocs-cx-oj105891?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Australia |
 | Category | Data Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/thumbtack/1ded15c4-4268-4565-b900-867807645823) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://iaaktz.fa.ocs.oraclecloud.com/jobs/#1168) |
 
 ## About This Role
 
-This data engineer position at Thumbtack was posted on 2026-07-29.
+This data engineer position at Telstra Health was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

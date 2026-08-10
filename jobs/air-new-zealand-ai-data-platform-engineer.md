@@ -1,16 +1,16 @@
-# Data Engineer 4 at Comcast
+# AI Data Platform Engineer at Air New Zealand
 
 | Field | Details |
 |-------|---------|
-| Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Air New Zealand](https://scoutify.ai/companies/air-new-zealand?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Auckland, Auckland, New Zealand |
 | Category | Data Engineer |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Data-Engineer-4_R441840) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/airnewzealand/6000000001277927-ai-data-platform-engineer) |
 
 ## About This Role
 
-This data engineer position at Comcast was posted on 2026-08-03.
+This data engineer position at Air New Zealand was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

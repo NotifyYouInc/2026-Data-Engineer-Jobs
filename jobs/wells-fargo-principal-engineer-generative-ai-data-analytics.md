@@ -1,16 +1,16 @@
-# Principal Engineer - Generative AI Data & Analytics at Wells Fargo
+# Principal Engineer - - Generative AI Data & Analytics at Wells Fargo
 
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Principal-Engineer---Generative-AI-Data---Analytics_R-560217) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Principal-Engineer-----Generative-AI-Data---Analytics_R-565423-1) |
 
 ## About This Role
 
-This data engineer position at Wells Fargo was posted on 2026-07-27.
+This data engineer position at Wells Fargo was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

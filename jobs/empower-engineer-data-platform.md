@@ -1,16 +1,16 @@
-# Senior Data Engineer at Thumbtack
+# Engineer Data Platform at Empower
 
 | Field | Details |
 |-------|---------|
-| Company | [Thumbtack](https://scoutify.ai/companies/thumbtack?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Ontario, CA |
+| Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/thumbtack/1ded15c4-4268-4565-b900-867807645823) |
+| Posted | 2026-08-02 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Engineer-Data-Platform_R0056589-2) |
 
 ## About This Role
 
-This data engineer position at Thumbtack was posted on 2026-07-29.
+This data engineer position at Empower was posted on 2026-08-02.
 
 ## Get Real-Time Alerts
 

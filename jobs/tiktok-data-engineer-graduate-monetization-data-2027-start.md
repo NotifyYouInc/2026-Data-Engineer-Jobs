@@ -1,16 +1,16 @@
-# Senior Data Engineer at Thumbtack
+# Data Engineer Graduate (Monetization Data) - 2027 Start at TikTok
 
 | Field | Details |
 |-------|---------|
-| Company | [Thumbtack](https://scoutify.ai/companies/thumbtack?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Ontario, CA |
+| Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Singapore, Singapore |
 | Category | Data Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/thumbtack/1ded15c4-4268-4565-b900-867807645823) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7668622006007384373/detail) |
 
 ## About This Role
 
-This data engineer position at Thumbtack was posted on 2026-07-29.
+This data engineer position at TikTok was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

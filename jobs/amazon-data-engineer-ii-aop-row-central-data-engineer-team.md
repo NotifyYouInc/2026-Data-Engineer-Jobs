@@ -1,16 +1,16 @@
-# Data Engineer 4 at Comcast
+# Data Engineer II, AOP - RoW Central Data Engineer Team at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Beijing, CN |
 | Category | Data Engineer |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Data-Engineer-4_R441840) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10489942/data-engineer-ii-aop-row-central-data-engineer-team) |
 
 ## About This Role
 
-This data engineer position at Comcast was posted on 2026-08-03.
+This data engineer position at Amazon was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

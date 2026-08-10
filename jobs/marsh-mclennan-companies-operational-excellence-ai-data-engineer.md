@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | Strategy & Operations |
+| Category | Data Engineer |
 | Posted | 2026-08-01 |
 | Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Manila---SixNEO/Operational-Excellence---AI-Data-Engineer_R_357384) |
 
 ## About This Role
 
-This strategy & operations position at Marsh & McLennan Companies was posted on 2026-08-01.
+This data engineer position at Marsh & McLennan Companies was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

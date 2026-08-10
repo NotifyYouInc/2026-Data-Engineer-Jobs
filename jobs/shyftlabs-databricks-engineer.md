@@ -1,16 +1,16 @@
-# Senior Data Engineer at Thumbtack
+# Databricks Engineer at ShyftLabs
 
 | Field | Details |
 |-------|---------|
-| Company | [Thumbtack](https://scoutify.ai/companies/thumbtack?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Ontario, CA |
+| Company | [ShyftLabs](https://scoutify.ai/companies/shyftlabs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/thumbtack/1ded15c4-4268-4565-b900-867807645823) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.lever.co/shyftlabs/0c12add1-ca96-4edd-8bf0-f77645d77a63) |
 
 ## About This Role
 
-This data engineer position at Thumbtack was posted on 2026-07-29.
+This data engineer position at ShyftLabs was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

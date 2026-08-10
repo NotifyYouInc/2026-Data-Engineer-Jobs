@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Data Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10420946/data-engineer) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10490011/data-engineer) |
 
 ## About This Role
 
-This data engineer position at Amazon was posted on 2026-05-15.
+This data engineer position at Amazon was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

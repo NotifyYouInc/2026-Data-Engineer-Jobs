@@ -1,16 +1,16 @@
-# Data Engineer 4 at Comcast
+# Head of Data & Analytics at GEDU Global Education
 
 | Field | Details |
 |-------|---------|
-| Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [GEDU Global Education](https://scoutify.ai/companies/ocs-cx-oj43039?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Data Engineer |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Data-Engineer-4_R441840) |
+| Apply | [View on company site](https://geduglobal-iabmbn.fa.ocs.oraclecloud.com/jobs/#25968) |
 
 ## About This Role
 
-This data engineer position at Comcast was posted on 2026-08-03.
+This data engineer position at GEDU Global Education was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

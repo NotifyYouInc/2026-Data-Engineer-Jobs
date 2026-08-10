@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | San José, San José, Costa Rica |
-| Category | Business Analyst |
+| Category | Data Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/San-Jose-Costa-Rica/Business-IT-Systems-Analyst_R54669) |
 
 ## About This Role
 
-This business analyst position at TD Synnex was posted on 2026-07-31.
+This data engineer position at TD Synnex was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Engineer 4 at Comcast
+# Big Data Engineer Intern (TikTok Recommendation Architecture) - 2027 Start at TikTok
 
 | Field | Details |
 |-------|---------|
-| Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Singapore, Singapore |
 | Category | Data Engineer |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Data-Engineer-4_R441840) |
+| Apply | [View on company site](https://careers.tiktok.com/position/7667911073505085749/detail) |
 
 ## About This Role
 
-This data engineer position at Comcast was posted on 2026-08-03.
+This data engineer position at TikTok was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 
