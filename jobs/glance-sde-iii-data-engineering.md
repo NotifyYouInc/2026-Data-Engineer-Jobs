@@ -5,12 +5,12 @@
 | Company | [Glance](https://scoutify.ai/companies/glance?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/glance/jobs/8054888) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/glance/jobs/7975727) |
 
 ## About This Role
 
-This data engineer position at Glance was posted on 2026-07-27.
+This data engineer position at Glance was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

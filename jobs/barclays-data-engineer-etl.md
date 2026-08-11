@@ -1,16 +1,16 @@
-# Data Engineer - ETL at Barclays
+# Data Engineer ETL at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Data Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Data-Engineer---ETL_JR-0000085016) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/Data-Engineer-ETL_JR-0000086233) |
 
 ## About This Role
 
-This data engineer position at Barclays was posted on 2026-02-04.
+This data engineer position at Barclays was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

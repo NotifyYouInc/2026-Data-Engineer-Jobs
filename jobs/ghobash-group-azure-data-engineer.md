@@ -5,12 +5,12 @@
 | Company | [Ghobash Group](https://scoutify.ai/companies/ghobashgroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | Data Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GhobashGroup/744000140612660-azure-data-engineer) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GhobashGroup/744000141232379-azure-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Ghobash Group was posted on 2026-07-30.
+This data engineer position at Ghobash Group was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

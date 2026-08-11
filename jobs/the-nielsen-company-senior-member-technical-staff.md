@@ -5,12 +5,12 @@
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990014356966-senior-member-technical-staff) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990014401776-senior-member-technical-staff) |
 
 ## About This Role
 
-This data engineer position at The Nielsen Company was posted on 2026-07-30.
+This data engineer position at The Nielsen Company was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

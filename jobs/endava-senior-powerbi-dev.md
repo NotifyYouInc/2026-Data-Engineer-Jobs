@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | Timişoara, Timiș County, Romania |
 | Category | Data Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000132999059-senior-powerbi-dev) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000141219599-senior-powerbi-dev) |
 
 ## About This Role
 
-This data engineer position at Endava was posted on 2026-06-19.
+This data engineer position at Endava was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

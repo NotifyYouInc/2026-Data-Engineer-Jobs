@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Minnesota, US |
-| Category | Data Engineer |
+| Category | Strategy & Operations |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MN-REMOTE/Senior-Manager---RTX-ES-Kinaxis-Data-Transformation_01863167) |
 
 ## About This Role
 
-This data engineer position at RTX was posted on 2026-07-30.
+This strategy & operations position at RTX was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

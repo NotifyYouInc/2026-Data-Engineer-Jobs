@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dimensional Fund Advisors](https://scoutify.ai/companies/dimensional?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Manager--Investment-Engineering--Analytics-Platforms-_2026-8939) |
+| Category | Data Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Manager--Investment-Engineering--Analytics-Platforms-_2026-8981) |
 
 ## About This Role
 
-This asset management / portfolio management position at Dimensional Fund Advisors was posted on 2026-07-09.
+This data engineer position at Dimensional Fund Advisors was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

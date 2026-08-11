@@ -5,12 +5,12 @@
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pittsburgh, Pennsylvania, United States |
 | Category | Data Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000140712187-data-engineer-snowflake-data-ingestion-data-products-ecc-platform-w2-position) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000140958639-data-engineer-snowflake-data-ingestion-data-products-ecc-platform-w2-position) |
 
 ## About This Role
 
-This data engineer position at VTekis Consulting LLP was posted on 2026-07-30.
+This data engineer position at VTekis Consulting LLP was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

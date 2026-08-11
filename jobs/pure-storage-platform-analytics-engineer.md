@@ -1,16 +1,16 @@
-# Platform Analytics Engineer at Pure Storage
+#  Platform Analytics Engineer at Pure Storage
 
 | Field | Details |
 |-------|---------|
 | Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Prague, Prague, Czechia |
+| Location | Santa Clara, California, United States |
 | Category | Data Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://boards.greenhouse.io/purestorage/jobs/7597812?gh_jid=7597812) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/8103809) |
 
 ## About This Role
 
-This data engineer position at Pure Storage was posted on 2026-02-17.
+This data engineer position at Pure Storage was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 
