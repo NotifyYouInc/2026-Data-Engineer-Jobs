@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Absa](https://scoutify.ai/companies/absa?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Nairobi, Nairobi County, Kenya |
-| Category | Technical Support Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Absa-Headquarters-KE/Big-Data-Support-Engineer_R-15986977-1) |
+| Location | South Africa |
+| Category | Data Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Sandton/Big-Data-Support-Engineer_R-15989579-1) |
 
 ## About This Role
 
-This technical support engineer position at Absa was posted on 2026-05-15.
+This data engineer position at Absa was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

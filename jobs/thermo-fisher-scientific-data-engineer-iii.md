@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Horsham, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/Data-Engineer-III_R-01358890-1) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Horsham-United-Kingdom/Data-Engineer-III_R-01360611) |
 
 ## About This Role
 
-This data engineer position at Thermo Fisher Scientific was posted on 2026-07-06.
+This data engineer position at Thermo Fisher Scientific was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

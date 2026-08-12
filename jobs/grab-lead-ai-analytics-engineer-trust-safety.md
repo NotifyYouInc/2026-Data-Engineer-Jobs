@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Singapore, Singapore |
-| Category | Data Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-01 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000141078449-lead-ai-analytics-engineer-trust-safety) |
 
 ## About This Role
 
-This data engineer position at Grab was posted on 2026-08-01.
+This ai / llm engineer position at Grab was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

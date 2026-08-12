@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dropbox](https://scoutify.ai/companies/dropbox?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | Data Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.dropbox.com/listing/8090062?gh_jid=8090062) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.dropbox.com/listing/8090065?gh_jid=8090065) |
 
 ## About This Role
 
-This data engineer position at Dropbox was posted on 2026-07-29.
+This data engineer position at Dropbox was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

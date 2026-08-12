@@ -5,12 +5,12 @@
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/IT---Advanced-Analytics-and-Data-Solutions-Management_R2624062) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/IT---Advanced-Analytics-and-Data-Solutions-Management_R2625207-1) |
 
 ## About This Role
 
-This data engineer position at Applied Materials was posted on 2026-07-16.
+This data engineer position at Applied Materials was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

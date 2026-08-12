@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Engineering Manager |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000131371884-gcp-data-engineer-lead) |
+| Category | Data Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000141638190-gcp-data-engineer-lead) |
 
 ## About This Role
 
-This engineering manager position at Sutherland was posted on 2026-06-10.
+This data engineer position at Sutherland was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

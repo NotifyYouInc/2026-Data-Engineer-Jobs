@@ -5,12 +5,12 @@
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Data Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000140512870-data-engineering-specialist) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000141500618-data-engineering-specialist) |
 
 ## About This Role
 
-This data engineer position at Scalian was posted on 2026-07-29.
+This data engineer position at Scalian was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

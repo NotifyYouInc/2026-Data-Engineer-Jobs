@@ -1,16 +1,16 @@
-# Manager - Data Engineering at Mastercard
+# Manager, Data Engineering at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager---Data-Engineering_R-281405) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Data-Engineering_R-287448-1) |
 
 ## About This Role
 
-This data engineer position at Mastercard was posted on 2026-07-01.
+This data engineer position at Mastercard was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

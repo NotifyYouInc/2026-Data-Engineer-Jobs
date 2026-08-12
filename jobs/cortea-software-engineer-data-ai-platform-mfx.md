@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cortea](https://scoutify.ai/companies/cortea?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Software Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/cortea/971b9f39-3b65-4687-8bc8-243b9924d468) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/cortea/c931e76f-aa5b-4bee-9fa5-76c19d785aa1) |
 
 ## About This Role
 
-This software engineer position at Cortea was posted on 2026-06-12.
+This ai / llm engineer position at Cortea was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

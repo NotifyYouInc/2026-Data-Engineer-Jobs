@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Movable Ink](https://scoutify.ai/companies/movable-ink?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://movableink.com/job-listing?gh_jid=7963874) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://movableink.com/job-listing?gh_jid=8093344) |
 
 ## About This Role
 
-This data engineer position at Movable Ink was posted on 2026-06-05.
+This data engineer position at Movable Ink was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

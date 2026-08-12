@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi Solutions](https://scoutify.ai/companies/hitachi-solutions?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Technology / IT Consulting |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/hitachisolutions/744000138647695-lead-data-consultant) |
+| Location | Porto, Porto, Portugal |
+| Category | Data Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/hitachisolutions/744000141466835-lead-data-consultant) |
 
 ## About This Role
 
-This technology / it consulting position at Hitachi Solutions was posted on 2026-07-20.
+This data engineer position at Hitachi Solutions was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

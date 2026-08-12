@@ -5,12 +5,12 @@
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Brasília, Federal District, Brazil |
 | Category | Data Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000140786339-data-engineer) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000140841632-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Sigma Software was posted on 2026-07-30.
+This data engineer position at Sigma Software was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

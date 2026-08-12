@@ -5,12 +5,12 @@
 | Company | [Remitly](https://scoutify.ai/companies/remitly?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Seattle-Washington-United-States/Analytics-Engineer_R_106128) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Seattle-Washington-United-States/Analytics-Engineer_R_106721) |
 
 ## About This Role
 
-This data engineer position at Remitly was posted on 2026-04-23.
+This data engineer position at Remitly was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

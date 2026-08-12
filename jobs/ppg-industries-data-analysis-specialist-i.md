@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PPG Industries](https://scoutify.ai/companies/ppg-industries?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Querétaro, MX |
-| Category | Software Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/MEX---Queretaro-Business-Services/Data-Analysis-Specialist-I_JR263403-1) |
+| Location | Shah Alam, Selangor, Malaysia |
+| Category | Data Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/MYS---Shah-Alam-Office/Data-Analysis-Specialist-I_JR269330-1) |
 
 ## About This Role
 
-This software engineer position at PPG Industries was posted on 2026-03-11.
+This data engineer position at PPG Industries was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

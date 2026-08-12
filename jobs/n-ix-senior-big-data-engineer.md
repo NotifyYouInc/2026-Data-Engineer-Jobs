@@ -5,12 +5,12 @@
 | Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Ukraine |
 | Category | Data Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://careers.n-ix.com/jobs/4922827101?gh_jid=4922827101) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://careers.n-ix.com/jobs/4942671101?gh_jid=4942671101) |
 
 ## About This Role
 
-This data engineer position at N-iX was posted on 2026-07-13.
+This data engineer position at N-iX was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 
