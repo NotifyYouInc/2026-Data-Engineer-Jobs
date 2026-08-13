@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alithya](https://scoutify.ai/companies/ca2-cx?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Data Engineer |
+| Category | Data Analyst |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://effx.fa.ca2.oraclecloud.com/jobs/#817) |
 
 ## About This Role
 
-This data engineer position at Alithya was posted on 2026-08-04.
+This data analyst position at Alithya was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

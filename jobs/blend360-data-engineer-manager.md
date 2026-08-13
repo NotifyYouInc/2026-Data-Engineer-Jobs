@@ -5,12 +5,12 @@
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Data Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000140244749-data-engineer-manager) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000141798769-data-engineer-manager) |
 
 ## About This Role
 
-This data engineer position at Blend360 was posted on 2026-07-28.
+This data engineer position at Blend360 was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

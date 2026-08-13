@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Nairobi, Nairobi County, Kenya |
 | Category | Data Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Data-Engineering-Lead-Analyst_26008414) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Kenya-One-Africa-Place/Data-Engineering-Lead-Analyst_26008707) |
 
 ## About This Role
 
-This data engineer position at Cigna was posted on 2026-07-03.
+This data engineer position at Cigna was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

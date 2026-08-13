@@ -5,12 +5,12 @@
 | Company | [Hiflylabs](https://scoutify.ai/companies/hiflylabs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | Data Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Hiflylabs/744000138038211-senior-data-engineer) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Hiflylabs/744000141726540-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Hiflylabs was posted on 2026-07-16.
+This data engineer position at Hiflylabs was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

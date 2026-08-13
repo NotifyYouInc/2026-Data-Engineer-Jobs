@@ -5,12 +5,12 @@
 | Company | [The Warehouse Group](https://scoutify.ai/companies/the-warehouse-group?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Auckland, Auckland, New Zealand |
 | Category | Data Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/thewarehousegroup1/744000138543434-data-engineer) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/thewarehousegroup1/744000141802779-data-engineer) |
 
 ## About This Role
 
-This data engineer position at The Warehouse Group was posted on 2026-07-20.
+This data engineer position at The Warehouse Group was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [SOCOTEC](https://scoutify.ai/companies/socotec?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Vietnam |
 | Category | Data Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000127642286-senior-data-engineer) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000141837699-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at SOCOTEC was posted on 2026-05-21.
+This data engineer position at SOCOTEC was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

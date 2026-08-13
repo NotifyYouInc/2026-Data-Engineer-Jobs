@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Jersey City, New Jersey, United States |
-| Category | Software Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Principal-Engineer---Vice-President_26967356) |
+| Category | Data Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Principal-Engineer---Vice-President_26973999) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-06-11.
+This data engineer position at Citigroup was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

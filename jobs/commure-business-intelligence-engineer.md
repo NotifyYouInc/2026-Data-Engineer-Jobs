@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Commure](https://scoutify.ai/companies/commure?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Dhaka, Dhaka Division, Bangladesh |
-| Category | Data Engineer |
+| Category | Data Analyst |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/commure/2ae9c7b2-6fe3-4bc8-8ab0-be31450ca961) |
 
 ## About This Role
 
-This data engineer position at Commure was posted on 2026-08-03.
+This data analyst position at Commure was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

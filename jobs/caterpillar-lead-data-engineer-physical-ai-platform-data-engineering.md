@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Irving, Texas, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Data Engineer |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Lead-Data-Engineer---Physical-AI-Platform--Data-Engineering_R0000383376-1) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Lead-Data-Engineer---Physical-AI-Platform--Data-Engineering_R0000383377-1) |
 
 ## About This Role
 
-This data engineer position at Caterpillar was posted on 2026-08-01.
+This data engineer position at Caterpillar was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

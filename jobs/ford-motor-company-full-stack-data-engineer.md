@@ -5,12 +5,12 @@
 | Company | [Ford Motor Company](https://scoutify.ai/companies/em5-cx-oj40213?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Dearborn, Michigan, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://efds.fa.em5.oraclecloud.com/jobs/#64882) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://efds.fa.em5.oraclecloud.com/jobs/#67649) |
 
 ## About This Role
 
-This data engineer position at Ford Motor Company was posted on 2026-06-02.
+This data engineer position at Ford Motor Company was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

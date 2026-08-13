@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-05-17 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-PA-Mechanicsburg/Data-Engineer---Active-Top-Secret-clearance_RQ220268) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Yorktown/Data-Engineer---Active-Top-Secret-clearance_RQ225844-1) |
 
 ## About This Role
 
-This data engineer position at General Dynamics Information Technology was posted on 2026-05-17.
+This data engineer position at General Dynamics Information Technology was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

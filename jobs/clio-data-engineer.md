@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clio](https://scoutify.ai/companies/clio?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Toronto, Ontario, Canada |
 | Category | Data Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://clio.wd3.myworkdayjobs.com/ClioCareerSite/job/London/Data-Engineer_REQ-4798) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://clio.wd3.myworkdayjobs.com/ClioCareerSite/job/Toronto/Data-Engineer_BF-REQ-3192) |
 
 ## About This Role
 
-This data engineer position at Clio was posted on 2026-06-05.
+This data engineer position at Clio was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

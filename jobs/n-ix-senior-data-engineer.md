@@ -1,16 +1,16 @@
-# Senior Data Engineer  at N-iX
+# Senior Data Engineer at N-iX
 
 | Field | Details |
 |-------|---------|
 | Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Ukraine |
+| Location | Union, New Jersey, United States |
 | Category | Data Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://careers.n-ix.com/jobs/4933641101?gh_jid=4933641101) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://careers.n-ix.com/jobs/4944616101?gh_jid=4944616101) |
 
 ## About This Role
 
-This data engineer position at N-iX was posted on 2026-07-22.
+This data engineer position at N-iX was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

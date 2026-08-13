@@ -5,12 +5,12 @@
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Arkansas, US |
 | Category | Data Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Data-Engineer_R0977321) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Data-Engineer_R0990454-1) |
 
 ## About This Role
 
-This data engineer position at CVS Health was posted on 2026-07-23.
+This data engineer position at CVS Health was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

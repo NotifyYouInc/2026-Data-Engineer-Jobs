@@ -5,12 +5,12 @@
 | Company | [Qualys](https://scoutify.ai/companies/qualys?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Pune/Senior-Big-Data-Engineer_R0004858) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Pune/Senior-Big-Data-Engineer_R0004883) |
 
 ## About This Role
 
-This data engineer position at Qualys was posted on 2026-07-20.
+This data engineer position at Qualys was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

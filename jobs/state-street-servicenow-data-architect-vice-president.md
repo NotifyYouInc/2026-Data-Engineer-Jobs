@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/ServiceNow-Data-Architect---Vice-President_R-789278-1) |
+| Category | Data Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/ServiceNow-Data-Architect---Vice-President_R-795682) |
 
 ## About This Role
 
-This technical & solutions architect position at State Street was posted on 2026-04-28.
+This data engineer position at State Street was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000138367753-staff-data-engineer-hpc-cluster-software-such-as-slurm-nc-lsf-or-grid-engine-experience-with-9-to-13-years) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000141686519-staff-data-engineer-hpc-cluster-software-such-as-slurm-nc-lsf-or-grid-engine-experience-with-9-to-13-years) |
 
 ## About This Role
 
-This data engineer position at SanDisk was posted on 2026-07-17.
+This devops engineer position at SanDisk was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

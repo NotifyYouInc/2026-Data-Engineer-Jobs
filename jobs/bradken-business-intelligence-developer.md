@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bradken](https://scoutify.ai/companies/bradken?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Coimbatore, Tamil Nadu, India |
-| Category | Data Engineer |
+| Category | Data Analyst |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/bradken/jobs/4943118101) |
 
 ## About This Role
 
-This data engineer position at Bradken was posted on 2026-08-03.
+This data analyst position at Bradken was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

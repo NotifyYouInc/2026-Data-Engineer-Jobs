@@ -5,12 +5,12 @@
 | Company | [BHFT](https://scoutify.ai/companies/bhft?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Data Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/bhft/744000131149869-market-data-engineer-domain-trading-expertise-required) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/bhft/744000141719970-market-data-engineer-domain-trading-expertise-required) |
 
 ## About This Role
 
-This data engineer position at BHFT was posted on 2026-06-09.
+This data engineer position at BHFT was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

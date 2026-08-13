@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | London, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Barcelona-Gran-Va/Data-Management---Infrastructure-Manager_REQ-10077341) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/London-The-Westworks/Data-Management---Infrastructure-Manager_REQ-10085043-1) |
 
 ## About This Role
 
-This data engineer position at Novartis was posted on 2026-07-09.
+This data engineer position at Novartis was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

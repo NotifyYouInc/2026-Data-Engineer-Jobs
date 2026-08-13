@@ -5,12 +5,12 @@
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Bengaluru-560064/Data-Engineer_R175722-1) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Bengaluru-560064/Data-Engineer_R189375) |
 
 ## About This Role
 
-This data engineer position at A.P. Moller - Maersk was posted on 2026-04-23.
+This data engineer position at A.P. Moller - Maersk was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Mississauga, Ontario, Canada |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Mississauga-ON/Data-Engineer_JR1039595-1) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---Bellandur-GTP/Data-Engineer_JR1042319) |
 
 ## About This Role
 
-This data engineer position at Synechron was posted on 2026-06-04.
+This data engineer position at Synechron was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 
