@@ -5,12 +5,12 @@
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000127655479-staff-engineer-data-engineering) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000141936784-staff-engineer-data-engineering) |
 
 ## About This Role
 
-This data engineer position at SanDisk was posted on 2026-05-21.
+This data engineer position at SanDisk was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

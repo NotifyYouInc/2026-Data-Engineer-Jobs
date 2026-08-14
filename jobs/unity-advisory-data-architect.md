@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Unity Advisory](https://scoutify.ai/companies/unity-advisory?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/unity-advisory/cff8f2e1-4196-405f-98e8-cd6d5c8af9e8) |
+| Category | Data Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/unity-advisory/33bbb3b7-3dee-4289-874f-f96cebdda8ad) |
 
 ## About This Role
 
-This technical & solutions architect position at Unity Advisory was posted on 2026-03-13.
+This data engineer position at Unity Advisory was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

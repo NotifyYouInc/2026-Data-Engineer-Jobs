@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000134274995-data-engineer) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000141909268-data-engineer) |
 
 ## About This Role
 
-This data engineer position at NielsenIQ was posted on 2026-06-25.
+This data engineer position at NielsenIQ was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

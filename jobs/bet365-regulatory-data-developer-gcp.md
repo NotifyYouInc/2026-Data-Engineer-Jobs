@@ -5,12 +5,12 @@
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Manchester, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000120920306-regulatory-data-developer-gcp) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000141907160-regulatory-data-developer-gcp) |
 
 ## About This Role
 
-This data engineer position at bet365 was posted on 2026-04-15.
+This data engineer position at bet365 was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

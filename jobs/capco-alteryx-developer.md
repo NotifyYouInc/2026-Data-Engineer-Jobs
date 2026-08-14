@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/7865480) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8113561) |
 
 ## About This Role
 
-This data engineer position at Capco was posted on 2026-06-17.
+This data engineer position at Capco was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

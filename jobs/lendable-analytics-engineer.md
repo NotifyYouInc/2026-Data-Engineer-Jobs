@@ -1,16 +1,16 @@
-# Analytics Engineer at Lendable
+# Analytics Engineer  at Lendable
 
 | Field | Details |
 |-------|---------|
 | Company | [Lendable](https://scoutify.ai/companies/lendable?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/lendable/731c9247-b0e5-4678-b2f7-2979d40f681f) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/lendable/0b377a5f-240f-46ac-a807-9a780258e73a) |
 
 ## About This Role
 
-This data engineer position at Lendable was posted on 2026-07-01.
+This data engineer position at Lendable was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

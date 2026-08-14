@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Data-Engineer_R0119162-1) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Data-Engineer_R0121788-1) |
 
 ## About This Role
 
-This data engineer position at LSEG was posted on 2026-06-09.
+This data engineer position at LSEG was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

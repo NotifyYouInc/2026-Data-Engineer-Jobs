@@ -5,12 +5,12 @@
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Florida, US |
 | Category | Data Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Lead-Data-Engineer_R-0012161) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Lead-Data-Engineer_R-0012446) |
 
 ## About This Role
 
-This data engineer position at Raymond James Financial was posted on 2026-07-23.
+This data engineer position at Raymond James Financial was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Software Engineer-Data Engineering at Caterpillar
+# Senior Software Engineer - Data Engineering at Caterpillar
 
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Karnataka, IN |
-| Category | Software Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Senior-Software-Engineer-Data-Engineering_R0000332856) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Data Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Senior-Software-Engineer---Data-Engineering_R0000386238) |
 
 ## About This Role
 
-This software engineer position at Caterpillar was posted on 2026-03-27.
+This data engineer position at Caterpillar was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

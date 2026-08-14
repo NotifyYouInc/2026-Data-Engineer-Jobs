@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Location | Larnaca, Larnaka, Cyprus |
 | Category | Data Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000140887847-middle-data-engineer-azure-databricks) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000141913394-middle-data-engineer-azure-databricks) |
 
 ## About This Role
 
-This data engineer position at Lions Candle-Dispatch Solution was posted on 2026-07-31.
+This data engineer position at Lions Candle-Dispatch Solution was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

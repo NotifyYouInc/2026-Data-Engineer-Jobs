@@ -5,12 +5,12 @@
 | Company | [Advocate Health](https://scoutify.ai/companies/advocate-health-llc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Remote/IT-Data-Solutions-Developer_R230287) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Remote/IT-Data-Solutions-Developer_R258862) |
 
 ## About This Role
 
-This data engineer position at Advocate Health was posted on 2026-04-21.
+This data engineer position at Advocate Health was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

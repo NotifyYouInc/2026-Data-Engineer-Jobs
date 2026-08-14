@@ -5,12 +5,12 @@
 | Company | [enpal](https://scoutify.ai/companies/enpal?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Data Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/enpal/fe4be5a8-1f9d-4373-a34c-a337f75c6c4f) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/enpal/46731c1e-c229-40e1-ba11-9185cb3f2a00) |
 
 ## About This Role
 
-This data engineer position at enpal was posted on 2026-04-28.
+This data engineer position at enpal was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

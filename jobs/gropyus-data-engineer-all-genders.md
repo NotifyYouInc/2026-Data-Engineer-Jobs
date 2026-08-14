@@ -5,12 +5,12 @@
 | Company | [GROPYUS](https://scoutify.ai/companies/gropyus?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Data Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/gropyus/jobs/4929240101) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/gropyus/jobs/4918822101) |
 
 ## About This Role
 
-This data engineer position at GROPYUS was posted on 2026-07-15.
+This data engineer position at GROPYUS was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

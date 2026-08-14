@@ -6,7 +6,7 @@
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Data Engineer |
 | Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000141451498-data-engineer-mfd) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000141528742-data-engineer-mfd) |
 
 ## About This Role
 
