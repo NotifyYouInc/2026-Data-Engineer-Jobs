@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Columbus, Ohio, United States |
 | Category | Data Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Data-Engineer-Lead_R0068806) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Data-Engineer-Lead_R0074676) |
 
 ## About This Role
 
-This data engineer position at Huntington Bancshares was posted on 2026-02-04.
+This data engineer position at Huntington Bancshares was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Data Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/India--Mumbai--Mumbai-Development-Center---EPD/Senior-Data-Engineer_31157388) |
+| Location | Des Plaines, Illinois, United States |
+| Category | Data Scientist |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Des-Plaines/Senior-Data-Engineer_31158223-1) |
 
 ## About This Role
 
-This data engineer position at Abbott was posted on 2026-07-28.
+This data scientist position at Abbott was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

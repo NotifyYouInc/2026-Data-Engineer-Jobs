@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Generac](https://scoutify.ai/companies/generac?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 3 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://generac.wd5.myworkdayjobs.com/external/job/Denver-CO---USA/Senior-Data-Architect_JR12291) |
+| Category | Data Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://generac.wd5.myworkdayjobs.com/external/job/Denver-CO---USA/Senior-Data-Architect_JR15478) |
 
 ## About This Role
 
-This technical & solutions architect position at Generac was posted on 2026-02-20.
+This data engineer position at Generac was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

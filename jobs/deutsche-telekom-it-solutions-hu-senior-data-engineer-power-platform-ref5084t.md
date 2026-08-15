@@ -5,12 +5,12 @@
 | Company | [Deutsche Telekom IT Solutions HU](https://scoutify.ai/companies/deutschetelekomitsolutionshu?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | Data Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000109219065-senior-data-engineer-power-platform-ref5084t) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000142067645-senior-data-engineer-power-platform-ref5084t) |
 
 ## About This Role
 
-This data engineer position at Deutsche Telekom IT Solutions HU was posted on 2026-02-13.
+This data engineer position at Deutsche Telekom IT Solutions HU was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

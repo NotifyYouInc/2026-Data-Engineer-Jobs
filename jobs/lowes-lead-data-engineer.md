@@ -5,12 +5,12 @@
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Lead-Data-Engineer_JR-02491283) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Lead-Data-Engineer_JR-02611496) |
 
 ## About This Role
 
-This data engineer position at Lowe's was posted on 2026-04-28.
+This data engineer position at Lowe's was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intact](https://scoutify.ai/companies/intactfc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Quebec, CA |
-| Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Dveloppeur-euse--en-ingnierie-des-donnes_R151906-1) |
+| Location | Montréal, Quebec, Canada |
+| Category | Data Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Dveloppeur-euse--en-ingnierie-des-donnes_R155084) |
 
 ## About This Role
 
-This software engineer position at Intact was posted on 2026-03-12.
+This data engineer position at Intact was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Applaudo Studios](https://scoutify.ai/companies/applaudo-studios?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Brasília, Federal District, Brazil |
 | Category | Data Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000138732455-senior-data-engineer-ai-data-platform) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000142199158-senior-data-engineer-ai-data-platform) |
 
 ## About This Role
 
-This data engineer position at Applaudo Studios was posted on 2026-07-20.
+This data engineer position at Applaudo Studios was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Data Engineer |
+| Category | Privacy & Data Protection |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Reference-Data-Governance-Specialist_R-251342-1) |
 
 ## About This Role
 
-This data engineer position at Amgen was posted on 2026-08-06.
+This privacy & data protection position at Amgen was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

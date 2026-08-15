@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Redmond, Washington, United States |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556945262) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556955223) |
 
 ## About This Role
 
-This data engineer position at Microsoft was posted on 2026-07-29.
+This data engineer position at Microsoft was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 
