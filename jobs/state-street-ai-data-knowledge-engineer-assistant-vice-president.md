@@ -1,16 +1,16 @@
-# Senior Data Engineer at Mattel
+# AI Data & Knowledge Engineer - Assistant Vice President at State Street
 
 | Field | Details |
 |-------|---------|
-| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
 | Posted | 2026-08-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000142371289-senior-data-engineer) |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/AI-Data---Knowledge-Engineer---Assistant-Vice-President_R-795830) |
 
 ## About This Role
 
-This data engineer position at Mattel was posted on 2026-08-08.
+This data engineer position at State Street was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

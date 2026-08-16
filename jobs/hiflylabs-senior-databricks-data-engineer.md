@@ -1,16 +1,16 @@
-# Data Insights - Tech Senior Associate  at LinkedIn
+# Senior Databricks Data Engineer at Hiflylabs
 
 | Field | Details |
 |-------|---------|
-| Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Company | [Hiflylabs](https://scoutify.ai/companies/hiflylabs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Budapest, Budapest, Hungary |
 | Category | Data Engineer |
 | Posted | 2026-08-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000142383658-data-insights-tech-senior-associate) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Hiflylabs/744000142369690-senior-databricks-data-engineer) |
 
 ## About This Role
 
-This data engineer position at LinkedIn was posted on 2026-08-08.
+This data engineer position at Hiflylabs was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

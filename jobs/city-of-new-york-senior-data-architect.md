@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | New York, US |
+| Location | New York City, New York, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990012630811-senior-data-architect) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014506766-senior-data-architect) |
 
 ## About This Role
 
-This data engineer position at City of New York was posted on 2026-04-16.
+This data engineer position at City of New York was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 
