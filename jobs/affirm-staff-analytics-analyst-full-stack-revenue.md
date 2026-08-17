@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Affirm](https://scoutify.ai/companies/affirm-inc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Canada |
-| Category | Data Analyst |
+| Category | Data Engineer |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/affirm/jobs/7820001003) |
 
 ## About This Role
 
-This data analyst position at Affirm was posted on 2026-08-05.
+This data engineer position at Affirm was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

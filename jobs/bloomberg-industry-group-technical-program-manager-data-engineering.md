@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bloomberg Industry Group](https://scoutify.ai/companies/bloomberg-industry-group?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Arlington, Texas, United States |
-| Category | Program Manager |
+| Category | Data Engineer |
 | Posted | 2026-08-08 |
 | Apply | [View on company site](https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Arlington-VA---1801-S-Bell-INDG/Technical-Program-Manager--Data-Engineering_143442-1) |
 
 ## About This Role
 
-This program manager position at Bloomberg Industry Group was posted on 2026-08-08.
+This data engineer position at Bloomberg Industry Group was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

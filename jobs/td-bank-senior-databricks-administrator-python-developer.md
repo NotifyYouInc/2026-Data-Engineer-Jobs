@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
-| Category | DevOps Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Senior-Databricks-Administrator---Python-Developer_R_1502083) |
 
 ## About This Role
 
-This devops engineer position at TD Bank was posted on 2026-08-06.
+This data engineer position at TD Bank was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

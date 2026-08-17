@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Strategy & Operations |
+| Category | Data Engineer |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Director--Market-Data-Engineer---COO-Group_R-0000183140-1) |
 
 ## About This Role
 
-This strategy & operations position at Royal Bank of Canada was posted on 2026-08-05.
+This data engineer position at Royal Bank of Canada was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

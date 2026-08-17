@@ -1,16 +1,16 @@
-# Lead Analytics Engineer at Parachute Health
+# Staff Data Engineer (AWS Cloud and AI) at Cba
 
 | Field | Details |
 |-------|---------|
-| Company | [Parachute Health](https://scoutify.ai/companies/parachute-health?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United States |
+| Company | [Cba](https://scoutify.ai/companies/cba?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/parachutehealth/jobs/4932660007) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/private_ad/job/Sydney-CBD-Area/Staff-Data-Engineer--AWS-Cloud-and-AI-_REQ248013) |
 
 ## About This Role
 
-This data engineer position at Parachute Health was posted on 2026-08-07.
+This data engineer position at Cba was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

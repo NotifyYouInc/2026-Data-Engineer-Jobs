@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NewYork-Presbyterian Hospital](https://scoutify.ai/companies/newyork-presbyterian-hospital?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Data Analyst |
+| Category | Data Engineer |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://nyp.wd1.myworkdayjobs.com/nypcareers/job/NYPWeill-Cornell-Medical-Center/Business-Intelligence-Developer-Information-Technology-EHR_00885860) |
 
 ## About This Role
 
-This data analyst position at NewYork-Presbyterian Hospital was posted on 2026-08-05.
+This data engineer position at NewYork-Presbyterian Hospital was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

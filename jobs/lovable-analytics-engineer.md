@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lovable](https://scoutify.ai/companies/lovable?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Data Engineer |
-| Posted | 2026-01-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/lovable/0c2305f7-6174-4f42-a22d-c8a39fa28c76) |
+| Posted | 2026-08-09 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/lovable/d92292d5-a9f5-4637-9d86-77e95bf66970) |
 
 ## About This Role
 
-This data engineer position at Lovable was posted on 2026-01-22.
+This data engineer position at Lovable was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

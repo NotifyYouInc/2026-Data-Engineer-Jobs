@@ -1,16 +1,16 @@
-# Lead Analytics Engineer at Parachute Health
+# Data Engineer -  Attribute™ at DoiT
 
 | Field | Details |
 |-------|---------|
-| Company | [Parachute Health](https://scoutify.ai/companies/parachute-health?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United States |
+| Company | [DoiT](https://scoutify.ai/companies/doit?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Israel |
 | Category | Data Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/parachutehealth/jobs/4932660007) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/doitintl/jobs/7832959003) |
 
 ## About This Role
 
-This data engineer position at Parachute Health was posted on 2026-08-07.
+This data engineer position at DoiT was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

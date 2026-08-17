@@ -1,16 +1,16 @@
-# Building Analytics Engineer at Johnson Controls
+# Private Investments Analytics- Associate at JPMorgan Chase
 
 | Field | Details |
 |-------|---------|
-| Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Data Engineer |
 | Posted | 2026-08-10 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Sydney-New-South-Wales-Australia/Building-Analytics-Engineer_WD30276472) |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778150) |
 
 ## About This Role
 
-This data engineer position at Johnson Controls was posted on 2026-08-10.
+This data engineer position at JPMorgan Chase was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

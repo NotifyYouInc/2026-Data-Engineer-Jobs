@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Constructor Knowledge Labs](https://scoutify.ai/companies/constructorknowledgelabs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bremen, City state Bremen, Germany |
-| Category | AI / ML Research |
+| Category | Data Engineer |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/constructorknowledgelabs/jobs/4823886101) |
 
 ## About This Role
 
-This ai / ml research position at Constructor Knowledge Labs was posted on 2026-08-05.
+This data engineer position at Constructor Knowledge Labs was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

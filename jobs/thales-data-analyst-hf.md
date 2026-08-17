@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Vélizy-Villacoublay, Île-de-France, France |
-| Category | Data Analyst |
+| Category | Data Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Vlizy-Villacoublay/Data-analyst---H-F-_R0336964-1) |
 
 ## About This Role
 
-This data analyst position at Thales was posted on 2026-08-06.
+This data engineer position at Thales was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

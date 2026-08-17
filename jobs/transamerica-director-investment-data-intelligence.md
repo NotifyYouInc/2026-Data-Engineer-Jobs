@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Transamerica](https://scoutify.ai/companies/transamerica?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 3 locations |
-| Category | Asset Management / Portfolio Management |
+| Category | Data Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://transamerica.wd5.myworkdayjobs.com/US/job/Philadelphia-Pennsylvania/Director--Investment-Data---Intelligence_R20062348) |
 
 ## About This Role
 
-This asset management / portfolio management position at Transamerica was posted on 2026-08-07.
+This data engineer position at Transamerica was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 
