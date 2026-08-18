@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vericast](https://scoutify.ai/companies/vericast?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | San Antonio, Texas, United States |
-| Category | Data Engineer |
+| Category | Data Analyst |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Vericast/744000141949287-business-intelligence-engineer) |
 
 ## About This Role
 
-This data engineer position at Vericast was posted on 2026-08-06.
+This data analyst position at Vericast was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

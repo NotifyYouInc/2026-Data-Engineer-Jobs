@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Irving, Texas, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Principal-Data-Architect_R0000375384) |
+| Location | 2 locations |
+| Category | Data Engineer |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Principal-Data-Architect_R0000386777) |
 
 ## About This Role
 
-This technical & solutions architect position at Caterpillar was posted on 2026-06-09.
+This data engineer position at Caterpillar was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Data Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000139579934-databricks-developer) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000142800949-databricks-developer) |
 
 ## About This Role
 
-This data engineer position at Inetum was posted on 2026-07-24.
+This data engineer position at Inetum was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

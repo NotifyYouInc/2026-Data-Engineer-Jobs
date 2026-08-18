@@ -5,12 +5,12 @@
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Houston, Texas, United States |
 | Category | Data Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000141776389-senior-developer-it) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000142226540-senior-developer-it) |
 
 ## About This Role
 
-This data engineer position at WNS was posted on 2026-08-05.
+This data engineer position at WNS was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

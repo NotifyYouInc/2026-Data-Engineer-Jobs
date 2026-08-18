@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | Montevideo, Montevideo Department, Uruguay |
 | Category | Data Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000139351189-data-engineer-lead) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000142738507-data-engineer-lead) |
 
 ## About This Role
 
-This data engineer position at Blend360 was posted on 2026-07-23.
+This data engineer position at Blend360 was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

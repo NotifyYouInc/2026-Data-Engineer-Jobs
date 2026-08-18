@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Mumbai, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000141744686-senior-data-engineer) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000141900941-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Version 1 was posted on 2026-08-05.
+This data engineer position at Version 1 was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

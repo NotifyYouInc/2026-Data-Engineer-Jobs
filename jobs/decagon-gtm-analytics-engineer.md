@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Decagon](https://scoutify.ai/companies/decagon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Data Engineer |
+| Category | Go To Market Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/decagon/52bba096-667f-4e35-aa47-f8cc2219c390) |
 
 ## About This Role
 
-This data engineer position at Decagon was posted on 2026-08-07.
+This go to market engineer position at Decagon was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

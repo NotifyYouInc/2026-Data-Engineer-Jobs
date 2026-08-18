@@ -5,12 +5,12 @@
 | Company | [Milliman](https://scoutify.ai/companies/milliman?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Not specified |
 | Category | Data Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/mil1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=386dcf41-1c67-4b5f-91a2-4e75f2cac172) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/mil1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=8acb5d96-c938-4dc9-81cb-156f5f8eee8b) |
 
 ## About This Role
 
-This data engineer position at Milliman was posted on 2026-02-16.
+This data engineer position at Milliman was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

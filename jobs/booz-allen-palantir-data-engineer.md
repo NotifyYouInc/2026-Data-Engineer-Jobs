@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Baltimore, Maryland, United States |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Baltimore-MD/Palantir-Data-Engineer_R0238897) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aberdeen-Proving-Ground-MD/Palantir-Data-Engineer_R0246482) |
 
 ## About This Role
 
-This data engineer position at Booz Allen was posted on 2026-04-29.
+This data engineer position at Booz Allen was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

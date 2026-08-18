@@ -5,12 +5,12 @@
 | Company | [Marmon Holdings](https://scoutify.ai/companies/marmon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Karnataka, IN |
 | Category | Data Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Karnataka-IN/Graduate-Engineer-Trainee_JR0000044125) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Karnataka-IN/Graduate-Engineer-Trainee_JR0000045024) |
 
 ## About This Role
 
-This data engineer position at Marmon Holdings was posted on 2026-07-01.
+This data engineer position at Marmon Holdings was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

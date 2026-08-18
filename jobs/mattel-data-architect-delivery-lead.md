@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Data Engineer |
+| Category | Project Manager |
 | Posted | 2026-08-08 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000142371300-data-architect-delivery-lead) |
 
 ## About This Role
 
-This data engineer position at Mattel was posted on 2026-08-08.
+This project manager position at Mattel was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ShyftLabs](https://scoutify.ai/companies/shyftlabs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Coimbatore, Tamil Nadu, India |
 | Category | Data Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.lever.co/shyftlabs/c3c22ed9-adf7-4afb-b561-d29808c13c87) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.lever.co/shyftlabs/a34ac0d8-9c48-4cd6-9c12-c5a6740b18ac) |
 
 ## About This Role
 
-This data engineer position at ShyftLabs was posted on 2026-07-10.
+This data engineer position at ShyftLabs was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

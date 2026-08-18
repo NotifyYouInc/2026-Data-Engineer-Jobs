@@ -5,12 +5,12 @@
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | New Brunswick, New Jersey, United States |
 | Category | Data Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Principal-Data-Engineer_R-089348-1) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Principal-Data-Engineer_R-089344-1) |
 
 ## About This Role
 
-This data engineer position at Johnson & Johnson was posted on 2026-07-23.
+This data engineer position at Johnson & Johnson was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

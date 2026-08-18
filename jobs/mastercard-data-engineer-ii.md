@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | O'Fallon, Missouri, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Data Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Data-Engineer-II_R-286580) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada-Ethoca/Data-Engineer-II_R-286713) |
 
 ## About This Role
 
-This data engineer position at Mastercard was posted on 2026-07-30.
+This data engineer position at Mastercard was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

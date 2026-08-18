@@ -6,7 +6,7 @@
 | Location | Bucharest, București, Romania |
 | Category | Data Engineer |
 | Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000141877176-senior-informatica-developer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000141913985-senior-informatica-developer) |
 
 ## About This Role
 

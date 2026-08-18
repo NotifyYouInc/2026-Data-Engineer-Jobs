@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Senior-Enterprise-Technology-Engineer_RQ113722) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Malaysia---Kuala-Lumpur/Senior-Enterprise-Technology-Engineer_RQ114207) |
 
 ## About This Role
 
-This data engineer position at BP was posted on 2026-08-05.
+This data engineer position at BP was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

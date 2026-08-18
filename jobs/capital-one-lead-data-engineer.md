@@ -5,12 +5,12 @@
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | McLean, Virginia, United States |
 | Category | Data Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Lead-Data-Engineer_R248024-1) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Lead-Data-Engineer_R248364-1) |
 
 ## About This Role
 
-This data engineer position at Capital One was posted on 2026-08-05.
+This data engineer position at Capital One was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 
