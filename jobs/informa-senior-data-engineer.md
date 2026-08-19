@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Not specified |
-| Category | Software Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000114891157-senior-data-engineer) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000142807359-senior-data-engineer) |
 
 ## About This Role
 
-This software engineer position at Informa was posted on 2026-03-16.
+This data engineer position at Informa was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

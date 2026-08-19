@@ -1,16 +1,16 @@
-# *Data Eng, Mgmt & Governance Specialist* at Accenture
+# Data Eng, Mgmt & Governance Specialist at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Gurugram, Haryana, India |
 | Category | Data Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sydney-International-House-3-Sussex-St/XMLNAME--Data-Eng--Mgmt---Governance-Specialist-_R00337624) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Data-Eng--Mgmt---Governance-Specialist_AIOC-S01582584-1) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-06-22.
+This data engineer position at Accenture was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

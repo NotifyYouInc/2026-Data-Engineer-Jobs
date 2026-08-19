@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wex](https://scoutify.ai/companies/wexinc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 5 locations |
-| Category | Software Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Senior-Software-Engineer---Semantic-Data-Lake_R21997) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Bangalore---Remote-Office/Senior-Software-Engineer---Semantic-Data-Lake_R22485-1) |
 
 ## About This Role
 
-This software engineer position at Wex was posted on 2026-06-17.
+This data engineer position at Wex was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

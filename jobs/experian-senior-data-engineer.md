@@ -1,16 +1,16 @@
-# Senior Data Engineer  at Experian
+# Senior Data Engineer at Experian
 
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000140486419-senior-data-engineer) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000142804597-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Experian was posted on 2026-07-29.
+This data engineer position at Experian was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

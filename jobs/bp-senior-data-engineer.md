@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Docklands, Victoria, Australia |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Australia---Docklands/Senior-Data-Engineer_RQ113222-1) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Malaysia---Kuala-Lumpur/Senior-Data-Engineer_RQ114044) |
 
 ## About This Role
 
-This data engineer position at BP was posted on 2026-07-23.
+This data engineer position at BP was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

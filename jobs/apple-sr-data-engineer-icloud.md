@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Not specified |
+| Location | Seattle, Washington, United States |
 | Category | Data Engineer |
-| Posted | 2026-01-28 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200643956/sr-data-engineer-icloud) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200677381/sr-data-engineer-icloud) |
 
 ## About This Role
 
-This data engineer position at Apple was posted on 2026-01-28.
+This data engineer position at Apple was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Mid Data | Software Engineer at Experian
+# Mid Data & Software Engineer at Experian
 
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | São Carlos, São Paulo, Brazil |
-| Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000133059429-mid-data-software-engineer) |
+| Category | Data Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000142860926-mid-data-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-06-19.
+This data engineer position at Experian was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

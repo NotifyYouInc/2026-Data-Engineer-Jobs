@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Gdynia, Pomerania, Poland |
+| Location | Bucharest, București, Romania |
 | Category | Data Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/POL-Gdynia-3T-Office-Park-Tower-C/Lead-Data-Engineer_R0114058-1) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Bucharest-Romania/Lead-Data-Engineer_R0122417-1) |
 
 ## About This Role
 
-This data engineer position at LSEG was posted on 2026-06-09.
+This data engineer position at LSEG was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Concepteur Developpeur MSBI_ (H/F) at Thales
+# Concepteur_Developpeur MSBI (H/F) at Thales
 
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Vélizy-Villacoublay, Île-de-France, France |
 | Category | Data Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Vlizy-Villacoublay/Concepteur-Developpeur-MSBI---H-F-_R0336965-1) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Vlizy-Villacoublay/Concepteur-Developpeur-MSBI--H-F-_R0336937-1) |
 
 ## About This Role
 
-This data engineer position at Thales was posted on 2026-08-06.
+This data engineer position at Thales was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

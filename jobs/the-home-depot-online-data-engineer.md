@@ -5,12 +5,12 @@
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Data Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Online-Data-Engineer_Req188841) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Online-Data-Engineer_Req188577) |
 
 ## About This Role
 
-This data engineer position at The Home Depot was posted on 2026-08-06.
+This data engineer position at The Home Depot was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

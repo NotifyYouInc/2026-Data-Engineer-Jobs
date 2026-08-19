@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Charlottesville, Virginia, United States |
 | Category | Data Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Charlottesville-VA/Data-Engineer--Senior_R0246257) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Charlottesville-VA/Data-Engineer--Senior_R0246698) |
 
 ## About This Role
 
-This data engineer position at Booz Allen was posted on 2026-08-06.
+This data engineer position at Booz Allen was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

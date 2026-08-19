@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Johannesburg, Gauteng, South Africa |
 | Category | Data Engineer |
 | Posted | 2026-08-07 |
-| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/Japan---Tokyo/Data-Engineer_R-144507-1) |
+| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/South-Africa---Johannesburg/Data-Engineer_R-144527) |
 
 ## About This Role
 
