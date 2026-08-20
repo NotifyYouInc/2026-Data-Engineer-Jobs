@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Ebene, Plaines Wilhems, Mauritius |
 | Category | Data Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ebene/Data-Designer_R00279527) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ebene/Associate-Data-Architect_R00348868) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-06-19.
+This data engineer position at Accenture was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

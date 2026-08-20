@@ -5,12 +5,12 @@
 | Company | [Totalwine](https://scoutify.ai/companies/totalwine?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bethesda, Maryland, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://totalwine.wd1.myworkdayjobs.com/twm/job/Maryland-SSC/Sr-Data-Engineer_JR107473) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://totalwine.wd1.myworkdayjobs.com/twm/job/Maryland-SSC/Sr-Data-Engineer_JR107836) |
 
 ## About This Role
 
-This data engineer position at Totalwine was posted on 2026-06-26.
+This data engineer position at Totalwine was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ogury](https://scoutify.ai/companies/ogury?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Data Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.lever.co/ogury/39e01fe5-5452-4e20-8789-f5fa56b8934f) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.lever.co/ogury/2a6a3d11-d3ba-43fd-bea8-93824d405f02) |
 
 ## About This Role
 
-This data engineer position at Ogury was posted on 2026-02-13.
+This data engineer position at Ogury was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

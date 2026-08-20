@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Not specified |
+| Location | Cupertino, California, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200666053/software-data-engineer) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200677701/software-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Apple was posted on 2026-06-01.
+This data engineer position at Apple was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

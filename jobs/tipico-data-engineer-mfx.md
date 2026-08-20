@@ -5,12 +5,12 @@
 | Company | [Tipico](https://scoutify.ai/companies/tipico?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Malta |
 | Category | Data Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tipico/744000126296246-data-engineer-mfx) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tipico/744000143037170-data-engineer-mfx) |
 
 ## About This Role
 
-This data engineer position at Tipico was posted on 2026-05-13.
+This data engineer position at Tipico was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
-| Category | Software Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000134207964-senior-software-engineer-customer-data-platform) |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Category | Data Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000143235309-senior-software-engineer-customer-data-platform) |
 
 ## About This Role
 
-This software engineer position at Grab was posted on 2026-06-25.
+This data engineer position at Grab was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

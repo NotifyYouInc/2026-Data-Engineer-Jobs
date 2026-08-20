@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Tunis, Tunis Governorate, Tunisia |
+| Location | Johannesburg, Gauteng, South Africa |
 | Category | Data Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Tunis---Immeuble-The-Screen/Data-Engineer_739038WD) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Johannesburg/Data-Engineer_752167WD) |
 
 ## About This Role
 
-This data engineer position at PwC was posted on 2026-06-22.
+This data engineer position at PwC was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

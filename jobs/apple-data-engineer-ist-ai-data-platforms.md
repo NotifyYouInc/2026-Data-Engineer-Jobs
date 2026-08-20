@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Data Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200673795/data-engineer-is-t-ai-data-platforms) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200676311/data-engineer-is-t-ai-data-platforms) |
 
 ## About This Role
 
-This data engineer position at Apple was posted on 2026-07-27.
+This data engineer position at Apple was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

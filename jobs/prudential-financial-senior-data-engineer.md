@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Prudential Financial](https://scoutify.ai/companies/prudential-financial?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Newark, New Jersey, United States |
+| Location | Letterkenny, Ulster, Ireland |
 | Category | Data Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/Senior-Data-Engineer_R-124740-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://pru.wd5.myworkdayjobs.com/Careers/job/Letterkenny-Ireland/Senior-Data-Engineer_R-124196-1) |
 
 ## About This Role
 
-This data engineer position at Prudential Financial was posted on 2026-08-07.
+This data engineer position at Prudential Financial was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

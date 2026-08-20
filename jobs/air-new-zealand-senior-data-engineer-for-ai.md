@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Air New Zealand](https://scoutify.ai/companies/air-new-zealand?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Auckland, Auckland, New Zealand |
+| Location | Christchurch, Canterbury, New Zealand |
 | Category | Data Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/airnewzealand/6000000001277889-senior-data-engineer-for-ai) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/airnewzealand/6000000001309398-senior-data-engineer-for-ai) |
 
 ## About This Role
 
-This data engineer position at Air New Zealand was posted on 2026-08-03.
+This data engineer position at Air New Zealand was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

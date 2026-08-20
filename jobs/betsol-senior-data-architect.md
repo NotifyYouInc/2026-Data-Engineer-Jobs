@@ -5,12 +5,12 @@
 | Company | [BETSOL](https://scoutify.ai/companies/betsol?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/betsol/744000142568754-senior-data-architect) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/betsol/744000143034766-senior-data-architect) |
 
 ## About This Role
 
-This data engineer position at BETSOL was posted on 2026-08-10.
+This data engineer position at BETSOL was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

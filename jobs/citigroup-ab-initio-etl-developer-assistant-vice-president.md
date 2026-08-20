@@ -1,16 +1,16 @@
-# Ab-Initio ETL Developer, Assistant Vice President at Citigroup
+# Ab Initio ETL Developer - Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Belfast, Northern Ireland, United Kingdom |
-| Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Ab-Initio-ETL-Developer--Assistant-Vice-President_26948807) |
+| Location | Pune, Maharashtra, India |
+| Category | Data Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Ab-Initio-ETL-Developer---Assistant-Vice-President_26982910) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-03-25.
+This data engineer position at Citigroup was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

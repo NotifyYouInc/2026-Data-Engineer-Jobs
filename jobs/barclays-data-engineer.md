@@ -6,7 +6,7 @@
 | Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
 | Posted | 2026-08-10 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Data-Engineer_JR-0000120495-1) |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Data-Engineer_JR-0000120493-1) |
 
 ## About This Role
 

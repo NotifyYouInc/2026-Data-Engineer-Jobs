@@ -5,12 +5,12 @@
 | Company | [Inter Ikea Systems](https://scoutify.ai/companies/interikeasystems?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Älmhult, Kronoberg, Sweden |
 | Category | Data Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InterIKEAGroup/744000127667279-data-engineer-data-technology-scd) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InterIKEAGroup/744000143073419-data-engineer-data-technology-scd) |
 
 ## About This Role
 
-This data engineer position at Inter Ikea Systems was posted on 2026-05-21.
+This data engineer position at Inter Ikea Systems was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

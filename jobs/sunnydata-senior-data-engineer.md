@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SunnyData](https://scoutify.ai/companies/sunnydata?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Mexico |
+| Location | Nepal |
 | Category | Data Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sunnydata/91fadfa0-29d7-45d8-98a7-01ff9989ad71) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sunnydata/dd6b6ec1-52dc-4837-9672-3cc905b05c81) |
 
 ## About This Role
 
-This data engineer position at SunnyData was posted on 2026-07-29.
+This data engineer position at SunnyData was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 
