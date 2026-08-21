@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aberdeen-Proving-Ground-MD/Palantir-Data-Engineer_R0246482) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aberdeen-Proving-Ground-MD/Palantir-Data-Engineer_R0246475) |
 
 ## About This Role
 
-This data engineer position at Booz Allen was posted on 2026-08-10.
+This data engineer position at Booz Allen was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

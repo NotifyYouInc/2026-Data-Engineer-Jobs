@@ -5,12 +5,12 @@
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/Associate-Data-Engineer_JR-02596139) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/Associate-Data-Engineer_JR-02597297) |
 
 ## About This Role
 
-This data engineer position at Lowe's was posted on 2026-08-11.
+This data engineer position at Lowe's was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

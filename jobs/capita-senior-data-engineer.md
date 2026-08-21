@@ -5,12 +5,12 @@
 | Company | [Capita](https://scoutify.ai/companies/capita?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://capita.wd3.myworkdayjobs.com/capitaglobal/job/Pune/Senior-Data-Engineer_10119012-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://capita.wd3.myworkdayjobs.com/capitaglobal/job/Pune/Senior-Data-Engineer_10120124) |
 
 ## About This Role
 
-This data engineer position at Capita was posted on 2026-04-27.
+This data engineer position at Capita was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

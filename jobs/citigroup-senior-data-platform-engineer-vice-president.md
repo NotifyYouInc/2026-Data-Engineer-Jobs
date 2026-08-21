@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Senior-Data-Platform-Engineer---Vice-President_26952547-1) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Senior-Data-Platform-Engineer---Vice-President_26984967) |
 
 ## About This Role
 
-This data engineer position at Citigroup was posted on 2026-04-20.
+This data engineer position at Citigroup was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000137443360-manager-data-engineering) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000143265415-manager-data-engineering) |
 
 ## About This Role
 
-This data engineer position at Blend360 was posted on 2026-07-13.
+This data engineer position at Blend360 was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

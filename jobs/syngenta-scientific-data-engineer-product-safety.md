@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bracknell, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000142137809-scientific-data-engineer-product-safety) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000143311000-scientific-data-engineer-product-safety) |
 
 ## About This Role
 
-This data engineer position at Syngenta was posted on 2026-08-07.
+This data engineer position at Syngenta was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Data Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Lisbon/Analytics-Engineer_14318217) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Lisbon-Exeo-Lumnia/Analytics-Engineer_R00349978) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-05-15.
+This data engineer position at Accenture was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

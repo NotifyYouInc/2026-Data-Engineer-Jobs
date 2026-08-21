@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Catalent](https://scoutify.ai/companies/catalent?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://catalent.wd1.myworkdayjobs.com/external/job/Bridgewater-NJ/Enterprise-Data-Integrations-Specialist_0093255-1) |
+| Category | Data Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://catalent.wd1.myworkdayjobs.com/external/job/Bridgewater-NJ/Enterprise-Data-Integrations-Specialist_0096132) |
 
 ## About This Role
 
-This software engineer position at Catalent was posted on 2026-03-02.
+This data engineer position at Catalent was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

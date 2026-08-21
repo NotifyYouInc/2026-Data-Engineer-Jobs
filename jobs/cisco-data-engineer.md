@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | San Jose, California, United States |
+| Location | Bratislava, Bratislava Region, Slovakia |
 | Category | Data Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Data-Engineer_2016712-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bratislava-Slovakia/Data-Engineer_2021442) |
 
 ## About This Role
 
-This data engineer position at Cisco was posted on 2026-08-06.
+This data engineer position at Cisco was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

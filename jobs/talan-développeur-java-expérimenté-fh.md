@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Data Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000139297776-developpeur-java-experimente-fh) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000143261609-developpeur-java-experimente-fh) |
 
 ## About This Role
 
-This data engineer position at Talan was posted on 2026-07-23.
+This data engineer position at Talan was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

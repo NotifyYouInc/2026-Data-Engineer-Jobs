@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SOTI](https://scoutify.ai/companies/soti?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Mississauga, Ontario, Canada |
-| Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://soti.wd3.myworkdayjobs.com/careers/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Engineer_R09829) |
+| Location | Kochi, Kerala, India |
+| Category | Data Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://soti.wd3.myworkdayjobs.com/careers/job/Kochi-India/Data-Engineer_R10364-2) |
 
 ## About This Role
 
-This software engineer position at SOTI was posted on 2026-02-27.
+This data engineer position at SOTI was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

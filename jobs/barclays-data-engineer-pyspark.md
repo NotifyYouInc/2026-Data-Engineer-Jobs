@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Bengaluru-Maruthi-Onyx---TESCO-TSA/Data-Engineer---PySpark_JR-0000091078-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Data-Engineer---PySpark_JR-0000082271) |
 
 ## About This Role
 
-This data engineer position at Barclays was posted on 2026-05-27.
+This data engineer position at Barclays was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

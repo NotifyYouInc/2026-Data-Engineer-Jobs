@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sigmoid](https://scoutify.ai/companies/sigmoid?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
+| Category | Learning & Development |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/sigmoid/jobs/8675405002) |
 
 ## About This Role
 
-This data engineer position at Sigmoid was posted on 2026-08-12.
+This learning & development position at Sigmoid was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

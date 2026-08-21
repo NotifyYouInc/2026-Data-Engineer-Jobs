@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chennai/Engineer--Data-Development--SSIS--SQL-_19039666) |
+| Category | Data Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chennai/Engineer--Data-Development--SSIS--SQL-_19041505) |
 
 ## About This Role
 
-This software engineer position at TransUnion was posted on 2026-03-30.
+This data engineer position at TransUnion was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

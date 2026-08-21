@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WPP](https://scoutify.ai/companies/wpp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Copenhagen, Capital Region, Denmark |
+| Location | Denmark |
 | Category | Data Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wpp/jobs/8551651002) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wpp/jobs/8642402002) |
 
 ## About This Role
 
-This data engineer position at WPP was posted on 2026-07-30.
+This data engineer position at WPP was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

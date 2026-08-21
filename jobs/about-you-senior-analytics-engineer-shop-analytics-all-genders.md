@@ -5,12 +5,12 @@
 | Company | [About You](https://scoutify.ai/companies/aboutyou?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000142088389-senior-analytics-engineer-shop-analytics-all-genders) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000143345449-senior-analytics-engineer-shop-analytics-all-genders) |
 
 ## About This Role
 
-This data engineer position at About You was posted on 2026-08-07.
+This data engineer position at About You was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

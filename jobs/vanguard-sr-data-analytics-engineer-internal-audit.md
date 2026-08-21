@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Malvern, Arkansas, United States |
-| Category | Data Engineer |
+| Category | Accounting |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Sr-Data-Analytics-Engineer---Internal-Audit_181430) |
 
 ## About This Role
 
-This data engineer position at Vanguard was posted on 2026-08-11.
+This accounting position at Vanguard was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

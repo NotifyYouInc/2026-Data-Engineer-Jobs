@@ -5,12 +5,12 @@
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Bengaluru-Karnataka-India/Data-Engineer_R02860) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Bengaluru-Karnataka-India/Data-Engineer_R02980) |
 
 ## About This Role
 
-This data engineer position at Altera Corporation was posted on 2026-07-30.
+This data engineer position at Altera Corporation was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

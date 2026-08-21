@@ -5,12 +5,12 @@
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-Azure-Fabric-Engineer-Data-Analytics-Advisory-Bangalore_751842WD) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-Azure-Fabric-Engineer-Data-Analytics-Advisory-Bangalore_751882WD-1) |
 
 ## About This Role
 
-This data engineer position at PwC was posted on 2026-08-11.
+This data engineer position at PwC was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 
