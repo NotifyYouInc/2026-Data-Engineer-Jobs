@@ -6,7 +6,7 @@
 | Location | San José, San José, Costa Rica |
 | Category | Data Engineer |
 | Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000143099656-8gt-senior-data-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000143177750-8gt-senior-data-engineer) |
 
 ## About This Role
 

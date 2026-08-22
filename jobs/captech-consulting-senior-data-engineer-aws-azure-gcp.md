@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CapTech Consulting](https://scoutify.ai/companies/captechconsulting?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000115284699-senior-data-engineer-aws-azure-gcp) |
+| Location | Chicago, Illinois, United States |
+| Category | Data Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000143565905-senior-data-engineer-aws-azure-gcp) |
 
 ## About This Role
 
-This software engineer position at CapTech Consulting was posted on 2026-03-17.
+This data engineer position at CapTech Consulting was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

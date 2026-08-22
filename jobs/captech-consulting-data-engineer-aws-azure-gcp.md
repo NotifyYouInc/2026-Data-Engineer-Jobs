@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CapTech Consulting](https://scoutify.ai/companies/captechconsulting?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
-| Category | Database Administration |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000115290737-data-engineer-aws-azure-gcp) |
+| Location | Richmond, Virginia, United States |
+| Category | Data Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000143565219-data-engineer-aws-azure-gcp) |
 
 ## About This Role
 
-This database administration position at CapTech Consulting was posted on 2026-03-17.
+This data engineer position at CapTech Consulting was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

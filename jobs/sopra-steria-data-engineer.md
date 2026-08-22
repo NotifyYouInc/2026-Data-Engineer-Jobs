@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Oslo, Oslo, Norway |
+| Location | Nieuwegein, Utrecht, The Netherlands |
 | Category | Data Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000141462413-data-engineer) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000143477839-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Sopra Steria was posted on 2026-08-04.
+This data engineer position at Sopra Steria was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

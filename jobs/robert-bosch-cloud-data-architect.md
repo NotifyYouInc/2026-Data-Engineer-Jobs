@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000120880317-cloud-data-architect) |
+| Category | Data Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000143513940-cloud-data-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Robert Bosch was posted on 2026-04-15.
+This data engineer position at Robert Bosch was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

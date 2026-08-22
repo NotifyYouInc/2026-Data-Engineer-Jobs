@@ -1,0 +1,22 @@
+# Azure Database Engineer (Contractor) - MNSITE-3832/3833 at RESPEC
+
+| Field | Details |
+|-------|---------|
+| Company | [RESPEC](https://scoutify.ai/companies/respec?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Saint Paul, Minnesota, United States |
+| Category | Data Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RESPECInc/744000143519669-azure-database-engineer-contractor-mnsite-38323833) |
+
+## About This Role
+
+This data engineer position at RESPEC was posted on 2026-08-14.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

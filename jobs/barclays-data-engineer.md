@@ -1,16 +1,16 @@
-# Data Engineer   at Barclays
+# Data Engineer at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Data Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Data-Engineer--_JR-0000127620-2) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/Data-Engineer_JR-0000115259) |
 
 ## About This Role
 
-This data engineer position at Barclays was posted on 2026-08-12.
+This data engineer position at Barclays was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

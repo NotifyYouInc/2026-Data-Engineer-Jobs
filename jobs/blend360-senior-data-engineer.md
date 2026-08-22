@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Montevideo, Montevideo Department, Uruguay |
 | Category | Data Engineer |
 | Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000143049915-senior-data-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000143177594-senior-data-engineer) |
 
 ## About This Role
 

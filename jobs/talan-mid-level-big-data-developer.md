@@ -1,16 +1,16 @@
-# Mid- Level Big Data Developer  at Talan
+# Mid-Level Big Data Developer at Talan
 
 | Field | Details |
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Spain |
-| Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000116162249-mid-level-big-data-developer) |
+| Location | Málaga, Andalusia, Spain |
+| Category | Data Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000143508369-mid-level-big-data-developer) |
 
 ## About This Role
 
-This software engineer position at Talan was posted on 2026-03-23.
+This data engineer position at Talan was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

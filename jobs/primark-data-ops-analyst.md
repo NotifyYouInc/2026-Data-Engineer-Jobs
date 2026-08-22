@@ -5,12 +5,12 @@
 | Company | [Primark](https://scoutify.ai/companies/primark?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Reading, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000140732395-data-ops-analyst) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000143474200-data-ops-analyst) |
 
 ## About This Role
 
-This data engineer position at Primark was posted on 2026-07-30.
+This data engineer position at Primark was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 
