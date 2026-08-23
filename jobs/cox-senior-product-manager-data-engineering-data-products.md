@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Carmel, Indiana, United States |
-| Category | Data Engineer |
+| Category | Product Manager |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Senior-Product-Manager--Data-Engineering---Data-Products_R202680999) |
 
 ## About This Role
 
-This data engineer position at Cox was posted on 2026-08-12.
+This product manager position at Cox was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

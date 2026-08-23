@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Oslo, Oslo, Norway |
-| Category | Data Engineer |
+| Category | Technical Product Manager |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Oslo/Data-Platform-Manager-Lead_R1129398) |
 
 ## About This Role
 
-This data engineer position at Dentsu was posted on 2026-08-13.
+This technical product manager position at Dentsu was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

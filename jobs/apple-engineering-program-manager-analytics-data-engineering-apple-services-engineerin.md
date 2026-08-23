@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | Data Engineer |
+| Category | Program Manager |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200671810/engineering-program-manager-analytics-data-engineering-apple-services-engineering) |
 
 ## About This Role
 
-This data engineer position at Apple was posted on 2026-08-13.
+This program manager position at Apple was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coherent Solutions](https://scoutify.ai/companies/coherentsolutions?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Poland |
-| Category | Data Engineer |
+| Category | Embedded / Firmware Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/coherentsolutions/jobs/4951436101) |
 
 ## About This Role
 
-This data engineer position at Coherent Solutions was posted on 2026-08-13.
+This embedded / firmware engineer position at Coherent Solutions was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 
