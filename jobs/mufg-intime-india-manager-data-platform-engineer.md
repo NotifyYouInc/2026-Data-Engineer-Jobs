@@ -1,16 +1,16 @@
-# Senior Data Engineer at Blend360
+# Manager, Data Platform Engineer at MUFG Intime India
 
 | Field | Details |
 |-------|---------|
-| Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Company | [MUFG Intime India](https://scoutify.ai/companies/ap1-cx-oj72475?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | India |
 | Category | Data Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000143339479-senior-data-engineer) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://hcmn.fa.ap1.oraclecloud.com/jobs/#15890) |
 
 ## About This Role
 
-This data engineer position at Blend360 was posted on 2026-08-13.
+This data engineer position at MUFG Intime India was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

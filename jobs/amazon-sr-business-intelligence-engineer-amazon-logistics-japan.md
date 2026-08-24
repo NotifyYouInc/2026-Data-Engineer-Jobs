@@ -1,16 +1,16 @@
-# Data Engineer, Flex Analytics at Amazon
+# Sr. Business Intelligence Engineer, Amazon Logistics Japan at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Data Engineer |
+| Location | Tokyo, JP |
+| Category | Data Analyst |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10503258/data-engineer-flex-analytics) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10503252/sr-business-intelligence-engineer-amazon-logistics-japan) |
 
 ## About This Role
 
-This data engineer position at Amazon was posted on 2026-08-17.
+This data analyst position at Amazon was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pittsburgh, Pennsylvania, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWVaJgdQb601kaFJzzU5C747gWNkhzSIbqEpmVLKh9ssEjsA1Ny_i4nXI5j8cpdElnfwwbllXG9ooFprXxahV17V-is6UDjYcw3tpcW1Nh6oCMCTacwtYE6qXtXABw%3D%3D_V2&loc=US&title=Lead+Engineer) |
 
 ## About This Role
 
-This data engineer position at Google was posted on 2026-08-13.
+This software engineer position at Google was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

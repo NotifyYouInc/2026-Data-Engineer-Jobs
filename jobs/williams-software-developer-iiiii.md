@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Williams](https://scoutify.ai/companies/williams?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Tulsa, Oklahoma, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://williams.wd5.myworkdayjobs.com/External/job/OK-Tulsa---Headquarters/Software-Developer-II-III_R112558) |
 
 ## About This Role
 
-This data engineer position at Williams was posted on 2026-08-14.
+This software engineer position at Williams was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

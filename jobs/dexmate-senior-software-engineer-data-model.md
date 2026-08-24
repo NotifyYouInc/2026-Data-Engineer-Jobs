@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dexmate](https://scoutify.ai/companies/dexmate?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Fremont, California, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/dexmate/61085218-56dd-41c6-a36e-cde15d05c162) |
 
 ## About This Role
 
-This data engineer position at Dexmate was posted on 2026-08-13.
+This software engineer position at Dexmate was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

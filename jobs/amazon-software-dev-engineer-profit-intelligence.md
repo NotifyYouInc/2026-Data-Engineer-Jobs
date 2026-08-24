@@ -1,16 +1,16 @@
-# Software Engineer, Data Infrastructure - AI Platform at TRM Labs
+# Software Dev Engineer, Profit Intelligence at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [TRM Labs](https://scoutify.ai/companies/trm-labs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United States |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/trm-labs/85d748d0-5377-486f-9209-c811704dbdaa) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10503241/software-dev-engineer-profit-intelligence) |
 
 ## About This Role
 
-This software engineer position at TRM Labs was posted on 2026-08-12.
+This software engineer position at Amazon was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

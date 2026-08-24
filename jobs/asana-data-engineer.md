@@ -1,16 +1,16 @@
-# Senior Data Engineer at Blend360
+# Data Engineer  at Asana
 
 | Field | Details |
 |-------|---------|
-| Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Company | [Asana](https://scoutify.ai/companies/asana?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Data Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000143339479-senior-data-engineer) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://www.asana.com/jobs/apply/8131896?gh_jid=8131896) |
 
 ## About This Role
 
-This data engineer position at Blend360 was posted on 2026-08-13.
+This data engineer position at Asana was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

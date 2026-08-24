@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Epiqsystems](https://scoutify.ai/companies/epiqsystems?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/USA-New-York-NY-1166-Avenue-of-Americas/Senior-Software-Engineer--Data-Platform_R0034978) |
 
 ## About This Role
 
-This data engineer position at Epiqsystems was posted on 2026-08-13.
+This software engineer position at Epiqsystems was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

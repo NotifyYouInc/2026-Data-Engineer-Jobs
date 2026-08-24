@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Assist-Data-Programmer_2626730) |
 
 ## About This Role
 
-This data engineer position at Labcorp was posted on 2026-08-12.
+This software engineer position at Labcorp was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

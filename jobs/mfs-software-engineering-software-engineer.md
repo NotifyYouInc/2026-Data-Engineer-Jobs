@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MFS](https://scoutify.ai/companies/mfs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://mfs.wd1.myworkdayjobs.com/MFS-Careers/job/Boston/Software-Engineering--Software-Engineer_MFS-231860) |
 
 ## About This Role
 
-This data engineer position at MFS was posted on 2026-08-13.
+This software engineer position at MFS was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

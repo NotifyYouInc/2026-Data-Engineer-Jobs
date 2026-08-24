@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TRM Labs](https://scoutify.ai/companies/trm-labs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/trm-labs/75699d68-f602-46f3-b51e-4ccc283a727d) |
 
 ## About This Role
 
-This data engineer position at TRM Labs was posted on 2026-08-12.
+This software engineer position at TRM Labs was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

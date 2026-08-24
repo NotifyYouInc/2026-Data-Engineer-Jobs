@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Itron](https://scoutify.ai/companies/itron?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://itron.wd5.myworkdayjobs.com/itron/job/India-Bangalore/Staff-Software-Engineer_JR102784) |
 
 ## About This Role
 
-This data engineer position at Itron was posted on 2026-08-13.
+This software engineer position at Itron was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

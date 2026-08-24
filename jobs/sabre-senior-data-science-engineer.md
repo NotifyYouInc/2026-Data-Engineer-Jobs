@@ -1,16 +1,16 @@
-# Sr Engineer Data at Empower
+# Senior Data Science Engineer at Sabre
 
 | Field | Details |
 |-------|---------|
-| Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Sabre](https://scoutify.ai/companies/sabre?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Sr-Engineer-Data_R0061425-1) |
+| Category | Data Scientist |
+| Posted | 2026-08-16 |
+| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/Senior-Data-Science-Engineer_JR108521) |
 
 ## About This Role
 
-This data engineer position at Empower was posted on 2026-08-13.
+This data scientist position at Sabre was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

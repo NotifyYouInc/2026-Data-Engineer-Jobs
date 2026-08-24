@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cint](https://scoutify.ai/companies/cint?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | New Orleans, Louisiana, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000143189349-software-engineer-ii) |
 
 ## About This Role
 
-This data engineer position at Cint was posted on 2026-08-12.
+This software engineer position at Cint was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

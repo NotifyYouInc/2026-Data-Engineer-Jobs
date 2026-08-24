@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ripple](https://scoutify.ai/companies/ripple?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Data Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://ripple.com/careers/all-jobs/job/8030778?gh_jid=8030778) |
+| Location | London, England, United Kingdom |
+| Category | Software Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://ripple.com/careers/all-jobs/job/8030786?gh_jid=8030786) |
 
 ## About This Role
 
-This data engineer position at Ripple was posted on 2026-06-29.
+This software engineer position at Ripple was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

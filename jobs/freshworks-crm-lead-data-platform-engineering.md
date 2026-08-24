@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000117701040-lead-data-platform-engineering) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Data Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000143743519-lead-data-platform-engineering) |
 
 ## About This Role
 
-This software engineer position at Freshworks CRM was posted on 2026-03-30.
+This data engineer position at Freshworks CRM was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200677022/software-engineer-athena-ai-data-platforms-aidp) |
 
 ## About This Role
 
-This data engineer position at Apple was posted on 2026-08-12.
+This software engineer position at Apple was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

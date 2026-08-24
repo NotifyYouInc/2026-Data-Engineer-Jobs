@@ -1,16 +1,16 @@
-# Vice President, Full-Stack Engineer at BNY
+# Manager - Data Platform & Architecture Lead at Riveron
 
 | Field | Details |
 |-------|---------|
-| Company | [BNY](https://scoutify.ai/companies/us2-cx-oj13796?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Riveron](https://scoutify.ai/companies/riveron?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#79595) |
+| Category | Data Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/riveron/0621864a-e6f3-4310-b7cb-ca26584b58af) |
 
 ## About This Role
 
-This software engineer position at BNY was posted on 2026-08-14.
+This data engineer position at Riveron was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

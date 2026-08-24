@@ -1,16 +1,16 @@
-# Senior Data Engineer at Blend360
+# Databricks Engineer - Senior/ Lead at Blend360
 
 | Field | Details |
 |-------|---------|
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000143339479-senior-data-engineer) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000143753829-databricks-engineer-senior-lead) |
 
 ## About This Role
 
-This data engineer position at Blend360 was posted on 2026-08-13.
+This data engineer position at Blend360 was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

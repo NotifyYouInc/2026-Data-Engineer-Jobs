@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Unimelb](https://scoutify.ai/companies/unimelb?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Parkville, Victoria, Australia |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://unimelb.wd105.myworkdayjobs.com/uom_external_career/job/Parkville/Research-Software-Engineer_JR-016385) |
 
 ## About This Role
 
-This data engineer position at Unimelb was posted on 2026-08-13.
+This software engineer position at Unimelb was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

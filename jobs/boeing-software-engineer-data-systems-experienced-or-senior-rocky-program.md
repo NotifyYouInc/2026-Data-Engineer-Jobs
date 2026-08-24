@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Albuquerque-NM/Software-Engineer--Data-Systems--Experienced-or-Senior----Rocky-Program_JR2026522037-2) |
 
 ## About This Role
 
-This data engineer position at Boeing was posted on 2026-08-13.
+This software engineer position at Boeing was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

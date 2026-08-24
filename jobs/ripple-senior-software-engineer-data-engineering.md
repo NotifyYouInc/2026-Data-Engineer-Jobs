@@ -1,16 +1,16 @@
-# Software Engineer, Data Infrastructure - AI Platform at TRM Labs
+# Senior Software Engineer, Data Engineering at Ripple
 
 | Field | Details |
 |-------|---------|
-| Company | [TRM Labs](https://scoutify.ai/companies/trm-labs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United States |
+| Company | [Ripple](https://scoutify.ai/companies/ripple?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/trm-labs/85d748d0-5377-486f-9209-c811704dbdaa) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://ripple.com/careers/all-jobs/job/7872447?gh_jid=7872447) |
 
 ## About This Role
 
-This software engineer position at TRM Labs was posted on 2026-08-12.
+This software engineer position at Ripple was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

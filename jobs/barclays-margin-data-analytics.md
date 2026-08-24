@@ -1,16 +1,16 @@
-# Vice President, Full-Stack Engineer at BNY
+# Margin Data & Analytics at Barclays
 
 | Field | Details |
 |-------|---------|
-| Company | [BNY](https://scoutify.ai/companies/us2-cx-oj13796?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#79595) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Margin-Data---Analytics_JR-0000111790-1) |
 
 ## About This Role
 
-This software engineer position at BNY was posted on 2026-08-14.
+This software engineer position at Barclays was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

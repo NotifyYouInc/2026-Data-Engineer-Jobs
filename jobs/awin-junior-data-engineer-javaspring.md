@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Awin](https://scoutify.ai/companies/awin?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Iaşi, Iași County, Romania |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/awin/jobs/7869618003) |
 
 ## About This Role
 
-This data engineer position at Awin was posted on 2026-08-14.
+This software engineer position at Awin was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

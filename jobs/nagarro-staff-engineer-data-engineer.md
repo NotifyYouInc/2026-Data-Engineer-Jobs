@@ -1,16 +1,16 @@
-# Senior Data Engineer at Blend360
+# Staff Engineer - Data Engineer at Nagarro
 
 | Field | Details |
 |-------|---------|
-| Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Data Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000143339479-senior-data-engineer) |
+| Posted | 2026-08-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000143695669-staff-engineer-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Blend360 was posted on 2026-08-13.
+This data engineer position at Nagarro was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

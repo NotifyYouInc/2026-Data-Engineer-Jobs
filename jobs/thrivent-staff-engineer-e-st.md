@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thrivent](https://scoutify.ai/companies/thrivent?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Minneapolis, Minnesota, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://thrivent.wd5.myworkdayjobs.com/external/job/MN---Minneapolis/Staff-Engineer--e-ST-_REQ-47915) |
 
 ## About This Role
 
-This data engineer position at Thrivent was posted on 2026-08-13.
+This software engineer position at Thrivent was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 
