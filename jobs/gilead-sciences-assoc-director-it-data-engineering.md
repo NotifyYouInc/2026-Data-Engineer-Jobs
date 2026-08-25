@@ -5,12 +5,12 @@
 | Company | [Gilead Sciences](https://scoutify.ai/companies/gilead-sciences?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Raleigh, North Carolina, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---North-Carolina---Raleigh/Assoc-Director--IT-Data-Engineering_R0051328) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---North-Carolina---Raleigh/Assoc-Director--IT-Data-Engineering_R0054088-1) |
 
 ## About This Role
 
-This data engineer position at Gilead Sciences was posted on 2026-04-15.
+This data engineer position at Gilead Sciences was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

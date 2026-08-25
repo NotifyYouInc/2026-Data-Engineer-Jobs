@@ -1,16 +1,16 @@
-# IN_Senior Associate_Databricks Engingeer _Data & Analytics_ Advisory_Bangalore at PwC
+# IN-Senior Associate_Databricks Engingeer _Data Analytics_ Advisory_Bangalore at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate--Master-Data-Management--Data---Analytics--Advisory--Gurgaon_715713WD-1) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Manager--GCP-Data-Engineer---Data--Analytics--Advisory--Bangalore_717810WD-1) |
 
 ## About This Role
 
-This data engineer position at PwC was posted on 2026-08-06.
+This data engineer position at PwC was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

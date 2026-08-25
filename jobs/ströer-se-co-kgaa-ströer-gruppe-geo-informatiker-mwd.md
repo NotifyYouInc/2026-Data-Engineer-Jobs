@@ -5,12 +5,12 @@
 | Company | [Ströer SE & Co. KGaA (Ströer Gruppe)](https://scoutify.ai/companies/strersecokgaastrergruppe?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Leverkusen, North Rhine-Westphalia, Germany |
 | Category | Data Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StrerSECoKGaAStrerGruppe/744000142076262-geo-informatiker-mwd) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StrerSECoKGaAStrerGruppe/744000143827269-geo-informatiker-mwd) |
 
 ## About This Role
 
-This data engineer position at Ströer SE & Co. KGaA (Ströer Gruppe) was posted on 2026-08-07.
+This data engineer position at Ströer SE & Co. KGaA (Ströer Gruppe) was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

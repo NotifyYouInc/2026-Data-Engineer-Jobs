@@ -5,12 +5,12 @@
 | Company | [Trucordia](https://scoutify.ai/companies/trucordia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Lindon, Utah, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/trucordia1/3743990013527796-intregrations-engineer) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/trucordia1/3743990014626846-intregrations-engineer) |
 
 ## About This Role
 
-This data engineer position at Trucordia was posted on 2026-06-08.
+This data engineer position at Trucordia was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

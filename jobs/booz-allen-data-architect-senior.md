@@ -1,16 +1,16 @@
-# Data Architect, Senior at Booz Allen
+# Data Architect - Senior at Booz Allen
 
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Albuquerque, New Mexico, United States |
+| Location | Tampa, Florida, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Albuquerque-NM/Data-Architect--Senior_R0242379) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Tampa-FL/Data-Architect---Senior_R0247168) |
 
 ## About This Role
 
-This data engineer position at Booz Allen was posted on 2026-06-26.
+This data engineer position at Booz Allen was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

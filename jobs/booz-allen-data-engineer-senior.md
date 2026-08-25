@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | Aurora, Colorado, United States |
 | Category | Data Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Huntsville-AL/Data-Engineer--Senior_R0246770) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Data-Engineer--Senior_R0246521) |
 
 ## About This Role
 
-This data engineer position at Booz Allen was posted on 2026-08-12.
+This data engineer position at Booz Allen was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

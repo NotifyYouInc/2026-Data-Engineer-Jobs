@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | Data Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000123433538-data-production-specialist) |
+| Category | Data Analyst |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000143989250-data-production-specialist) |
 
 ## About This Role
 
-This data engineer position at NielsenIQ was posted on 2026-04-28.
+This data analyst position at NielsenIQ was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

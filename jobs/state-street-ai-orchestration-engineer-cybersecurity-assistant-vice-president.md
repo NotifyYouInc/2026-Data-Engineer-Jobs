@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/AI-Orchestration-Engineer--Cybersecurity---Assistant-Vice-President_R-795665) |
 
 ## About This Role
 
-This machine learning engineer position at State Street was posted on 2026-08-13.
+This data engineer position at State Street was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

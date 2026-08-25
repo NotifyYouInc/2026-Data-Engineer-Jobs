@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Helenoftroy](https://scoutify.ai/companies/helenoftroy?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 4 locations |
-| Category | Machine Learning Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://helenoftroy.wd503.myworkdayjobs.com/main_hot/job/USA---Marlborough-Massachusetts/Sr-AI-Analytics-Engineer_R0006091) |
 
 ## About This Role
 
-This machine learning engineer position at Helenoftroy was posted on 2026-08-14.
+This data engineer position at Helenoftroy was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

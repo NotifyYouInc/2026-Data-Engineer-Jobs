@@ -1,16 +1,16 @@
-# Principal Data Engineer  at Mitratech
+# Principal Data Engineer at Mitratech
 
 | Field | Details |
 |-------|---------|
 | Company | [Mitratech](https://scoutify.ai/companies/mitratech?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | India |
 | Category | Data Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mitratech/jobs/8049913) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mitratech/jobs/8129363) |
 
 ## About This Role
 
-This data engineer position at Mitratech was posted on 2026-07-21.
+This data engineer position at Mitratech was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

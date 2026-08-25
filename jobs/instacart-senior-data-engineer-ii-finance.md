@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Instacart](https://scoutify.ai/companies/instacart?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Canada |
+| Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://instacart.careers/job/?gh_jid=8126023) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://instacart.careers/job/?gh_jid=8132846) |
 
 ## About This Role
 
-This data engineer position at Instacart was posted on 2026-08-12.
+This data engineer position at Instacart was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

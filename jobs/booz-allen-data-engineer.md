@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Arlington, Texas, United States |
 | Category | Data Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Data-Engineer_R0246782) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Data-Engineer_R0247120) |
 
 ## About This Role
 
-This data engineer position at Booz Allen was posted on 2026-08-12.
+This data engineer position at Booz Allen was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 
