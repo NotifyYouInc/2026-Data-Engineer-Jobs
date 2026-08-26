@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10427393/data-engineer-ii-prime-video-advertising) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10506448/data-engineer-ii-prime-video-advertising) |
 
 ## About This Role
 
-This data engineer position at Amazon was posted on 2026-05-21.
+This data engineer position at Amazon was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 3 locations |
+| Location | Plano, Texas, United States |
 | Category | Data Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Lead-Data-Engineer_R248172-1) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Lead-Data-Engineer_R249252-1) |
 
 ## About This Role
 
-This data engineer position at Capital One was posted on 2026-08-13.
+This data engineer position at Capital One was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

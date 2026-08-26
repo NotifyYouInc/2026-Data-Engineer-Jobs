@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
-| Category | Data Engineer |
+| Category | Customer Success |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/ETL-Application-Support-Analyst_26970564) |
 
 ## About This Role
 
-This data engineer position at Citigroup was posted on 2026-08-18.
+This customer success position at Citigroup was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

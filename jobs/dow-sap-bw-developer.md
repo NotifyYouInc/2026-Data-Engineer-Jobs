@@ -5,12 +5,12 @@
 | Company | [Dow](https://scoutify.ai/companies/dow?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Navi Mumbai, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-04-06 |
+| Posted | 2026-08-18 |
 | Apply | [View on company site](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Navi-Mumbai-IND/SAP-BW-Developer_R2064506) |
 
 ## About This Role
 
-This data engineer position at Dow was posted on 2026-04-06.
+This data engineer position at Dow was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

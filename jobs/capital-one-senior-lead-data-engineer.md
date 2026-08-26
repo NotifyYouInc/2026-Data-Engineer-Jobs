@@ -5,12 +5,12 @@
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Data Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Senior-Lead-Data-Engineer_R246107-1) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Senior-Lead-Data-Engineer_R249241-2) |
 
 ## About This Role
 
-This data engineer position at Capital One was posted on 2026-07-07.
+This data engineer position at Capital One was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

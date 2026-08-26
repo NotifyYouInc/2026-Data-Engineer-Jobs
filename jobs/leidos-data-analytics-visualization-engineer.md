@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Shiloh, Illinois, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Data-Analytics---Visualization-Engineer_R-00184829) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Data-Analytics---Visualization-Engineer_R-00189903) |
 
 ## About This Role
 
-This data engineer position at Leidos was posted on 2026-06-04.
+This data engineer position at Leidos was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

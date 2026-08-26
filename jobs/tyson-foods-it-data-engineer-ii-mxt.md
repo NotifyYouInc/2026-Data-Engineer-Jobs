@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Torreón, Coahuila, Mexico |
+| Location | El Fresno, Guanajuato, Mexico |
 | Category | Data Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/TRC-IT-HUB---Torreon-El-Fresno-Coahuila-Mexico/IT-Data-Engineer-II-MXT_R0471926-1) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/TRC-IT-HUB---Torreon-El-Fresno-Coahuila-Mexico/IT-Data-Engineer-II-MXT_R0480085-1) |
 
 ## About This Role
 
-This data engineer position at Tyson Foods was posted on 2026-07-08.
+This data engineer position at Tyson Foods was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Magna](https://scoutify.ai/companies/magna?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Timişoara, Timiș County, Romania |
 | Category | Data Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Bangalore-IN/Data-Engineer_R00223914) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Timisoara-RO/Data-Engineer_R00256992) |
 
 ## About This Role
 
-This data engineer position at Magna was posted on 2026-04-22.
+This data engineer position at Magna was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

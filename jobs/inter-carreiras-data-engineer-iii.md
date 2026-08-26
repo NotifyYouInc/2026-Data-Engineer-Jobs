@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inter Carreiras](https://scoutify.ai/companies/inter-carreiras?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Belo Horizonte, Minas Gerais, Brazil |
+| Location | 4 locations |
 | Category | Data Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4713496005?gh_jid=4713496005) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4721885005?gh_jid=4721885005) |
 
 ## About This Role
 
-This data engineer position at Inter Carreiras was posted on 2026-07-16.
+This data engineer position at Inter Carreiras was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

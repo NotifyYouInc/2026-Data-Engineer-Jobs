@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | Data Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000137059709-developpeur-data-plateforme-skywise-hf) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000144080260-developpeur-data-plateforme-skywise-hf) |
 
 ## About This Role
 
-This data engineer position at ALTEN Canada was posted on 2026-07-10.
+This data engineer position at ALTEN Canada was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

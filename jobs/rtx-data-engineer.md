@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Arizona, US |
+| Location | Texas, US |
 | Category | Data Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-REMOTE/Data-Engineer_01861490) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-REMOTE/Data-Engineer_01867802) |
 
 ## About This Role
 
-This data engineer position at RTX was posted on 2026-07-23.
+This data engineer position at RTX was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Sri Lanka |
 | Category | Data Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-LABS-----Sri-Lanka/Senior-Engineer---Data-Engineering_R259112) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-LABS-----Sri-Lanka/Senior-Engineer---Data-Engineering_R262525) |
 
 ## About This Role
 
-This data engineer position at Sysco was posted on 2026-08-12.
+This data engineer position at Sysco was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

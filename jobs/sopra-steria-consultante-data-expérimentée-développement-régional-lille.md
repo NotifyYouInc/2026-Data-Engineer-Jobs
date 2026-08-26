@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Villeneuve-d'Ascq, Hauts-de-France, France |
 | Category | Data Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000134715328-consultante-data-experimentee-developpement-regional-lille) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000144100379-consultante-data-experimentee-developpement-regional-lille) |
 
 ## About This Role
 
-This data engineer position at Sopra Steria was posted on 2026-06-29.
+This data engineer position at Sopra Steria was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

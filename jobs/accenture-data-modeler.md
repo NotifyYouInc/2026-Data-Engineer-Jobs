@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Data-Modeler_ATCI-5683595-S2064211-1) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Data-Modeler_ATCI-5723804-S2064480-1) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-08-13.
+This data engineer position at Accenture was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

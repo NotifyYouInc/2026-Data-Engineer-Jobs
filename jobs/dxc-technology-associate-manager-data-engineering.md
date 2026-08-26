@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
 | Category | Data Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---KA---BANGALORE/Associate-Manager-Data-Engineering_51577539) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ARE---AZ---ABU-DHABI/Associate-Manager-Data-Engineering_51587256) |
 
 ## About This Role
 
-This data engineer position at DXC Technology was posted on 2026-06-08.
+This data engineer position at DXC Technology was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

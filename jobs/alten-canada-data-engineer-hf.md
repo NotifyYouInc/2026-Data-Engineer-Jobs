@@ -1,16 +1,16 @@
-# Data engineer (H/F) at ALTEN Canada
+# Data Engineer (H/F) at ALTEN Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Grenoble, Rhône-Alpes, France |
+| Location | Toulouse, Occitanie, France |
 | Category | Data Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000140688388-data-engineer-hf) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000144089299-data-engineer-hf) |
 
 ## About This Role
 
-This data engineer position at ALTEN Canada was posted on 2026-07-30.
+This data engineer position at ALTEN Canada was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

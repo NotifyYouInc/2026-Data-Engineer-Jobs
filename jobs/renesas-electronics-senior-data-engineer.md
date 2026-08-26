@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Data Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000134927679-senior-data-engineer) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000144097360-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Renesas Electronics was posted on 2026-06-30.
+This data engineer position at Renesas Electronics was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 3 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/Data-Architect_38351) |
+| Location | Arlington, Texas, United States |
+| Category | Data Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Arlington/Data-Architect_43554) |
 
 ## About This Role
 
-This technical & solutions architect position at Guidehouse was posted on 2026-04-27.
+This data engineer position at Guidehouse was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

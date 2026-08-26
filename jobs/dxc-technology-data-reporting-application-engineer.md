@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
-| Category | Data Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MEX---JAL---GUADALAJARA/Data---Reporting-Application-Engineer_51583342) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Software Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MEX---DIF---MEXICO-CITY/Data---Reporting-Application-Engineer_51587062) |
 
 ## About This Role
 
-This data engineer position at DXC Technology was posted on 2026-07-01.
+This software engineer position at DXC Technology was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

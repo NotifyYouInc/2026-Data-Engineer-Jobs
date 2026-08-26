@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Anaplan](https://scoutify.ai/companies/anaplan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8423920002) |
+| Category | Data Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8423925002) |
 
 ## About This Role
 
-This software engineer position at Anaplan was posted on 2026-03-18.
+This data engineer position at Anaplan was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

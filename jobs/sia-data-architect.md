@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Data Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000135508929-data-architect) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000143998830-data-architect) |
 
 ## About This Role
 
-This data engineer position at SIA was posted on 2026-07-02.
+This data engineer position at SIA was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dark Wolf Solutions](https://scoutify.ai/companies/dark-wolf-solutions?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Herndon, Virginia, United States |
+| Location | Chantilly, Virginia, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7784246003) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886220003) |
 
 ## About This Role
 
-This data engineer position at Dark Wolf Solutions was posted on 2026-06-24.
+This data engineer position at Dark Wolf Solutions was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

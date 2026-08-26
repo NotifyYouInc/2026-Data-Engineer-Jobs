@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000116223857-it-software-engineer-mwd) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000144015219-it-software-engineer-mwd) |
 
 ## About This Role
 
-This software engineer position at Everience was posted on 2026-03-23.
+This software engineer position at Everience was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 
