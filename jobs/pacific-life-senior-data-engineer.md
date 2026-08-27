@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pacific Life](https://scoutify.ai/companies/pacificlife?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Newport Beach, California, United States |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Senior-Data-Engineer_R17099) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Charlotte-128/Senior-Data-Engineer_R17554-1) |
 
 ## About This Role
 
-This data engineer position at Pacific Life was posted on 2026-06-03.
+This data engineer position at Pacific Life was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

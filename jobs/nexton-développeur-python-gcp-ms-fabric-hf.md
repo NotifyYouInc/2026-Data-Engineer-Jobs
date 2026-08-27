@@ -5,12 +5,12 @@
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Saint-Augustin, Île-de-France, France |
 | Category | Data Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000135309519-developpeur-python-gcp-ms-fabric-hf) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000144318210-developpeur-python-gcp-ms-fabric-hf) |
 
 ## About This Role
 
-This data engineer position at Nexton was posted on 2026-07-01.
+This data engineer position at Nexton was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

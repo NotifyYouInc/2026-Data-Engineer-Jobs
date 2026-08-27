@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Shenzhen, Guangdong, China |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/China---Shenzhen/Software-Development-Engineer-II_R-103458) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Bangalore/Software-Development-Engineer-II_R-108740) |
 
 ## About This Role
 
-This software engineer position at Expedia was posted on 2026-03-27.
+This software engineer position at Expedia was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

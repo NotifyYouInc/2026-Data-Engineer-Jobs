@@ -5,12 +5,12 @@
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | São Caetano do Sul, São Paulo, Brazil |
 | Category | Data Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990013810875-data-engineer-ii) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990014696775-data-engineer-ii) |
 
 ## About This Role
 
-This data engineer position at MSX International was posted on 2026-06-26.
+This data engineer position at MSX International was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TaskUs](https://scoutify.ai/companies/taskus?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Greater Noida, Uttar Pradesh, India |
 | Category | Data Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Chennai-India---Remote/Senior-Data-Engineer_R_2607_9653) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Greater-Noida-India/Senior-Data-Engineer_R_2607_9235) |
 
 ## About This Role
 
-This data engineer position at TaskUs was posted on 2026-07-27.
+This data engineer position at TaskUs was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

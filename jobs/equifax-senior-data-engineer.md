@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Missouri---St-Louis---Lackland/Senior-Data-Engineer_J00178184) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Bangalore-Equifax-Credit-Information-Services/Senior-Data-Engineer_J00178584) |
 
 ## About This Role
 
-This data engineer position at Equifax was posted on 2026-08-01.
+This data engineer position at Equifax was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

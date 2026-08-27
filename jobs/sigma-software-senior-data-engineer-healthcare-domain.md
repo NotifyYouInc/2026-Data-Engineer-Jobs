@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000116170497-senior-data-engineer-healthcare-domain) |
+| Category | Data Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000144490084-senior-data-engineer-healthcare-domain) |
 
 ## About This Role
 
-This software engineer position at Sigma Software was posted on 2026-03-23.
+This data engineer position at Sigma Software was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

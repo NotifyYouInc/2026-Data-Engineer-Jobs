@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bristol, England, United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000142590579-data-engineer) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000144275989-data-engineer) |
 
 ## About This Role
 
-This data engineer position at PA Consulting was posted on 2026-08-10.
+This data engineer position at PA Consulting was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

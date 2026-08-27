@@ -5,12 +5,12 @@
 | Company | [Ochsner Health System](https://scoutify.ai/companies/ochsner-health-system?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | New Orleans, Louisiana, United States |
 | Category | Data Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://ochsner.wd1.myworkdayjobs.com/ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/Principal-Data-Engineer_REQ_00268140) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://ochsner.wd1.myworkdayjobs.com/ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/Principal-Data-Engineer_REQ_00268169-1) |
 
 ## About This Role
 
-This data engineer position at Ochsner Health System was posted on 2026-08-06.
+This data engineer position at Ochsner Health System was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

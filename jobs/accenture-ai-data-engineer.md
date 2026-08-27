@@ -1,16 +1,16 @@
-# AI & Data Engineer at Accenture
+# AI Data Engineer at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Athens, Attica, Greece |
-| Category | Software Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Athens/AI---Data-Engineer_R00279779) |
+| Location | Lisbon, Lisbon, Portugal |
+| Category | Data Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Lisbon-Exeo-Lumnia/AI-Data-Engineer_R00351834) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-03-31.
+This data engineer position at Accenture was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

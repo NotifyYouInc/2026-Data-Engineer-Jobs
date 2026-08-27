@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Buffalo Grove, Illinois, United States |
+| Location | Illinois, US |
 | Category | Data Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Buffalo-Grove/Data-Engineer---AI-and-Analytics_R0906685-1) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Data-Engineer---AI-and-Analytics_R1008059-1) |
 
 ## About This Role
 
-This data engineer position at CVS Health was posted on 2026-05-08.
+This data engineer position at CVS Health was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

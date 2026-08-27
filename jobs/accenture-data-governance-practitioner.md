@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Privacy & Data Protection |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Data-Governance-Practitioner_ATCI-4973881-S1862442) |
+| Location | Hyderabad, Telangana, India |
+| Category | Data Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Data-Governance-Practitioner_ATCI-5713206-S2064794-1) |
 
 ## About This Role
 
-This privacy & data protection position at Accenture was posted on 2026-05-15.
+This data engineer position at Accenture was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

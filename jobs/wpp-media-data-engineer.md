@@ -1,16 +1,16 @@
-# Data Engineer at WPP Media
+# Data Engineer  at WPP Media
 
 | Field | Details |
 |-------|---------|
 | Company | [WPP Media](https://scoutify.ai/companies/wpp-media?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Data Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5257866008) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5396729008) |
 
 ## About This Role
 
-This data engineer position at WPP Media was posted on 2026-06-17.
+This data engineer position at WPP Media was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

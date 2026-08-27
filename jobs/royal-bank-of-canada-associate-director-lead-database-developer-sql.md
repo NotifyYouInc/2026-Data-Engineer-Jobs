@@ -1,16 +1,16 @@
-# Associate Director, Lead Database Developer (SQL) at Royal Bank of Canada
+# Associate Director, Lead database developer (SQL) at Royal Bank of Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Montréal, Quebec, Canada |
-| Category | Data Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/Associate-Director--Lead-Database-Developer--SQL-_R-0000159095-4) |
+| Location | Halifax, Nova Scotia, Canada |
+| Category | Software Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Associate-Director--Lead-database-developer--SQL-_R-0000180766-1) |
 
 ## About This Role
 
-This data engineer position at Royal Bank of Canada was posted on 2026-06-16.
+This software engineer position at Royal Bank of Canada was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Copart](https://scoutify.ai/companies/copart?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Data Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110075) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110617) |
 
 ## About This Role
 
-This data engineer position at Copart was posted on 2026-07-27.
+This data engineer position at Copart was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

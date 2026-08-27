@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Bristol, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Data-Engineer_REQ480373) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bristol-GBR/Data-Engineer_REQ529715) |
 
 ## About This Role
 
-This data engineer position at JLL was posted on 2026-02-02.
+This data engineer position at JLL was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

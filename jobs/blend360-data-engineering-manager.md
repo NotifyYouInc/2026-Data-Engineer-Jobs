@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | St. Louis, Missouri, United States |
-| Category | Engineering Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000127916983-data-engineering-manager) |
+| Location | Montevideo, Montevideo Department, Uruguay |
+| Category | Data Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000144358939-data-engineering-manager) |
 
 ## About This Role
 
-This engineering manager position at Blend360 was posted on 2026-05-22.
+This data engineer position at Blend360 was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

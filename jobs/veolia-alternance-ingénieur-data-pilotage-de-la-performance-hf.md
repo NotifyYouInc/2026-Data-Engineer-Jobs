@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Vaulx-en-Velin, Rhône-Alpes, France |
-| Category | Data Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000127242570-alternance-ingenieur-data-pilotage-de-la-performance-hf) |
+| Category | Data Analyst |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000144588769-alternance-ingenieur-data-pilotage-de-la-performance-hf) |
 
 ## About This Role
 
-This data engineer position at Veolia was posted on 2026-05-19.
+This data analyst position at Veolia was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

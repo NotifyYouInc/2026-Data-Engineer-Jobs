@@ -1,16 +1,16 @@
-# Sr. Manager, Data Engineering at CVS Health
+# Sr Manager Data Engineering at CVS Health
 
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Irving, Texas, United States |
-| Category | Engineering Manager |
-| Posted | 2026-06-20 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Sr-Manager--Data-Engineering_R0942297) |
+| Location | Pennsylvania, US |
+| Category | Data Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Pennsylvania/Sr-Manager-Data-Engineering_R1012297-1) |
 
 ## About This Role
 
-This engineering manager position at CVS Health was posted on 2026-06-20.
+This data engineer position at CVS Health was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

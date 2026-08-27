@@ -1,16 +1,16 @@
-# Senior Software Engineer - Data & Distributed Systems at The Trade Desk
+# Senior Software Engineer (Data & Distributed Systems) at The Trade Desk
 
 | Field | Details |
 |-------|---------|
 | Company | [The Trade Desk](https://scoutify.ai/companies/the-trade-desk?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bellevue, Washington, United States |
+| Location | Sydney, New South Wales, Australia |
 | Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5056981007) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5215959007) |
 
 ## About This Role
 
-This software engineer position at The Trade Desk was posted on 2026-02-24.
+This software engineer position at The Trade Desk was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

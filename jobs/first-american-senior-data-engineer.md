@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [First American](https://scoutify.ai/companies/firstam?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Santa Ana, California, United States |
+| Location | Jacksonville, Florida, United States |
 | Category | Data Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Santa-Ana/Senior-Data-Engineer_R054356) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-Florida-Jacksonville/Senior-Data-Engineer_R058021-1) |
 
 ## About This Role
 
-This data engineer position at First American was posted on 2026-02-05.
+This data engineer position at First American was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

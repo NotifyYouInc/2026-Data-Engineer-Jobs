@@ -5,12 +5,12 @@
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000143288989-data-engineer) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000144493879-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Version 1 was posted on 2026-08-13.
+This data engineer position at Version 1 was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

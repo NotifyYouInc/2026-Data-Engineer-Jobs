@@ -1,16 +1,16 @@
-# Data Engineer Consultant at SIA
+# Data Engineer Consultant -  at SIA
 
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
-| Category | Data Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000143999229-data-engineer-consultant) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000144270886-data-engineer-consultant) |
 
 ## About This Role
 
-This data engineer position at SIA was posted on 2026-08-18.
+This devops engineer position at SIA was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Brooklyn, New York, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Data-Inventory-Engineer_R-40477) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Data-Inventory-Engineer_R-41676) |
 
 ## About This Role
 
-This data engineer position at KeyBank was posted on 2026-06-30.
+This data engineer position at KeyBank was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

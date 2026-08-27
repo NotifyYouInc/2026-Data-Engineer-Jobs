@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Data-Platform-Engineer_ATCI-5696353-S2064193-1) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Data-Platform-Engineer_ATCI-5723308-S2065213-1) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-08-13.
+This data engineer position at Accenture was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

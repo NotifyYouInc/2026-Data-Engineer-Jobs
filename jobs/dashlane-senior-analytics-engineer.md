@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dashlane](https://scoutify.ai/companies/dashlane?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Data Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dashlane/jobs/7941971) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dashlane/jobs/8141237) |
 
 ## About This Role
 
-This data engineer position at Dashlane was posted on 2026-05-20.
+This data engineer position at Dashlane was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 
