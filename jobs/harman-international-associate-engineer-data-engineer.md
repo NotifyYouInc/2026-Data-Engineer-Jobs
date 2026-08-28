@@ -5,12 +5,12 @@
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Associate-Engineer-Data-engineer/32518) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Associate-Engineer-Data-engineer/32653) |
 
 ## About This Role
 
-This data engineer position at HARMAN International was posted on 2026-08-06.
+This data engineer position at HARMAN International was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

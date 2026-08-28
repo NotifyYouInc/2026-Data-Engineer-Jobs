@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Senior-Software-Engineer_10142050) |
+| Location | Seattle, Washington, United States |
+| Category | Data Engineer |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Seattle-WA-USA/Senior-Software-Engineer_10157334) |
 
 ## About This Role
 
-This software engineer position at Disney was posted on 2026-02-19.
+This data engineer position at Disney was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 3 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Principal-Software-Engineer--Data-Architecture_R-273741-1) |
+| Location | 2 locations |
+| Category | Data Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Principal-Software-Engineer--Data-Architecture_R-288833) |
 
 ## About This Role
 
-This software engineer position at Mastercard was posted on 2026-03-20.
+This data engineer position at Mastercard was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

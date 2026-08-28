@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200677559/sr-software-engineer-data-solutions-is-t-ai-data-platforms) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-08-20.
+This data engineer position at Apple was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

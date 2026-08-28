@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SEB bankas](https://scoutify.ai/companies/seb-bankas?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Solna, Stockholm, Sweden |
-| Category | DevOps Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://jobs.eu.lever.co/seb/7eb71ed1-deab-46d7-882d-289ae7900435) |
 
 ## About This Role
 
-This devops engineer position at SEB bankas was posted on 2026-08-19.
+This data engineer position at SEB bankas was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

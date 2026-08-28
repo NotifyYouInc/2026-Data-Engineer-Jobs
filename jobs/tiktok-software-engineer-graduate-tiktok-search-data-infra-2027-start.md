@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | San Jose, California, United States |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://careers.tiktok.com/position/7675829388634392837/detail) |
 
 ## About This Role
 
-This software engineer position at TikTok was posted on 2026-08-20.
+This data engineer position at TikTok was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

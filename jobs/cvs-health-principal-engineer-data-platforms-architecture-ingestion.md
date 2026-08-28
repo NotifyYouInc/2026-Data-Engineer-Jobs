@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | New Jersey, US |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NJ---Work-from-home/Principal-Engineer--Data-Platforms--Architecture---Ingestion-_R1001900) |
 
 ## About This Role
 
-This software engineer position at CVS Health was posted on 2026-08-19.
+This data engineer position at CVS Health was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

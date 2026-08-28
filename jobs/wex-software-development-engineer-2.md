@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wex](https://scoutify.ai/companies/wexinc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Bangalore-Office/Software-Development-Engineer-2_R21456) |
+| Location | 5 locations |
+| Category | Data Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/Portland-ME/Software-Development-Engineer-2_R22534) |
 
 ## About This Role
 
-This software engineer position at Wex was posted on 2026-05-22.
+This data engineer position at Wex was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

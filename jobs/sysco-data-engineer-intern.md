@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Houston, Texas, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Corporate/Data-Engineer-Intern_R215839) |
+| Category | Data Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Corporate/Data-Engineer-Intern_R263666) |
 
 ## About This Role
 
-This software engineer position at Sysco was posted on 2026-02-26.
+This data engineer position at Sysco was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

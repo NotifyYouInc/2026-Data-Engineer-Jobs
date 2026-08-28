@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dynata](https://scoutify.ai/companies/dynata?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hungary |
-| Category | DevOps Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://dynata.wd108.myworkdayjobs.com/careers/job/Hungary-Debrecen/Data-Governance---DataHub-Engineer_REQ13761) |
 
 ## About This Role
 
-This devops engineer position at Dynata was posted on 2026-08-19.
+This data engineer position at Dynata was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

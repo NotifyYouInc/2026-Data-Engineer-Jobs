@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Atlanta, Georgia, United States |
 | Category | Data Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Associate--Data-Engineer_R263306) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Atlanta-GA/Associate--Data-Engineer_R266059) |
 
 ## About This Role
 
-This data engineer position at Blackrock was posted on 2026-05-01.
+This data engineer position at Blackrock was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

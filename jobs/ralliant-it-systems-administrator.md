@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ralliant](https://scoutify.ai/companies/ocs-cx-oj90966?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | India |
-| Category | IT & Systems Administration |
+| Category | Data Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://ibwujb.fa.ocs.oraclecloud.com/jobs/#10172) |
 
 ## About This Role
 
-This it & systems administration position at Ralliant was posted on 2026-08-19.
+This data engineer position at Ralliant was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

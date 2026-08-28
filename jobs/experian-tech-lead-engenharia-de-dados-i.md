@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000144344389-tech-lead-engenharia-de-dados-i) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-08-19.
+This data engineer position at Experian was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

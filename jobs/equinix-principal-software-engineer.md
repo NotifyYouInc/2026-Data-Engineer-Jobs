@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Bangalore-Office-BLS2/Principal-Software-Engineer_JR-162748) |
 
 ## About This Role
 
-This software engineer position at Equinix was posted on 2026-08-20.
+This data engineer position at Equinix was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

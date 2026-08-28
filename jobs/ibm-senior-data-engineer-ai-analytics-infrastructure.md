@@ -1,16 +1,16 @@
-# Senior Data Engineer - AI & Analytics Infrastructure at IBM
+# Senior Data Engineer - AI  & Analytics Infrastructure at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116568) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=129788) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-05-29.
+This data engineer position at IBM was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

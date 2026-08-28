@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Verkada](https://scoutify.ai/companies/verkada?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | San Mateo, California, United States |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/verkada/jobs/5215882007) |
 
 ## About This Role
 
-This software engineer position at Verkada was posted on 2026-08-19.
+This data engineer position at Verkada was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

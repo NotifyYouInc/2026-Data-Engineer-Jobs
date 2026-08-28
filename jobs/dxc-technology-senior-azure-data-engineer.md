@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 9 locations |
 | Category | Data Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---KA---BANGALORE/Senior-Azure-Data-Engineer_51582294) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---KA---BANGALORE/Senior-Azure-Data-Engineer_51587284) |
 
 ## About This Role
 
-This data engineer position at DXC Technology was posted on 2026-06-12.
+This data engineer position at DXC Technology was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

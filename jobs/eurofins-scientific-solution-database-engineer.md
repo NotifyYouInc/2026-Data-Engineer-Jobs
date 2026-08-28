@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000144462169-solution-database-engineer) |
 
 ## About This Role
 
-This software engineer position at Eurofins Scientific was posted on 2026-08-20.
+This data engineer position at Eurofins Scientific was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

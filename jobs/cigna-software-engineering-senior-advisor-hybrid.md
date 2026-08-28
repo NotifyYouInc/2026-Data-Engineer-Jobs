@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | Morris Plains, New Jersey, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Raleigh-NC/Software-Engineering-Senior-Advisor--Hybrid_26007119) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Software-Engineering-Senior-Advisor--Hybrid_26010431) |
 
 ## About This Role
 
-This data engineer position at Cigna was posted on 2026-06-08.
+This data engineer position at Cigna was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Data Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000144133399-junior-data-engineer) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000144595209-junior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Robert Bosch was posted on 2026-08-18.
+This data engineer position at Robert Bosch was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

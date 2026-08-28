@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freddie Mac](https://scoutify.ai/companies/freddiemac?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | McLean, Virginia, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/Dallas-TX/Agile-Development-Senior_JR17096) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Agile-Development-Senior_JR17549) |
 
 ## About This Role
 
-This data engineer position at Freddie Mac was posted on 2026-04-20.
+This data engineer position at Freddie Mac was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

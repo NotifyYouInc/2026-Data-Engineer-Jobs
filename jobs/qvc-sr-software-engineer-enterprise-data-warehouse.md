@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [QVC](https://scoutify.ai/companies/qvc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pennsylvania, US |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://qvc.wd5.myworkdayjobs.com/qrg/job/Pennsylvania-Remote/Sr-Software-Engineer_R83070) |
 
 ## About This Role
 
-This software engineer position at QVC was posted on 2026-08-19.
+This data engineer position at QVC was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

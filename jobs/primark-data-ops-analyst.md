@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Primark](https://scoutify.ai/companies/primark?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | DevOps Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000144358799-data-ops-analyst) |
 
 ## About This Role
 
-This devops engineer position at Primark was posted on 2026-08-19.
+This data engineer position at Primark was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

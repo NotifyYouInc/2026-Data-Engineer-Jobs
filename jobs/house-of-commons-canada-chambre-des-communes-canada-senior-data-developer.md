@@ -5,12 +5,12 @@
 | Company | [House of Commons (Canada) / Chambre des communes (Canada)](https://scoutify.ai/companies/houseofcommonscanadachambredescommunescanada?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Ottawa, Ontario, Canada |
 | Category | Data Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HouseOfCommonsCanadaChambreDesCommunesCanada/744000142868228-senior-data-developer) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HouseOfCommonsCanadaChambreDesCommunesCanada/744000144742658-senior-data-developer) |
 
 ## About This Role
 
-This data engineer position at House of Commons (Canada) / Chambre des communes (Canada) was posted on 2026-08-11.
+This data engineer position at House of Commons (Canada) / Chambre des communes (Canada) was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

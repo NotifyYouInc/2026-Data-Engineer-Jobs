@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Reply](https://scoutify.ai/companies/reply?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.lever.co/reply/e78ed3f1-d098-4b1f-aeec-c3dca16a1c5e) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.lever.co/reply/0dd15e42-8f9e-4baf-a149-964b48898035) |
 
 ## About This Role
 
-This data engineer position at Reply was posted on 2026-04-01.
+This data engineer position at Reply was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 
