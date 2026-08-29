@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Guidde](https://scoutify.ai/companies/guidde?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/guidde/jobs/4957291101) |
 
 ## About This Role
 
-This data engineer position at Guidde was posted on 2026-08-20.
+This software engineer position at Guidde was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

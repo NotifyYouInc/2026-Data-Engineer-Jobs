@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Chicago---155-Wacker/Data-Tech-Lead_R_362215) |
 
 ## About This Role
 
-This data engineer position at Marsh & McLennan Companies was posted on 2026-08-19.
+This software engineer position at Marsh & McLennan Companies was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

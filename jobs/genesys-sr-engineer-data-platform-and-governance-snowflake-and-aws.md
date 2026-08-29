@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Data Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Chennai-Flexible/Sr-Engineer--Data-Platform-and-Governance--Snowflake-and-AWS-_JR111916) |
 
 ## About This Role
 
-This data engineer position at Genesys was posted on 2026-08-19.
+This devops engineer position at Genesys was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

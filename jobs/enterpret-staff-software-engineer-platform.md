@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Enterpret](https://scoutify.ai/companies/enterpret?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/enterpret/jobs/7915246003) |
 
 ## About This Role
 
-This data engineer position at Enterpret was posted on 2026-08-20.
+This software engineer position at Enterpret was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

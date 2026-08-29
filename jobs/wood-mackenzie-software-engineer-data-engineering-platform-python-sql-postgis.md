@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wood Mackenzie](https://scoutify.ai/companies/woodmac?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Boston-US/Software-Engineer---Data-Engineering-Platform--Python---SQL---PostGIS_JR3246) |
 
 ## About This Role
 
-This data engineer position at Wood Mackenzie was posted on 2026-08-20.
+This software engineer position at Wood Mackenzie was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

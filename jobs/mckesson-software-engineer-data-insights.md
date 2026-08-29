@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Irving, Texas, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Software-Engineer--Data-Insights_JR0151967) |
 
 ## About This Role
 
-This data engineer position at McKesson was posted on 2026-08-19.
+This software engineer position at McKesson was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

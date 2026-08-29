@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Qube Research & Technologies](https://scoutify.ai/companies/qube-research-technologies?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hong Kong, Hong Kong |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8728831002) |
 
 ## About This Role
 
-This data engineer position at Qube Research & Technologies was posted on 2026-08-19.
+This software engineer position at Qube Research & Technologies was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

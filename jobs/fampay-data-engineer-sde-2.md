@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FamPay](https://scoutify.ai/companies/fampay?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.lever.co/fampay/01750a61-a53b-433f-8d8c-bfb5a18417f8) |
 
 ## About This Role
 
-This data engineer position at FamPay was posted on 2026-08-21.
+This software engineer position at FamPay was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

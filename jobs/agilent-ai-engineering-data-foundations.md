@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Agilent](https://scoutify.ai/companies/agilent?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Barcelona, Catalonia, Spain |
-| Category | Data Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/agilent_careers/job/Spain-Barcelona/AI-Engineering---Data-Foundations_4039596) |
 
 ## About This Role
 
-This data engineer position at Agilent was posted on 2026-08-19.
+This ai / llm engineer position at Agilent was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

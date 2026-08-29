@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Data Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Liquid-Financing-Data-AI-Engineer---VP_JR-0000128970-1) |
 
 ## About This Role
 
-This data engineer position at Barclays was posted on 2026-08-19.
+This ai / llm engineer position at Barclays was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

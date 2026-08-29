@@ -5,12 +5,12 @@
 | Company | [nVent](https://scoutify.ai/companies/nvent?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Minnesota, US |
 | Category | Data Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://nvent.wd5.myworkdayjobs.com/nVent/job/St-Louis-Park-MN-US/Senior-Manager--Global-Customer-Data_R22797) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://nvent.wd5.myworkdayjobs.com/nVent/job/St-Louis-Park-MN-US/Senior-Manager--Global-Customer-Data_R23274) |
 
 ## About This Role
 
-This data engineer position at nVent was posted on 2026-07-24.
+This data engineer position at nVent was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

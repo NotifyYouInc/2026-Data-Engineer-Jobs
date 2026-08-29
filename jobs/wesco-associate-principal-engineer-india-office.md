@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wesco](https://scoutify.ai/companies/us2-cx-oj118628?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://eklm.fa.us2.oraclecloud.com/jobs/#29869) |
 
 ## About This Role
 
-This data engineer position at Wesco was posted on 2026-08-21.
+This software engineer position at Wesco was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

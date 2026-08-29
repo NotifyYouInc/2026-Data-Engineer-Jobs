@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Bengaluru-India/Application-Engineer--Vice-President_R265893) |
 
 ## About This Role
 
-This data engineer position at Blackrock was posted on 2026-08-20.
+This software engineer position at Blackrock was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Data Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Gurugram-Novus-Tower/IN-Senior-Associate--Python-Full-Stack-Developer-with-Azure-GCC-Advisory-Bangalore_751111WD-1) |
 
 ## About This Role
 
-This data engineer position at PwC was posted on 2026-08-19.
+This ai / llm engineer position at PwC was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

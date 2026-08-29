@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Trade Desk](https://scoutify.ai/companies/the-trade-desk?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5215959007) |
 
 ## About This Role
 
-This data engineer position at The Trade Desk was posted on 2026-08-19.
+This software engineer position at The Trade Desk was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

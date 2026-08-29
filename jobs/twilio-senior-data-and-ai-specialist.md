@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Canada |
-| Category | Data Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/8143120) |
 
 ## About This Role
 
-This data engineer position at Twilio was posted on 2026-08-19.
+This ai / llm engineer position at Twilio was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

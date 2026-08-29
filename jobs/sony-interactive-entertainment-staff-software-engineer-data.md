@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sony Interactive Entertainment](https://scoutify.ai/companies/sonyinteractiveentertainmentglobal?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | San Mateo, California, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6147288004) |
 
 ## About This Role
 
-This data engineer position at Sony Interactive Entertainment was posted on 2026-08-19.
+This software engineer position at Sony Interactive Entertainment was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Barcelona, Catalonia, Spain |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Spain---Barcelona/Senior-Clinical-Programmer-I--Python-_R-254231) |
 
 ## About This Role
 
-This data engineer position at AstraZeneca was posted on 2026-08-21.
+This software engineer position at AstraZeneca was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

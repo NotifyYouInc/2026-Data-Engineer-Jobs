@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wex](https://scoutify.ai/companies/wexinc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 5 locations |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/Portland-ME/Software-Development-Engineer-2_R22534) |
 
 ## About This Role
 
-This data engineer position at Wex was posted on 2026-08-20.
+This software engineer position at Wex was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

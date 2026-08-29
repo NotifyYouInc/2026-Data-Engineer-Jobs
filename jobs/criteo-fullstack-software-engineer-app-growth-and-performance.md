@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Criteo](https://scoutify.ai/companies/criteo?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bucharest, București, Romania |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://criteo.wd3.myworkdayjobs.com/criteo_career_site/job/Bucharest/Fullstack-Software-Engineer---App-Growth-and-Performance_r21039) |
 
 ## About This Role
 
-This data engineer position at Criteo was posted on 2026-08-20.
+This software engineer position at Criteo was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bethesda, Maryland, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/ETL-Java-Developer--SME-_R-00190113) |
 
 ## About This Role
 
-This data engineer position at Leidos was posted on 2026-08-21.
+This software engineer position at Leidos was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

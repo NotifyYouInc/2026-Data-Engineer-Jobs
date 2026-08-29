@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Fayetteville, North Carolina, United States |
-| Category | Data Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/FAYETTEVILLE-SALES-OFFICE/Data-Foundations-AI-Engineer-Senior-Manager_R000157057) |
 
 ## About This Role
 
-This data engineer position at Procter & Gamble was posted on 2026-08-20.
+This ai / llm engineer position at Procter & Gamble was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

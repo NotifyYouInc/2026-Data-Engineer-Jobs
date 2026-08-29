@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Advocate Health](https://scoutify.ai/companies/advocate-health-llc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | North Carolina, US |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Atrium-Health-Wake-Forest-Baptist---Medical-Center-Blvd-Winston-Salem-NC/Programmer-Analyst-IV_R265035) |
 
 ## About This Role
 
-This data engineer position at Advocate Health was posted on 2026-08-21.
+This software engineer position at Advocate Health was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dynata](https://scoutify.ai/companies/dynata?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hungary |
+| Location | United States |
 | Category | Data Engineer |
 | Posted | 2026-08-19 |
-| Apply | [View on company site](https://dynata.wd108.myworkdayjobs.com/careers/job/Hungary-Debrecen/Senior-Data-Engineer_REQ13759) |
+| Apply | [View on company site](https://dynata.wd108.myworkdayjobs.com/careers/job/USA-Westport-CT/Senior-Data-Engineer_REQ13768-2) |
 
 ## About This Role
 

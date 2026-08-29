@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arco Educação](https://scoutify.ai/companies/arco-educao?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Not specified |
-| Category | Data Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/arcoeducacao/jobs/6146044004) |
 
 ## About This Role
 
-This data engineer position at Arco Educação was posted on 2026-08-19.
+This ai / llm engineer position at Arco Educação was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

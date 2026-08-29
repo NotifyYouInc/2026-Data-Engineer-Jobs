@@ -1,16 +1,16 @@
-# Staff  Engineer - Data Engineering at Earlywarning
+# Staff Engineer - Data Engineering at Earlywarning
 
 | Field | Details |
 |-------|---------|
 | Company | [Earlywarning](https://scoutify.ai/companies/earlywarning?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 3 locations |
+| Location | San Francisco, California, United States |
 | Category | Data Engineer |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Chicago/Staff--Engineer---Data-Engineering_REQ2026757) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/San-Francisco/Staff-Engineer---Data-Engineering_REQ2026816) |
 
 ## About This Role
 
-This data engineer position at Earlywarning was posted on 2026-08-01.
+This data engineer position at Earlywarning was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

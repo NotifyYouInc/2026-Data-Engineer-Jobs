@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Artefact](https://scoutify.ai/companies/artefact?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://www.artefact.com/careers/5444835002?gh_jid=5444835002) |
 
 ## About This Role
 
-This data engineer position at Artefact was posted on 2026-08-21.
+This software engineer position at Artefact was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 
