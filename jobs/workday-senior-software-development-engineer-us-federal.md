@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Reston, Virginia, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Software-Development-Engineer---US-Federal_JR-0109350) |
 
 ## About This Role
 
-This data engineer position at Workday was posted on 2026-08-19.
+This software engineer position at Workday was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

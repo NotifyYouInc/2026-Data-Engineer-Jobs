@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vedder Price](https://scoutify.ai/companies/recruiting-ultipro-com-oj115440?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
-| Category | Data Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://recruiting.ultipro.com/ved1000/JobBoard/abd27c99-31c3-439d-944d-8aeb7f63af74/OpportunityDetail?opportunityId=02c046e5-8a53-4042-88ce-f8b7e98821e2) |
 
 ## About This Role
 
-This data engineer position at Vedder Price was posted on 2026-08-20.
+This it & systems administration position at Vedder Price was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 
