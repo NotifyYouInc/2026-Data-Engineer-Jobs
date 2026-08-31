@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Betsson Group](https://scoutify.ai/companies/betsson-group?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Malta |
+| Location | Tbilisi, Tbilisi, Georgia |
 | Category | Data Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/betsson/jobs/8064185) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/betsson/jobs/8152717) |
 
 ## About This Role
 
-This data engineer position at Betsson Group was posted on 2026-07-20.
+This data engineer position at Betsson Group was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

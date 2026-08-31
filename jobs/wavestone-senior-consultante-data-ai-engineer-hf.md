@@ -5,12 +5,12 @@
 | Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Puteaux, Île-de-France, France |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000140957122-senior-consultante-data-ai-engineer-hf) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000145231969-senior-consultante-data-ai-engineer-hf) |
 
 ## About This Role
 
-This ai / llm engineer position at Wavestone was posted on 2026-07-31.
+This ai / llm engineer position at Wavestone was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Whippany, New Jersey, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-300-Whippany-Campus-Jefferson-Park/Data-Engineer_JR-0000116697) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Data-Engineer_JR-0000124687) |
 
 ## About This Role
 
-This data engineer position at Barclays was posted on 2026-08-18.
+This data engineer position at Barclays was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

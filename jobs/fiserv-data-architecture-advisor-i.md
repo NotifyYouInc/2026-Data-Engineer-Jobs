@@ -1,16 +1,16 @@
-# Data Architecture – Advisor I at Fiserv
+# Data Architecture - Advisor I at Fiserv
 
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Berkeley Heights, New Jersey, United States |
+| Location | Thāne, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/Data-Architecture---Advisor-I_R-10395590) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Thane-India/Data-Architecture---Advisor-I_R-10400580) |
 
 ## About This Role
 
-This data engineer position at Fiserv was posted on 2026-06-12.
+This data engineer position at Fiserv was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Hitachi Solutions](https://scoutify.ai/companies/hitachi-solutions?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Porto, Porto, Portugal |
 | Category | Data Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/hitachisolutions/744000144286010-senior-data-engineer-consultant) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/hitachisolutions/744000144558160-senior-data-engineer-consultant) |
 
 ## About This Role
 
-This data engineer position at Hitachi Solutions was posted on 2026-08-19.
+This data engineer position at Hitachi Solutions was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 
