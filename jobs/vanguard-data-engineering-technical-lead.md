@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/London-United-Kingdom/Data-Engineering-Technical-Lead_175236-1) |
+| Category | Data Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/London-United-Kingdom/Data-Engineering-Technical-Lead_181560-3) |
 
 ## About This Role
 
-This software engineer position at Vanguard was posted on 2026-02-25.
+This data engineer position at Vanguard was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

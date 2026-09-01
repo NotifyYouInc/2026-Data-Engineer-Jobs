@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Bhubaneswar, Odisha, India |
 | Category | Data Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=129400) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=130307) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-08-17.
+This data engineer position at IBM was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

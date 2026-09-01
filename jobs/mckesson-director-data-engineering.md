@@ -1,16 +1,16 @@
-# Director Data Engineering at McKesson
+# Director, Data Engineering at McKesson
 
 | Field | Details |
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Irving, Texas, United States |
-| Category | Engineering Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Director-Data-Engineering_JR0147220) |
+| Location | Cork, Munster, Ireland |
+| Category | Data Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Cork/Director--Data-Engineering_JR0152364) |
 
 ## About This Role
 
-This engineering manager position at McKesson was posted on 2026-05-22.
+This data engineer position at McKesson was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

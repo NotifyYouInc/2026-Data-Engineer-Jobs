@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 4 locations |
+| Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Data-Engineer--Hybrid-_01865833) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-SANTA-ISABEL-B1--Felicia-Industrial-Park---St-B1--BLDG-1/Data-Engineer--Hybrid-_01869559) |
 
 ## About This Role
 
-This data engineer position at RTX was posted on 2026-08-12.
+This data engineer position at RTX was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

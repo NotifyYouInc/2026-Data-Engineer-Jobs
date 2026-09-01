@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Redhorsecorp](https://scoutify.ai/companies/redhorsecorp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Not specified |
+| Location | Arlington, Texas, United States |
 | Category | Data Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.lever.co/redhorsecorp/b182e461-c592-42f7-bc38-d8e3439e8103) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.lever.co/redhorsecorp/55b6a7fe-858c-455b-bafe-9c64967baed3) |
 
 ## About This Role
 
-This data engineer position at Redhorsecorp was posted on 2026-07-09.
+This data engineer position at Redhorsecorp was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

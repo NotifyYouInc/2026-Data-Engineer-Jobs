@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE Aerospace](https://scoutify.ai/companies/ge-aerospace?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
-| Category | Data Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Sr-AI-Data-Engineer_R5034165-1) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Sr-AI-Data-Engineer_R5039157-1) |
 
 ## About This Role
 
-This data engineer position at GE Aerospace was posted on 2026-05-18.
+This ai / llm engineer position at GE Aerospace was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

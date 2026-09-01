@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Karnataka, IN |
 | Category | Data Engineer |
-| Posted | 2026-05-12 |
+| Posted | 2026-08-24 |
 | Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/ETL-Data-Engineer_R0054921-1) |
 
 ## About This Role
 
-This data engineer position at Empower was posted on 2026-05-12.
+This data engineer position at Empower was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

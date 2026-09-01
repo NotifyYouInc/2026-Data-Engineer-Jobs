@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Conseiller-ou-conseillre--Ingnierie-de-donnes_R2606847) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre-en-dveloppement-de-solution-en-intelligence-artificielle_R2610447) |
 
 ## About This Role
 
-This data engineer position at Desjardins was posted on 2026-05-15.
+This data engineer position at Desjardins was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

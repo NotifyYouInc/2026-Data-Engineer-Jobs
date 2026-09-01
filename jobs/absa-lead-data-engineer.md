@@ -5,12 +5,12 @@
 | Company | [Absa](https://scoutify.ai/companies/absa?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Johannesburg, Gauteng, South Africa |
 | Category | Data Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Johannesburg/Lead-Data-Engineer_R-15988958) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Johannesburg/Lead-Data-Engineer_R-15990291-1) |
 
 ## About This Role
 
-This data engineer position at Absa was posted on 2026-07-07.
+This data engineer position at Absa was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Ermesinde, Porto, Portugal |
 | Category | Data Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000134838039-data-engineer) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000145324108-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Inetum was posted on 2026-06-29.
+This data engineer position at Inetum was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

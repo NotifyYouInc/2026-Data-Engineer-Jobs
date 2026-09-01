@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Irvine, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Irvine-California-United-States-of-America/Clin-DS---Automation-and-Analytics-Engineer_R-060383) |
+| Category | Data Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Irvine-California-United-States-of-America/Clin-DS---Automation-and-Analytics-Engineer_R-095172) |
 
 ## About This Role
 
-This software engineer position at Johnson & Johnson was posted on 2026-02-27.
+This data engineer position at Johnson & Johnson was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

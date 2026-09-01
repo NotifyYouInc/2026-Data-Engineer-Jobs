@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Data Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000144546126-databricks-data-engineer) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000145249680-databricks-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Devoteam was posted on 2026-08-20.
+This data engineer position at Devoteam was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

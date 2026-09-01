@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | San Jose, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer_R169130-1) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R170525) |
 
 ## About This Role
 
-This software engineer position at Adobe was posted on 2026-06-09.
+This software engineer position at Adobe was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

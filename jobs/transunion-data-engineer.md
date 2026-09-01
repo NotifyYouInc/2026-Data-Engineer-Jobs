@@ -5,12 +5,12 @@
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Bengaluru/Data-Engineer_19040169) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Bengaluru/Data-Engineer_19041566) |
 
 ## About This Role
 
-This data engineer position at TransUnion was posted on 2026-04-23.
+This data engineer position at TransUnion was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

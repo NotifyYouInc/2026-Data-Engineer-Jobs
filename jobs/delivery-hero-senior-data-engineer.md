@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Data Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000141420819-senior-data-engineer) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000145468299-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Delivery Hero was posted on 2026-08-04.
+This data engineer position at Delivery Hero was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

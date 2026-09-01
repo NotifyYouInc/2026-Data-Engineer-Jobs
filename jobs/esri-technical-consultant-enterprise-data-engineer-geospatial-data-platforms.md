@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | St. Louis, Missouri, United States |
-| Category | Database Administration |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://www.esri.com/careers/5171873007?gh_jid=5171873007) |
+| Location | Redlands, California, United States |
+| Category | Sales Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://www.esri.com/careers/5219768007?gh_jid=5219768007) |
 
 ## About This Role
 
-This database administration position at Esri was posted on 2026-06-23.
+This sales engineer position at Esri was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 
