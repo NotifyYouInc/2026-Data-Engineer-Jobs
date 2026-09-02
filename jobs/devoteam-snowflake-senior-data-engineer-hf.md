@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Nantes, Pays de la Loire, France |
 | Category | Data Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000131191742-snowflake-senior-data-engineer-hf) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000145564649-snowflake-senior-data-engineer-hf) |
 
 ## About This Role
 
-This data engineer position at Devoteam was posted on 2026-06-09.
+This data engineer position at Devoteam was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

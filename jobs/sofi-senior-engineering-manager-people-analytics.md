@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SoFi](https://scoutify.ai/companies/sofi?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
-| Category | Human Resources / People Ops |
+| Category | Data Engineer |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://sofi.com/careers/job/7963969003?gh_jid=7963969003) |
 
 ## About This Role
 
-This human resources / people ops position at SoFi was posted on 2026-08-24.
+This data engineer position at SoFi was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

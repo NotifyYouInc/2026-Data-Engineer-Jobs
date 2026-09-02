@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lcmchealth](https://scoutify.ai/companies/lcmchealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Louisiana, US |
-| Category | Data Analyst |
+| Category | Data Engineer |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://lcmchealth.wd1.myworkdayjobs.com/lcmchealth/job/LCMC-Health-Corporate/Epic-Business-Intelligence-Developer-Senior---Survey---Rankings_JR0040512) |
 
 ## About This Role
 
-This data analyst position at Lcmchealth was posted on 2026-08-24.
+This data engineer position at Lcmchealth was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

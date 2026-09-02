@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AXIS Capital](https://scoutify.ai/companies/axis-capital?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
-| Category | Data Analyst |
+| Category | Data Engineer |
 | Posted | 2026-08-22 |
 | Apply | [View on company site](https://axiscapital.wd1.myworkdayjobs.com/axiscareers/job/Halifax-NS/Data-Analyst-Engineer_REQ06683) |
 
 ## About This Role
 
-This data analyst position at AXIS Capital was posted on 2026-08-22.
+This data engineer position at AXIS Capital was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

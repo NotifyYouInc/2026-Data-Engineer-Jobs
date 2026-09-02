@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Menlo Park, California, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/3b60fdc5-385f-49a9-8fa2-d064f4a9b542) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/b045d3f3-d718-480c-8c18-2b0ee91c84af) |
 
 ## About This Role
 
-This data engineer position at Snowflake was posted on 2026-04-17.
+This data engineer position at Snowflake was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

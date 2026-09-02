@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pinterest](https://scoutify.ai/companies/pinterest?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Palo Alto, California, United States |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://www.pinterestcareers.com/jobs/?gh_jid=8076015) |
 
 ## About This Role
 
-This software engineer position at Pinterest was posted on 2026-08-24.
+This data engineer position at Pinterest was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

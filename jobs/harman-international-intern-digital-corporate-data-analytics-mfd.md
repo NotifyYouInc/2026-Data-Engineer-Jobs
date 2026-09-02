@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Baden-Wurttemberg, DE |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Intern-Digital-Corporate-Data-Analytics-m-f-d/32676) |
 
 ## About This Role
 
-This software engineer position at HARMAN International was posted on 2026-08-24.
+This data engineer position at HARMAN International was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

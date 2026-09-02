@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Burlington, North Carolina, United States |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Data-Integration-Engineer--AVP_R-796511) |
 
 ## About This Role
 
-This software engineer position at State Street was posted on 2026-08-24.
+This data engineer position at State Street was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

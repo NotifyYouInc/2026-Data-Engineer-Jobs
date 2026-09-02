@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000144524899-staff-data-engineer) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000145702469-staff-data-engineer) |
 
 ## About This Role
 
-This data engineer position at ServiceNow was posted on 2026-08-20.
+This data engineer position at ServiceNow was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

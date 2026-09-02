@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [T-Systems ICT India Pvt. Ltd.](https://scoutify.ai/companies/t-systems-ict-india-pvt-ltd?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/t-systemsictindiapvtltd1/744000145201734-technology-architect) |
 
 ## About This Role
 
-This software engineer position at T-Systems ICT India Pvt. Ltd. was posted on 2026-08-24.
+This data engineer position at T-Systems ICT India Pvt. Ltd. was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

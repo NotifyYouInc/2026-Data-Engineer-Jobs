@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Florida, US |
 | Category | Data Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---KA---BANGALORE/Manager-Data-Engineering_51576896) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---FL---ANY-CITY/Manager-Data-Engineering_51587771) |
 
 ## About This Role
 
-This data engineer position at DXC Technology was posted on 2026-07-06.
+This data engineer position at DXC Technology was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

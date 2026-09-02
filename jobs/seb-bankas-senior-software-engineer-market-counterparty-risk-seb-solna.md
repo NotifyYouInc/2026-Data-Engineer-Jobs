@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SEB bankas](https://scoutify.ai/companies/seb-bankas?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Solna, Stockholm, Sweden |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://jobs.eu.lever.co/seb/243221de-035b-4f47-aafd-5b85f52cc8e1) |
 
 ## About This Role
 
-This software engineer position at SEB bankas was posted on 2026-08-24.
+This data engineer position at SEB bankas was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

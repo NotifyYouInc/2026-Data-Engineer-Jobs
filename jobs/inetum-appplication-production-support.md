@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
-| Category | DevOps Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000145279650-appplication-production-support) |
 
 ## About This Role
 
-This devops engineer position at Inetum was posted on 2026-08-24.
+This data engineer position at Inetum was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

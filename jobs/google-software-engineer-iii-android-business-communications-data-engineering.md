@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckd_u8vp9j5YxCb0IZL1bZRkJBlMTNAe0PktstSsnQ0mHEjsA1Ny_i47fiFGW0yOUFiPGyZ9Bd_u8b6_bLuuQ7mgqssaY9JJ4R65ecdKLQiWHxu2vDVU3ZctvSe-FQA%3D%3D_V2&loc=PL&title=Software+Engineer+III) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-08-24.
+This data engineer position at Google was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

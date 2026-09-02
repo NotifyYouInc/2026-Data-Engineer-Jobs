@@ -5,12 +5,12 @@
 | Company | [Thalia](https://scoutify.ai/companies/thaliabchergmbh1?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Münster, North Rhine-Westphalia, Germany |
 | Category | Data Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ThaliaBcherGmbH1/744000128959739-technical-crm-data-manager-mwd) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ThaliaBcherGmbH1/744000145695224-technical-crm-data-manager-mwd) |
 
 ## About This Role
 
-This data engineer position at Thalia was posted on 2026-05-28.
+This data engineer position at Thalia was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

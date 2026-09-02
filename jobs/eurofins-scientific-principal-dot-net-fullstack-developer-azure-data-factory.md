@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000145346949-principal-dot-net-fullstack-developer-azure-data-factory) |
 
 ## About This Role
 
-This software engineer position at Eurofins Scientific was posted on 2026-08-24.
+This data engineer position at Eurofins Scientific was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

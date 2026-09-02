@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Marketing Operations |
+| Category | Data Engineer |
 | Posted | 2026-08-22 |
 | Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Director--Marketing-Data-Engineering_R-145196) |
 
 ## About This Role
 
-This marketing operations position at Coca-Cola was posted on 2026-08-22.
+This data engineer position at Coca-Cola was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

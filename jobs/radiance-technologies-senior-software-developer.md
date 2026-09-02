@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Radiance Technologies](https://scoutify.ai/companies/radiancetech?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Mississippi, US |
-| Category | Software Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Stennis-Space-Center-MS/Senior-Software-Developer_HR102230) |
+| Location | McLean, Virginia, United States |
+| Category | Data Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/VA---McLean/Senior-Software-Developer_HR102369) |
 
 ## About This Role
 
-This software engineer position at Radiance Technologies was posted on 2026-06-02.
+This data engineer position at Radiance Technologies was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

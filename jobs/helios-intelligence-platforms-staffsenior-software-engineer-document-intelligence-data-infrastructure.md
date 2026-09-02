@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Helios Intelligence Platforms](https://scoutify.ai/companies/helios-intelligence-platforms?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/helios-intelligence-platforms/4961814f-f62a-4d62-a446-a39d8f7f9879) |
 
 ## About This Role
 
-This software engineer position at Helios Intelligence Platforms was posted on 2026-08-24.
+This data engineer position at Helios Intelligence Platforms was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

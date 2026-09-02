@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Archera](https://scoutify.ai/companies/archera?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/archera/jobs/5399708008) |
 
 ## About This Role
 
-This software engineer position at Archera was posted on 2026-08-24.
+This data engineer position at Archera was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

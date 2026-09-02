@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WGU](https://scoutify.ai/companies/wgu?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | Salt Lake City, Utah, United States |
 | Category | Data Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Guadalajara-MX/Associate-Data-Engineer_JR-024363) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Associate-Data-Engineer_JR-025987) |
 
 ## About This Role
 
-This data engineer position at WGU was posted on 2026-02-13.
+This data engineer position at WGU was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

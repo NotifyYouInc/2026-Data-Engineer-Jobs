@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Instructure](https://scoutify.ai/companies/instructure?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/instructure/664fc720-1c4f-4406-8b40-c7276f53bd2c) |
 
 ## About This Role
 
-This software engineer position at Instructure was posted on 2026-08-24.
+This data engineer position at Instructure was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

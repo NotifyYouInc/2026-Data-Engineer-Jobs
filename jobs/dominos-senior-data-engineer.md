@@ -5,12 +5,12 @@
 | Company | [Domino's](https://scoutify.ai/companies/dominos?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Ann Arbor, Michigan, United States |
 | Category | Data Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/dominos/744000139608519-senior-data-engineer) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/dominos/744000145626631-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Domino's was posted on 2026-07-24.
+This data engineer position at Domino's was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

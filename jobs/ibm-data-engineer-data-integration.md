@@ -1,16 +1,16 @@
-# Data engineer-Data Integration at IBM
+# Data Engineer-Data Integration at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
+| Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=121593) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=130472) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-06-23.
+This data engineer position at IBM was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

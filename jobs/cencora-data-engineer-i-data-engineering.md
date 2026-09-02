@@ -5,12 +5,12 @@
 | Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Pune-India/Data-Engineer-I---Data-Engineering_R261049) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Pune-India/Data-Engineer-I---Data-Engineering_R2613093) |
 
 ## About This Role
 
-This data engineer position at Cencora was posted on 2026-02-02.
+This data engineer position at Cencora was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

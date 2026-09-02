@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | Data Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000138581909-stage-data-engineering-analyse-systeme-hf) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000145558439-stage-data-engineering-analyse-systeme-hf) |
 
 ## About This Role
 
-This data engineer position at ALTEN Canada was posted on 2026-07-20.
+This data engineer position at ALTEN Canada was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

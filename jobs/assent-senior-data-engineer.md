@@ -1,16 +1,16 @@
-#  Senior Data Engineer  at Assent
+# Senior Data Engineer at Assent
 
 | Field | Details |
 |-------|---------|
 | Company | [Assent](https://scoutify.ai/companies/assent?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Ottawa, Ontario, Canada |
 | Category | Data Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Assent/744000133531444-senior-data-engineer) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Assent/744000145578759-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Assent was posted on 2026-06-23.
+This data engineer position at Assent was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

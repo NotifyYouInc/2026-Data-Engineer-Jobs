@@ -1,16 +1,16 @@
-# Senior Data Engineer - Vice President at Citigroup
+# Senior Data Engineer — Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Irving, Texas, United States |
+| Location | Mississauga, Ontario, Canada |
 | Category | Data Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Senior-Data-Engineer---Vice-President_26970128) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Senior-Data-Engineer---Vice-President_26987025) |
 
 ## About This Role
 
-This data engineer position at Citigroup was posted on 2026-07-22.
+This data engineer position at Citigroup was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

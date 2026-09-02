@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 3 locations |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckceH9hwzzK2AGNiEkPtCmGBlW67l5NaCT3RwuOGc_B6iEjsA1Ny_i2TlDHrJ5_SszH8p1Ta5uRONs98y1PSlwZVJ48ty19fdjJOYpCaO3LUW7D8jh9rvV8faXJKqNQ%3D%3D_V2&loc=US&title=Tools+Specialist) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-08-24.
+This data engineer position at Google was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Istanbul, Istanbul, Turkey |
 | Category | Data Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Istanbul-VADI-ISTANBUL-PARK/Senior-Lead-GCP-Data-Engineer_REQ-10117707) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Istanbul-VADI-ISTANBUL-PARK/Senior-Lead-GCP-Data-Engineer_REQ-10120228) |
 
 ## About This Role
 
-This data engineer position at ING was posted on 2026-07-06.
+This data engineer position at ING was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

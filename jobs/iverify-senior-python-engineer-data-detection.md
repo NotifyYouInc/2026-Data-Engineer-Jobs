@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Iverify](https://scoutify.ai/companies/iverify?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Belfast, Northern Ireland, United Kingdom |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/iverify/e48c2b90-ae00-48b2-aa19-56553e7cd5d5) |
 
 ## About This Role
 
-This software engineer position at Iverify was posted on 2026-08-24.
+This data engineer position at Iverify was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

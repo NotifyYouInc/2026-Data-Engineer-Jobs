@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Data Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/BGR---SOFIA/Informatica-ETL-Developer_51583253) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/BGR---SOFIA/Informatica-ETL-Developer_51587722) |
 
 ## About This Role
 
-This data engineer position at DXC Technology was posted on 2026-06-18.
+This data engineer position at DXC Technology was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

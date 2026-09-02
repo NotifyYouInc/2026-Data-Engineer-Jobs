@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arta Finance](https://scoutify.ai/companies/artafinance?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/artafinance/fc8e559b-48c3-46ba-b169-2ea808acb860) |
 
 ## About This Role
 
-This software engineer position at Arta Finance was posted on 2026-08-24.
+This data engineer position at Arta Finance was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

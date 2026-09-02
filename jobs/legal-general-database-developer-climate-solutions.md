@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000145451879-database-developer-climate-solutions) |
 
 ## About This Role
 
-This software engineer position at Legal & General was posted on 2026-08-25.
+This data engineer position at Legal & General was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 
