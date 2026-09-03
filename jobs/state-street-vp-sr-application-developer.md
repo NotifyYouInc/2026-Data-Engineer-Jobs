@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Quincy, Massachusetts, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/VP---Sr-Application-Developer_R-789687) |
 
 ## About This Role
 
-This data engineer position at State Street was posted on 2026-08-25.
+This software engineer position at State Street was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Archer](https://scoutify.ai/companies/archer56?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | San Jose, California, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/archer56/jobs/7977707003) |
 
 ## About This Role
 
-This data engineer position at Archer was posted on 2026-08-25.
+This software engineer position at Archer was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

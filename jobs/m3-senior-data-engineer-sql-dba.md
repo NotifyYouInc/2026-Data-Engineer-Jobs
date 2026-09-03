@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [M3](https://scoutify.ai/companies/m3?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Rio de Janeiro, Rio de Janeiro, Brazil |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Database Administration |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/M3USA/744000118602147-senior-data-engineer-sql-dba) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/M3USA/744000145852899-senior-data-engineer-sql-dba) |
 
 ## About This Role
 
-This database administration position at M3 was posted on 2026-04-03.
+This database administration position at M3 was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

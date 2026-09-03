@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Cebu City, Central Visayas, Philippines |
 | Category | Data Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Data-Engineer_ATCI-5725047-S2065994-1) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Cebu-City/Data-Engineer_ATCP-1445208-S425335) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-08-24.
+This data engineer position at Accenture was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

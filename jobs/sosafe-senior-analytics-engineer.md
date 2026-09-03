@@ -5,12 +5,12 @@
 | Company | [Sosafe](https://scoutify.ai/companies/sosafe?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-04-21 |
+| Posted | 2026-08-26 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/sosafe/86d983aa-252a-41c6-8ef1-58b40cd6f23a) |
 
 ## About This Role
 
-This data engineer position at Sosafe was posted on 2026-04-21.
+This data engineer position at Sosafe was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

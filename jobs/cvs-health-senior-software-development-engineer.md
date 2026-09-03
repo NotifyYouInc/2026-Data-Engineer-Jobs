@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Alpharetta, Georgia, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Alpharetta-3600-Mansell-Road/Senior-Software-Development-Engineer_R1011626) |
 
 ## About This Role
 
-This data engineer position at CVS Health was posted on 2026-08-24.
+This software engineer position at CVS Health was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

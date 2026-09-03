@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Uvcyber](https://scoutify.ai/companies/uvcyber?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://jobs.lever.co/uvcyber/6eef14de-c385-4749-91e6-bd3a13ae25b5) |
 
 ## About This Role
 
-This data engineer position at Uvcyber was posted on 2026-08-25.
+This software engineer position at Uvcyber was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

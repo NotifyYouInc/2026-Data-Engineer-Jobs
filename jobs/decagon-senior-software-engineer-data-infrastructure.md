@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Decagon](https://scoutify.ai/companies/decagon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/decagon/97f14fcf-d8ff-41b2-9108-d35ddd9f595e) |
 
 ## About This Role
 
-This data engineer position at Decagon was posted on 2026-08-24.
+This software engineer position at Decagon was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

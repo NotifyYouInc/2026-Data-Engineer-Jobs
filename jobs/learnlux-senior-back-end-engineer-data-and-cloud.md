@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LearnLux](https://scoutify.ai/companies/learnlux?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Colorado, US |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/learnlux/jobs/5400343008) |
 
 ## About This Role
 
-This data engineer position at LearnLux was posted on 2026-08-24.
+This software engineer position at LearnLux was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

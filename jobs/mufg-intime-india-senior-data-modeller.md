@@ -5,12 +5,12 @@
 | Company | [MUFG Intime India](https://scoutify.ai/companies/ap1-cx-oj72475?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | India |
 | Category | Data Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://hcmn.fa.ap1.oraclecloud.com/jobs/#15591) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://hcmn.fa.ap1.oraclecloud.com/jobs/#15956) |
 
 ## About This Role
 
-This data engineer position at MUFG Intime India was posted on 2026-07-20.
+This data engineer position at MUFG Intime India was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

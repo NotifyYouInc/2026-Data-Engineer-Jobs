@@ -5,12 +5,12 @@
 | Company | [SEPTEO](https://scoutify.ai/companies/septeo?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Valbonne, Provence-Alpes-Côte d'Azur, France |
 | Category | Data Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Septeo/744000144474389-data-engineer-hf) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Septeo/744000145915719-data-engineer-hf) |
 
 ## About This Role
 
-This data engineer position at SEPTEO was posted on 2026-08-20.
+This data engineer position at SEPTEO was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

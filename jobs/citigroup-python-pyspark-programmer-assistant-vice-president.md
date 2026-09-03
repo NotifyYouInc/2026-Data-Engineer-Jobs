@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Python-Pyspark-Programmer--Assistant-Vice-President_26963411) |
 
 ## About This Role
 
-This data engineer position at Citigroup was posted on 2026-08-25.
+This software engineer position at Citigroup was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

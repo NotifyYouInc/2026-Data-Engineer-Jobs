@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DigiCert](https://scoutify.ai/companies/digicert?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | India |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://www.digicert.com/careers/?gh_jid=8735073002) |
 
 ## About This Role
 
-This data engineer position at DigiCert was posted on 2026-08-26.
+This software engineer position at DigiCert was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

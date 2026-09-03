@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Senior-Software-Engineer---Data-Integration--Officer_R-796658-1) |
 
 ## About This Role
 
-This data engineer position at State Street was posted on 2026-08-25.
+This software engineer position at State Street was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

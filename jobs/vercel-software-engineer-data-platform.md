@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vercel](https://scoutify.ai/companies/vercel?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/vercel/jobs/6161129004) |
 
 ## About This Role
 
-This data engineer position at Vercel was posted on 2026-08-25.
+This software engineer position at Vercel was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

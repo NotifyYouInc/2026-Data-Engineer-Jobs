@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hartford Financial Services](https://scoutify.ai/companies/thehartford?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | India |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Senior-Staff-Associate-Engineer-Java-Kafka-Flink_R2626633) |
 
 ## About This Role
 
-This data engineer position at Hartford Financial Services was posted on 2026-08-26.
+This software engineer position at Hartford Financial Services was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Brunswick](https://scoutify.ai/companies/brunswick?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Fond du Lac, Wisconsin, United States |
-| Category | Data Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Advanced-Manufacturing-Operations-Analytics-Engineering-Co-op_JR-051238) |
 
 ## About This Role
 
-This data engineer position at Brunswick was posted on 2026-08-25.
+This industrial automation position at Brunswick was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The New York Times](https://scoutify.ai/companies/thenewyorktimes?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4659940005) |
+| Category | Data Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4727084005) |
 
 ## About This Role
 
-This software engineer position at The New York Times was posted on 2026-03-04.
+This data engineer position at The New York Times was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

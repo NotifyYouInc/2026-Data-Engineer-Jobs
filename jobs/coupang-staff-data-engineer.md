@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Not specified |
+| Location | Mountain View, California, United States |
 | Category | Data Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8108141) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8063701) |
 
 ## About This Role
 
-This data engineer position at Coupang was posted on 2026-08-06.
+This data engineer position at Coupang was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

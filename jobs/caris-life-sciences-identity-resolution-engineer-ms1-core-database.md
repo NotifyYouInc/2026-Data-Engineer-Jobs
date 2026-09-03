@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Caris Life Sciences](https://scoutify.ai/companies/carislifesciences?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Irving, Texas, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://carislifesciences.wd12.myworkdayjobs.com/cls/job/Irving-TX---75039/Identity-Resolution-Engineer---MS1---Core-Database_JR105473) |
 
 ## About This Role
 
-This data engineer position at Caris Life Sciences was posted on 2026-08-25.
+This software engineer position at Caris Life Sciences was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

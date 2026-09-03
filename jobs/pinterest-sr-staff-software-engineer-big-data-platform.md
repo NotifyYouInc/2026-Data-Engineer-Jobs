@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pinterest](https://scoutify.ai/companies/pinterest?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 4 locations |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://www.pinterestcareers.com/jobs/?gh_jid=7494956) |
 
 ## About This Role
 
-This data engineer position at Pinterest was posted on 2026-08-25.
+This software engineer position at Pinterest was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

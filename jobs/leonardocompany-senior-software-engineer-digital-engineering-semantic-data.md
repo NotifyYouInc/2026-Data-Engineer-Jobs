@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leonardocompany](https://scoutify.ai/companies/leonardocompany?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/GB---Edinburgh/Senior-Software-Engineer--Digital-Engineering---Semantic-Data-_R0032586) |
 
 ## About This Role
 
-This data engineer position at Leonardocompany was posted on 2026-08-25.
+This software engineer position at Leonardocompany was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

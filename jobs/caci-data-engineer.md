@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-PA-Philadelphia/Data-Engineer_324531-1) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/Data-Engineer_331079-1) |
 
 ## About This Role
 
-This data engineer position at CACI was posted on 2026-04-06.
+This data engineer position at CACI was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

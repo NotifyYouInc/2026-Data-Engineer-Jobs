@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vanta](https://scoutify.ai/companies/vanta?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Canada |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/vanta/a59302dc-b7ea-4bba-af3c-ddab91489848) |
 
 ## About This Role
 
-This data engineer position at Vanta was posted on 2026-08-24.
+This software engineer position at Vanta was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

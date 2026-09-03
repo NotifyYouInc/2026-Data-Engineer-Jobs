@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Systems International](https://scoutify.ai/companies/tsystemsinternational?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Granada, Andalusia, Spain |
+| Location | Valencia, Valencia, Spain |
 | Category | Data Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000139124939-expert-data-architect-denodo-mfd) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000145953509-expert-data-architect-denodo-mfd) |
 
 ## About This Role
 
-This data engineer position at T-Systems International was posted on 2026-07-22.
+This data engineer position at T-Systems International was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

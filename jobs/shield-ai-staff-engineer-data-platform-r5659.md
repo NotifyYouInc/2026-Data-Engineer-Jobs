@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Shield AI](https://scoutify.ai/companies/shieldai?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | San Diego, California, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://jobs.lever.co/shieldai/0915a15c-9f24-4851-a375-006bab31d6c6) |
 
 ## About This Role
 
-This data engineer position at Shield AI was posted on 2026-08-26.
+This software engineer position at Shield AI was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

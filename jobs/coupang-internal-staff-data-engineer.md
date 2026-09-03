@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coupang Internal](https://scoutify.ai/companies/coupanginternal?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Not specified |
+| Location | Mountain View, California, United States |
 | Category | Data Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/8108142?gh_jid=8108142) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/8063702?gh_jid=8063702) |
 
 ## About This Role
 
-This data engineer position at Coupang Internal was posted on 2026-08-06.
+This data engineer position at Coupang Internal was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

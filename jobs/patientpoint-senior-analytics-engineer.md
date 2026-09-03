@@ -5,12 +5,12 @@
 | Company | [PatientPoint](https://scoutify.ai/companies/patientpoint?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/patientpoint/jobs/4711249005) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/patientpoint/jobs/4728054005) |
 
 ## About This Role
 
-This data engineer position at PatientPoint was posted on 2026-07-02.
+This data engineer position at PatientPoint was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

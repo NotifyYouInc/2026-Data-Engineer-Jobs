@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ayvens](https://scoutify.ai/companies/ayvens?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Madrid, Madrid, Spain |
 | Category | Data Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Amsterdam/Senior-Data-Engineer_JR_10039234) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Madrid-Majadahonda-Norias/Senior-Data-Engineer_JR_10041228) |
 
 ## About This Role
 
-This data engineer position at Ayvens was posted on 2026-05-14.
+This data engineer position at Ayvens was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

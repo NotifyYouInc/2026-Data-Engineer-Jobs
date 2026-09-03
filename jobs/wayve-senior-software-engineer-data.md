@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wayve](https://scoutify.ai/companies/wayve?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://wayve.firststage.co/jobs?gh_jid=8745289002) |
 
 ## About This Role
 
-This data engineer position at Wayve was posted on 2026-08-25.
+This software engineer position at Wayve was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Brussels, Brussels Capital, Belgium |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bruxelles-Avenue-Marnix-ING/Senior-Backend---Data-Platform-Engineer---Customer-Data_REQ-10119432-1) |
 
 ## About This Role
 
-This data engineer position at ING was posted on 2026-08-26.
+This software engineer position at ING was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

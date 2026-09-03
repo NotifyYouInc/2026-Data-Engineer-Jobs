@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Redmond, Washington, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8746439002?gh_jid=8746439002) |
 
 ## About This Role
 
-This data engineer position at SpaceX was posted on 2026-08-25.
+This software engineer position at SpaceX was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

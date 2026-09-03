@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Planet](https://scoutify.ai/companies/planet?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Denver, Colorado, United States |
 | Category | Data Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/planetlabs/jobs/8016466) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/planetlabs/jobs/8160759) |
 
 ## About This Role
 
-This data engineer position at Planet was posted on 2026-07-08.
+This data engineer position at Planet was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

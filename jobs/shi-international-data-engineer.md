@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SHI International](https://scoutify.ai/companies/shi-international?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | New York, US |
+| Location | Texas, US |
 | Category | Data Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---NY---Home-Office/Data-Engineer_JR3401) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---TX---Home-Office/Data-Engineer_JR3632) |
 
 ## About This Role
 
-This data engineer position at SHI International was posted on 2026-07-15.
+This data engineer position at SHI International was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 
