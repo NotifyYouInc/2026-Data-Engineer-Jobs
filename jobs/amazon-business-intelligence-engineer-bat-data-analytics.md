@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Data Engineer |
+| Category | Data Analyst |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://www.amazon.jobs/en/jobs/10515285/business-intelligence-engineer-bat-data-analytics) |
 
 ## About This Role
 
-This data engineer position at Amazon was posted on 2026-08-26.
+This data analyst position at Amazon was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

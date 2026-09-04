@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Maharashtra---Pune/Associate-Data-Engineer_R00287551) |
+| Category | Data Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Maharashtra---Pune/Associate-Data-Engineer_R00296465) |
 
 ## About This Role
 
-This software engineer position at Ecolab was posted on 2026-03-12.
+This data engineer position at Ecolab was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

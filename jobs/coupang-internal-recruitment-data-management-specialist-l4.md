@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coupang Internal](https://scoutify.ai/companies/coupanginternal?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
-| Category | Talent Acquisition / Recruiting |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/8054792?gh_jid=8054792) |
+| Category | Data Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/8158165?gh_jid=8158165) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Coupang Internal was posted on 2026-07-14.
+This data engineer position at Coupang Internal was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

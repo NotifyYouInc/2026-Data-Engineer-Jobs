@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Columbus, Ohio, United States |
+| Location | Irving, Texas, United States |
 | Category | Data Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-OH-Columbus/Data-Engineer_JR0150848-1) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Data-Engineer_JR0153118) |
 
 ## About This Role
 
-This data engineer position at McKesson was posted on 2026-07-17.
+This data engineer position at McKesson was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

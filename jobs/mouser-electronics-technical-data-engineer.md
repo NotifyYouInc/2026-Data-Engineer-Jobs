@@ -5,12 +5,12 @@
 | Company | [Mouser Electronics](https://scoutify.ai/companies/us2-cx-oj71627?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://eabw.fa.us2.oraclecloud.com/jobs/#30716) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://eabw.fa.us2.oraclecloud.com/jobs/#31236) |
 
 ## About This Role
 
-This data engineer position at Mouser Electronics was posted on 2026-03-17.
+This data engineer position at Mouser Electronics was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Celonis](https://scoutify.ai/companies/celonis?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Data Engineer |
+| Category | Data Analyst |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7886074003?gh_jid=7886074003) |
 
 ## About This Role
 
-This data engineer position at Celonis was posted on 2026-08-26.
+This data analyst position at Celonis was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

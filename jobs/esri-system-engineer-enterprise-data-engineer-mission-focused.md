@@ -1,16 +1,16 @@
-# System Engineer – Enterprise Data Engineer (Mission-Focused) at Esri
+# System Engineer- Enterprise Data Engineer (Mission-Focused) at Esri
 
 | Field | Details |
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Redlands, California, United States |
-| Category | Database Administration |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://www.esri.com/careers/5171937007?gh_jid=5171937007) |
+| Location | Vienna, Virginia, United States |
+| Category | Data Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://www.esri.com/careers/5217641007?gh_jid=5217641007) |
 
 ## About This Role
 
-This database administration position at Esri was posted on 2026-06-23.
+This data engineer position at Esri was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

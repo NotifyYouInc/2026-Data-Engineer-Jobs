@@ -5,12 +5,12 @@
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France |
 | Category | Data Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000140897139-data-engineer-gcp-hf) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000146125060-data-engineer-gcp-hf) |
 
 ## About This Role
 
-This data engineer position at Meritis was posted on 2026-07-31.
+This data engineer position at Meritis was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Boulogne-Billancourt, Île-de-France, France |
 | Category | Data Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000138597069-data-engineer-plateforme-data-engineering-hf) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000145973369-data-engineer-plateforme-data-engineering-hf) |
 
 ## About This Role
 
-This data engineer position at ALTEN Canada was posted on 2026-07-20.
+This data engineer position at ALTEN Canada was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

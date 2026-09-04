@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clearwateranalytics](https://scoutify.ai/companies/clearwateranalytics?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Edinburgh, Scotland, United Kingdom |
+| Location | Boise, Idaho, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Edinburgh/Data-Flow-Engineer_R4016-2) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Boise/Data-Flow-Engineer_R3398) |
 
 ## About This Role
 
-This data engineer position at Clearwateranalytics was posted on 2026-06-17.
+This data engineer position at Clearwateranalytics was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

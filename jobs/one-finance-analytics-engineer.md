@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ONE Finance](https://scoutify.ai/companies/oneapp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/oneapp/e6d678ed-28b8-4ed9-97c1-7bc819746e6e) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/oneapp/2f831a02-1e94-4e37-9eda-037ab394ce9a) |
 
 ## About This Role
 
-This data engineer position at ONE Finance was posted on 2026-08-12.
+This data engineer position at ONE Finance was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

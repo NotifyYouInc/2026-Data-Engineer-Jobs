@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bacardi](https://scoutify.ai/companies/bacardi?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | Data Engineer |
+| Category | Data Analyst |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://bacardi.wd3.myworkdayjobs.com/jobs_bacardi/job/Manila/Senior-Analyst--Tech-Operations--Azure-BI-Developer_R26_01588) |
 
 ## About This Role
 
-This data engineer position at Bacardi was posted on 2026-08-26.
+This data analyst position at Bacardi was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

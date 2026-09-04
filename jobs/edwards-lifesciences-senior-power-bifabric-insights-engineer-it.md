@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Edwards Lifesciences](https://scoutify.ai/companies/edwards-lifesciences?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Data Engineer |
+| Category | Data Analyst |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/India-Pune/Senior-Power-BI-Fabric-Insights-Engineer--IT_Req-50411) |
 
 ## About This Role
 
-This data engineer position at Edwards Lifesciences was posted on 2026-08-26.
+This data analyst position at Edwards Lifesciences was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

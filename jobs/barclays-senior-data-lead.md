@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Prague, Prague, Czechia |
 | Category | Data Engineer |
-| Posted | 2026-06-11 |
+| Posted | 2026-08-28 |
 | Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gemini-Building-A-Prague/Senior-Data-Lead_JR-0000108802) |
 
 ## About This Role
 
-This data engineer position at Barclays was posted on 2026-06-11.
+This data engineer position at Barclays was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 
