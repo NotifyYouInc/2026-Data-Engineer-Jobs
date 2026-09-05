@@ -5,12 +5,12 @@
 | Company | [Robots and Pencils](https://scoutify.ai/companies/robots-and-pencils?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Data Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/robotsandpencils/jobs/5239238008) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/robotsandpencils/jobs/5409621008) |
 
 ## About This Role
 
-This data engineer position at Robots and Pencils was posted on 2026-06-02.
+This data engineer position at Robots and Pencils was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr Engineer Data Engineering at TransUnion
+# Sr Engineer, Data Engineering at TransUnion
 
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Hyderabad/Sr-Engineer-Data-Engineering_19039867) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Bengaluru/Sr-Engineer--Data-Engineering_19041164-1) |
 
 ## About This Role
 
-This data engineer position at TransUnion was posted on 2026-07-02.
+This data engineer position at TransUnion was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Plano, Texas, United States |
 | Category | Data Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Senior-Lead-Data-Engineer_R249241-2) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Senior-Lead-Data-Engineer_R999347-1) |
 
 ## About This Role
 
-This data engineer position at Capital One was posted on 2026-08-18.
+This data engineer position at Capital One was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

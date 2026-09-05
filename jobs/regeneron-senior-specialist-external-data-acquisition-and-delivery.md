@@ -5,12 +5,12 @@
 | Company | [Regeneron](https://scoutify.ai/companies/regeneron?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://regeneron.wd1.myworkdayjobs.com/Careers/job/Hyderabad/Senior-Specialist--External-Data-Acquisition-and-Delivery_R48308-1) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://regeneron.wd1.myworkdayjobs.com/Careers/job/Hyderabad/Senior-Specialist--External-Data-Acquisition-and-Delivery_R48309-1) |
 
 ## About This Role
 
-This data engineer position at Regeneron was posted on 2026-08-25.
+This data engineer position at Regeneron was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

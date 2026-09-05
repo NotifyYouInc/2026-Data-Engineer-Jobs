@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture Federal Services](https://scoutify.ai/companies/accenture-federal-services?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Chantilly, Virginia, United States |
 | Category | Data Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4706596006?gh_jid=4706596006) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4709152006?gh_jid=4709152006) |
 
 ## About This Role
 
-This data engineer position at Accenture Federal Services was posted on 2026-08-19.
+This data engineer position at Accenture Federal Services was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [CDK](https://scoutify.ai/companies/cdk?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://cdk.wd1.myworkdayjobs.com/cdk/job/Austin-TX-USA/Staff-Software-Engineer_JR9280) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://cdk.wd1.myworkdayjobs.com/cdk/job/Austin-TX-USA/Staff-Software-Engineer_JR9284) |
 
 ## About This Role
 
-This software engineer position at CDK was posted on 2026-08-25.
+This software engineer position at CDK was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

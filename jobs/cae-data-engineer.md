@@ -5,12 +5,12 @@
 | Company | [CAE](https://scoutify.ai/companies/cae?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/Tampa/Data-Engineer_121684-1) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/Halifax/Data-Engineer_123039-1) |
 
 ## About This Role
 
-This data engineer position at CAE was posted on 2026-04-28.
+This data engineer position at CAE was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

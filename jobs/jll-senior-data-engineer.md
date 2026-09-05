@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 6 locations |
+| Location | Jalisco, Chiapas, Mexico |
 | Category | Data Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Senior-Data-Engineer_REQ529539) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/JaliscoMEX/Senior-Data-Engineer_REQ529546-1) |
 
 ## About This Role
 
-This data engineer position at JLL was posted on 2026-08-25.
+This data engineer position at JLL was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

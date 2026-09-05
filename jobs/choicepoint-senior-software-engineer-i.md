@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Georgia, US |
+| Location | Washington, District of Columbia, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Georgia/Senior-Software-Engineer-I_R109597) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Florida/Senior-Software-Engineer-I_R116255-1) |
 
 ## About This Role
 
-This software engineer position at ChoicePoint was posted on 2026-03-13.
+This software engineer position at ChoicePoint was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

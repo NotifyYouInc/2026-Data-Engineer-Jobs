@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Stuttgart, Baden-Wurttemberg, Germany |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Stuttgart-Baden-Wurttemberg/Data-Engineer_R0247887) |
+| Location | San Diego, California, United States |
+| Category | Data Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Diego-CA/Data-Engineer_R0247987) |
 
 ## About This Role
 
-This ai / llm engineer position at Booz Allen was posted on 2026-08-25.
+This data engineer position at Booz Allen was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

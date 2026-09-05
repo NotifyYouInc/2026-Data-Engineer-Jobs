@@ -5,12 +5,12 @@
 | Company | [KIPP](https://scoutify.ai/companies/kipp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KIPP/744000142166018-senior-manager-data-engineering) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KIPP/744000146230619-senior-manager-data-engineering) |
 
 ## About This Role
 
-This data engineer position at KIPP was posted on 2026-08-07.
+This data engineer position at KIPP was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

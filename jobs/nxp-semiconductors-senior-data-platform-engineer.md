@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Bangalore/Senior-Data-Platform-Engineer_R-10066223) |
 
 ## About This Role
 
-This data engineer position at NXP Semiconductors was posted on 2026-08-26.
+This devops engineer position at NXP Semiconductors was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 
