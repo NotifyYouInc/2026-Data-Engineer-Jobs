@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Levallois-Perret, Île-de-France, France |
-| Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000116618849-azure-fabric-data-engineer-microsoft) |
+| Category | Data Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000146460509-azure-fabric-data-engineer-microsoft) |
 
 ## About This Role
 
-This software engineer position at Devoteam was posted on 2026-03-25.
+This data engineer position at Devoteam was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

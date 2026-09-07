@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Welltech](https://scoutify.ai/companies/welltech?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Ukraine |
-| Category | Data Engineer |
+| Location | Romania |
+| Category | Data Analyst |
 | Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/welltech/a81a8188-267d-4001-a69d-4e6bfa8433a7) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/welltech/4b1875b4-2a6a-4693-9ca5-d5c8f8d37279) |
 
 ## About This Role
 
-This data engineer position at Welltech was posted on 2026-08-26.
+This data analyst position at Welltech was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

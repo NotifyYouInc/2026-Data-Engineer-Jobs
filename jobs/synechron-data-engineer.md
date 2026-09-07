@@ -5,12 +5,12 @@
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---Bellandur-GTP/Data-Engineer_JR1042319) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---Thanissandra-BCIT/Data-Engineer_JR1042535-4) |
 
 ## About This Role
 
-This data engineer position at Synechron was posted on 2026-08-05.
+This data engineer position at Synechron was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

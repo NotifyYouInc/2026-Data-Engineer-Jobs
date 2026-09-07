@@ -1,16 +1,16 @@
-# Data Engineer at DXC Technology
+# Data engineer at DXC Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Shanghai, Shanghai, China |
 | Category | Data Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---KA---BANGALORE/Data-Engineer_51576710-1) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/Data-engineer_51588189) |
 
 ## About This Role
 
-This data engineer position at DXC Technology was posted on 2026-08-26.
+This data engineer position at DXC Technology was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

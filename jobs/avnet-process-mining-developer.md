@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 3 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Barcelona-Spain/Process-Mining-Developer_JR-022808) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Bangalore-India/Process-Mining-Developer_JR-023778) |
 
 ## About This Role
 
-This data engineer position at Avnet was posted on 2026-07-10.
+This data engineer position at Avnet was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 
