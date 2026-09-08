@@ -5,12 +5,12 @@
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 3 locations |
 | Category | Data Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Lead-Data-Engineer--Python--AWS--Spark--Kafka--SQL--Snowflake--Databricks--GenAI-_R248169-1) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Lead-Data-Engineer--Python--AWS--Spark--Kafka--SQL--Snowflake--Databricks--GenAI-_R999528-1) |
 
 ## About This Role
 
-This data engineer position at Capital One was posted on 2026-07-31.
+This data engineer position at Capital One was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

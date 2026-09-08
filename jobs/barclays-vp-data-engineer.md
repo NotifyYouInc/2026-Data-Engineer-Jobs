@@ -1,16 +1,16 @@
-# VP Data Engineer at Barclays
+# VP - Data Engineer at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Engineering Manager |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/VP-Data-Engineer_JR-0000115383-1) |
+| Category | DevOps Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/VP---Data-Engineer_JR-0000114869) |
 
 ## About This Role
 
-This engineering manager position at Barclays was posted on 2026-06-29.
+This devops engineer position at Barclays was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

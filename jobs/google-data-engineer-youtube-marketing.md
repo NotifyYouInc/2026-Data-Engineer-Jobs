@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Data Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXPqrHOwdWNQDL_-H67TfUalzJMXtqpmOmSq8gmBnrvUEjsA1Ny_i5ZVYW1xsYTSthVyAokPvyLq8UcIDgXe47P40ObRsPCU260o3YxPhM7icR6AiC99WJjMD9fMOg%3D%3D_V2&loc=MX&title=Data+Engineer) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXNU6Aa96Mg2pOASsje1Eo0DzitJrKZVlt3pvTz2l-AwEjsA1Ny_i_zzZleaV4eAoAv3fsWFzHvcJFzzEcJVWdPzO6xcwoAZ_jSn5GZl0oVw14Z7b-klNi0Bs-MgzA%3D%3D_V2&loc=MX&title=Data+Engineer) |
 
 ## About This Role
 
-This data engineer position at Google was posted on 2026-07-27.
+This data engineer position at Google was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

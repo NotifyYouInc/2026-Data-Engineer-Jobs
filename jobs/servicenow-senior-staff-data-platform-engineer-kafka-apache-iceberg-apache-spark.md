@@ -6,7 +6,7 @@
 | Location | San Diego, California, United States |
 | Category | Data Engineer |
 | Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000145885859-senior-staff-data-platform-engineer-kafka-apache-iceberg-apache-spark) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000146075679-senior-staff-data-platform-engineer-kafka-apache-iceberg-apache-spark) |
 
 ## About This Role
 

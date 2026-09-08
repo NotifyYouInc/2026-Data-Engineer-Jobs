@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Trust & Safety |
-| Posted | 2026-03-26 |
+| Category | Data Engineer |
+| Posted | 2026-09-01 |
 | Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---Baner/Senior-Engineer---Informatica-Data-and-AI-governance--Assistant-Vice-President-3_JR-0021824) |
 
 ## About This Role
 
-This trust & safety position at Apex Fund Services was posted on 2026-03-26.
+This data engineer position at Apex Fund Services was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

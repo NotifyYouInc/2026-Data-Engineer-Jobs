@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Data Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=130333) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=130327) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-08-26.
+This data engineer position at IBM was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

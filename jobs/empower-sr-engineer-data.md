@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Overland Park, Kansas, United States |
 | Category | Data Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Sr-Engineer-Data_R0061425-1) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KS-Overland-Park/Sr-Engineer-Data_R0061893) |
 
 ## About This Role
 
-This data engineer position at Empower was posted on 2026-08-13.
+This data engineer position at Empower was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

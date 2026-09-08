@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Mountain View, California, United States |
 | Category | Data Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbeoAHFvLvQ2urQ_uYFGaLk41ADkcMgMjxJLeeIHwcTbEjsA1Ny_i6rsrZEqta7yAS2rDzMMmCTcSMR8bBRDN6IZLWg8DdUWRGRDuNoxJqYk53re5vXQmk1U7L0d-g%3D%3D_V2&loc=IN&title=Data+Engineer) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWcNqRHPcpLPVcwbQ8NRwinGFDl27m892no-BhiuDCIGEjsA1Ny_izIh-RwxGtghHQEHcsVchqFJLv9JXJxtIKZ0rm6ZGgDfbfMh6qhWZoNNTV7sWB4IktDwP_HZ4w%3D%3D_V2&loc=US&title=Data+Engineer) |
 
 ## About This Role
 
-This data engineer position at Google was posted on 2026-07-01.
+This data engineer position at Google was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

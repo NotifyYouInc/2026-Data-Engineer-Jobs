@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Katowice, Silesia, Poland |
 | Category | Data Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000139526239-senior-data-engineer-ai) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000146684349-senior-data-engineer-ai) |
 
 ## About This Role
 
-This data engineer position at Sopra Steria was posted on 2026-07-24.
+This data engineer position at Sopra Steria was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [CASETiFY](https://scoutify.ai/companies/casetify?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Shenzhen, Guangdong, China |
 | Category | Data Engineer |
-| Posted | 2026-05-12 |
+| Posted | 2026-09-01 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/casetify/jobs/5994435004) |
 
 ## About This Role
 
-This data engineer position at CASETiFY was posted on 2026-05-12.
+This data engineer position at CASETiFY was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

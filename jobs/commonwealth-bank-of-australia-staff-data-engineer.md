@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Staff-Data-Engineer_REQ263647) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Bangalore---Manyata-Tech-Park-Road/Staff-Data-Engineer_REQ264826) |
 
 ## About This Role
 
-This data engineer position at Commonwealth Bank of Australia was posted on 2026-08-20.
+This data engineer position at Commonwealth Bank of Australia was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

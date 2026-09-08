@@ -5,12 +5,12 @@
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Bengaluru-Campus-31/IDMC-Master-Data-Management-Analyst_545872) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Bengaluru-Campus-31/IDMC-Master-Data-Management-Analyst_547506) |
 
 ## About This Role
 
-This data engineer position at Haleon was posted on 2026-07-20.
+This data engineer position at Haleon was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 
