@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [B2Spin](https://scoutify.ai/companies/b2spin?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Poland |
-| Category | DevOps Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/b2spin/4171a56b-c548-48d7-810c-b26d276afdb8) |
 
 ## About This Role
 
-This devops engineer position at B2Spin was posted on 2026-08-31.
+This data engineer position at B2Spin was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

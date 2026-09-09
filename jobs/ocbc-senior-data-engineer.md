@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Singapore, Singapore |
-| Category | Software Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Senior-Data-Engineer_JR00006147) |
+| Category | Data Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Software-Engineer_JR00010709) |
 
 ## About This Role
 
-This software engineer position at OCBC was posted on 2026-03-10.
+This data engineer position at OCBC was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

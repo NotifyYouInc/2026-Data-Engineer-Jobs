@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northwestern Mutual](https://scoutify.ai/companies/northwesternmutual?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Milwaukee, Wisconsin, United States |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Data-Software-Engineer-III---ML-Ops_JR-45869) |
 
 ## About This Role
 
-This software engineer position at Northwestern Mutual was posted on 2026-08-28.
+This data engineer position at Northwestern Mutual was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 3 locations |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-29 |
 | Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/New-York/AVP-Software-Engineer---Data-Platform-Engineering--Python-AWS-_R-053354-1) |
 
 ## About This Role
 
-This software engineer position at LPL Financial Holdings was posted on 2026-08-29.
+This data engineer position at LPL Financial Holdings was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

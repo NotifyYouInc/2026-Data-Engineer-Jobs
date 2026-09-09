@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Remitly](https://scoutify.ai/companies/remitly?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Seattle-Washington-United-States/Software-Development-Engineer-II--Trust-Intelligence_R_106844) |
 
 ## About This Role
 
-This software engineer position at Remitly was posted on 2026-08-31.
+This data engineer position at Remitly was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

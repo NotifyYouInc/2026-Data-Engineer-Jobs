@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wayve](https://scoutify.ai/companies/wayve?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-30 |
 | Apply | [View on company site](https://wayve.firststage.co/jobs?gh_jid=8752578002) |
 
 ## About This Role
 
-This software engineer position at Wayve was posted on 2026-08-30.
+This data engineer position at Wayve was posted on 2026-08-30.
 
 ## Get Real-Time Alerts
 

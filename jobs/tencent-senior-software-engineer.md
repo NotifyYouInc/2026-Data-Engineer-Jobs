@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Singapore, Singapore |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Senior-Software-Engineer_R108004) |
 
 ## About This Role
 
-This software engineer position at Tencent was posted on 2026-08-31.
+This data engineer position at Tencent was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Data Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000146186409-data-architect) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000146466415-data-architect) |
 
 ## About This Role
 
-This data engineer position at REXEL was posted on 2026-08-28.
+This data engineer position at REXEL was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

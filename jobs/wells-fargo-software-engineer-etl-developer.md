@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Software-Engineer---ETL-Developer_R-568061-1) |
 
 ## About This Role
 
-This software engineer position at Wells Fargo was posted on 2026-08-31.
+This data engineer position at Wells Fargo was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

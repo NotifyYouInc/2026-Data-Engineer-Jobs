@@ -5,12 +5,12 @@
 | Company | [ICF](https://scoutify.ai/companies/icf?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Reston, Virginia, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Data-Engineer--Clearance-Required-_R2601258) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Data-Engineer--Clearance-Required-_R2602945) |
 
 ## About This Role
 
-This data engineer position at ICF was posted on 2026-04-08.
+This data engineer position at ICF was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

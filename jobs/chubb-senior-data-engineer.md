@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Chubb](https://scoutify.ai/companies/ocs-cx-oj28119?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Malaysia |
-| Category | Data Analyst |
+| Category | Data Engineer |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#36252) |
 
 ## About This Role
 
-This data analyst position at Chubb was posted on 2026-08-31.
+This data engineer position at Chubb was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Shenzhen, Guangdong, China |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-China-Shenzhen/Software-Engineering---MGR_JR00010655) |
 
 ## About This Role
 
-This software engineer position at OCBC was posted on 2026-08-31.
+This data engineer position at OCBC was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

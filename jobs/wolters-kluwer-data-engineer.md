@@ -1,16 +1,16 @@
-# Data Engineer  at Wolters Kluwer
+# Data Engineer at Wolters Kluwer
 
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Alphen aan den Rijn, South Holland, The Netherlands |
+| Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/NLD---Alphen-Aan-Den-Rijn/Data-Engineer-_R0055713) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Data-Engineer_R0057035) |
 
 ## About This Role
 
-This data engineer position at Wolters Kluwer was posted on 2026-04-14.
+This data engineer position at Wolters Kluwer was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

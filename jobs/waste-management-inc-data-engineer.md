@@ -5,12 +5,12 @@
 | Company | [Waste Management, Inc.](https://scoutify.ai/companies/wastemanagementinc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Auckland, Auckland, New Zealand |
 | Category | Data Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WasteManagement8/6000000001267940-data-engineer) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WasteManagement8/6000000001368388-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Waste Management, Inc. was posted on 2026-07-29.
+This data engineer position at Waste Management, Inc. was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

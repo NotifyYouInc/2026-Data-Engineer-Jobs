@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Edwards Lifesciences](https://scoutify.ai/companies/edwards-lifesciences?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Prague, Prague, Czechia |
 | Category | Data Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/Czech-Republic-Prague/Sr-Data-Engineer_Req-47295-1) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/Czech-Republic-Prague/Senior-Data-Engineer_Req-50097) |
 
 ## About This Role
 
-This data engineer position at Edwards Lifesciences was posted on 2026-04-29.
+This data engineer position at Edwards Lifesciences was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Bristol, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000124175869-senior-data-engineer) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000146915071-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at AECOM was posted on 2026-05-01.
+This data engineer position at AECOM was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

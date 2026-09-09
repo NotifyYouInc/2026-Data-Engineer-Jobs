@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Fremont, California, United States |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWdOcs8mKO9VdQhkptMgK4XNHw-vruvo4VH1LIbIk898EjsA1Ny_iwZzdiBTaM37-qejTiEyInngVSXd8Hb1TuSd8dQ7GmkJnufluCj9BUwITadxNeDTIsuddy3gTw%3D%3D_V2&loc=US&title=Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-08-31.
+This data engineer position at Google was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

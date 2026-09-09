@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Cluj-Napoca, Cluj County, Romania |
-| Category | Data Analyst |
+| Category | Data Engineer |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Cluj-Napoca---Decembrie/Business-Intelligence-Reporting---Senior-Analyst_R_358834-2) |
 
 ## About This Role
 
-This data analyst position at Marsh & McLennan Companies was posted on 2026-08-31.
+This data engineer position at Marsh & McLennan Companies was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

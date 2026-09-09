@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wex](https://scoutify.ai/companies/wexinc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Portland, Oregon, United States |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/Portland-ME/AI-Data---Database-Engineer---Modernization---AI-Infrastructure_R22933) |
 
 ## About This Role
 
-This software engineer position at Wex was posted on 2026-08-28.
+This data engineer position at Wex was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

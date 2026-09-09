@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Frisco, Texas, United States |
 | Category | Data Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Lead-Data-Engineer_JREQ200790) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Frisco-Texas/Lead-Data-Engineer_JREQ200790) |
 
 ## About This Role
 
-This data engineer position at Thomson Reuters was posted on 2026-05-15.
+This data engineer position at Thomson Reuters was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

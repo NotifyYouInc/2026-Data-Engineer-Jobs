@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-03-11 |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Engineer |
+| Posted | 2026-09-02 |
 | Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Senior-Data-Engineer---I_571067-1) |
 
 ## About This Role
 
-This software engineer position at Philips was posted on 2026-03-11.
+This data engineer position at Philips was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

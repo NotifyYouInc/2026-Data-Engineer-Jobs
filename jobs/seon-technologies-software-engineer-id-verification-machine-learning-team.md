@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SEON Technologies](https://scoutify.ai/companies/seon-technologies?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/seon/0516f334-0d09-4932-af59-8df1a7e7e0fc) |
 
 ## About This Role
 
-This software engineer position at SEON Technologies was posted on 2026-08-31.
+This data engineer position at SEON Technologies was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

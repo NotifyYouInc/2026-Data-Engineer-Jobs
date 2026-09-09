@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Strasbourg, Grand Est, France |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000146644494-ingenieur-developpement-bases-de-donnees-moyens-dessais-hf) |
 
 ## About This Role
 
-This software engineer position at ALTEN was posted on 2026-09-01.
+This data engineer position at ALTEN was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

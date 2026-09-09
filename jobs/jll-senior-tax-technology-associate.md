@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Senior-Tax-Technology-Associate_REQ532646) |
 
 ## About This Role
 
-This software engineer position at JLL was posted on 2026-08-31.
+This data engineer position at JLL was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

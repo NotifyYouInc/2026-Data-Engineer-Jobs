@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Samsung](https://scoutify.ai/companies/samsung?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Taylor, Michigan, United States |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Senior-Data-Analytics-Full-Stack-Developer-Engineer_R120138) |
 
 ## About This Role
 
-This software engineer position at Samsung was posted on 2026-08-31.
+This data engineer position at Samsung was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

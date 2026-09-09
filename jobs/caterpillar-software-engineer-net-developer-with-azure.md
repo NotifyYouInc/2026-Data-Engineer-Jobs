@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Software-Engineer--Net-Developer-with-Azure_R0000375296) |
 
 ## About This Role
 
-This software engineer position at Caterpillar was posted on 2026-09-01.
+This data engineer position at Caterpillar was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

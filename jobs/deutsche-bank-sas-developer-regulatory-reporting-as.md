@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Margarpatta/SAS-Developer--Regulatory-Reporting---AS_R0427506) |
 
 ## About This Role
 
-This software engineer position at Deutsche Bank was posted on 2026-08-31.
+This data engineer position at Deutsche Bank was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

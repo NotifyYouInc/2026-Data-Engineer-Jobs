@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Lille, Hauts-de-France, France |
 | Category | Data Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000127202574-ingenieure-data-hf) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000146922035-ingenieure-data-hf) |
 
 ## About This Role
 
-This data engineer position at Inetum was posted on 2026-05-19.
+This data engineer position at Inetum was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

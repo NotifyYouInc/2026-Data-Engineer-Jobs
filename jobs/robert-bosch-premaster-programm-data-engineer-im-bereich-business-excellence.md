@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Abstatt, Baden-Wurttemberg, Germany |
-| Category | Strategy & Operations |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000145926040-premaster-programm-data-engineer-im-bereich-business-excellence) |
+| Category | Data Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000146399991-premaster-programm-data-engineer-im-bereich-business-excellence) |
 
 ## About This Role
 
-This strategy & operations position at Robert Bosch was posted on 2026-08-27.
+This data engineer position at Robert Bosch was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 
