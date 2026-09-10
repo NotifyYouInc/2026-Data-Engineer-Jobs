@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | 3 locations |
 | Category | Data Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/Senior-Data-Engineer_42887) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---DC-Washington/Senior-Data-Engineer_43973) |
 
 ## About This Role
 
-This data engineer position at Guidehouse was posted on 2026-08-12.
+This data engineer position at Guidehouse was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

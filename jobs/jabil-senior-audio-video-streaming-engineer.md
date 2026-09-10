@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hungary |
-| Category | Embedded / Firmware Engineer |
+| Category | Data Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Remote---Ukraine/Senior-Audio---Video-Streaming-Engineer_J2463540) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Jabil was posted on 2026-09-01.
+This data engineer position at Jabil was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

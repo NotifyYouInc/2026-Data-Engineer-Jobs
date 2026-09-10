@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bratislava, Bratislava Region, Slovakia |
+| Location | India |
 | Category | Data Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bratislava-Bratislava-Slovakia/Senior-Data-Engineer_WD30275194-1) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Johnson-Controls-India-COEE1/Senior-Data-Engineer_WD30278747) |
 
 ## About This Role
 
-This data engineer position at Johnson Controls was posted on 2026-08-03.
+This data engineer position at Johnson Controls was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

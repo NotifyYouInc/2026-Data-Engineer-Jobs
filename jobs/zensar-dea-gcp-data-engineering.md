@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zensar](https://scoutify.ai/companies/ocs-cx-oj119068?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#149592) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#150500) |
 
 ## About This Role
 
-This data engineer position at Zensar was posted on 2026-08-12.
+This data engineer position at Zensar was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

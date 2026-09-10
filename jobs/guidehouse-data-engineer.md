@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 5 locations |
+| Location | 3 locations |
 | Category | Data Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---GA-Atlanta/Data-Engineer_43518) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---DC-Washington/Data-Engineer_43972) |
 
 ## About This Role
 
-This data engineer position at Guidehouse was posted on 2026-08-19.
+This data engineer position at Guidehouse was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Oddball](https://scoutify.ai/companies/oddball?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/oddball/jobs/7859389003) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/oddball/jobs/7984509003) |
 
 ## About This Role
 
-This data engineer position at Oddball was posted on 2026-08-12.
+This data engineer position at Oddball was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

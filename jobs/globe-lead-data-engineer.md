@@ -1,16 +1,16 @@
-# Lead, Data Engineer at GLOBE
+# Lead Data Engineer at GLOBE
 
 | Field | Details |
 |-------|---------|
 | Company | [GLOBE](https://scoutify.ai/companies/globe?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Manila, National Capital Region, Philippines |
-| Category | Software Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://globe.wd3.myworkdayjobs.com/mynt/job/NCR---WGC/Lead--Data-Engineer_R0000019896) |
+| Location | Philippines |
+| Category | Data Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://globe.wd3.myworkdayjobs.com/mynt/job/NCR---WGC/Lead-Data-Engineer_R0000021006) |
 
 ## About This Role
 
-This software engineer position at GLOBE was posted on 2026-03-10.
+This data engineer position at GLOBE was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

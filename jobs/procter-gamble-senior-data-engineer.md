@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Data Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/HYDERABAD-OFFICE-APAC-PSC-GDOP/Senior-Data-Engineer_R000151006) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/WARSAW---EU-SUPPLY-NETWORK-HUB/Senior-Data-Engineer_R000157552) |
 
 ## About This Role
 
-This data engineer position at Procter & Gamble was posted on 2026-05-13.
+This data engineer position at Procter & Gamble was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

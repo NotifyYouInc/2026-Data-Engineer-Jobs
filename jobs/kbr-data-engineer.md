@@ -5,12 +5,12 @@
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Chantilly, Virginia, United States |
 | Category | Data Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Data-Engineer_R2125681) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Data-Engineer_R2124826) |
 
 ## About This Role
 
-This data engineer position at KBR was posted on 2026-07-07.
+This data engineer position at KBR was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

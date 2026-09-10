@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
+| Location | Fremont, California, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-India/Data-Engineer-III_R0015276) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Fremont-CA/Data-Engineer-III_R0016796) |
 
 ## About This Role
 
-This data engineer position at Astreya was posted on 2026-04-21.
+This data engineer position at Astreya was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

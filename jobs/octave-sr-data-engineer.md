@@ -5,12 +5,12 @@
 | Company | [Octave](https://scoutify.ai/companies/octave?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://boards.greenhouse.io/octave/jobs/8457329002?gh_jid=8457329002) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://boards.greenhouse.io/octave/jobs/8770612002?gh_jid=8770612002) |
 
 ## About This Role
 
-This data engineer position at Octave was posted on 2026-03-31.
+This data engineer position at Octave was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

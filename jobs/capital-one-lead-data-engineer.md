@@ -5,12 +5,12 @@
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Wilmington-DE/Lead-Data-Engineer_R243690-1) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Wilmington-DE/Lead-Data-Engineer_R243698-1) |
 
 ## About This Role
 
-This data engineer position at Capital One was posted on 2026-08-31.
+This data engineer position at Capital One was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 
