@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Torc Robotics](https://scoutify.ai/companies/torc-robotics?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Ann Arbor, Michigan, United States |
-| Category | Software Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/torcrobotics/jobs/8560188002) |
+| Category | Data Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/torcrobotics/jobs/8649372002) |
 
 ## About This Role
 
-This software engineer position at Torc Robotics was posted on 2026-06-09.
+This data engineer position at Torc Robotics was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

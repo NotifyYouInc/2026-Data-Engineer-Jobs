@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Spektrum](https://scoutify.ai/companies/spektrum?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Mons, Wallonia, Belgium |
-| Category | Data Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4966308101) |
 
 ## About This Role
 
-This data engineer position at Spektrum was posted on 2026-09-02.
+This soc & incident response position at Spektrum was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

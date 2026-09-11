@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Perplexity AI](https://scoutify.ai/companies/perplexity?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Belgrade, Central Serbia, Serbia |
-| Category | Data Engineer |
+| Category | Data Analyst |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/perplexity/3b349a2f-360e-44e6-a57d-6a87bc3016a7) |
 
 ## About This Role
 
-This data engineer position at Perplexity AI was posted on 2026-09-02.
+This data analyst position at Perplexity AI was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

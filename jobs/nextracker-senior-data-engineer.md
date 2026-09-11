@@ -5,12 +5,12 @@
 | Company | [Nextracker](https://scoutify.ai/companies/nextracker?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://nextracker.wd5.myworkdayjobs.com/nextpower_careers/job/Hyderabad-Telangana---IND/Senior-Data-Engineer_NX-4417) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://nextracker.wd5.myworkdayjobs.com/nextpower_careers/job/Hyderabad-Telangana---IND/Senior-Data-Engineer_NX-4418) |
 
 ## About This Role
 
-This data engineer position at Nextracker was posted on 2026-08-19.
+This data engineer position at Nextracker was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

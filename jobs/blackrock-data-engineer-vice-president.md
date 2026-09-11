@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | London, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Data-Engineer--Vice-President_R265059-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/London-Greater-London/Data-Engineer--Vice-President_R260560) |
 
 ## About This Role
 
-This data engineer position at Blackrock was posted on 2026-08-19.
+This data engineer position at Blackrock was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Technology / IT Consulting |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/_51582073) |
+| Category | Data Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/_51588528) |
 
 ## About This Role
 
-This technology / it consulting position at DXC Technology was posted on 2026-06-18.
+This data engineer position at DXC Technology was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

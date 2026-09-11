@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Copenhagen, Capital Region, Denmark |
+| Location | Navi Mumbai, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Copenhagen-Denmark-Arne-Jacobsens/Senior-Data-Engineer_R-288038-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Navi-Mumbai-India-Finicity/Senior-Data-Engineer_R-287943) |
 
 ## About This Role
 
-This data engineer position at Mastercard was posted on 2026-08-19.
+This data engineer position at Mastercard was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

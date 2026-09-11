@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | Chantilly, Virginia, United States |
 | Category | Data Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Huntsville-AL/Data-Engineer--Senior_R0248259) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Chantilly-VA/Data-Engineer--Senior_R0248640) |
 
 ## About This Role
 
-This data engineer position at Booz Allen was posted on 2026-08-31.
+This data engineer position at Booz Allen was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

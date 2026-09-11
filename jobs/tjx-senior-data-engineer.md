@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TJX](https://scoutify.ai/companies/tjx?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Mississauga, Ontario, Canada |
-| Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Mississauga-ON-L5R-0G1/Senior-Data-Engineer_REQ101036-1) |
+| Location | Hyderabad, Telangana, India |
+| Category | Data Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Hyderabad-TS-500081/Senior-Data-Engineer_REQ152864) |
 
 ## About This Role
 
-This software engineer position at TJX was posted on 2026-03-23.
+This data engineer position at TJX was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

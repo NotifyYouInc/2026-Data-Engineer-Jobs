@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Ashburn, Virginia, United States |
+| Location | Reston, Virginia, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Ashburn/Data-Architect_325219) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Reston-VA-US/Data-Architect_331283) |
 
 ## About This Role
 
-This data engineer position at CACI was posted on 2026-04-22.
+This data engineer position at CACI was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

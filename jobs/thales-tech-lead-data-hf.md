@@ -1,16 +1,16 @@
-# Tech Lead data (H/F) at Thales
+# Tech lead Data (H/F) at Thales
 
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Vélizy-Villacoublay, Île-de-France, France |
-| Category | Software Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Vlizy-Villacoublay/Tech-Lead-data--H-F-_R0338056-1) |
+| Category | Data Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Vlizy-Villacoublay/Tech-lead-Data--H-F-_R0338878-1) |
 
 ## About This Role
 
-This software engineer position at Thales was posted on 2026-08-21.
+This data engineer position at Thales was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

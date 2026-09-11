@@ -5,12 +5,12 @@
 | Company | [Home Chef](https://scoutify.ai/companies/homechef?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Data Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/homechef/jobs/5209446008) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/homechef/jobs/5411495008) |
 
 ## About This Role
 
-This data engineer position at Home Chef was posted on 2026-05-13.
+This data engineer position at Home Chef was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

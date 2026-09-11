@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Appier](https://scoutify.ai/companies/appier?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
-| Category | Data Engineer |
+| Category | Technical Product Manager |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/appier/jobs/8166843) |
 
 ## About This Role
 
-This data engineer position at Appier was posted on 2026-09-02.
+This technical product manager position at Appier was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

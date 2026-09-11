@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Take Two](https://scoutify.ai/companies/taketwo?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Data Engineer |
+| Category | Data Analyst |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/taketwo/jobs/8165127) |
 
 ## About This Role
 
-This data engineer position at Take Two was posted on 2026-09-02.
+This data analyst position at Take Two was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

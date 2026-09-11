@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 4 locations |
-| Category | Data Engineer |
+| Category | Privacy & Data Protection |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Lead-Data-Governance-Technical-Analyst_JR2026523654-1) |
 
 ## About This Role
 
-This data engineer position at Boeing was posted on 2026-09-01.
+This privacy & data protection position at Boeing was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

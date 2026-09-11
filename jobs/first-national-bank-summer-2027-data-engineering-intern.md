@@ -6,7 +6,7 @@
 | Location | 2 locations |
 | Category | Data Engineer |
 | Posted | 2026-09-01 |
-| Apply | [View on company site](https://fnbcorp.wd501.myworkdayjobs.com/fnbcorp/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01712) |
+| Apply | [View on company site](https://fnbcorp.wd501.myworkdayjobs.com/fnbcorp/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01713) |
 
 ## About This Role
 

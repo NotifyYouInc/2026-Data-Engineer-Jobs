@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Genuine Parts Company](https://scoutify.ai/companies/genpt?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Rowville, Victoria, Australia |
-| Category | Data Engineer |
+| Category | Data Analyst |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Rowville-Victoria-Australia/Senior-Power-BI-Engineer_R26_0000028800) |
 
 ## About This Role
 
-This data engineer position at Genuine Parts Company was posted on 2026-09-02.
+This data analyst position at Genuine Parts Company was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

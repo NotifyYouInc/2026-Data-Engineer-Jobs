@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marriott Vacations Worldwide](https://scoutify.ai/companies/mymvw?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Costa Rica |
-| Category | Data Engineer |
+| Category | Privacy & Data Protection |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://mymvw.wd5.myworkdayjobs.com/mvw/job/Marriotts-Vacation-Club-at-Los-Suenos/Sr-Enterprise-Data-Steward_JR93841) |
 
 ## About This Role
 
-This data engineer position at Marriott Vacations Worldwide was posted on 2026-09-02.
+This privacy & data protection position at Marriott Vacations Worldwide was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

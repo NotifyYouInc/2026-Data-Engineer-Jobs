@@ -5,12 +5,12 @@
 | Company | [Bloomberg](https://scoutify.ai/companies/bloomberg?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Data Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/Senior-Data-Management-Professional-Data-Engineer-Events-Transcripts-Tokyo/19996) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/Senior-Data-Management-Professional-Data-Engineer-Events-Transcripts-Tokyo/21896) |
 
 ## About This Role
 
-This data engineer position at Bloomberg was posted on 2026-06-01.
+This data engineer position at Bloomberg was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

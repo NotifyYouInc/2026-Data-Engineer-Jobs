@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | Rio de Janeiro, Rio de Janeiro, Brazil |
 | Category | Data Engineer |
-| Posted | 2026-08-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000143695669-staff-engineer-data-engineer) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000147349169-staff-engineer-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Nagarro was posted on 2026-08-16.
+This data engineer position at Nagarro was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Bread Financial Holdings, Inc.](https://scoutify.ai/companies/bread-financial-holdings-inc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_india/job/Bangalore-India/Principal-Data-Engineer--I-_R1012894) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_india/job/Bangalore-India/Principal-Data-Engineer--I-_R1013130-1) |
 
 ## About This Role
 
-This data engineer position at Bread Financial Holdings, Inc. was posted on 2026-07-31.
+This data engineer position at Bread Financial Holdings, Inc. was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

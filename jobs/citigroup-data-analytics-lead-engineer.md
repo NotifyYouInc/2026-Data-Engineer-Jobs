@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Irving, Texas, United States |
-| Category | Data Engineer |
+| Category | Data Analyst |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Data-Analytics-Lead-Engineer_26985324-1) |
 
 ## About This Role
 
-This data engineer position at Citigroup was posted on 2026-09-02.
+This data analyst position at Citigroup was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

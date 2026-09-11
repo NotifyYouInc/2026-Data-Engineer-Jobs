@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lyric](https://scoutify.ai/companies/lyric?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
-| Category | DevOps Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://tbc.wd12.myworkdayjobs.com/lyriccareers/job/Remote---US/Senior-Data-Engineer_JR748-1) |
+| Category | Data Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://tbc.wd12.myworkdayjobs.com/lyriccareers/job/Remote---US/Senior-Data-Engineer_JR913) |
 
 ## About This Role
 
-This devops engineer position at Lyric was posted on 2026-03-17.
+This data engineer position at Lyric was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sfeir](https://scoutify.ai/companies/sfeir?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
+| Location | Belgium |
 | Category | Data Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.lever.co/sfeir/c8651d7b-cd76-4495-b5c4-6176935f7db0) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.lever.co/sfeir/aec0872a-77f7-40c7-be9c-714c37235979) |
 
 ## About This Role
 
-This data engineer position at Sfeir was posted on 2026-06-23.
+This data engineer position at Sfeir was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

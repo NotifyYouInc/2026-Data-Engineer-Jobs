@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Manchester, England, United Kingdom |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000108744895-data-architect) |
+| Location | Bristol, England, United Kingdom |
+| Category | Data Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000147268882-data-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at PA Consulting was posted on 2026-02-11.
+This data engineer position at PA Consulting was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 
