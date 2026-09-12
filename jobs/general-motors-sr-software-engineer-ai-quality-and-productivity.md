@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Sr-Software-Engineer---AI-Quality-and-Productivity_JR-202618670) |
 
 ## About This Role
 
-This data engineer position at General Motors was posted on 2026-09-03.
+This software engineer position at General Motors was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Censys](https://scoutify.ai/companies/censys?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/censys/jobs/8729906002) |
 
 ## About This Role
 
-This data engineer position at Censys was posted on 2026-09-02.
+This software engineer position at Censys was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

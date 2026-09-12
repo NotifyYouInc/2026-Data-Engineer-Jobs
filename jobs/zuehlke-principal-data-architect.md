@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zuehlke](https://scoutify.ai/companies/zuehlke?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Schlieren, Zurich, Switzerland |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://zuehlke.wd3.myworkdayjobs.com/zuhlke-careers/job/Schlieren/Principal-Data-Architect_JR100839) |
+| Location | 5 locations |
+| Category | Data Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://zuehlke.wd3.myworkdayjobs.com/zuhlke-careers/job/Eschborn/Principal-Data-Architect_JR100916-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Zuehlke was posted on 2026-06-01.
+This data engineer position at Zuehlke was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

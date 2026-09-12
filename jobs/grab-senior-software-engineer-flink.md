@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000147174949-senior-software-engineer-flink) |
 
 ## About This Role
 
-This data engineer position at Grab was posted on 2026-09-03.
+This software engineer position at Grab was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

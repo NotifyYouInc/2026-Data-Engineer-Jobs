@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Atlanta-GA/Data-Engineer_R-00188372) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Remote-United-Kingdom/Data-Engineer_R-00191532) |
 
 ## About This Role
 
-This data engineer position at Leidos was posted on 2026-07-29.
+This data engineer position at Leidos was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

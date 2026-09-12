@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Edwards Lifesciences](https://scoutify.ai/companies/edwards-lifesciences?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Prague, Prague, Czechia |
+| Location | Irvine, California, United States |
 | Category | Data Engineer |
 | Posted | 2026-09-02 |
-| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/Czech-Republic-Prague/Senior-Data-Engineer_Req-50097) |
+| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Senior-Data-Engineer_Req-50629) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Austin, Texas, United States |
 | Category | Data Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Austin-Texas-United-States-of-America/Senior-Data-Engineer_JR-202617396) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Austin-Texas-United-States-of-America/Senior-Data-Engineer_JR-202615958) |
 
 ## About This Role
 
-This data engineer position at General Motors was posted on 2026-09-01.
+This data engineer position at General Motors was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

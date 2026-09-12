@@ -1,16 +1,16 @@
-# Data Engineer I (Full Time) - United States at Cisco
+# Data Engineer I (Full-Time) - United States at Cisco
 
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Data-Engineer-I--Full-Time----United-States_2003052) |
+| Location | 3 locations |
+| Category | Data Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Data-Engineer-I--Full-Time----United-States_2024459) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-02-25.
+This data engineer position at Cisco was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

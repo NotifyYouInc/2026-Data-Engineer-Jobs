@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United States |
-| Category | Software Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---United-States/Staff-Data-Engineer_JR-202606878) |
+| Location | 2 locations |
+| Category | Data Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Staff-Data-Engineer_JR-202616158) |
 
 ## About This Role
 
-This software engineer position at General Motors was posted on 2026-03-26.
+This data engineer position at General Motors was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

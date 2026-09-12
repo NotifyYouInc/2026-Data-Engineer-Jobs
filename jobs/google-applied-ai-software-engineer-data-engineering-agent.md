@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUAHYj9KfxEK9Py-n--F8ayMUZuesUFQdKjrPScMh6JxEjsA1Ny_i22uTSCczRhVwWlBTPsdM23NthJlV-ynAF513v3fy8cSt411yV7Cc2MaXOkxf1ZYQwHA5USUZg%3D%3D_V2&loc=US&title=Applied+AI+Software+Engineer) |
 
 ## About This Role
 
-This data engineer position at Google was posted on 2026-09-03.
+This software engineer position at Google was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

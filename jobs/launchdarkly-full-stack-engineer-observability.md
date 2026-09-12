@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LaunchDarkly](https://scoutify.ai/companies/launchdarkly?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/launchdarkly/jobs/7985794003) |
 
 ## About This Role
 
-This data engineer position at LaunchDarkly was posted on 2026-09-03.
+This software engineer position at LaunchDarkly was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

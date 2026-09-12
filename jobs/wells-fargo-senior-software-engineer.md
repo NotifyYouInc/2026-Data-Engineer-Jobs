@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Charlotte, North Carolina, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Software-Engineer_R-571292) |
 
 ## About This Role
 
-This data engineer position at Wells Fargo was posted on 2026-09-03.
+This software engineer position at Wells Fargo was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

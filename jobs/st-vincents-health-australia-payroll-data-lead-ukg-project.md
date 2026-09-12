@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [St Vincent's Health Australia](https://scoutify.ai/companies/st-vincent-s-health-australia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
-| Category | Program Manager |
+| Category | Accounting |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://svha.wd3.myworkdayjobs.com/svha_svha/job/QLD---Brisbane-CBD--Inner-Suburbs/Payroll-Data-Lead--UKG-Project_JR151278-1) |
 
 ## About This Role
 
-This program manager position at St Vincent's Health Australia was posted on 2026-09-03.
+This accounting position at St Vincent's Health Australia was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

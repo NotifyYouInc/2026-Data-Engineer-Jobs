@@ -5,12 +5,12 @@
 | Company | [TRG Screen](https://scoutify.ai/companies/trg-screen?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Belfast, Northern Ireland, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/trgscreen/jobs/4877238101) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/trgscreen/jobs/4969108101) |
 
 ## About This Role
 
-This data engineer position at TRG Screen was posted on 2026-05-28.
+This data engineer position at TRG Screen was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cystems Logic](https://scoutify.ai/companies/cystemslogic?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/CystemsLogicInc1/744000147026727-f2f-interview-react-full-stack-developer-dallas-tx) |
 
 ## About This Role
 
-This data engineer position at Cystems Logic was posted on 2026-09-02.
+This software engineer position at Cystems Logic was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

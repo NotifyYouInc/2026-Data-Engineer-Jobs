@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Southwest Airlines](https://scoutify.ai/companies/swa?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Network-Planning-Developer_R-2026-71340-1) |
 
 ## About This Role
 
-This data engineer position at Southwest Airlines was posted on 2026-09-03.
+This software engineer position at Southwest Airlines was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

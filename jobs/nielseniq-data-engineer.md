@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Data Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000145920479-data-engineer) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000147559659-data-engineer) |
 
 ## About This Role
 
-This data engineer position at NielsenIQ was posted on 2026-08-27.
+This data engineer position at NielsenIQ was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

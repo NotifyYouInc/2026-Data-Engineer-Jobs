@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Levi Strauss & Co.](https://scoutify.ai/companies/levistraussandco?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://levistraussandco.wd5.myworkdayjobs.com/external/job/GCC-Office--ITC-Green-Center-Bengaluru-Karnataka-India/Senior-Engineer-Supply-Chain-Technology_R-0156194) |
 
 ## About This Role
 
-This data engineer position at Levi Strauss & Co. was posted on 2026-09-02.
+This software engineer position at Levi Strauss & Co. was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

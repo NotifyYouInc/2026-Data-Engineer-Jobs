@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Matter](https://scoutify.ai/companies/general-matter?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Los Angeles, California, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/generalmatter/jobs/5412538008) |
 
 ## About This Role
 
-This data engineer position at General Matter was posted on 2026-09-02.
+This software engineer position at General Matter was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

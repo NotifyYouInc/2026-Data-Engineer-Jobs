@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intus](https://scoutify.ai/companies/intus?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/intus/17baef90-31bf-432a-9091-d333a23378b8) |
 
 ## About This Role
 
-This data engineer position at Intus was posted on 2026-09-02.
+This software engineer position at Intus was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

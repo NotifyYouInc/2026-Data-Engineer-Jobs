@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PTC](https://scoutify.ai/companies/ptc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/Boston-MA-USA/Associate-Enterprise-Integration-Engineer_JR112677) |
 
 ## About This Role
 
-This data engineer position at PTC was posted on 2026-09-02.
+This software engineer position at PTC was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Fractal](https://scoutify.ai/companies/fractal?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | California, US |
 | Category | Data Engineer |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/California/Senior-Data-Engineer_SR-43583-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/California/Senior-Data-Engineer_SR-45596-1) |
 
 ## About This Role
 
-This data engineer position at Fractal was posted on 2026-07-18.
+This data engineer position at Fractal was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

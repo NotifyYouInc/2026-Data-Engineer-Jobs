@@ -5,12 +5,12 @@
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Data Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Toronto-ON/Data-Engineer-2_REQ530160) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Toronto-ON/Data-Engineer-2_REQ531501) |
 
 ## About This Role
 
-This data engineer position at JLL was posted on 2026-08-26.
+This data engineer position at JLL was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Senior-Software-Engineer---Reltio_R4045858-1) |
 
 ## About This Role
 
-This data engineer position at GE HealthCare was posted on 2026-09-03.
+This software engineer position at GE HealthCare was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

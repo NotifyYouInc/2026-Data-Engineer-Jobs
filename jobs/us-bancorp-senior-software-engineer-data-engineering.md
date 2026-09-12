@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hopkins, Minnesota, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Senior-Software-Engineer--Data-Engineering-_2026-0026993) |
 
 ## About This Role
 
-This data engineer position at U.S. Bancorp was posted on 2026-09-03.
+This software engineer position at U.S. Bancorp was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

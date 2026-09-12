@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Haufe Group](https://scoutify.ai/companies/haufegroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Germany |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/HaufeGroup/744000147476939-tech-lead-dfm-data-ai-platform) |
 
 ## About This Role
 
-This data engineer position at Haufe Group was posted on 2026-09-04.
+This software engineer position at Haufe Group was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

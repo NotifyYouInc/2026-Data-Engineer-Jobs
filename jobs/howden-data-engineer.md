@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Howden](https://scoutify.ai/companies/howden?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Romford, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/London/Data-Engineer_R0017183-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/Romford--St-James-House/Data-Engineer_R0019086-1) |
 
 ## About This Role
 
-This data engineer position at Howden was posted on 2026-04-24.
+This data engineer position at Howden was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Canary Wharf, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Senior-Data-Engineer_JR-0000119605) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Senior-Data-Engineer_JR-0000104819-1) |
 
 ## About This Role
 
-This data engineer position at Barclays was posted on 2026-08-18.
+This data engineer position at Barclays was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

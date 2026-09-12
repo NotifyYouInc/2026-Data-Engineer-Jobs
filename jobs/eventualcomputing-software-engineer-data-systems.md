@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Eventualcomputing](https://scoutify.ai/companies/eventualcomputing-eventualcomputi?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/eventualcomputing/ff541fc0-b72e-40ad-84dc-6baa22570356) |
 
 ## About This Role
 
-This data engineer position at Eventualcomputing was posted on 2026-09-03.
+This software engineer position at Eventualcomputing was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

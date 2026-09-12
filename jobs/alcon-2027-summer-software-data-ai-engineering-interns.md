@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alcon](https://scoutify.ai/companies/alcon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 5 locations |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/XMLNAME-2027-Summer-Software--Data---AI-Engineering-Interns_R-2026-49480) |
 
 ## About This Role
 
-This data engineer position at Alcon was posted on 2026-09-03.
+This software engineer position at Alcon was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

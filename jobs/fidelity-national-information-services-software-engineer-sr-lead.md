@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Portland, Oregon, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-OR-PDX-1221-Ste210-Virtual/Software-Engineer-Sr-Lead_JR0309070) |
 
 ## About This Role
 
-This data engineer position at Fidelity National Information Services was posted on 2026-09-03.
+This software engineer position at Fidelity National Information Services was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

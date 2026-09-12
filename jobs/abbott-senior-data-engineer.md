@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Ireland |
+| Location | Sligo, Connacht, Ireland |
 | Category | Data Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Ireland---Donegal-Town/Senior-Data-Engineer_31160241-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Ireland---Sligo/Senior-Data-Engineer_31158585) |
 
 ## About This Role
 
-This data engineer position at Abbott was posted on 2026-08-26.
+This data engineer position at Abbott was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

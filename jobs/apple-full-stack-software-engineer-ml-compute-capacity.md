@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200681765/full-stack-software-engineer-ml-compute-capacity) |
 
 ## About This Role
 
-This data engineer position at Apple was posted on 2026-09-03.
+This software engineer position at Apple was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | London, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Senior-Data-Engineer_154406-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/London-1-10-Praed-Mews/Senior-Data-Engineer_163070-1) |
 
 ## About This Role
 
-This data engineer position at Lloyds Bank was posted on 2026-05-27.
+This data engineer position at Lloyds Bank was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

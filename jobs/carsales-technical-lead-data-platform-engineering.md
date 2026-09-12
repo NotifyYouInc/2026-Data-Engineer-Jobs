@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [carsales](https://scoutify.ai/companies/carsales?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Melbourne, Victoria, Australia |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/carsales/744000147096549-technical-lead-data-platform-engineering) |
 
 ## About This Role
 
-This data engineer position at carsales was posted on 2026-09-03.
+This software engineer position at carsales was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

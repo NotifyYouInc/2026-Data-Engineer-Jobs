@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Boston-Massachusetts/Software-Engineer_R26_3525-1) |
 
 ## About This Role
 
-This data engineer position at Ameriprise Financial was posted on 2026-09-03.
+This software engineer position at Ameriprise Financial was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

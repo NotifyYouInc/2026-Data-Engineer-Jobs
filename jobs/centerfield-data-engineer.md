@@ -5,12 +5,12 @@
 | Company | [Centerfield](https://scoutify.ai/companies/centerfield?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Los Angeles, California, United States |
 | Category | Data Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/centerfield/63b6469a-64cb-4c8f-bf80-80c6dbe0f1bc) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/centerfield/13b90415-27cd-482d-bc9f-6674fb7b4757) |
 
 ## About This Role
 
-This data engineer position at Centerfield was posted on 2026-07-01.
+This data engineer position at Centerfield was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

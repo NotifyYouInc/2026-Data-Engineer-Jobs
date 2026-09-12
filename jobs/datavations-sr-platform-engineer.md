@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Datavations](https://scoutify.ai/companies/datavations?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 5 locations |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/datavations/jobs/4965788101) |
 
 ## About This Role
 
-This data engineer position at Datavations was posted on 2026-09-03.
+This software engineer position at Datavations was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000147048449-senior-java-developer-talend-spring-batch) |
 
 ## About This Role
 
-This data engineer position at Inetum was posted on 2026-09-02.
+This software engineer position at Inetum was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Iambic Therapeutics, Inc](https://scoutify.ai/companies/iambic-therapeutics-inc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/iambic-therapeutics/ed5c9548-a170-4a73-ade7-2f710d009fac) |
 
 ## About This Role
 
-This data engineer position at Iambic Therapeutics, Inc was posted on 2026-09-04.
+This software engineer position at Iambic Therapeutics, Inc was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

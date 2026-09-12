@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arch](https://scoutify.ai/companies/arch?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Data Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/arch.co/3600530a-7f41-4583-8d92-443f6978c847) |
 
 ## About This Role
 
-This data engineer position at Arch was posted on 2026-09-02.
+This software engineer position at Arch was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 
