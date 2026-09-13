@@ -1,16 +1,16 @@
-# IND Staff Engineer, Data at Hartford Financial Services
+# IND Staff Data Engineer at Hartford Financial Services
 
 | Field | Details |
 |-------|---------|
 | Company | [Hartford Financial Services](https://scoutify.ai/companies/thehartford?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | India |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-09-06 |
-| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Staff-Engineer--Data_R2626899-1) |
+| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Staff-Data-Engineer_R2626901) |
 
 ## About This Role
 
-This software engineer position at Hartford Financial Services was posted on 2026-09-06.
+This data engineer position at Hartford Financial Services was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 
