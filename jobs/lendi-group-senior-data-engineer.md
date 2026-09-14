@@ -5,12 +5,12 @@
 | Company | [Lendi Group](https://scoutify.ai/companies/lendigroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Data Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LendiGroup1/744000137990368-senior-data-engineer) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LendiGroup1/744000147835909-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Lendi Group was posted on 2026-07-15.
+This data engineer position at Lendi Group was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

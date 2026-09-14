@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Telangana, IN |
 | Category | Data Engineer |
-| Posted | 2026-06-10 |
+| Posted | 2026-09-07 |
 | Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/IT-Developer---Data-Engineer_R68345-1) |
 
 ## About This Role
 
-This data engineer position at Medtronic was posted on 2026-06-10.
+This data engineer position at Medtronic was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

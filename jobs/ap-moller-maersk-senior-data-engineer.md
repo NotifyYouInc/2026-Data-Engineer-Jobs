@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Maidenhead, England, United Kingdom |
 | Category | Data Engineer |
 | Posted | 2026-09-03 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Bengaluru-560064/Senior-Data-Engineer_R192998-2) |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/DKCPH55---Copenhagen---Esplanaden-50/Senior-Data-Engineer_R194499) |
 
 ## About This Role
 

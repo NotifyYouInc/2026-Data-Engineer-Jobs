@@ -5,12 +5,12 @@
 | Company | [Airasia](https://scoutify.ai/companies/airasia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://airasia.wd3.myworkdayjobs.com/careers/job/Kuala-Lumpur---RedQ/Data-Engineer_JR0034974) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://airasia.wd3.myworkdayjobs.com/careers/job/Kuala-Lumpur---RedQ/Data-Engineer_JR0035017) |
 
 ## About This Role
 
-This data engineer position at Airasia was posted on 2026-07-09.
+This data engineer position at Airasia was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Hong Kong, Hong Kong |
 | Category | Data Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000144244334-consultant-analytics-engineer) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000147851779-consultant-analytics-engineer) |
 
 ## About This Role
 
-This data engineer position at SIA was posted on 2026-08-19.
+This data engineer position at SIA was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

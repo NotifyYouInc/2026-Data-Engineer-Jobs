@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckaNDhG-SZvMMz6Hm6A8yos_l8334mwqIQ-aBFgW1NCOnEjsA1Ny_ixJCMmayiW8P8jfqjbiHSIxoHQT3zES3O867JjvPqOzaw6JVQPlRbpwtBbFDvuObOy0L8fG6mQ%3D%3D_V2&loc=SG&title=Forward+Deployed+Engineer) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckU9yXy4Z0FeB95b9Y_qQq9f8lghI-f-DYa_UZYurfblGEjsA1Ny_i-fOYq5dTtCqikvwLSo71qaeTkms36EMPaxppFCpKLo2diyHfpIDPhKURhW6bCAuC2CoQsaDmQ%3D%3D_V2&loc=SG&title=Forward+Deployed+Engineer) |
 
 ## About This Role
 
-This data engineer position at Google was posted on 2026-08-04.
+This data engineer position at Google was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

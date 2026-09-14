@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Malmö, Skåne, Sweden |
 | Category | Data Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000146126428-data-engineer-malmo) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000147892079-data-engineer-malmo) |
 
 ## About This Role
 
-This data engineer position at Sopra Steria was posted on 2026-08-28.
+This data engineer position at Sopra Steria was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 
