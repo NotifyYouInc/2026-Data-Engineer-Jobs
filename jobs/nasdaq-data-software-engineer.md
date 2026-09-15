@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nasdaq](https://scoutify.ai/companies/nasdaq?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Philadelphia, Pennsylvania, United States |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---Philadelphia---Pennsylvania/Data-Software-Engineer_R0026752) |
 
 ## About This Role
 
-This software engineer position at Nasdaq was posted on 2026-09-04.
+This data engineer position at Nasdaq was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sunset](https://scoutify.ai/companies/sunset?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/sunset/edd8772c-2c9a-4cb2-8ff3-88707b01f177) |
 
 ## About This Role
 
-This software engineer position at Sunset was posted on 2026-09-04.
+This data engineer position at Sunset was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

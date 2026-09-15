@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bristol, England, United Kingdom |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bristol-Area/Landing-Gear-Engineering---AI---Data-Analytics-Placement--125-months-_JR10430647) |
 
 ## About This Role
 
-This software engineer position at Airbus was posted on 2026-09-07.
+This data engineer position at Airbus was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

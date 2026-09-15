@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clarioclinical](https://scoutify.ai/companies/clarioclinical?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
-| Posted | 2026-04-29 |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-08 |
 | Apply | [View on company site](https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/Bangalore-India/Lead-Data-Engineer--GenAI---LLM-Applications-_R17539-2) |
 
 ## About This Role
 
-This data engineer position at Clarioclinical was posted on 2026-04-29.
+This ai / llm engineer position at Clarioclinical was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

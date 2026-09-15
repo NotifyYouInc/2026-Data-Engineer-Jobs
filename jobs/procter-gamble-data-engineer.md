@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Data Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/BUCHAREST-OFFICE/Data-Engineer_R000151237) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/WARSAW-DOWNTOWN-OFFICE/Data-Engineer_R000156240) |
 
 ## About This Role
 
-This data engineer position at Procter & Gamble was posted on 2026-06-10.
+This data engineer position at Procter & Gamble was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

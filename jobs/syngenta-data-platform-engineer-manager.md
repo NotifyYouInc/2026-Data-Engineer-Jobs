@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Engineering Manager |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000128201429-data-platform-engineer-manager) |
+| Category | Data Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000148140359-data-platform-engineer-manager) |
 
 ## About This Role
 
-This engineering manager position at Syngenta was posted on 2026-05-25.
+This data engineer position at Syngenta was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

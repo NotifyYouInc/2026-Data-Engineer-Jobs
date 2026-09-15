@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-04-17 |
+| Category | Data Engineer |
+| Posted | 2026-09-08 |
 | Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Data-Analytics-Engineer--Python-and-MS-Fabric-exp-_R0056665) |
 
 ## About This Role
 
-This software engineer position at Wolters Kluwer was posted on 2026-04-17.
+This data engineer position at Wolters Kluwer was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

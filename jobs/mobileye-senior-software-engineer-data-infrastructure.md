@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mobileye](https://scoutify.ai/companies/mobileye?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Ramat Gan, Tel Aviv, Israel |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://jobs.eu.lever.co/mobileye/8ad31b79-8816-4142-a677-4bea7a452328) |
 
 ## About This Role
 
-This software engineer position at Mobileye was posted on 2026-09-07.
+This data engineer position at Mobileye was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Anthropic](https://scoutify.ai/companies/anthropic?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Data Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/4973067008) |
 
 ## About This Role
 
-This data engineer position at Anthropic was posted on 2026-09-04.
+This devops engineer position at Anthropic was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

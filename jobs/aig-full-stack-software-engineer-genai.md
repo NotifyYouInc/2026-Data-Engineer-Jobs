@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/Full-Stack-Software-Engineer---GenAI_JR2600811) |
 
 ## About This Role
 
-This software engineer position at AIG was posted on 2026-09-04.
+This data engineer position at AIG was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

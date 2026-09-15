@@ -5,12 +5,12 @@
 | Company | [Precision Medicine Group](https://scoutify.ai/companies/precision-medicine-group?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Argentina |
 | Category | Data Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/5808918004) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/6184742004) |
 
 ## About This Role
 
-This data engineer position at Precision Medicine Group was posted on 2026-04-08.
+This data engineer position at Precision Medicine Group was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

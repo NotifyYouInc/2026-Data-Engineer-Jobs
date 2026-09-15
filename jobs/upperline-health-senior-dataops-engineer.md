@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Upperline Health](https://scoutify.ai/companies/upperline-rec-pro-ukg-net?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Not specified |
-| Category | Data Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://upperline.rec.pro.ukg.net/UPP1500ULHI/JobBoard/1d4a537c-ab61-4491-8a1b-781f6bd12501/OpportunityDetail?opportunityId=4e7b6f79-7bac-4608-b45a-68f19eccbd80) |
 
 ## About This Role
 
-This data engineer position at Upperline Health was posted on 2026-09-03.
+This devops engineer position at Upperline Health was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | Maastricht, Limburg, The Netherlands |
 | Category | Data Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000147226085-consultant-data-engineer) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000147441234-consultant-data-engineer) |
 
 ## About This Role
 
-This data engineer position at SIA was posted on 2026-09-03.
+This data engineer position at SIA was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

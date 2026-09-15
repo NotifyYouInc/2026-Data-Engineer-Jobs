@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cision](https://scoutify.ai/companies/cision?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bulgaria |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/cision/jobs/4951712101) |
 
 ## About This Role
 
-This software engineer position at Cision was posted on 2026-09-04.
+This data engineer position at Cision was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

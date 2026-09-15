@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Roblox](https://scoutify.ai/companies/roblox?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | San Mateo, California, United States |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://careers.roblox.com/jobs/8174475?gh_jid=8174475) |
 
 ## About This Role
 
-This software engineer position at Roblox was posted on 2026-09-04.
+This data engineer position at Roblox was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

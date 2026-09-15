@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer-Python-spark-Iceberg-Hive_R-534037) |
 
 ## About This Role
 
-This software engineer position at Wells Fargo was posted on 2026-09-07.
+This data engineer position at Wells Fargo was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

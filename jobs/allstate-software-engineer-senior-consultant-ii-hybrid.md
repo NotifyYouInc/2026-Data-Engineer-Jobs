@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Belfast, Northern Ireland, United Kingdom |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Belfast-10-Mays-Meadow/Software-Engineer-Senior-Consultant-II----Hybrid-_R34555) |
 
 ## About This Role
 
-This software engineer position at Allstate was posted on 2026-09-04.
+This data engineer position at Allstate was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000147612169-data-technical-lead) |
 
 ## About This Role
 
-This software engineer position at PA Consulting was posted on 2026-09-04.
+This data engineer position at PA Consulting was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Getafe, Madrid, Spain |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/Senior-Data-Integration-Engineer_JR10434157) |
 
 ## About This Role
 
-This software engineer position at Airbus was posted on 2026-09-07.
+This data engineer position at Airbus was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

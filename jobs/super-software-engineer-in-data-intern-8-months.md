@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Super](https://scoutify.ai/companies/super?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Canada |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/super.com/2c889dd2-0103-43e8-a405-e5b006d8b5ec) |
 
 ## About This Role
 
-This software engineer position at Super was posted on 2026-09-04.
+This data engineer position at Super was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

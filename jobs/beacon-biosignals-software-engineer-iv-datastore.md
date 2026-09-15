@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Beacon Biosignals](https://scoutify.ai/companies/beacon-biosignals?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/beaconbiosignals/jobs/4396391009) |
 
 ## About This Role
 
-This software engineer position at Beacon Biosignals was posted on 2026-09-04.
+This data engineer position at Beacon Biosignals was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

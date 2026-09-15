@@ -5,12 +5,12 @@
 | Company | [Just Eat Takeaway.com](https://scoutify.ai/companies/just-eat-takeaway-com?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Fleet, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-08-02 |
-| Apply | [View on company site](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Fleet-Place-Office/Senior-Data-Engineer_R_052346) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Fleet-Place-Office/Senior-Data-Engineer_R_053090-2) |
 
 ## About This Role
 
-This data engineer position at Just Eat Takeaway.com was posted on 2026-08-02.
+This data engineer position at Just Eat Takeaway.com was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

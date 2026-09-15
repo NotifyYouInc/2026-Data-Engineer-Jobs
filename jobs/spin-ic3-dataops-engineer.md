@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Spin](https://scoutify.ai/companies/spin?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Mexico |
-| Category | Data Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/spin/jobs/4692298005) |
+| Category | DevOps Engineer |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/spin/jobs/4731198005) |
 
 ## About This Role
 
-This data engineer position at Spin was posted on 2026-05-07.
+This devops engineer position at Spin was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

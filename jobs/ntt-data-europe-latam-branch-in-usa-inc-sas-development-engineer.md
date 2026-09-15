@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NTT DATA, Europe & LATAM, Branch in USA, Inc.](https://scoutify.ai/companies/ntt-data-europe-latam-branch-in-usa-inc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Brazil |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-09-05 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/nttdatausa/jobs/8784931002) |
 
 ## About This Role
 
-This software engineer position at NTT DATA, Europe & LATAM, Branch in USA, Inc. was posted on 2026-09-05.
+This data engineer position at NTT DATA, Europe & LATAM, Branch in USA, Inc. was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

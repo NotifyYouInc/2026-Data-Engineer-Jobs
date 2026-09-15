@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Covance](https://scoutify.ai/companies/fortrea?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 3 locations |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Bangalore/Lead-Programmer--LEDC-_265152) |
 
 ## About This Role
 
-This software engineer position at Covance was posted on 2026-09-04.
+This data engineer position at Covance was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

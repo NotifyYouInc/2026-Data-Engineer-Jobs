@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AXIS Capital](https://scoutify.ai/companies/axis-capital?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Halifax, Nova Scotia, Canada |
-| Category | Data Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://axiscapital.wd1.myworkdayjobs.com/axiscareers/job/Halifax-NS/DataOps---AI-FinOps-Lead_REQ06708) |
 
 ## About This Role
 
-This data engineer position at AXIS Capital was posted on 2026-09-03.
+This devops engineer position at AXIS Capital was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

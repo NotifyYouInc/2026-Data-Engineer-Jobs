@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Denver, Colorado, United States |
-| Category | Data Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Data-Engineer-Software-Integrator_331610-1) |
 
 ## About This Role
 
-This data engineer position at CACI was posted on 2026-09-03.
+This devops engineer position at CACI was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

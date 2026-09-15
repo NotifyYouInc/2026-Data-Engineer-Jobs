@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Moniepoint](https://scoutify.ai/companies/moniepoint?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Not specified |
+| Location | Nigeria |
 | Category | Data Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4013717101) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4969916101) |
 
 ## About This Role
 
-This data engineer position at Moniepoint was posted on 2026-06-08.
+This data engineer position at Moniepoint was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 
