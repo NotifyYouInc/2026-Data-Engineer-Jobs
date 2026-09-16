@@ -5,12 +5,12 @@
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/IT-ServiceMax-Data-Developer_WD30272683) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/IT-ServiceMax-Data-Developer_WD30279177) |
 
 ## About This Role
 
-This data engineer position at Johnson Controls was posted on 2026-06-23.
+This data engineer position at Johnson Controls was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

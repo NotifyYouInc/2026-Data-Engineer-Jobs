@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Wrocław, Lower Silesia, Poland |
+| Location | Lviv, Lviv, Ukraine |
 | Category | Data Engineer |
 | Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000147505309-principal-data-platform-engineer-swedish-ad-platform) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000147508485-principal-data-platform-engineer-swedish-ad-platform) |
 
 ## About This Role
 

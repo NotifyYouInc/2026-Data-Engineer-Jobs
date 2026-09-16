@@ -5,12 +5,12 @@
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bellevue, Washington, United States |
 | Category | Data Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Software-Engineering-MTS_JR354808) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Software-Engineering-MTS_JR357265) |
 
 ## About This Role
 
-This data engineer position at Salesforce was posted on 2026-08-07.
+This data engineer position at Salesforce was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

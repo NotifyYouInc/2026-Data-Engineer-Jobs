@@ -5,12 +5,12 @@
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Doha, Baladīyat ad Dawḩah, Qatar |
 | Category | Data Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8102554) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8185700) |
 
 ## About This Role
 
-This data engineer position at Capco was posted on 2026-08-03.
+This data engineer position at Capco was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

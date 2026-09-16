@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Malvern, Arkansas, United States |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Engineer--Specialist_181665-1) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Hyderabad-India/Data-Engineer--Specialist-WT-Data-Initiatives_180495) |
 
 ## About This Role
 
-This data engineer position at Vanguard was posted on 2026-08-31.
+This data engineer position at Vanguard was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

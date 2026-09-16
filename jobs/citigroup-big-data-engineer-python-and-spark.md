@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Big-Data-Engineer---Python-and-Spark_26984829) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Big-Data-Engineer---Python-and-Spark_26989462) |
 
 ## About This Role
 
-This data engineer position at Citigroup was posted on 2026-08-19.
+This data engineer position at Citigroup was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

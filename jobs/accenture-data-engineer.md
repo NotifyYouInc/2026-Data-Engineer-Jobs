@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Data Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Data-Engineer_ATCI-5763035-S2067672-1) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Data-Engineer_ATCP-1478274-S427473) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-09-03.
+This data engineer position at Accenture was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

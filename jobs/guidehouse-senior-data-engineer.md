@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 3 locations |
+| Location | Huntsville, Alabama, United States |
 | Category | Data Engineer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---DC-Washington/Senior-Data-Engineer_43973) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---AL-Huntsville/Senior-Data-Engineer_44006) |
 
 ## About This Role
 
-This data engineer position at Guidehouse was posted on 2026-09-02.
+This data engineer position at Guidehouse was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
 | Category | Data Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000147447428-data-engineer-stockholm) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000147889741-data-engineer-stockholm) |
 
 ## About This Role
 
-This data engineer position at Sopra Steria was posted on 2026-09-04.
+This data engineer position at Sopra Steria was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

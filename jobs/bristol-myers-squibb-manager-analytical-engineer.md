@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | New Brunswick, New Jersey, United States |
 | Category | Data Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/New-Brunswick---NJ---US/Manager--Analytical-Engineer_R1605193) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/New-Brunswick---NJ---US/Manager--Analytical-Engineer_R1605963) |
 
 ## About This Role
 
-This data engineer position at Bristol-Myers Squibb was posted on 2026-08-10.
+This data engineer position at Bristol-Myers Squibb was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

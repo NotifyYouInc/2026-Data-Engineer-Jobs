@@ -5,12 +5,12 @@
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Data-Engineer_2021621) |
+| Posted | 2026-09-06 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Data-Engineer_2021625) |
 
 ## About This Role
 
-This data engineer position at Cisco was posted on 2026-09-04.
+This data engineer position at Cisco was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

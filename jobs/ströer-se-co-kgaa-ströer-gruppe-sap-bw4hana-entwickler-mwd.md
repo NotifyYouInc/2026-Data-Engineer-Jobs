@@ -5,12 +5,12 @@
 | Company | [Ströer SE & Co. KGaA (Ströer Gruppe)](https://scoutify.ai/companies/strersecokgaastrergruppe?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Köln, North Rhine-Westphalia, Germany |
 | Category | Data Engineer |
-| Posted | 2026-08-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StrerSECoKGaAStrerGruppe/744000146348639-sap-bw4hana-entwickler-mwd) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StrerSECoKGaAStrerGruppe/744000148423369-sap-bw4hana-entwickler-mwd) |
 
 ## About This Role
 
-This data engineer position at Ströer SE & Co. KGaA (Ströer Gruppe) was posted on 2026-08-30.
+This data engineer position at Ströer SE & Co. KGaA (Ströer Gruppe) was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

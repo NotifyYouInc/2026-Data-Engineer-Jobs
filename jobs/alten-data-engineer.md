@@ -1,16 +1,16 @@
-# DATA Engineer  at ALTEN
+# Data Engineer at ALTEN
 
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Rabat, Rabat-Salé-Kénitra, Morocco |
+| Location | Fes, Fès-Meknès, Morocco |
 | Category | Data Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000131484789-data-engineer) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000148444769-data-engineer) |
 
 ## About This Role
 
-This data engineer position at ALTEN was posted on 2026-06-10.
+This data engineer position at ALTEN was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

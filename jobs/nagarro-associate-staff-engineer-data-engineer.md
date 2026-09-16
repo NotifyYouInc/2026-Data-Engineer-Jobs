@@ -1,16 +1,16 @@
-# Associate Staff Engineer (Data Engineer) at Nagarro
+# Associate Staff Engineer - Data Engineer at Nagarro
 
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | Data Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000126285549-associate-staff-engineer-data-engineer) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000148300730-associate-staff-engineer-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Nagarro was posted on 2026-05-13.
+This data engineer position at Nagarro was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

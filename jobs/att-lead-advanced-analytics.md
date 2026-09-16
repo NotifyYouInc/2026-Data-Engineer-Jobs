@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Lead-Advanced-Analytics_R-100753) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Lead-Advanced-Analytics_R-121251) |
 
 ## About This Role
 
-This data engineer position at AT&T was posted on 2026-05-11.
+This data engineer position at AT&T was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Compeer Financial](https://scoutify.ai/companies/compeerfinancial?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 4 locations |
+| Location | 5 locations |
 | Category | Data Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/compeerfinancial/jobs/5289963008) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/compeerfinancial/jobs/5418709008) |
 
 ## About This Role
 
-This data engineer position at Compeer Financial was posted on 2026-07-02.
+This data engineer position at Compeer Financial was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

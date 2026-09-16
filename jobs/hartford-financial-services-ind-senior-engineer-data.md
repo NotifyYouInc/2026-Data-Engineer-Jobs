@@ -1,16 +1,16 @@
-# IND - Senior Engineer, Data at Hartford Financial Services
+# IND Senior Engineer, Data at Hartford Financial Services
 
 | Field | Details |
 |-------|---------|
 | Company | [Hartford Financial Services](https://scoutify.ai/companies/thehartford?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | India |
-| Category | Data Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND---Senior-Engineer--Data_R2624898) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Senior-Engineer--Data_R2626498) |
 
 ## About This Role
 
-This data engineer position at Hartford Financial Services was posted on 2026-04-20.
+This ai / llm engineer position at Hartford Financial Services was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

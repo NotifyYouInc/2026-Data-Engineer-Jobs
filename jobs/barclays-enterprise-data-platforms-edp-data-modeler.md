@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Canary Wharf, England, United Kingdom |
+| Location | Northampton, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Enterprise-Data-Platforms--EDP--Data-Modeler_JR-0000120445-1) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/Enterprise-Data-Platforms--EDP--Data-Modeler_JR-0000110951-1) |
 
 ## About This Role
 
-This data engineer position at Barclays was posted on 2026-07-23.
+This data engineer position at Barclays was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 
