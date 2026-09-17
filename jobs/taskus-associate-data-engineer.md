@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TaskUs](https://scoutify.ai/companies/taskus?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Colombia |
-| Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Colombia---Remote/Associate-Data-Engineer_R_2603_4118) |
+| Location | 6 locations |
+| Category | Data Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Pasig-NCR-Philippines---Remote/Associate-Data-Engineer_R_2609_11729) |
 
 ## About This Role
 
-This software engineer position at TaskUs was posted on 2026-03-18.
+This data engineer position at TaskUs was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

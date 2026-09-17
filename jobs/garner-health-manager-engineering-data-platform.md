@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Garner Health](https://scoutify.ai/companies/garnerhealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Engineering Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/garnerhealth/jobs/6001628004) |
+| Category | Data Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/garnerhealth/jobs/6186668004) |
 
 ## About This Role
 
-This engineering manager position at Garner Health was posted on 2026-05-20.
+This data engineer position at Garner Health was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

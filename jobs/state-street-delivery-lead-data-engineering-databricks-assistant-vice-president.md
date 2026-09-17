@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Project Manager |
+| Category | Data Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Delivery-Lead---Data-Engineering---Databricks---Assistant-Vice-President_R-797498) |
 
 ## About This Role
 
-This project manager position at State Street was posted on 2026-09-07.
+This data engineer position at State Street was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

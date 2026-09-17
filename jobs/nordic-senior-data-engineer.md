@@ -5,12 +5,12 @@
 | Company | [Nordic](https://scoutify.ai/companies/nordic?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-04-15 |
+| Posted | 2026-09-09 |
 | Apply | [View on company site](https://nordic.wd1.myworkdayjobs.com/nordic/job/US---National/Senior-Data-Engineer_R5526) |
 
 ## About This Role
 
-This data engineer position at Nordic was posted on 2026-04-15.
+This data engineer position at Nordic was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

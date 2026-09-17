@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Rotterdam, South Holland, The Netherlands |
+| Location | Brussels, Brussels Capital, Belgium |
 | Category | Data Engineer |
 | Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000147873524-senior-data-engineer-consultant) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000147948049-senior-data-engineer-consultant) |
 
 ## About This Role
 

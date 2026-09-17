@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Data Analyst |
+| Category | Data Engineer |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990015103716-data-systems-integration-analyst) |
 
 ## About This Role
 
-This data analyst position at Harvard University was posted on 2026-09-08.
+This data engineer position at Harvard University was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

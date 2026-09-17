@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Stafford, Texas, United States |
 | Category | Data Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000144398503-senior-data-engineer) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000148581747-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Eurofins Scientific was posted on 2026-08-19.
+This data engineer position at Eurofins Scientific was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

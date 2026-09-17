@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coface](https://scoutify.ai/companies/coface?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bois-Colombes, Île-de-France, France |
-| Category | AI / LLM Engineer |
+| Category | Data Engineer |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000148147599-data-ai-engineer-senior-hf) |
 
 ## About This Role
 
-This ai / llm engineer position at Coface was posted on 2026-09-08.
+This data engineer position at Coface was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

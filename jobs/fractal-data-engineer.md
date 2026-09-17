@@ -5,12 +5,12 @@
 | Company | [Fractal](https://scoutify.ai/companies/fractal?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 5 locations |
 | Category | Data Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/Bengaluru/Azure-Data-Engineer_SR-27473) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/Bengaluru/Data-Engineer_SR-43347) |
 
 ## About This Role
 
-This data engineer position at Fractal was posted on 2026-05-15.
+This data engineer position at Fractal was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

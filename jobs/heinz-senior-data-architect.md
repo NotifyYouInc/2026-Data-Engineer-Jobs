@@ -1,16 +1,16 @@
-# Senior Data Architect at Heinz
+# Senior – Data Architect at Heinz
 
 | Field | Details |
 |-------|---------|
 | Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-08-08 |
-| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Toronto---Queens-Quay---Headquarters/Senior-Data-Architect_R-105520) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Bengaluru---Brookfield-GCC/Senior---Data-Architect_R-106472) |
 
 ## About This Role
 
-This data engineer position at Heinz was posted on 2026-08-08.
+This data engineer position at Heinz was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

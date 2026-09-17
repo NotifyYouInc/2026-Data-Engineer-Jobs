@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Anthropic](https://scoutify.ai/companies/anthropic?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
-| Category | Go To Market Engineer |
+| Category | Data Engineer |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5418610008) |
 
 ## About This Role
 
-This go to market engineer position at Anthropic was posted on 2026-09-09.
+This data engineer position at Anthropic was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

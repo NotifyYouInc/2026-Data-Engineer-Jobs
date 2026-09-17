@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rhenus SE & Co.](https://scoutify.ai/companies/rhenus-se-co?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Subang Jaya, Selangor, Malaysia |
+| Location | 6 locations |
 | Category | Data Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://rhe.wd3.myworkdayjobs.com/r1111/job/Subang-Jaya-Malaysia/Senior-Data-Engineer_JR121905) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://rhe.wd3.myworkdayjobs.com/r1111/job/Holzwickede-Germany/Senior-Data-Engineer_JR125363) |
 
 ## About This Role
 
-This data engineer position at Rhenus SE & Co. was posted on 2026-08-07.
+This data engineer position at Rhenus SE & Co. was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

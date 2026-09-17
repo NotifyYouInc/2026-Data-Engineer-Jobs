@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GEDU Global Education](https://scoutify.ai/companies/ocs-cx-oj43039?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Manchester, England, United Kingdom |
+| Location | United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-06-26 |
+| Posted | 2026-09-10 |
 | Apply | [View on company site](https://geduglobal-iabmbn.fa.ocs.oraclecloud.com/jobs/#25775) |
 
 ## About This Role
 
-This data engineer position at GEDU Global Education was posted on 2026-06-26.
+This data engineer position at GEDU Global Education was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

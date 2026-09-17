@@ -5,12 +5,12 @@
 | Company | [Sertis](https://scoutify.ai/companies/sertis?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
 | Category | Data Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sertis/jobs/8748926002) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sertis/jobs/8793779002) |
 
 ## About This Role
 
-This data engineer position at Sertis was posted on 2026-08-26.
+This data engineer position at Sertis was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

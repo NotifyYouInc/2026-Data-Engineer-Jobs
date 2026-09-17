@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [About You](https://scoutify.ai/companies/aboutyou?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000145991059-senior-software-engineer-data-data-foundations-all-genders) |
+| Category | Data Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000148483939-senior-software-engineer-data-data-foundations-all-genders) |
 
 ## About This Role
 
-This software engineer position at About You was posted on 2026-08-27.
+This data engineer position at About You was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

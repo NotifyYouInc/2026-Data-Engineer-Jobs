@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SHI International](https://scoutify.ai/companies/shi-international?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
-| Category | Data Analyst |
+| Category | Data Engineer |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/Austin-TX-USA/Associate-Analytics-Engineer---Data---Visualization_JR3649) |
 
 ## About This Role
 
-This data analyst position at SHI International was posted on 2026-09-08.
+This data engineer position at SHI International was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

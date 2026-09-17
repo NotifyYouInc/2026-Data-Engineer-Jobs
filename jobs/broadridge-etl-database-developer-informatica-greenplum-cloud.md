@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadridge](https://scoutify.ai/companies/broadridge?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Bengaluru-EPIP-Industrial-Area/ETL---Database-Developer--Informatica---Greenplum---Cloud-_JR1081065) |
+| Location | Hyderabad, Telangana, India |
+| Category | Data Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Hyderabad-Hi-Tec-City/ETL---Database-Developer--Informatica---Greenplum---Cloud-_JR1084281) |
 
 ## About This Role
 
-This software engineer position at Broadridge was posted on 2026-03-06.
+This data engineer position at Broadridge was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

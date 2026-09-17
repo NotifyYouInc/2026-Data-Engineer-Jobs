@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital Group](https://scoutify.ai/companies/capgroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Charlotte, North Carolina, United States |
-| Category | Privacy & Data Protection |
+| Category | Learning & Development |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Charlotte/Data-Governance---Enablement-Specialist_JR6885) |
 
 ## About This Role
 
-This privacy & data protection position at Capital Group was posted on 2026-09-09.
+This learning & development position at Capital Group was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | 4 locations |
 | Category | Data Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/Palantir-Data-Pipeline---Metadata-Lead_38574) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/Palantir-Data-Pipeline---Metadata-Lead_44145) |
 
 ## About This Role
 
-This data engineer position at Guidehouse was posted on 2026-04-22.
+This data engineer position at Guidehouse was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

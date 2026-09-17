@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | India |
-| Category | Privacy & Data Protection |
+| Category | Data Engineer |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000148444239-staff-engineer-data-governance) |
 
 ## About This Role
 
-This privacy & data protection position at Nagarro was posted on 2026-09-09.
+This data engineer position at Nagarro was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

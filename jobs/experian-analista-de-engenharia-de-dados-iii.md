@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Data Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000129498559-analista-de-engenharia-de-dados-iii) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000148498479-analista-de-engenharia-de-dados-iii) |
 
 ## About This Role
 
-This data engineer position at Experian was posted on 2026-06-01.
+This data engineer position at Experian was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

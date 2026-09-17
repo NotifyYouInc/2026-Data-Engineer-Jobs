@@ -5,12 +5,12 @@
 | Company | [Flex](https://scoutify.ai/companies/flex?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/flex/jobs/4704697005) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/flex/jobs/4732132005) |
 
 ## About This Role
 
-This data engineer position at Flex was posted on 2026-06-10.
+This data engineer position at Flex was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

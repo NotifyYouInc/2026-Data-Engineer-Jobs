@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Engineering Manager |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Manager--Data-Engineering-and-Analytics_R-0000176148) |
+| Category | Data Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Manager--Data-Engineering-and-Analytics_R-0000174095) |
 
 ## About This Role
 
-This engineering manager position at Royal Bank of Canada was posted on 2026-06-15.
+This data engineer position at Royal Bank of Canada was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

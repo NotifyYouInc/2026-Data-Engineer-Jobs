@@ -5,12 +5,12 @@
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Doral, Florida, United States |
 | Category | Data Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Doral-FL-US/SCOPES-Data-Integrator-Data-Engineer_330182) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Doral-FL-US/SCOPES-Data-Integrator-Data-Engineer_331713) |
 
 ## About This Role
 
-This data engineer position at CACI was posted on 2026-08-06.
+This data engineer position at CACI was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

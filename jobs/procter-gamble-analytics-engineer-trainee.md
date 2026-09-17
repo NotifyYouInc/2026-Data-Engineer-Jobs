@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Data Analyst |
+| Category | Data Engineer |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/WARSAW-PLANT--GO/Analytics-Engineer-Trainee_R000153059) |
 
 ## About This Role
 
-This data analyst position at Procter & Gamble was posted on 2026-09-08.
+This data engineer position at Procter & Gamble was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

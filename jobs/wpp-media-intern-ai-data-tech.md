@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WPP Media](https://scoutify.ai/companies/wpp-media?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Oslo, Oslo, Norway |
-| Category | AI / LLM Engineer |
+| Category | Data Engineer |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5413592008) |
 
 ## About This Role
 
-This ai / llm engineer position at WPP Media was posted on 2026-09-08.
+This data engineer position at WPP Media was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

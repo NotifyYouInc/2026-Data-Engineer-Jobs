@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Minneapolis, Minnesota, United States |
-| Category | Software Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Data-Product-Engineer_2026-0000463) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Data Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Data-Product-Engineer_2026-0025758) |
 
 ## About This Role
 
-This software engineer position at U.S. Bancorp was posted on 2026-05-21.
+This data engineer position at U.S. Bancorp was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

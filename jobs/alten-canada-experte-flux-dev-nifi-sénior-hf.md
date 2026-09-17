@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
-| Category | Data Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000139008329-experte-flux-dev-nifi-senior-hf) |
+| Category | DevOps Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000148691749-experte-flux-dev-nifi-senior-hf) |
 
 ## About This Role
 
-This data engineer position at ALTEN Canada was posted on 2026-07-22.
+This devops engineer position at ALTEN Canada was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

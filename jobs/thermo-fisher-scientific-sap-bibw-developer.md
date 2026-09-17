@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Quezon City, National Capital Region, Philippines |
-| Category | Data Analyst |
+| Category | Data Engineer |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Quezon-City-Philippines/SAP-BI-BW-Developer_R-01365149) |
 
 ## About This Role
 
-This data analyst position at Thermo Fisher Scientific was posted on 2026-09-08.
+This data engineer position at Thermo Fisher Scientific was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

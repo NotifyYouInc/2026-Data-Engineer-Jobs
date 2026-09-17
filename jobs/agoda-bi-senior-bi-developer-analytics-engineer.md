@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Agoda](https://scoutify.ai/companies/agoda?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
-| Category | Data Analyst |
+| Category | Data Engineer |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/agoda/jobs/8169329) |
 
 ## About This Role
 
-This data analyst position at Agoda was posted on 2026-09-08.
+This data engineer position at Agoda was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

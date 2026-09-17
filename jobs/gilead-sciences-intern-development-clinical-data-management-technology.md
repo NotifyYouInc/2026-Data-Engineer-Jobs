@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gilead Sciences](https://scoutify.ai/companies/gilead-sciences?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Foster City, California, United States |
-| Category | AI / LLM Engineer |
+| Category | Data Engineer |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Development---Clinical-Data-Management--Technology_R0054707) |
 
 ## About This Role
 
-This ai / llm engineer position at Gilead Sciences was posted on 2026-09-08.
+This data engineer position at Gilead Sciences was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

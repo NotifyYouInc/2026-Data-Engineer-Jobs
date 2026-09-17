@@ -5,12 +5,12 @@
 | Company | [Highmark Health](https://scoutify.ai/companies/highmarkhealth?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Arkansas, US |
 | Category | Data Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Data-Engineer_J280694) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Data-Engineer_J286293) |
 
 ## About This Role
 
-This data engineer position at Highmark Health was posted on 2026-05-11.
+This data engineer position at Highmark Health was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

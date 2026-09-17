@@ -6,7 +6,7 @@
 | Location | Brussels, Brussels Capital, Belgium |
 | Category | Data Engineer |
 | Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000147857739-senior-data-engineer-mwd) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000147975669-senior-data-engineer-mwd) |
 
 ## About This Role
 
