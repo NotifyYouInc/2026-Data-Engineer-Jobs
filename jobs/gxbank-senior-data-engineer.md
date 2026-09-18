@@ -5,12 +5,12 @@
 | Company | [GXBank](https://scoutify.ai/companies/gxbank?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Data Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://gxs.wd3.myworkdayjobs.com/gx_bank/job/Petaling-Jaya-First-Avenue/Senior-Data-Engineer_R-2026-04-101826) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://gxs.wd3.myworkdayjobs.com/gx_bank/job/Petaling-Jaya-First-Avenue/Senior-Data-Engineer_R-2026-09-101957) |
 
 ## About This Role
 
-This data engineer position at GXBank was posted on 2026-04-21.
+This data engineer position at GXBank was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airwallex](https://scoutify.ai/companies/airwallex?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Singapore, Singapore |
-| Category | Software Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/d02347a4-9193-45f6-b267-fc52fbc3b6b3) |
+| Location | Seattle, Washington, United States |
+| Category | Data Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/396cd4cf-a1c6-47fa-829b-b7ee6c963206) |
 
 ## About This Role
 
-This software engineer position at Airwallex was posted on 2026-03-27.
+This data engineer position at Airwallex was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

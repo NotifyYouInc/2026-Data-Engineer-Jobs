@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bloemfontein, Free State, South Africa |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/South-Africa-Bloemfontein-Remote/Senior-Clinical-Data-Engineer_R0000043521) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/India---Hyderabad/Senior-Clinical-Data-Engineer_R0000045822) |
 
 ## About This Role
 
-This data engineer position at Parexel was posted on 2026-07-09.
+This data engineer position at Parexel was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

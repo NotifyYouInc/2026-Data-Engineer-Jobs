@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Athens, Attica, Greece |
-| Category | Data Engineer |
+| Category | Data Analyst |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000148490776-senior-bi-engineer) |
 
 ## About This Role
 
-This data engineer position at Netcompany was posted on 2026-09-09.
+This data analyst position at Netcompany was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

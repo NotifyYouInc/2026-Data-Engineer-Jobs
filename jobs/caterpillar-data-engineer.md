@@ -5,12 +5,12 @@
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Data-Engineer_R0000391710) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Data-Engineer_R0000393551-1) |
 
 ## About This Role
 
-This data engineer position at Caterpillar was posted on 2026-09-01.
+This data engineer position at Caterpillar was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

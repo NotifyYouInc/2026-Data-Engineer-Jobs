@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AB InBev  | Growth Group](https://scoutify.ai/companies/ab-inbev-growth-group?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Brazil |
+| Location | Campinas, São Paulo, Brazil |
 | Category | Data Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/abinbev/jobs/8617833002) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/abinbev/jobs/8687610002) |
 
 ## About This Role
 
-This data engineer position at AB InBev  | Growth Group was posted on 2026-07-02.
+This data engineer position at AB InBev  | Growth Group was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

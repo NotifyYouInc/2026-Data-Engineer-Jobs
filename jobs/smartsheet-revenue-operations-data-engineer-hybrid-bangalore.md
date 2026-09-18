@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Smartsheet](https://scoutify.ai/companies/smartsheet?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Revenue / Sales Operations |
-| Posted | 2026-06-05 |
+| Category | Data Engineer |
+| Posted | 2026-09-11 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/smartsheet/jobs/7985024) |
 
 ## About This Role
 
-This revenue / sales operations position at Smartsheet was posted on 2026-06-05.
+This data engineer position at Smartsheet was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

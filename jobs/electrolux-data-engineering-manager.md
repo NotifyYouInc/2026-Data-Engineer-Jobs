@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
-| Category | Engineering Manager |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Stockholm/Data-Engineering-Manager_JR75611) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Bangalore/Data-Engineering-Manager_JR80906) |
 
 ## About This Role
 
-This engineering manager position at Electrolux was posted on 2026-04-16.
+This data engineer position at Electrolux was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

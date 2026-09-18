@@ -1,16 +1,16 @@
-# Software Developer – Cloud & Distributed Systems at Hewlett Packard Enterprise
+# Software Developer Cloud & Distributed Systems at Hewlett Packard Enterprise
 
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Cupertino, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Cupertino-California-United-States-of-America/Software-Developer---Cloud---Distributed-Systems_1202451-3) |
+| Location | San Juan, Texas, United States |
+| Category | Data Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/San-Juan-Puerto-Rico-Puerto-Rico/Software-Developer-Cloud---Distributed-Systems_1213218) |
 
 ## About This Role
 
-This software engineer position at Hewlett Packard Enterprise was posted on 2026-02-09.
+This data engineer position at Hewlett Packard Enterprise was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

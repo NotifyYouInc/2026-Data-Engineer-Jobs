@@ -5,12 +5,12 @@
 | Company | [Mass General Brigham](https://scoutify.ai/companies/mass-general-brigham?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Somerville, Massachusetts, United States |
 | Category | Data Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Data-Engineer_RQ4062120) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Data-Engineer_RQ4075315-1) |
 
 ## About This Role
 
-This data engineer position at Mass General Brigham was posted on 2026-05-05.
+This data engineer position at Mass General Brigham was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

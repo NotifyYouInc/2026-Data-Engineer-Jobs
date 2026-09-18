@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Mérignac, Nouvelle-Aquitaine, France |
 | Category | Data Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000143463074-ingenieure-data-services-publics-bordeaux) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000148962648-ingenieure-data-services-publics-bordeaux) |
 
 ## About This Role
 
-This data engineer position at Sopra Steria was posted on 2026-08-14.
+This data engineer position at Sopra Steria was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

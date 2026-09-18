@@ -5,12 +5,12 @@
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Edinburgh, Scotland, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Edinburgh/Staff-Analytics-Engineer_R5037411-2) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Edinburgh/Staff-Analytics-Engineer_R5052348-2) |
 
 ## About This Role
 
-This data engineer position at GE Vernova was posted on 2026-04-17.
+This data engineer position at GE Vernova was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

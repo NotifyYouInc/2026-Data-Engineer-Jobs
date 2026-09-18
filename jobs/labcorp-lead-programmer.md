@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Burlington-NC/Lead-Programmer_2622853) |
+| Category | Data Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Durham-NC/Lead-Programmer_2632135) |
 
 ## About This Role
 
-This software engineer position at Labcorp was posted on 2026-07-20.
+This data engineer position at Labcorp was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

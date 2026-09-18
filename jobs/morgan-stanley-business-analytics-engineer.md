@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | Data Engineer |
+| Category | Data Analyst |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Budapest-Hungary/Business-Analytics-Engineer_JR043287) |
 
 ## About This Role
 
-This data engineer position at Morgan Stanley was posted on 2026-09-09.
+This data analyst position at Morgan Stanley was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

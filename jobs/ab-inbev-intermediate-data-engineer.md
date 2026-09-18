@@ -5,12 +5,12 @@
 | Company | [AB InBev](https://scoutify.ai/companies/bees?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Campinas, São Paulo, Brazil |
 | Category | Data Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/bees/jobs/8615395002) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/bees/jobs/8687612002) |
 
 ## About This Role
 
-This data engineer position at AB InBev was posted on 2026-07-29.
+This data engineer position at AB InBev was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

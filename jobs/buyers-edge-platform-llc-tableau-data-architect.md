@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Buyers Edge Platform, LLC](https://scoutify.ai/companies/buyers-edge-platform-llc?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United States |
+| Location | 5 locations |
 | Category | Data Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/buyersedgeplatformrecruiting/jobs/4706911005) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/buyersedgeplatformrecruiting/jobs/4732353005) |
 
 ## About This Role
 
-This data engineer position at Buyers Edge Platform, LLC was posted on 2026-06-17.
+This data engineer position at Buyers Edge Platform, LLC was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

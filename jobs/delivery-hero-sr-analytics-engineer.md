@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Montevideo, Montevideo Department, Uruguay |
 | Category | Data Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000137946659-sr-analytics-engineer) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000148810860-sr-analytics-engineer) |
 
 ## About This Role
 
-This data engineer position at Delivery Hero was posted on 2026-07-15.
+This data engineer position at Delivery Hero was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

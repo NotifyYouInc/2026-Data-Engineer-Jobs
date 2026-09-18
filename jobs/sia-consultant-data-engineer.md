@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Brussels, Brussels Capital, Belgium |
 | Category | DevOps Engineer |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000147944354-consultant-data-engineer) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000148525649-consultant-data-engineer) |
 
 ## About This Role
 
-This devops engineer position at SIA was posted on 2026-09-07.
+This devops engineer position at SIA was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

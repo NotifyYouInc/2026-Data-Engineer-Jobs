@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FactSet](https://scoutify.ai/companies/factset?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/Hyderabad-IND/Senior-Oil---Gas-Data-Specialist_R31506) |
+| Location | Lakewood, Colorado, United States |
+| Category | Data Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/Lakewood-CO-USA/Senior-Oil---Gas-Data-Specialist_R33084) |
 
 ## About This Role
 
-This software engineer position at FactSet was posted on 2026-03-03.
+This data engineer position at FactSet was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

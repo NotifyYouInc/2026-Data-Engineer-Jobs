@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-02-24 |
+| Posted | 2026-09-11 |
 | Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/IT-Analyst-Applications---Data-Engineer---AI---Analytics--_R0000352638) |
 
 ## About This Role
 
-This data engineer position at Caterpillar was posted on 2026-02-24.
+This data engineer position at Caterpillar was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

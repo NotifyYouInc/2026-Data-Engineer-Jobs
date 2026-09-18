@@ -5,12 +5,12 @@
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Nashville, Tennessee, United States |
 | Category | Data Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Nashville-Tennessee/Customer-360---MDM-Data-Specialist_R0000385363) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Nashville-Tennessee/Customer-360---MDM-Data-Specialist_R0000393636) |
 
 ## About This Role
 
-This data engineer position at Caterpillar Inc. was posted on 2026-07-28.
+This data engineer position at Caterpillar Inc. was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

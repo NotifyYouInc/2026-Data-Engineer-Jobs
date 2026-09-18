@@ -1,16 +1,16 @@
-# Extracurricular internship: Agile Moderator & Data Engineering (f/m/div.) at Robert Bosch
+# Extracurricular Internship: Agile Moderator & Data Engineering (f/m/div.) at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Aveiro, Aveiro, Portugal |
-| Category | Scrum Master & Agile Coach |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000132211784-extracurricular-internship-agile-moderator-data-engineering-fmdiv) |
+| Category | Data Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000148963738-extracurricular-internship-agile-moderator-data-engineering-fmdiv) |
 
 ## About This Role
 
-This scrum master & agile coach position at Robert Bosch was posted on 2026-06-15.
+This data engineer position at Robert Bosch was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United States |
-| Category | Software Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Data-Engineer_R-406270) |
+| Location | 11 locations |
+| Category | Data Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Data-Engineer_R-423900) |
 
 ## About This Role
 
-This software engineer position at Humana was posted on 2026-03-09.
+This data engineer position at Humana was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 
