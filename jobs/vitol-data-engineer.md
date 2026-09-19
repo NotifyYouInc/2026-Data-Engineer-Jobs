@@ -1,16 +1,16 @@
-# Data Engineer at Vitol
+# Data Engineer  at Vitol
 
 | Field | Details |
 |-------|---------|
 | Company | [Vitol](https://scoutify.ai/companies/vitol?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Houston, Texas, United States |
 | Category | Data Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/vitol/744000135281449-data-engineer) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/vitol/744000149109634-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Vitol was posted on 2026-07-01.
+This data engineer position at Vitol was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

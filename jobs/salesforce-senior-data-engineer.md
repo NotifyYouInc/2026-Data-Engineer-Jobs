@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | 3 locations |
 | Category | Data Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Senior-Data-Engineer_JR353458) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Georgia---Atlanta/Senior-Data-Engineer_JR359294-1) |
 
 ## About This Role
 
-This data engineer position at Salesforce was posted on 2026-08-06.
+This data engineer position at Salesforce was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

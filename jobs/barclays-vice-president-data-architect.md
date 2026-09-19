@@ -1,16 +1,16 @@
-# Vice President - Data Architect at Barclays
+# Vice President Data Architect at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Glasgow, Scotland, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Vice-President---Data-Architect_JR-0000114658) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Vice-President-Data-Architect_JR-0000103928) |
 
 ## About This Role
 
-This data engineer position at Barclays was posted on 2026-05-25.
+This data engineer position at Barclays was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

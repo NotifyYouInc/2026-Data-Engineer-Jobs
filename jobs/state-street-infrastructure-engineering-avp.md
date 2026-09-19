@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Quincy, Massachusetts, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-17 |
+| Posted | 2026-09-11 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Infrastructure-Engineering--AVP_R-788563-2) |
 
 ## About This Role
 
-This data engineer position at State Street was posted on 2026-04-17.
+This data engineer position at State Street was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

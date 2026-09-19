@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 4 locations |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-08-23 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Noida-India/Data-Engineer_R26-6299) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/India-New-Delhi-Noida/Data-Engineer_R26-6910) |
 
 ## About This Role
 
-This data engineer position at Rockwell Automation was posted on 2026-08-23.
+This data engineer position at Rockwell Automation was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

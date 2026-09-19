@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Barcelona, Catalonia, Spain |
-| Category | Data Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Barcelona-La-Rotonda/Senior-Data---GenAI-Engineer-Consultant---Barcelona_R00355629) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-09-09.
+This ai / llm engineer position at Accenture was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

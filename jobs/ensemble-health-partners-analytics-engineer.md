@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ensemble Health Partners](https://scoutify.ai/companies/ensemble-health-partners?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | United States |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Analytics-Engineer_R041558) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Austin-TX/Data-Engineer_R40515) |
 
 ## About This Role
 
-This data engineer position at Ensemble Health Partners was posted on 2026-03-26.
+This data engineer position at Ensemble Health Partners was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

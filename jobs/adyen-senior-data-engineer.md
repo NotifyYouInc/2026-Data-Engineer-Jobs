@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adyen](https://scoutify.ai/companies/adyen?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | São José dos Campos, São Paulo, Brazil |
+| Location | San Francisco, California, United States |
 | Category | Data Engineer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/8173310) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7806510) |
 
 ## About This Role
 
-This data engineer position at Adyen was posted on 2026-09-02.
+This data engineer position at Adyen was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

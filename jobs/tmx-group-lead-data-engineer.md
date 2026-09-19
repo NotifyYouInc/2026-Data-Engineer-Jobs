@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TMX Group](https://scoutify.ai/companies/tmx-group?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-12 |
+| Category | Data Engineer |
+| Posted | 2026-09-11 |
 | Apply | [View on company site](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/New-York---225-Liberty-Street/Lead-Data-Engineer_R-5842) |
 
 ## About This Role
 
-This software engineer position at TMX Group was posted on 2026-03-12.
+This data engineer position at TMX Group was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

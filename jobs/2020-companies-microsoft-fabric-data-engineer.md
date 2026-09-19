@@ -5,12 +5,12 @@
 | Company | [2020 Companies](https://scoutify.ai/companies/2020-companies?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Atlanta-GA/Microsoft-Fabric-Data-Engineer_REQ_110372-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Atlanta-GA/Microsoft-Fabric-Data-Engineer_REQ_112741) |
 
 ## About This Role
 
-This data engineer position at 2020 Companies was posted on 2026-08-12.
+This data engineer position at 2020 Companies was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

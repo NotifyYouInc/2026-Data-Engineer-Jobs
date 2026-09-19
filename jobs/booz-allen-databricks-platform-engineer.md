@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Ashburn, Virginia, United States |
-| Category | Data Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Ashburn-VA/Databricks-Platform-Engineer_R0237702) |
+| Location | McLean, Virginia, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Databricks-Platform-Engineer_R0249295) |
 
 ## About This Role
 
-This data engineer position at Booz Allen was posted on 2026-04-14.
+This devops engineer position at Booz Allen was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 
