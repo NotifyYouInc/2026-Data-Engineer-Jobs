@@ -1,16 +1,16 @@
-# Consultant Data Engineer at SIA
+# Systems Engineer II at Fivetran
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
+| Company | [Fivetran](https://scoutify.ai/companies/fivetran?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Novi Sad, Vojvodina, Serbia |
 | Category | Data Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000148774849-consultant-data-engineer) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7818378003) |
 
 ## About This Role
 
-This data engineer position at SIA was posted on 2026-09-10.
+This data engineer position at Fivetran was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

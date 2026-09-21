@@ -1,16 +1,16 @@
-# Senior Data Engineer - Platform at Ebury
+# Senior Data Engineer - Platform  at Ebury
 
 | Field | Details |
 |-------|---------|
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Porto, Porto, Portugal |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ebury/jobs/4964084101) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ebury/jobs/4975549101) |
 
 ## About This Role
 
-This data engineer position at Ebury was posted on 2026-08-31.
+This data engineer position at Ebury was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

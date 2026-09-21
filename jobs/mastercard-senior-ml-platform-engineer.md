@@ -1,16 +1,16 @@
-# Senior Manager-Data Engineer at WPP Media
+# Senior ML Platform Engineer at Mastercard
 
 | Field | Details |
 |-------|---------|
-| Company | [WPP Media](https://scoutify.ai/companies/wpp-media?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Not specified |
+| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Budapest, Budapest, Hungary |
 | Category | Data Engineer |
 | Posted | 2026-09-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5410384008) |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Budapest-Hungary/Senior-ML-Platform-Engineer_R-288698) |
 
 ## About This Role
 
-This data engineer position at WPP Media was posted on 2026-09-14.
+This data engineer position at Mastercard was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

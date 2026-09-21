@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Entegris](https://scoutify.ai/companies/entegris?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Round Rock, Texas, United States |
-| Category | AI / LLM Engineer |
+| Category | Data Engineer |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Round-Rock-TX/IT-Digital-Ops---Supply-Chain-Data-Co-Op_REQ-14413) |
 
 ## About This Role
 
-This ai / llm engineer position at Entegris was posted on 2026-09-09.
+This data engineer position at Entegris was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

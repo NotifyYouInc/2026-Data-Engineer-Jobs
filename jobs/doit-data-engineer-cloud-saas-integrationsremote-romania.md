@@ -1,16 +1,16 @@
-# Consultant Data Engineer at SIA
+# Data Engineer - Cloud & SaaS Integrations(Remote Romania) at DoiT
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
+| Company | [DoiT](https://scoutify.ai/companies/doit?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Estonia |
 | Category | Data Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000148774849-consultant-data-engineer) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/doitintl/jobs/7993828003) |
 
 ## About This Role
 
-This data engineer position at SIA was posted on 2026-09-10.
+This data engineer position at DoiT was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

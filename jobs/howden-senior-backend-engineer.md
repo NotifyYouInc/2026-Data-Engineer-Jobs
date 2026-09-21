@@ -1,16 +1,16 @@
-# Senior Manager-Data Engineer at WPP Media
+# Senior Backend Engineer at Howden
 
 | Field | Details |
 |-------|---------|
-| Company | [WPP Media](https://scoutify.ai/companies/wpp-media?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Not specified |
+| Company | [Howden](https://scoutify.ai/companies/howden?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Athens, Attica, Greece |
 | Category | Data Engineer |
 | Posted | 2026-09-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5410384008) |
+| Apply | [View on company site](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/Athens---Kifissias-Ave/Senior-Backend-Engineer_R0019185-1) |
 
 ## About This Role
 
-This data engineer position at WPP Media was posted on 2026-09-14.
+This data engineer position at Howden was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

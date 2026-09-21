@@ -1,16 +1,16 @@
-# Senior Data Engineer at Leonardocompany
+# Senior Engineering Manager – Data Engineering - Bristol, UK (Hybrid) at Immersivelabs
 
 | Field | Details |
 |-------|---------|
-| Company | [Leonardocompany](https://scoutify.ai/companies/leonardocompany?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Immersivelabs](https://scoutify.ai/companies/immersivelabs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bristol, England, United Kingdom |
 | Category | Data Engineer |
 | Posted | 2026-09-14 |
-| Apply | [View on company site](https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/GB---Bristol---Coldharbour-Lane/Senior-Data-Engineer_R0033100) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/immersivelabs/593672b5-19cc-49fc-b631-2ef82baac15f) |
 
 ## About This Role
 
-This data engineer position at Leonardocompany was posted on 2026-09-14.
+This data engineer position at Immersivelabs was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Consultant Data Engineer at SIA
+# Data & Technology Graduate at EDF UK
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
+| Company | [EDF UK](https://scoutify.ai/companies/edf-uk?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000148774849-consultant-data-engineer) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/edf-uk/744000149299569-data-technology-graduate) |
 
 ## About This Role
 
-This data engineer position at SIA was posted on 2026-09-10.
+This data engineer position at EDF UK was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

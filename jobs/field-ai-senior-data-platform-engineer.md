@@ -1,16 +1,16 @@
-# Consultant Data Engineer at SIA
+# Senior Data Platform Engineer at Field AI
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
+| Company | [Field AI](https://scoutify.ai/companies/field-ai?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Irvine, California, United States |
 | Category | Data Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000148774849-consultant-data-engineer) |
+| Posted | 2026-09-13 |
+| Apply | [View on company site](https://jobs.lever.co/field-ai/57ebf22c-7a7d-48ba-ad41-4d0732bc7110) |
 
 ## About This Role
 
-This data engineer position at SIA was posted on 2026-09-10.
+This data engineer position at Field AI was posted on 2026-09-13.
 
 ## Get Real-Time Alerts
 

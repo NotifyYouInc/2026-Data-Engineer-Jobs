@@ -5,12 +5,12 @@
 | Company | [Evolution Gaming Group](https://scoutify.ai/companies/evolutiongaminggroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Tbilisi, Tbilisi, Georgia |
 | Category | Data Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Evolution/744000129468154-risk-and-integrity-data-engineer) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Evolution/744000149254829-risk-and-integrity-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Evolution Gaming Group was posted on 2026-06-01.
+This data engineer position at Evolution Gaming Group was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

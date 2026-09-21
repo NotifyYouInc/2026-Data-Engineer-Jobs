@@ -1,16 +1,16 @@
-# Consultant Data Engineer at SIA
+# Principal Backend Engineer (Analytics) at Zscaler
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
+| Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Israel |
 | Category | Data Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000148774849-consultant-data-engineer) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5220291007) |
 
 ## About This Role
 
-This data engineer position at SIA was posted on 2026-09-10.
+This data engineer position at Zscaler was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

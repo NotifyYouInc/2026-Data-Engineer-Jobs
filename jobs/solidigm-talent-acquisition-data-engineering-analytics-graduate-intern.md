@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Solidigm](https://scoutify.ai/companies/solidigm?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Rancho Cordova, California, United States |
-| Category | Data Analyst |
+| Category | Talent Acquisition / Recruiting |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Solidigm/744000148610610-talent-acquisition-data-engineering-analytics-graduate-intern) |
 
 ## About This Role
 
-This data analyst position at Solidigm was posted on 2026-09-09.
+This talent acquisition / recruiting position at Solidigm was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Manager-Data Engineer at WPP Media
+# Junior Dataspecialist at AFRY
 
 | Field | Details |
 |-------|---------|
-| Company | [WPP Media](https://scoutify.ai/companies/wpp-media?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Not specified |
-| Category | Data Engineer |
+| Company | [AFRY](https://scoutify.ai/companies/afry?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Örnsköldsvik, Västernorrland, Sweden |
+| Category | Data Analyst |
 | Posted | 2026-09-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5410384008) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000149304159-junior-dataspecialist) |
 
 ## About This Role
 
-This data engineer position at WPP Media was posted on 2026-09-14.
+This data analyst position at AFRY was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

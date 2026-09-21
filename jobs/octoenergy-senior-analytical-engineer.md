@@ -1,16 +1,16 @@
-# Consultant Data Engineer at SIA
+# Senior Analytical Engineer at Octoenergy
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
+| Company | [Octoenergy](https://scoutify.ai/companies/octoenergy?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Paris, Île-de-France, France |
 | Category | Data Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000148774849-consultant-data-engineer) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.lever.co/octoenergy/c7df2ec9-86e0-4169-b59a-c9eb072ff780) |
 
 ## About This Role
 
-This data engineer position at SIA was posted on 2026-09-10.
+This data engineer position at Octoenergy was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

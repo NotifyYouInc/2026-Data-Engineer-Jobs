@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Data Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000146637189-senior-data-engineer-databricks-hf) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000149258204-senior-data-engineer-databricks-hf) |
 
 ## About This Role
 
-This data engineer position at Devoteam was posted on 2026-09-01.
+This data engineer position at Devoteam was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Manager-Data Engineer at WPP Media
+# Data & AI Engineering | Talent Community at Launchpad Technologies
 
 | Field | Details |
 |-------|---------|
-| Company | [WPP Media](https://scoutify.ai/companies/wpp-media?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [Launchpad Technologies](https://scoutify.ai/companies/launchpad-technologies?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Not specified |
 | Category | Data Engineer |
 | Posted | 2026-09-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5410384008) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/launchpadtechnologiesinc/jobs/4713024006) |
 
 ## About This Role
 
-This data engineer position at WPP Media was posted on 2026-09-14.
+This data engineer position at Launchpad Technologies was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Data Engineer at JLL
+# Associate - Analytics Solutions at JPMorgan Chase
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Senior-Data-Engineer_REQ534518) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789986) |
 
 ## About This Role
 
-This data engineer position at JLL was posted on 2026-09-11.
+This data engineer position at JPMorgan Chase was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

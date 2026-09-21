@@ -1,16 +1,16 @@
-# Consultant Data Engineer at SIA
+# Senior Data Engineer at Rackner
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
+| Company | [Rackner](https://scoutify.ai/companies/rackner?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000148774849-consultant-data-engineer) |
+| Posted | 2026-09-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/rackner/jobs/4733526005) |
 
 ## About This Role
 
-This data engineer position at SIA was posted on 2026-09-10.
+This data engineer position at Rackner was posted on 2026-09-13.
 
 ## Get Real-Time Alerts
 

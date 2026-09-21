@@ -1,16 +1,16 @@
-# Sr Data Engineer at Delivery Hero
+# Sr Data Engineer  at Delivery Hero
 
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Data Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000144597020-sr-data-engineer) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000149315237-sr-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Delivery Hero was posted on 2026-08-20.
+This data engineer position at Delivery Hero was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

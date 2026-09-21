@@ -1,16 +1,16 @@
-# Consultant Data Engineer at SIA
+# Senior Data Engineer  at Billups
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
+| Company | [Billups](https://scoutify.ai/companies/billups?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Serbia |
 | Category | Data Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000148774849-consultant-data-engineer) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/billups/fc06c66c-15f3-4b11-9286-298dac998ce6) |
 
 ## About This Role
 
-This data engineer position at SIA was posted on 2026-09-10.
+This data engineer position at Billups was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

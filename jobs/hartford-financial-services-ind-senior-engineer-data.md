@@ -5,12 +5,12 @@
 | Company | [Hartford Financial Services](https://scoutify.ai/companies/thehartford?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | India |
 | Category | Data Engineer |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Senior-Engineer--Data_R2626498) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/Staff-Engineer-Data-Engineering_R2625667) |
 
 ## About This Role
 
-This data engineer position at Hartford Financial Services was posted on 2026-09-08.
+This data engineer position at Hartford Financial Services was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

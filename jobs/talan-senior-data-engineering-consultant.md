@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000131701509-senior-data-engineering-consultant) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000149265602-senior-data-engineering-consultant) |
 
 ## About This Role
 
-This data engineer position at Talan was posted on 2026-06-11.
+This data engineer position at Talan was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Manager-Data Engineer at WPP Media
+# Data Engineer - Telemetry Data (m/w/d) at VusionGroup SA
 
 | Field | Details |
 |-------|---------|
-| Company | [WPP Media](https://scoutify.ai/companies/wpp-media?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Not specified |
+| Company | [VusionGroup SA](https://scoutify.ai/companies/vusiongroup-sa?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Location | Austria |
 | Category | Data Engineer |
 | Posted | 2026-09-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5410384008) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/vusiongroupsa/744000149284934-data-engineer-telemetry-data-mwd) |
 
 ## About This Role
 
-This data engineer position at WPP Media was posted on 2026-09-14.
+This data engineer position at VusionGroup SA was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 
