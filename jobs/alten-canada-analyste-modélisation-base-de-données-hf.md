@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Grenoble, Rhône-Alpes, France |
 | Category | Data Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000132346729-analyste-modelisation-base-de-donnees-hf) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000149522014-analyste-modelisation-base-de-donnees-hf) |
 
 ## About This Role
 
-This data engineer position at ALTEN Canada was posted on 2026-06-16.
+This data engineer position at ALTEN Canada was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

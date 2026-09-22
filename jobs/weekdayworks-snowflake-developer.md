@@ -5,12 +5,12 @@
 | Company | [Weekdayworks](https://scoutify.ai/companies/weekdayworks?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.lever.co/weekdayworks/48a8bb50-5134-403d-9ba9-d8e8e37c7f4c) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.lever.co/weekdayworks/ad34bb25-997a-4a67-aa93-45419e2ae0d4) |
 
 ## About This Role
 
-This data engineer position at Weekdayworks was posted on 2026-07-22.
+This data engineer position at Weekdayworks was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

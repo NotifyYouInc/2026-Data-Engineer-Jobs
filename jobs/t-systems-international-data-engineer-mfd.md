@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Systems International](https://scoutify.ai/companies/tsystemsinternational?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 7 locations |
+| Location | Granada, Andalusia, Spain |
 | Category | Data Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000148812519-data-engineer-mfd) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000148979120-data-engineer-mfd) |
 
 ## About This Role
 
-This data engineer position at T-Systems International was posted on 2026-09-10.
+This data engineer position at T-Systems International was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

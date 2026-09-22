@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Alpharetta, Georgia, United States |
+| Location | Kerala, IN |
 | Category | Data Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Georgia---Alpharetta---30005/Data-Engineer_J00177602-1) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Trivandrum-Equifax-Analytics-PEC/Data-Engineer_J00178023) |
 
 ## About This Role
 
-This data engineer position at Equifax was posted on 2026-06-19.
+This data engineer position at Equifax was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

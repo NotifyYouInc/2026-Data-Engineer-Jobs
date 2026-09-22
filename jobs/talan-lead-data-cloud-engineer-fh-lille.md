@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Lille, Hauts-de-France, France |
-| Category | DevOps Engineer |
+| Category | Data Engineer |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000148944411-lead-data-cloud-engineer-fh-lille) |
 
 ## About This Role
 
-This devops engineer position at Talan was posted on 2026-09-11.
+This data engineer position at Talan was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

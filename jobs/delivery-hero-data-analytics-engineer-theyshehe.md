@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Data Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000146501040-data-analytics-engineer-theyshehe) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000149557354-data-analytics-engineer-theyshehe) |
 
 ## About This Role
 
-This data engineer position at Delivery Hero was posted on 2026-08-31.
+This data engineer position at Delivery Hero was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

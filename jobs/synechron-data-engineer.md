@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Novi Sad, Vojvodina, Serbia |
 | Category | Data Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---Thanissandra-BCIT/Data-Engineer_JR1042535-4) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Novi-Sad/Data-Engineer_JR1044246) |
 
 ## About This Role
 
-This data engineer position at Synechron was posted on 2026-08-31.
+This data engineer position at Synechron was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

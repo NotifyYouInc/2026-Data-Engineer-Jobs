@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | McLean, Virginia, United States |
-| Category | DevOps Engineer |
+| Category | Data Engineer |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Databricks-Platform-Engineer_R0249295) |
 
 ## About This Role
 
-This devops engineer position at Booz Allen was posted on 2026-09-11.
+This data engineer position at Booz Allen was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

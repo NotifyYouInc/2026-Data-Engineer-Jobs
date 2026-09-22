@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
-| Category | Data Analyst |
+| Category | Data Engineer |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/ARG---Buenos-Aires---Alem/Python-Analytics-Developer_J00178552) |
 
 ## About This Role
 
-This data analyst position at Equifax was posted on 2026-09-11.
+This data engineer position at Equifax was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

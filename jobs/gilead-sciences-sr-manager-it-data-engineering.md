@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gilead Sciences](https://scoutify.ai/companies/gilead-sciences?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | Foster City, California, United States |
 | Category | Data Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---North-Carolina---Raleigh/Sr-Manager--IT-Data-Engineering_R0054145-1) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Sr-Manager--IT-Data-Engineering_R0055146-1) |
 
 ## About This Role
 
-This data engineer position at Gilead Sciences was posted on 2026-08-18.
+This data engineer position at Gilead Sciences was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

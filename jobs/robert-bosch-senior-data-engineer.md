@@ -1,16 +1,16 @@
-# Senior Data Engineer at Robert Bosch
+# Senior data engineer at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Batu Kawan, Penang, Malaysia |
+| Location | Budapest, Budapest, Hungary |
 | Category | Data Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000147397261-senior-data-engineer) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000149327575-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Robert Bosch was posted on 2026-09-04.
+This data engineer position at Robert Bosch was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

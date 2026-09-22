@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kpler](https://scoutify.ai/companies/kpler?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Athens, Attica, Greece |
+| Location | Colombia |
 | Category | Data Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.lever.co/kpler/02d6b081-e8d5-4e34-bb97-7cb2bece23f2) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.lever.co/kpler/3d3266a4-502f-4220-ad91-a92b739c69f5) |
 
 ## About This Role
 
-This data engineer position at Kpler was posted on 2026-06-22.
+This data engineer position at Kpler was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

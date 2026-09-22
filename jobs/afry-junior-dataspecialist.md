@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AFRY](https://scoutify.ai/companies/afry?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Örnsköldsvik, Västernorrland, Sweden |
-| Category | Data Analyst |
+| Category | Data Engineer |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000149304159-junior-dataspecialist) |
 
 ## About This Role
 
-This data analyst position at AFRY was posted on 2026-09-14.
+This data engineer position at AFRY was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

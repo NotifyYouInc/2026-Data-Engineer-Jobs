@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bellevue, Washington, United States |
-| Category | Data Analyst |
+| Category | Data Engineer |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://www.amazon.jobs/en/jobs/10538381/sr-business-intelligence-engineer-iii-scot-long-term-planning-and-forecasting) |
 
 ## About This Role
 
-This data analyst position at Amazon was posted on 2026-09-14.
+This data engineer position at Amazon was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

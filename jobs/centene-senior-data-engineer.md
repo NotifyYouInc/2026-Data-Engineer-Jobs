@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Iowa, US |
+| Location | Missouri, US |
 | Category | Data Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-IA/Senior-Data-Engineer_1638908) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Senior-Data-Engineer_1655647) |
 
 ## About This Role
 
-This data engineer position at Centene was posted on 2026-05-07.
+This data engineer position at Centene was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

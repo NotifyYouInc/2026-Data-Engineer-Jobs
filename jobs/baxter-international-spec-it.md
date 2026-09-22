@@ -1,16 +1,16 @@
-# Spec, IT at Baxter International
+# Spec IT at Baxter International
 
 | Field | Details |
 |-------|---------|
 | Company | [Baxter International](https://scoutify.ai/companies/baxter-international?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/Bangalore-Karnataka/Spec--IT_JR-204358) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/Bangalore-Karnataka/Spec-IT_JR-199400-1) |
 
 ## About This Role
 
-This data engineer position at Baxter International was posted on 2026-07-08.
+This data engineer position at Baxter International was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

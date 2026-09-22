@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Alpharetta, Georgia, United States |
 | Category | Data Engineer |
-| Posted | 2026-08-08 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/ATLANTA-GEORGIA/Data-Engineer_R0073513-1) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/ALPHARETTA-GEORGIA/Data-Engineer_R0074709) |
 
 ## About This Role
 
-This data engineer position at Global Payments was posted on 2026-08-08.
+This data engineer position at Global Payments was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

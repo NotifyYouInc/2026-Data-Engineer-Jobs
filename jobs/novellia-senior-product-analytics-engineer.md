@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Novellia](https://scoutify.ai/companies/novellia?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | New York City, New York, United States |
-| Category | Data Analyst |
+| Category | Data Engineer |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/novellia/e531b43e-c947-4d9e-b971-298b277192e1) |
 
 ## About This Role
 
-This data analyst position at Novellia was posted on 2026-09-11.
+This data engineer position at Novellia was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

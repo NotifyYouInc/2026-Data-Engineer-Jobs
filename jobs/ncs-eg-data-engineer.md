@@ -1,16 +1,16 @@
-# #EG Data Engineer  at NCS
+# #EG Data Engineer at NCS
 
 | Field | Details |
 |-------|---------|
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001086412-eg-data-engineer) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001407353-eg-data-engineer) |
 
 ## About This Role
 
-This data engineer position at NCS was posted on 2026-05-19.
+This data engineer position at NCS was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bacardi](https://scoutify.ai/companies/bacardi?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | Data Analyst |
+| Category | Data Engineer |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://bacardi.wd3.myworkdayjobs.com/jobs_bacardi/job/Manila/Senior-Analyst--Senior-SAP-BI-Developer_R26_01591-1) |
 
 ## About This Role
 
-This data analyst position at Bacardi was posted on 2026-09-11.
+This data engineer position at Bacardi was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

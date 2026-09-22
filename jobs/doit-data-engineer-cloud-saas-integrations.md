@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [DoiT](https://scoutify.ai/companies/doit?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Estonia |
+| Location | Sweden |
 | Category | Data Engineer |
 | Posted | 2026-09-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/doitintl/jobs/7990927003) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/doitintl/jobs/7990923003) |
 
 ## About This Role
 

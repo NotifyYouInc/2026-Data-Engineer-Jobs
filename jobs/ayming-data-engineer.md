@@ -1,16 +1,16 @@
-# Data Engineer at Ayming
+# Data Engineer  at Ayming
 
 | Field | Details |
 |-------|---------|
 | Company | [Ayming](https://scoutify.ai/companies/ayming?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Portugal |
 | Category | Data Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ayming/744000124952629-data-engineer) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ayming/744000149547349-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Ayming was posted on 2026-05-06.
+This data engineer position at Ayming was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 4 locations |
-| Category | Software Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Lead-Cloud-Data-Engineer_R-0010397) |
+| Category | Data Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Lead-Cloud-Data-Engineer_R-0013012) |
 
 ## About This Role
 
-This software engineer position at Raymond James Financial was posted on 2026-04-02.
+This data engineer position at Raymond James Financial was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

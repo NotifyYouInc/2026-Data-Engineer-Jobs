@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AmaliTech](https://scoutify.ai/companies/amalitech?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 3 locations |
-| Category | Data Analyst |
+| Category | Data Engineer |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/amalitech/744000148965489-senior-bi-developer-oracle-analytics-cloud) |
 
 ## About This Role
 
-This data analyst position at AmaliTech was posted on 2026-09-11.
+This data engineer position at AmaliTech was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

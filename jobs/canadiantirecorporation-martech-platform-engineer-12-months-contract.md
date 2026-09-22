@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Canadiantirecorporation](https://scoutify.ai/companies/canadiantirecorporation?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Data Engineer |
-| Posted | 2026-06-19 |
+| Category | Marketing Operations |
+| Posted | 2026-09-14 |
 | Apply | [View on company site](https://canadiantirecorporation.wd3.myworkdayjobs.com/enterprise_external_careers_site/job/Toronto-ON/Martech-Platform-Engineer---12--Months-Contract_JR160816) |
 
 ## About This Role
 
-This data engineer position at Canadiantirecorporation was posted on 2026-06-19.
+This marketing operations position at Canadiantirecorporation was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

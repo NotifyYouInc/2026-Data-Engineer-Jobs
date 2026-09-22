@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vattenfall](https://scoutify.ai/companies/vattenfall?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
-| Category | Data Analyst |
+| Category | Data Engineer |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000149249499-analytics-engineer) |
 
 ## About This Role
 
-This data analyst position at Vattenfall was posted on 2026-09-14.
+This data engineer position at Vattenfall was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

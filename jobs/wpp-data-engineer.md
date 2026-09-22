@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WPP](https://scoutify.ai/companies/wpp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Data Engineer |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wpp/jobs/8764210002) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wpp/jobs/8799854002) |
 
 ## About This Role
 
-This data engineer position at WPP was posted on 2026-09-07.
+This data engineer position at WPP was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 
