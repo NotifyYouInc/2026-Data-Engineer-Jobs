@@ -5,12 +5,12 @@
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Data Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ebury/jobs/4952390101) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ebury/jobs/4977272101) |
 
 ## About This Role
 
-This data engineer position at Ebury was posted on 2026-08-13.
+This data engineer position at Ebury was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

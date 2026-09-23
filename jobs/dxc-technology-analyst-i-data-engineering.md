@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Rome, Lazio, Italy |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ITA---RM---ROME/Analyst-I-Data-Engineering_51583557) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---AP---HYDERABAD/Analyst-I-Data-Engineering_51581288) |
 
 ## About This Role
 
-This data engineer position at DXC Technology was posted on 2026-06-25.
+This data engineer position at DXC Technology was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

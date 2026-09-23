@@ -1,16 +1,16 @@
-# (Senior) Data Engineer (m/f/d) at A11 
+# Senior Data Engineer (m/f/d) at A11 
 
 | Field | Details |
 |-------|---------|
-| Company | [A11 ](https://scoutify.ai/companies/a11-?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
+| Company | [A11 ](https://scoutify.ai/companies/a11?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Data Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8426636002) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8800469002) |
 
 ## About This Role
 
-This data engineer position at A11  was posted on 2026-04-22.
+This data engineer position at A11  was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

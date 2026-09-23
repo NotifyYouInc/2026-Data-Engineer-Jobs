@@ -5,12 +5,12 @@
 | Company | [Payjoy](https://scoutify.ai/companies/payjoy?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Data Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.lever.co/payjoy/92c843bd-b493-4967-9692-40304c1d36df) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.lever.co/payjoy/eec98985-c36f-4cc7-894e-675811d67bef) |
 
 ## About This Role
 
-This data engineer position at Payjoy was posted on 2026-04-23.
+This data engineer position at Payjoy was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Data Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Montreal-Canada/Senior-Data-Engineering-Specialist_PT-JR036132) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Montreal-Canada/Senior-Data-Engineering-Specialist--Hybrid-_PT-JR043432) |
 
 ## About This Role
 
-This data engineer position at Morgan Stanley was posted on 2026-05-12.
+This data engineer position at Morgan Stanley was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

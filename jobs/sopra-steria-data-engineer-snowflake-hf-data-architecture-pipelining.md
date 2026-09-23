@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Limonest, Rhône-Alpes, France |
+| Location | Courbevoie, Île-de-France, France |
 | Category | Data Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000135458491-data-engineer-snowflake-hf-data-architecture-pipelining) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000149606434-data-engineer-snowflake-hf-data-architecture-pipelining) |
 
 ## About This Role
 
-This data engineer position at Sopra Steria was posted on 2026-07-02.
+This data engineer position at Sopra Steria was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

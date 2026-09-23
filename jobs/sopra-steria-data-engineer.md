@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Nieuwegein, Utrecht, The Netherlands |
 | Category | Data Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000143477839-data-engineer) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000149842525-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Sopra Steria was posted on 2026-08-14.
+This data engineer position at Sopra Steria was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

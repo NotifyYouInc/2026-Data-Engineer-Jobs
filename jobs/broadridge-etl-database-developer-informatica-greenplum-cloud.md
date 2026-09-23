@@ -5,12 +5,12 @@
 | Company | [Broadridge](https://scoutify.ai/companies/broadridge?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Hyderabad-Hi-Tec-City/ETL---Database-Developer--Informatica---Greenplum---Cloud-_JR1084281) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Hyderabad-Hi-Tec-City/ETL---Database-Developer--Informatica---Greenplum---Cloud-_JR1084280) |
 
 ## About This Role
 
-This data engineer position at Broadridge was posted on 2026-09-09.
+This data engineer position at Broadridge was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

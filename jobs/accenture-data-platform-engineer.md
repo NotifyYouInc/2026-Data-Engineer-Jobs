@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Santiago/Data-Platform-Engineer_14716343-1) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Data-Platform-Engineer_ATCI-5478781-S2068448-1) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-09-11.
+This data engineer position at Accenture was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 
