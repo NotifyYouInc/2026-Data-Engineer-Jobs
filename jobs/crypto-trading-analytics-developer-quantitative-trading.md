@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crypto](https://scoutify.ai/companies/crypto?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Quant Developer |
+| Location | Chicago, Illinois, United States |
+| Category | Data Engineer |
 | Posted | 2026-09-15 |
-| Apply | [View on company site](https://jobs.lever.co/crypto/0c856e71-a38e-444d-9265-c24d4d49a413) |
+| Apply | [View on company site](https://jobs.lever.co/crypto/bd4c7626-c095-452a-a865-7cfe5214485b) |
 
 ## About This Role
 
-This quant developer position at Crypto was posted on 2026-09-15.
+This data engineer position at Crypto was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Data Engineer |
-| Posted | 2026-06-11 |
+| Category | Strategy & Operations |
+| Posted | 2026-09-16 |
 | Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Mexico---Mexico-City/Manager---Data-Strategy---Management_4955629) |
 
 ## About This Role
 
-This data engineer position at Pfizer was posted on 2026-06-11.
+This strategy & operations position at Pfizer was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

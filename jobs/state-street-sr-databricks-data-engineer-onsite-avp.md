@@ -1,16 +1,16 @@
-# Sr. Databricks Data Engineer, Onsite, AVP at State Street
+# Sr. Databricks Data Engineer, Onsite AVP at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Toronto, Ontario, Canada |
 | Category | Data Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Sr-Databricks-Data-Engineer--Onsite--AVP_R-789489) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Sr-Databricks-Data-Engineer--Onsite-AVP_R-786175) |
 
 ## About This Role
 
-This data engineer position at State Street was posted on 2026-05-07.
+This data engineer position at State Street was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

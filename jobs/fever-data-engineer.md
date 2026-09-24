@@ -1,16 +1,16 @@
-# Data Engineer  at Fever
+# Data Engineer at Fever
 
 | Field | Details |
 |-------|---------|
 | Company | [Fever](https://scoutify.ai/companies/fever?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Barcelona, Catalonia, Spain |
-| Category | Software Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/feverup/jobs/4804374101) |
+| Location | Argentina |
+| Category | Data Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/feverup/jobs/4375992101) |
 
 ## About This Role
 
-This software engineer position at Fever was posted on 2026-03-10.
+This data engineer position at Fever was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regeneron](https://scoutify.ai/companies/regeneron?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | New York, US |
+| Location | Limerick, Munster, Ireland |
 | Category | Data Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://regeneron.wd1.myworkdayjobs.com/Careers/job/RENSS---GLOBAL-VIEW/Principal-Data-Engineer_R46410) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://regeneron.wd1.myworkdayjobs.com/Careers/job/Limerick/Principal--Data-Engineer_R43097) |
 
 ## About This Role
 
-This data engineer position at Regeneron was posted on 2026-04-20.
+This data engineer position at Regeneron was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

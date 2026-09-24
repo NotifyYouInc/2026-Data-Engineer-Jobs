@@ -5,12 +5,12 @@
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ebury/jobs/4975549101) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ebury/jobs/4976240101) |
 
 ## About This Role
 
-This data engineer position at Ebury was posted on 2026-09-14.
+This data engineer position at Ebury was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

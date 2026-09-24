@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leonardocompany](https://scoutify.ai/companies/leonardocompany?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Edinburgh, Scotland, United Kingdom |
+| Location | Yeovil, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/GB---Edinburgh/Data-Engineer_R0029101-1) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/GB---Yeovil---Lysander-Rd/Data-Engineer_R0032520-1) |
 
 ## About This Role
 
-This data engineer position at Leonardocompany was posted on 2026-06-04.
+This data engineer position at Leonardocompany was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

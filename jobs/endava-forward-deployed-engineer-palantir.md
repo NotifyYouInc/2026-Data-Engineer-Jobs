@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
-| Category | Software Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000133992235-forward-deployed-engineer-palantir) |
+| Category | Data Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000149955399-forward-deployed-engineer-palantir) |
 
 ## About This Role
 
-This software engineer position at Endava was posted on 2026-06-24.
+This data engineer position at Endava was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

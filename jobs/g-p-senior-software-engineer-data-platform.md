@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [G-P](https://scoutify.ai/companies/g-p?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/globalizationpartners/jobs/7698156003) |
+| Location | Poland |
+| Category | Data Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/globalizationpartners/jobs/7997999003) |
 
 ## About This Role
 
-This software engineer position at G-P was posted on 2026-04-21.
+This data engineer position at G-P was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

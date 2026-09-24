@@ -5,12 +5,12 @@
 | Company | [About You](https://scoutify.ai/companies/aboutyou?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hamburg, Hamburg, Germany |
 | Category | Data Engineer |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000148276854-analytics-engineer-all-genders-supply-data-solutions) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000150021709-analytics-engineer-all-genders-supply-data-solutions) |
 
 ## About This Role
 
-This data engineer position at About You was posted on 2026-09-08.
+This data engineer position at About You was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

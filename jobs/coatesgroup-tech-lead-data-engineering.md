@@ -5,12 +5,12 @@
 | Company | [Coatesgroup](https://scoutify.ai/companies/coatesgroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Data Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.lever.co/coatesgroup/4c16e06c-ea3d-49e6-8ece-4ea33e286aa6) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.lever.co/coatesgroup/a8ec2fd8-8435-4f5a-95cd-8c5842db351c) |
 
 ## About This Role
 
-This data engineer position at Coatesgroup was posted on 2026-08-26.
+This data engineer position at Coatesgroup was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/ETL-Abinitio-Developer_26956382) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/ETL-Abinitio-Developer_26994623) |
 
 ## About This Role
 
-This data engineer position at Citigroup was posted on 2026-06-10.
+This data engineer position at Citigroup was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

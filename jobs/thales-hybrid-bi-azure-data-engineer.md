@@ -5,12 +5,12 @@
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
 | Category | Data Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Jakarta/Hybrid-BI---Azure-Data-Engineer_R0337438) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Jakarta/Hybrid-BI---Azure-Data-Engineer_R0340108) |
 
 ## About This Role
 
-This data engineer position at Thales was posted on 2026-08-20.
+This data engineer position at Thales was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

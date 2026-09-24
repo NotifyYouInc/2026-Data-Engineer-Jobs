@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Wallingford, Connecticut, United States |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/CT-WALLINGFORD-108-LEIGUS-RD-1ST-FL/XMLNAME--Senior-Business-Intelligence-and-Reporting-Engineer_JR189765) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/XMLNAME--Senior-Business-Intelligence-and-Reporting-Engineer_JR207413) |
 
 ## About This Role
 
-This data engineer position at Elevance Health was posted on 2026-06-16.
+This data engineer position at Elevance Health was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

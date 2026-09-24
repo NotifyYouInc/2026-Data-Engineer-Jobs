@@ -5,12 +5,12 @@
 | Company | [Ethos Life](https://scoutify.ai/companies/ethos-life?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ethoslife/jobs/8529404002) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ethoslife/jobs/8815211002) |
 
 ## About This Role
 
-This data engineer position at Ethos Life was posted on 2026-05-19.
+This data engineer position at Ethos Life was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

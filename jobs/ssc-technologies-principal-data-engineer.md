@@ -5,12 +5,12 @@
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Waltham, Massachusetts, United States |
 | Category | Data Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Waltham-MA/Principal-Data-Engineer_R43237) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Waltham-MA---10-CityPoint/Principal-Data-Engineer_R43984) |
 
 ## About This Role
 
-This data engineer position at SS&C Technologies was posted on 2026-05-14.
+This data engineer position at SS&C Technologies was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 
