@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Panama |
+| Location | Moscow, Moscow, Russia |
 | Category | Data Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/PANAMA-BUSINESS-CENTER/Data-Engineer-Intern_R000150900) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/Moscow/Data-Engineer-Intern_R000159290) |
 
 ## About This Role
 
-This data engineer position at Procter & Gamble was posted on 2026-05-22.
+This data engineer position at Procter & Gamble was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

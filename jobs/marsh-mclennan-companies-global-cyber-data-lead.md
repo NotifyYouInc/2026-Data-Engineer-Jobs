@@ -5,12 +5,12 @@
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Data Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Dublin---Frame/Global-Cyber-Data-Lead_R_365280) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Dublin---Frame/Global-Cyber-Data-Lead_R_365382) |
 
 ## About This Role
 
-This data engineer position at Marsh & McLennan Companies was posted on 2026-09-09.
+This data engineer position at Marsh & McLennan Companies was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

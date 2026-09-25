@@ -5,12 +5,12 @@
 | Company | [TechVedika](https://scoutify.ai/companies/techvedika?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/techvedika/744000143467004-google-data-engineer) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/techvedika/744000150060439-google-data-engineer) |
 
 ## About This Role
 
-This data engineer position at TechVedika was posted on 2026-08-14.
+This data engineer position at TechVedika was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

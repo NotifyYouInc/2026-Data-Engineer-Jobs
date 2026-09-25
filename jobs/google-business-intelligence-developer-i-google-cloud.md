@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Data Engineer |
+| Category | Data Analyst |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckR4G286f-QLuNWYiLAWyRtsILBeaw_uCHB98igG6D3GHEjsA9yzvgtrk3Bv0b4nTSCslpgWRiL95L1HhvEr2dkfUM5oh-2jTfcz0QowOSQ8xhJgEPrS4jN3brZhtHg%3D%3D_V2&loc=MX&title=Business+Intelligence+Developer+I) |
 
 ## About This Role
 
-This data engineer position at Google was posted on 2026-09-15.
+This data analyst position at Google was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

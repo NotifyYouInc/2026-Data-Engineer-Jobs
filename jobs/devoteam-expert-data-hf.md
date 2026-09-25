@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Casablanca, Casablanca-Settat, Morocco |
 | Category | Data Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000143844410-expert-data-hf) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000150336121-expert-data-hf) |
 
 ## About This Role
 
-This data engineer position at Devoteam was posted on 2026-08-17.
+This data engineer position at Devoteam was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

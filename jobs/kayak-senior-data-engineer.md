@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kayak](https://scoutify.ai/companies/kayak?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Concord, California, United States |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Data Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/kayak/d90e28af-5ad0-4388-9d8b-a0ad8d7eb747) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/kayak/2063db99-2a6c-415c-b8d1-8f6e358c6942) |
 
 ## About This Role
 
-This data engineer position at Kayak was posted on 2026-05-08.
+This data engineer position at Kayak was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

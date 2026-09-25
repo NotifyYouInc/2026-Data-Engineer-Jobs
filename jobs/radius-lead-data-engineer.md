@@ -5,12 +5,12 @@
 | Company | [Radius](https://scoutify.ai/companies/radius?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Crewe, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RadiusLimited/744000138867166-lead-data-engineer) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RadiusLimited/744000150084130-lead-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Radius was posted on 2026-07-21.
+This data engineer position at Radius was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

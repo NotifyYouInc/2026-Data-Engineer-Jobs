@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Seoul, Seoul, South Korea |
-| Category | Data Engineer |
+| Category | Data Analyst |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8172658) |
 
 ## About This Role
 
-This data engineer position at Coupang was posted on 2026-09-16.
+This data analyst position at Coupang was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

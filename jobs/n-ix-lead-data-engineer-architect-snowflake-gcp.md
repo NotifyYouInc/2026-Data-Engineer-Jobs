@@ -5,12 +5,12 @@
 | Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Colombia |
 | Category | Data Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://careers.n-ix.com/jobs/4945856101?gh_jid=4945856101) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://careers.n-ix.com/jobs/4976749101?gh_jid=4976749101) |
 
 ## About This Role
 
-This data engineer position at N-iX was posted on 2026-08-13.
+This data engineer position at N-iX was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

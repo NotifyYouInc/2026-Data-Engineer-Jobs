@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vattenfall](https://scoutify.ai/companies/vattenfall?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Luleå, Norrbotten, Sweden |
-| Category | Data Engineer |
+| Category | Data Analyst |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000149778499-international-trainee-hydro-power-optimisation-and-data-analytics-engineer) |
 
 ## About This Role
 
-This data engineer position at Vattenfall was posted on 2026-09-16.
+This data analyst position at Vattenfall was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

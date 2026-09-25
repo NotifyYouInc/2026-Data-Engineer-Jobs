@@ -5,12 +5,12 @@
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Data Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000146793654-lead-backend-data-engineer) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000150208679-lead-backend-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Blend360 was posted on 2026-09-01.
+This data engineer position at Blend360 was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 
