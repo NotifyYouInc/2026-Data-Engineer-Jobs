@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Lyon, Rhône-Alpes, France |
 | Category | Data Engineer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000149664050-data-engineer-hf) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000150413920-data-engineer-hf) |
 
 ## About This Role
 
-This data engineer position at Nexton was posted on 2026-09-15.
+This data engineer position at Nexton was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

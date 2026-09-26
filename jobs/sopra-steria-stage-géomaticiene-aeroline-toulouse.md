@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Colomiers, Occitanie, France |
-| Category | Data Engineer |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000149786796-stage-geomaticiene-aeroline-toulouse) |
 
 ## About This Role
 
-This data engineer position at Sopra Steria was posted on 2026-09-16.
+This technology / it consulting position at Sopra Steria was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

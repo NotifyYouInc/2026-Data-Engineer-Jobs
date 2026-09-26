@@ -5,12 +5,12 @@
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Data Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Sao-Paulo---EZTowers/Specialist---Data-Engineering_R_343903) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Sao-Paulo---EZTowers/Specialist---Data-Engineering_R_362312) |
 
 ## About This Role
 
-This data engineer position at Marsh & McLennan Companies was posted on 2026-04-17.
+This data engineer position at Marsh & McLennan Companies was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

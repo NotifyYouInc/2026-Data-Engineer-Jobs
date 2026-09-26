@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000141685199-senior-data-engineer-ii-scalable-growth) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000150419294-senior-data-engineer-ii-scalable-growth) |
 
 ## About This Role
 
-This data engineer position at WISE was posted on 2026-08-05.
+This data engineer position at WISE was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

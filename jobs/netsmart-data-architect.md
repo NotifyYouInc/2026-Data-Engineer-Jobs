@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Netsmart](https://scoutify.ai/companies/ntst?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-15 |
+| Category | Data Engineer |
+| Posted | 2026-09-18 |
 | Apply | [View on company site](https://ntst.wd1.myworkdayjobs.com/careers/job/Bengaluru-India/Data-Architect_R014693) |
 
 ## About This Role
 
-This technical & solutions architect position at Netsmart was posted on 2026-04-15.
+This data engineer position at Netsmart was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

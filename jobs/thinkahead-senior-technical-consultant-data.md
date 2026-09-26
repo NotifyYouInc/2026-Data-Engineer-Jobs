@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thinkahead](https://scoutify.ai/companies/thinkahead?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | India |
-| Category | Data Engineer |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-18 |
 | Apply | [View on company site](https://jobs.lever.co/thinkahead/34c87239-1673-490a-ae90-eee5053dfb04) |
 
 ## About This Role
 
-This data engineer position at Thinkahead was posted on 2026-09-18.
+This technology / it consulting position at Thinkahead was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

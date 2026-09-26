@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Taichung, Taiwan, Taiwan |
-| Category | Data Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---MTB-Taiwan/MTB-Operations-Intelligence-Engineer--FY27-NCG-_JR111617) |
 
 ## About This Role
 
-This data engineer position at Micron was posted on 2026-09-16.
+This industrial automation position at Micron was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

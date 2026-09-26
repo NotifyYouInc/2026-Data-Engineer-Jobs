@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fueled](https://scoutify.ai/companies/fueled?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Canada |
+| Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/fueledcareers/jobs/5175846008) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/fueledcareers/jobs/5428714008) |
 
 ## About This Role
 
-This data engineer position at Fueled was posted on 2026-04-06.
+This data engineer position at Fueled was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

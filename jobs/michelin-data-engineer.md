@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Michelin](https://scoutify.ai/companies/michelinhr?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Sri Lanka |
+| Location | Greenville, North Carolina, United States |
 | Category | Data Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Kotugoda/Data-Engineer_R-2026028539) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/GREENVILLE-SC/Data-Engineer_R-2026032949) |
 
 ## About This Role
 
-This data engineer position at Michelin was posted on 2026-07-20.
+This data engineer position at Michelin was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

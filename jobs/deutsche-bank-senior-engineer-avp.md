@@ -1,16 +1,16 @@
-# Senior Engineer, AVP at Deutsche Bank
+# Senior Engineer - AVP at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Margarpatta/Senior-Engineer--AVP_R0421186) |
+| Category | Data Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/Senior-Engineer---AVP_R0449226) |
 
 ## About This Role
 
-This frontend engineer position at Deutsche Bank was posted on 2026-03-02.
+This data engineer position at Deutsche Bank was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

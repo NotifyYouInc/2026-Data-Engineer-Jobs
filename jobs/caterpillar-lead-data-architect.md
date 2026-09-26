@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | East Peoria, Illinois, United States |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Lead-Data-Architect_R0000389027) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Lead-Data-Architect_R0000393800) |
 
 ## About This Role
 
-This data engineer position at Caterpillar was posted on 2026-08-24.
+This data engineer position at Caterpillar was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

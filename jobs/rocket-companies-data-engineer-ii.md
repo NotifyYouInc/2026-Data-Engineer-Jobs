@@ -5,12 +5,12 @@
 | Company | [Rocket Companies](https://scoutify.ai/companies/quickenloans?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Data Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Data-Engineer-II_R-083660) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Data-Engineer-II_R-084664) |
 
 ## About This Role
 
-This data engineer position at Rocket Companies was posted on 2026-07-09.
+This data engineer position at Rocket Companies was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

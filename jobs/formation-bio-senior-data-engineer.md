@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Formation Bio](https://scoutify.ai/companies/formation-bio?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Data Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/formationbio/jobs/7757823) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/formationbio/jobs/8213713) |
 
 ## About This Role
 
-This data engineer position at Formation Bio was posted on 2026-04-08.
+This data engineer position at Formation Bio was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

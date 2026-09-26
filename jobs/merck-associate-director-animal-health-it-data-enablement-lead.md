@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Prague, Prague, Czechia |
-| Category | Data Engineer |
+| Category | Learning & Development |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CZE---Central-Bohemian---Prague-IT-Riverview/Associate-Director--Animal-Health-IT--Data-Enablement-Lead_R406350-2) |
 
 ## About This Role
 
-This data engineer position at Merck was posted on 2026-09-17.
+This learning & development position at Merck was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

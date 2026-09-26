@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Software Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000144020820-c3c-senior-python-engineer) |
+| Category | Data Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000150367759-c3c-senior-python-engineer) |
 
 ## About This Role
 
-This software engineer position at Software Mind was posted on 2026-08-18.
+This data engineer position at Software Mind was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

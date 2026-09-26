@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
-| Category | Data Engineer |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000149854529-squad-leader-data-fh) |
 
 ## About This Role
 
-This data engineer position at Devoteam was posted on 2026-09-16.
+This technology / it consulting position at Devoteam was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Crusoe](https://scoutify.ai/companies/crusoe?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Denver, Colorado, United States |
-| Category | Data Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/crusoe/0403cd2a-1e93-40b3-b686-948e81cd229b) |
 
 ## About This Role
 
-This data engineer position at Crusoe was posted on 2026-09-16.
+This industrial automation position at Crusoe was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

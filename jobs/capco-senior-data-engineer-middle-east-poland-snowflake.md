@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | Poland |
-| Category | Data Engineer |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-18 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8213218) |
 
 ## About This Role
 
-This data engineer position at Capco was posted on 2026-09-18.
+This technology / it consulting position at Capco was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | Florham Park, New Jersey, United States |
+| Location | North Chicago, Illinois, United States |
 | Category | Data Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014134426-system-design-analyst-ii-hybrid) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990015377730-system-design-analyst-ii-hybrid) |
 
 ## About This Role
 
-This data engineer position at AbbVie was posted on 2026-07-16.
+This data engineer position at AbbVie was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

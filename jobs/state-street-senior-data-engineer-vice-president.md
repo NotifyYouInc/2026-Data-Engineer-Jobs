@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Software Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/Senior-Data-Engineer--Vice-President_R-784662) |
+| Location | Boston, Massachusetts, United States |
+| Category | Data Engineer |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Senior-Data-Engineer--Vice-President_R-784662) |
 
 ## About This Role
 
-This software engineer position at State Street was posted on 2026-03-02.
+This data engineer position at State Street was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

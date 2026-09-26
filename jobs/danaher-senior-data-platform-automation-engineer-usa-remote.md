@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=data-engineer-jobs) |
 | Location | United States |
-| Category | Data Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/USA---Remote/Senior-Data-Platform-Automation-Engineer---USA-Remote_R1318726) |
 
 ## About This Role
 
-This data engineer position at Danaher was posted on 2026-09-16.
+This industrial automation position at Danaher was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 
